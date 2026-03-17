@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772561223119,
+  "carID": 144813,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260303 120706365",
+  "datetimezone": "20260303 180701312-0600",
+  "frame_timestamp": 1772561223119,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303180701_574552lp_RNY306B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303180701_574552.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303180701_574552lp_RNY306B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNY306B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    891,
+    120,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNY306B",
+  "plateUnicode": "RNY306B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772561223119,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.977888107299805,
+    "coordinates": [
+      556,
+      0,
+      796,
+      264
+    ],
+    "model": "E-Class/E-Class AMG",
+    "type": "CAR"
+  }
+}

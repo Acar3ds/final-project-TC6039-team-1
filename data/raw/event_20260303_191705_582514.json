@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772565403903,
+  "carID": 145009,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260303 131647947",
+  "datetimezone": "20260303 191642889-0600",
+  "frame_timestamp": 1772565403903,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303191643_176631lp_SSX355B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303191643_176631.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303191643_176631lp_SSX355B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSX355B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    876,
+    84,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSX355B",
+  "plateUnicode": "SSX355B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772565403903,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.444803237915039,
+    "coordinates": [
+      552,
+      0,
+      736,
+      242
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}
