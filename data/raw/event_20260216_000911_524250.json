@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "SWE"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771200535542,
+  "carID": 105422,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 180856618",
+  "datetimezone": "20260216 000851561-0600",
+  "frame_timestamp": 1771200535542,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216000851_724691lp_DLM008.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216000851_724691.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216000851_724691lp_DLM008.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DLM008",
+  "plateConfidence": 0.8541666865348816,
+  "plateCoordinates": [
+    939,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "SWE",
+  "plateText": "DLM008",
+  "plateUnicode": "DLM008",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771200535542,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.584810256958008,
+    "coordinates": [
+      612,
+      0,
+      780,
+      254
+    ],
+    "model": "Range Rover Velar",
+    "type": "SUV"
+  }
+}

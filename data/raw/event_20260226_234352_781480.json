@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772149412353,
+  "carID": 133614,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 174336663",
+  "datetimezone": "20260226 234331614-0600",
+  "frame_timestamp": 1772149412353,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260226234331_826314lp_FP8915C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260226234331_826314.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260226234331_826314lp_FP8915C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FP8915C",
+  "plateConfidence": 0.8169642686843872,
+  "plateCoordinates": [
+    1110,
+    186,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "ESP",
+  "plateText": "FP8915C",
+  "plateUnicode": "FP8915C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772149412353,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.829030513763428,
+    "coordinates": [
+      628,
+      0,
+      1092,
+      464
+    ],
+    "model": "F-150",
+    "type": "PICKUPTRUCK"
+  }
+}

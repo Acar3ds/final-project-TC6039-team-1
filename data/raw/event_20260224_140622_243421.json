@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771941962283,
+  "carID": 126413,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 080606245",
+  "datetimezone": "20260224 140601182-0600",
+  "frame_timestamp": 1771941962283,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224140601_441730lp_TER099A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224140601_441730.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224140601_441730lp_TER099A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TER099A",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    969,
+    129,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TER099A",
+  "plateUnicode": "TER099A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771941962283,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.451061248779297,
+    "coordinates": [
+      660,
+      0,
+      732,
+      240
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

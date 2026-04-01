@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771597971753,
+  "carID": 117170,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 083256660",
+  "datetimezone": "20260220 143251613-0600",
+  "frame_timestamp": 1771597971753,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143251_855209lp_TDJ702A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143251_855209.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143251_855209lp_TDJ702A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDJ702A",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1386,
+    249,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDJ702A",
+  "plateUnicode": "TDJ702A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771597971753,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9897043704986572,
+    "coordinates": [
+      936,
+      0,
+      944,
+      404
+    ],
+    "model": "Edix",
+    "type": "VAN"
+  }
+}

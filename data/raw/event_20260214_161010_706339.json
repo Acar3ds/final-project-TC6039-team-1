@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771085391662,
+  "carID": 102532,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 100956107",
+  "datetimezone": "20260214 160951053-0600",
+  "frame_timestamp": 1771085391662,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214160951_323361lp_TED223A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214160951_323361.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214160951_323361lp_TED223A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TED223A",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    864,
+    90,
+    132,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TED223A",
+  "plateUnicode": "TED223A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771085391662,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.7835278511047363,
+    "coordinates": [
+      564,
+      2,
+      736,
+      262
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

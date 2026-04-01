@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772135442849,
+  "carID": 132857,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 135047734",
+  "datetimezone": "20260226 195042682-0600",
+  "frame_timestamp": 1772135442849,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226195042_919889lp_SSG063B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226195042_919889.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226195042_919889lp_SSG063B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSG063B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    972,
+    129,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSG063B",
+  "plateUnicode": "SSG063B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772135442849,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.999962568283081,
+    "coordinates": [
+      636,
+      0,
+      796,
+      284
+    ],
+    "model": "A4/A5/RS4/RS5/S4/S5",
+    "type": "CAR"
+  }
+}

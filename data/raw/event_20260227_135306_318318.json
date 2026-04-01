@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772200366984,
+  "carID": 134625,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 075250204",
+  "datetimezone": "20260227 135245157-0600",
+  "frame_timestamp": 1772200366984,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227133615_495332/20260227135245_396397lp_SWN551A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227133615_495332/20260227135245_396397.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227133615_495332/20260227135245_396397lp_SWN551A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWN551A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    927,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWN551A",
+  "plateUnicode": "SWN551A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772200366984,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.790555238723755,
+    "coordinates": [
+      620,
+      2,
+      732,
+      226
+    ],
+    "model": "Freed/Odyssey",
+    "type": "VAN"
+  }
+}

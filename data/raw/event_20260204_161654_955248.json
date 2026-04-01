@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770221797607,
+  "carID": 77811,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 101642509",
+  "datetimezone": "20260204 161637448-0600",
+  "frame_timestamp": 1770221797607,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204161637_684622lp_SSX244B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204161637_684622.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204161637_684622lp_SSX244B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSX244B",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1062,
+    129,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSX244B",
+  "plateUnicode": "SSX244B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770221797607,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6218382120132446,
+    "coordinates": [
+      704,
+      0,
+      844,
+      318
+    ],
+    "model": "Tiggo 3X Plus",
+    "type": "SUV"
+  }
+}

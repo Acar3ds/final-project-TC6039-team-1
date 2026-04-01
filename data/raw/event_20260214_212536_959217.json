@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771104317419,
+  "carID": 103339,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 152522316",
+  "datetimezone": "20260214 212517271-0600",
+  "frame_timestamp": 1771104317419,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212517_534334lp_XSC648Q.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212517_534334.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212517_534334lp_XSC648Q.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "XSC648C",
+  "plateConfidence": 0.7912946343421936,
+  "plateCoordinates": [
+    1020,
+    183,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "NLD",
+  "plateText": "XSC648C",
+  "plateUnicode": "XSC648C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771104317419,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1599011421203613,
+    "coordinates": [
+      664,
+      0,
+      820,
+      384
+    ],
+    "model": "Oroch/Duster",
+    "type": "PICKUPTRUCK"
+  }
+}

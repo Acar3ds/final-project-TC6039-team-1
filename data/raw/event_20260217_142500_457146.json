@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771338281280,
+  "carID": 108941,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 082445403",
+  "datetimezone": "20260217 142440359-0600",
+  "frame_timestamp": 1771338281280,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217135939_894647/20260217142440_605798lp_TCY352A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217135939_894647/20260217142440_605798.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217135939_894647/20260217142440_605798lp_TCY352A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCY352A",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    927,
+    99,
+    129,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "TCY352A",
+  "plateUnicode": "TCY352A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771338281280,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.151295185089111,
+    "coordinates": [
+      596,
+      0,
+      788,
+      266
+    ],
+    "model": "Corolla Cross",
+    "type": "SUV"
+  }
+}

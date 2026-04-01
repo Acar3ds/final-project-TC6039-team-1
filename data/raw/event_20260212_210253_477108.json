@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770930156266,
+  "carID": 97952,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 150239776",
+  "datetimezone": "20260212 210234723-0600",
+  "frame_timestamp": 1770930156266,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212210235_8161lp_SNW653B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212210235_8161.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212210235_8161lp_SNW653B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SNW653B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    945,
+    156,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SNW653B",
+  "plateUnicode": "SNW653B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770930156266,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5440874099731445,
+    "coordinates": [
+      628,
+      0,
+      768,
+      324
+    ],
+    "model": "Bolt/Bolt EV",
+    "type": "CAR"
+  }
+}

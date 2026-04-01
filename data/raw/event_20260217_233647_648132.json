@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771371388637,
+  "carID": 110467,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 173632597",
+  "datetimezone": "20260217 233627550-0600",
+  "frame_timestamp": 1771371388637,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217233627_802855lp_SLM375A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217233627_802855.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217233627_802855lp_SLM375A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLM375A",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    855,
+    105,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLM375A",
+  "plateUnicode": "SLM375A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771371388637,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.572890758514404,
+    "coordinates": [
+      532,
+      0,
+      780,
+      290
+    ],
+    "model": "Crossover/SX4",
+    "type": "SUV"
+  }
+}

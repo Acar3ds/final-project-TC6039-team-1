@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770853619242,
+  "carID": 95777,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 174704139",
+  "datetimezone": "20260211 234659079-0600",
+  "frame_timestamp": 1770853619242,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211234659_305465lp_SUC080A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211234659_305465.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211234659_305465lp_SUC080A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUC080A",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    810,
+    138,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUC080A",
+  "plateUnicode": "SUC080A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770853619242,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9994558095932007,
+    "coordinates": [
+      472,
+      0,
+      804,
+      264
+    ],
+    "model": "Mustang/Mustang Shelby GT350",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770483748729,
+  "carID": 85319,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 110232520",
+  "datetimezone": "20260207 170227476-0600",
+  "frame_timestamp": 1770483748729,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207163337_535222/20260207170227_743471lp_RMX601C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207163337_535222/20260207170227_743471.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207163337_535222/20260207170227_743471lp_RMX601C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMX601C",
+  "plateConfidence": 0.8258928656578064,
+  "plateCoordinates": [
+    930,
+    105,
+    126,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    54
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMX601C",
+  "plateUnicode": "RMX601C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770483748729,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7562804222106934,
+    "coordinates": [
+      604,
+      0,
+      784,
+      404
+    ],
+    "model": "Ioniq 5",
+    "type": "CAR"
+  }
+}

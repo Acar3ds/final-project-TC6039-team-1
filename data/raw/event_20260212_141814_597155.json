@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770905875869,
+  "carID": 96837,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 081800504",
+  "datetimezone": "20260212 141755440-0600",
+  "frame_timestamp": 1770905875869,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212141614_596345/20260212141755_699648lp_TFY545B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212141614_596345/20260212141755_699648.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212141614_596345/20260212141755_699648lp_TFY545B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFY545B",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    1104,
+    165,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFY545B",
+  "plateUnicode": "TFY545B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770905875869,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.846449375152588,
+    "coordinates": [
+      788,
+      2,
+      764,
+      298
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

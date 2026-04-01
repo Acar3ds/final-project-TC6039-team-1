@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770735072618,
+  "carID": 91632,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 085115507",
+  "datetimezone": "20260210 145110460-0600",
+  "frame_timestamp": 1770735072618,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210141938_318466/20260210145110_726215lp_P5512B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210141938_318466/20260210145110_726215.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210141938_318466/20260210145110_726215lp_P5512B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PN5512B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1251,
+    177,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PN5512B",
+  "plateUnicode": "PN5512B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770735072618,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.816683769226074,
+    "coordinates": [
+      924,
+      0,
+      748,
+      366
+    ],
+    "model": "Tourneo Custom/Transit Custom",
+    "type": "VAN"
+  }
+}

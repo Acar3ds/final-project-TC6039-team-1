@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771448868816,
+  "carID": 112820,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 150753720",
+  "datetimezone": "20260218 210748665-0600",
+  "frame_timestamp": 1771448868816,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218210748_929719lp_SYP280B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218210748_929719.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218210748_929719lp_SYP280B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYP280B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    969,
+    234,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYP280B",
+  "plateUnicode": "SYP280B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771448868816,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4691925048828125,
+    "coordinates": [
+      612,
+      0,
+      844,
+      368
+    ],
+    "model": "Altima",
+    "type": "CAR"
+  }
+}

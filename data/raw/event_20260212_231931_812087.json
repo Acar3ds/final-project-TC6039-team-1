@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770938353152,
+  "carID": 98331,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 171918063",
+  "datetimezone": "20260212 231913007-0600",
+  "frame_timestamp": 1770938353152,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212231913_257638lp_RZB492C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212231913_257638.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212231913_257638lp_RZB492C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZB492C",
+  "plateConfidence": 0.7868303656578064,
+  "plateCoordinates": [
+    1020,
+    153,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZB492C",
+  "plateUnicode": "RZB492C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770938353152,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9988707304000854,
+    "coordinates": [
+      680,
+      0,
+      812,
+      348
+    ],
+    "model": "Seltos/Sonet",
+    "type": "SUV"
+  }
+}

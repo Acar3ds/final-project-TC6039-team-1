@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771973624961,
+  "carID": 127940,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 165346397",
+  "datetimezone": "20260224 225341335-0600",
+  "frame_timestamp": 1771973624961,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224225341_619948lp_SZT931A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224225341_619948.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224225341_619948lp_SZT931A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZT931A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    984,
+    105,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZT931A",
+  "plateUnicode": "SZT931A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771973624961,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.858503341674805,
+    "coordinates": [
+      664,
+      0,
+      828,
+      290
+    ],
+    "model": "X3/X3 M",
+    "type": "SUV"
+  }
+}

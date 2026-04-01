@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770505790822,
+  "carID": 86293,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 170955546",
+  "datetimezone": "20260207 230950497-0600",
+  "frame_timestamp": 1770505790822,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207230950_761624lp_RVX950C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207230950_761624.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207230950_761624lp_RVX950C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVX950C",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1134,
+    129,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVX950C",
+  "plateUnicode": "RVX950C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770505790822,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.018955707550049,
+    "coordinates": [
+      768,
+      0,
+      848,
+      332
+    ],
+    "model": "X4/X4 M",
+    "type": "SUV"
+  }
+}

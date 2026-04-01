@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771873708114,
+  "carID": 124708,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 130833004",
+  "datetimezone": "20260223 190827957-0600",
+  "frame_timestamp": 1771873708114,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223181111_605281/20260223190828_197668lp_RZS325A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223181111_605281/20260223190828_197668.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223181111_605281/20260223190828_197668lp_RZS325A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZS325A",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    999,
+    246,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZS325A",
+  "plateUnicode": "RZS325A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771873708114,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.194246768951416,
+    "coordinates": [
+      632,
+      0,
+      864,
+      458
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

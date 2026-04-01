@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770488847647,
+  "carID": 85572,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 122731518",
+  "datetimezone": "20260207 182726465-0600",
+  "frame_timestamp": 1770488847647,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207182726_708921lp_RLX200C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207182726_708921.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207182726_708921lp_RLX200C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLX200C",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    984,
+    90,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLX200C",
+  "plateUnicode": "RLX200C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770488847647,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.946596145629883,
+    "coordinates": [
+      640,
+      0,
+      792,
+      290
+    ],
+    "model": "2008",
+    "type": "CAR"
+  }
+}

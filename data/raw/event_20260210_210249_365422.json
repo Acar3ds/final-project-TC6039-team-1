@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770757353340,
+  "carID": 92706,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 150236222",
+  "datetimezone": "20260210 210231171-0600",
+  "frame_timestamp": 1770757353340,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210210231_378541lp_FB57329.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210210231_378541.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210210231_378541lp_FB57329.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FB57329",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1041,
+    150,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "GRC",
+  "plateText": "FB57329",
+  "plateUnicode": "FB57329",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770757353340,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2128422260284424,
+    "coordinates": [
+      700,
+      2,
+      804,
+      394
+    ],
+    "model": "Transit",
+    "type": "VAN"
+  }
+}

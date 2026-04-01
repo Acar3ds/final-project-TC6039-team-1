@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771949133918,
+  "carID": 126831,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 100535659",
+  "datetimezone": "20260224 160530611-0600",
+  "frame_timestamp": 1771949133918,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224160530_883487lp_SAT940C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224160530_883487.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224160530_883487lp_SAT940C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAT940C",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    900,
+    78,
+    126,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAT940C",
+  "plateUnicode": "SAT940C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771949133918,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.102071762084961,
+    "coordinates": [
+      596,
+      0,
+      740,
+      224
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

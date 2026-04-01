@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771555943912,
+  "carID": 116413,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 205228658",
+  "datetimezone": "20260220 025223608-0600",
+  "frame_timestamp": 1771555943912,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220025223_929964lp_J3315B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220025223_929964.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220025223_929964lp_J3315B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "J3315B",
+  "plateConfidence": 0.7955729365348816,
+  "plateCoordinates": [
+    945,
+    111,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "J3315B",
+  "plateUnicode": "J3315B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771555943912,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.316924571990967,
+    "coordinates": [
+      644,
+      0,
+      740,
+      348
+    ],
+    "model": "Tiggo  T11 /Tiggo 3",
+    "type": "SUV"
+  }
+}

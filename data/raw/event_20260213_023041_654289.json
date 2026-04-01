@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770949826541,
+  "carID": 98841,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 203027627",
+  "datetimezone": "20260213 023022569-0600",
+  "frame_timestamp": 1770949826541,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213022308_217396/20260213023022_838938lp_0RD4548B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213022308_217396/20260213023022_838938.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213022308_217396/20260213023022_838938lp_0RD4548B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RD4548B",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    888,
+    78,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RD4548B",
+  "plateUnicode": "RD4548B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770949826541,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 31.236637115478516,
+    "coordinates": [
+      536,
+      0,
+      944,
+      290
+    ],
+    "model": "Blazer",
+    "type": "SUV"
+  }
+}

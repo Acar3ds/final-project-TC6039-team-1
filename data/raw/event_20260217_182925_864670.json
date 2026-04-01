@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771352947168,
+  "carID": 109660,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 122910872",
+  "datetimezone": "20260217 182905801-0600",
+  "frame_timestamp": 1771352947168,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217182906_44121lp_FCR387B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217182906_44121.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217182906_44121lp_FCR387B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FCR387B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    939,
+    93,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FCR387B",
+  "plateUnicode": "FCR387B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771352947168,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.576810836791992,
+    "coordinates": [
+      580,
+      0,
+      808,
+      264
+    ],
+    "model": "A4/A5/RS4/RS5/S4/S5",
+    "type": "CAR"
+  }
+}

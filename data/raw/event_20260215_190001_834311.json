@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771181982834,
+  "carID": 104927,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 125946992",
+  "datetimezone": "20260215 185941937-0600",
+  "frame_timestamp": 1771181982834,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215185942_208541lp_SSN035B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215185942_208541.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215185942_208541lp_SSN035B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSN035B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    819,
+    114,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSN035B",
+  "plateUnicode": "SSN035B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771181982834,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.351517200469971,
+    "coordinates": [
+      484,
+      0,
+      772,
+      258
+    ],
+    "model": "Cruze/Onix/Malibu",
+    "type": "CAR"
+  }
+}

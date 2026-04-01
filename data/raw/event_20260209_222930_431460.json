@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770676153351,
+  "carID": 90315,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 162917470",
+  "datetimezone": "20260209 222912423-0600",
+  "frame_timestamp": 1770676153351,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209214259_909471/20260209222912_613404lp_STJ8243.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209214259_909471/20260209222912_613404.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209214259_909471/20260209222912_613404lp_STJ8243.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STJ8243",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1008,
+    144,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "STJ8243",
+  "plateUnicode": "STJ8243",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770676153351,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.3609771728515625,
+    "coordinates": [
+      732,
+      2,
+      856,
+      280
+    ],
+    "model": "Malibu",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771133190705,
+  "carID": 104387,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 232632544",
+  "datetimezone": "20260215 052627493-0600",
+  "frame_timestamp": 1771133190705,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215041027_938115/20260215052627_742941lp_TDN821A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215041027_938115/20260215052627_742941.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215041027_938115/20260215052627_742941lp_TDN821A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDN821A",
+  "plateConfidence": 0.8180803656578064,
+  "plateCoordinates": [
+    1026,
+    105,
+    123,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDN821A",
+  "plateUnicode": "TDN821A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771133190705,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.94671630859375,
+    "coordinates": [
+      700,
+      0,
+      876,
+      320
+    ],
+    "model": "Kicks",
+    "type": "SUV"
+  }
+}

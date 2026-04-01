@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770298067725,
+  "carID": 79698,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 072751584",
+  "datetimezone": "20260205 132746529-0600",
+  "frame_timestamp": 1770298067725,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205132746_759041lp_TGT669A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205132746_759041.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205132746_759041lp_TGT669A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGT669A",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    1011,
+    114,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "ITA",
+  "plateText": "TGT669A",
+  "plateUnicode": "TGT669A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770298067725,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MINI",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.700433731079102,
+    "coordinates": [
+      704,
+      2,
+      736,
+      268
+    ],
+    "model": "One/Hatch/Clubman/Cabrio",
+    "type": "CAR"
+  }
+}

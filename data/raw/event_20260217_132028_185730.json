@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771334411454,
+  "carID": 108718,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 072013108",
+  "datetimezone": "20260217 132008056-0600",
+  "frame_timestamp": 1771334411454,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217131805_538991/20260217132008_318925lp_SAM083B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217131805_538991/20260217132008_318925.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217131805_538991/20260217132008_318925lp_SAM083B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAM083B",
+  "plateConfidence": 0.875,
+  "plateCoordinates": [
+    1017,
+    138,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAM083B",
+  "plateUnicode": "SAM083B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771334411454,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Bentley",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 18.371929168701172,
+    "coordinates": [
+      704,
+      0,
+      748,
+      258
+    ],
+    "model": "Continental Flying Spur/Continental GT/Flying Spur",
+    "type": "CAR"
+  }
+}

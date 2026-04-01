@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771107258888,
+  "carID": 103456,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 161423521",
+  "datetimezone": "20260214 221418461-0600",
+  "frame_timestamp": 1771107258888,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214221418_719964lp_TCW651B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214221418_719964.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214221418_719964lp_TCW651B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCW651B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    990,
+    96,
+    129,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCW651B",
+  "plateUnicode": "TCW651B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771107258888,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9997148513793945,
+    "coordinates": [
+      656,
+      2,
+      788,
+      268
+    ],
+    "model": "Niro/Niro EV",
+    "type": "SUV"
+  }
+}

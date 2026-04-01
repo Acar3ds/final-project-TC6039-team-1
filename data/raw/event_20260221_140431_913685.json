@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771682652648,
+  "carID": 119947,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 080416470",
+  "datetimezone": "20260221 140411412-0600",
+  "frame_timestamp": 1771682652648,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221113728_882501/20260221140411_663129lp_RTX225B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221113728_882501/20260221140411_663129.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221113728_882501/20260221140411_663129lp_RTX225B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTX225B",
+  "plateConfidence": 0.8035714030265808,
+  "plateCoordinates": [
+    1137,
+    165,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTX225B",
+  "plateUnicode": "RTX225B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771682652648,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.255403518676758,
+    "coordinates": [
+      816,
+      2,
+      792,
+      346
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770422140319,
+  "carID": 84061,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 175543996",
+  "datetimezone": "20260206 235538942-0600",
+  "frame_timestamp": 1770422140319,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206235539_264410lp_RMC721C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206235539_264410.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206235539_264410lp_RMC721C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMC721C",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1137,
+    153,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMC721C",
+  "plateUnicode": "RMC721C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770422140319,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.992146492004395,
+    "coordinates": [
+      816,
+      0,
+      756,
+      296
+    ],
+    "model": "Belta/Yaris/Vios",
+    "type": "CAR"
+  }
+}

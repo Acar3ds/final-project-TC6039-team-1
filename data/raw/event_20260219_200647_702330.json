@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771531587399,
+  "carID": 115385,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 140632294",
+  "datetimezone": "20260219 200627244-0600",
+  "frame_timestamp": 1771531587399,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219200627_511061lp_TCU100A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219200627_511061.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219200627_511061lp_TCU100A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCU100A",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    1026,
+    144,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCU100A",
+  "plateUnicode": "TCU100A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771531587399,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.999233365058899,
+    "coordinates": [
+      672,
+      2,
+      820,
+      334
+    ],
+    "model": "Sportage",
+    "type": "SUV"
+  }
+}

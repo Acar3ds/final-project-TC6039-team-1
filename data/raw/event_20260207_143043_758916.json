@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770474626139,
+  "carID": 85016,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 083031054",
+  "datetimezone": "20260207 143026004-0600",
+  "frame_timestamp": 1770474626139,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207134114_422901/20260207143026_237122lp_RYH281C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207134114_422901/20260207143026_237122.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207134114_422901/20260207143026_237122lp_RYH281C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYH281C",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1266,
+    180,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYH281C",
+  "plateUnicode": "RYH281C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770474626139,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9495670795440674,
+    "coordinates": [
+      924,
+      0,
+      800,
+      342
+    ],
+    "model": "F-150",
+    "type": "PICKUPTRUCK"
+  }
+}

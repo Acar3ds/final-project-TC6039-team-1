@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770424785361,
+  "carID": 84192,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 183948054",
+  "datetimezone": "20260207 003943002-0600",
+  "frame_timestamp": 1770424785361,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207003943_203948lp_TFS098A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207003943_203948.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207003943_203948lp_TFS098A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FS098A",
+  "plateConfidence": 0.7890625,
+  "plateCoordinates": [
+    1272,
+    177,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "NLD",
+  "plateText": "FS098A",
+  "plateUnicode": "FS098A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770424785361,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7921898365020752,
+    "coordinates": [
+      920,
+      0,
+      732,
+      354
+    ],
+    "model": "Grand Voyager/Town   Country/Pacifica",
+    "type": "VAN"
+  }
+}

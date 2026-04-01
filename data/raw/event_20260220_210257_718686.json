@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771621358175,
+  "carID": 118510,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 150242473",
+  "datetimezone": "20260220 210237415-0600",
+  "frame_timestamp": 1771621358175,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220210237_649672lp_RYS118A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220210237_649672.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220210237_649672lp_RYS118A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYS118A",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    1155,
+    177,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYS118A",
+  "plateUnicode": "RYS118A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771621358175,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.747663497924805,
+    "coordinates": [
+      784,
+      0,
+      836,
+      366
+    ],
+    "model": "Sportage",
+    "type": "SUV"
+  }
+}

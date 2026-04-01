@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770735845760,
+  "carID": 91683,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 090410691",
+  "datetimezone": "20260210 150405622-0600",
+  "frame_timestamp": 1770735845760,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210150405_881212lp_TEF318B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210150405_881212.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210150405_881212lp_TEF318B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEF318B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1131,
+    165,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEF318B",
+  "plateUnicode": "TEF318B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770735845760,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.187020778656006,
+    "coordinates": [
+      816,
+      0,
+      744,
+      318
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

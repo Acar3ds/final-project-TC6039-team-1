@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770419832806,
+  "carID": 83984,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 171717694",
+  "datetimezone": "20260206 231712639-0600",
+  "frame_timestamp": 1770419832806,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206231712_893404lp_SCS214B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206231712_893404.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206231712_893404lp_SCS214B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCS214B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    996,
+    123,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCS214B",
+  "plateUnicode": "SCS214B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770419832806,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MINI",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8659753799438477,
+    "coordinates": [
+      696,
+      0,
+      740,
+      270
+    ],
+    "model": "Cabrio/Clubman/Coupe/Hatch/Roadster",
+    "type": "CAR"
+  }
+}

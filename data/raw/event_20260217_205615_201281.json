@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771361755025,
+  "carID": 110066,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 145559932",
+  "datetimezone": "20260217 205554878-0600",
+  "frame_timestamp": 1771361755025,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217205555_117473lp_STH730B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217205555_117473.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217205555_117473lp_STH730B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STH730B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    954,
+    126,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STH730B",
+  "plateUnicode": "STH730B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771361755025,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.999994158744812,
+    "coordinates": [
+      624,
+      2,
+      776,
+      262
+    ],
+    "model": "Auris/Corolla",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771704502922,
+  "carID": 120766,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 140827514",
+  "datetimezone": "20260221 200822453-0600",
+  "frame_timestamp": 1771704502922,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221200822_697689lp_TDJ423B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221200822_697689.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221200822_697689lp_TDJ423B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDJ423B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    924,
+    141,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDJ423B",
+  "plateUnicode": "TDJ423B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771704502922,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6856417655944824,
+    "coordinates": [
+      616,
+      2,
+      744,
+      250
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771508979871,
+  "carID": 114270,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 074944180",
+  "datetimezone": "20260219 134939130-0600",
+  "frame_timestamp": 1771508979871,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219134939_396588lp_RRG190A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219134939_396588.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219134939_396588lp_RRG190A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRG190A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1416,
+    204,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRG190A",
+  "plateUnicode": "RRG190A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771508979871,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.101803779602051,
+    "coordinates": [
+      1008,
+      2,
+      828,
+      364
+    ],
+    "model": "Caddy",
+    "type": "VAN"
+  }
+}

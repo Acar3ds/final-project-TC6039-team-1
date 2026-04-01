@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770594761178,
+  "carID": 88085,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 175245931",
+  "datetimezone": "20260208 235240883-0600",
+  "frame_timestamp": 1770594761178,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235241_98519lp_SBF136C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235241_98519.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235241_98519lp_SBF136C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBF136C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1128,
+    132,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBF136C",
+  "plateUnicode": "SBF136C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770594761178,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9485230445861816,
+    "coordinates": [
+      748,
+      0,
+      880,
+      318
+    ],
+    "model": "Traverse",
+    "type": "SUV"
+  }
+}

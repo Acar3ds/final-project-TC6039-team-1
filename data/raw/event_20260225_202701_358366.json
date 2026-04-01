@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772051200716,
+  "carID": 130215,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 142645276",
+  "datetimezone": "20260225 202640231-0600",
+  "frame_timestamp": 1772051200716,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225202640_475801lp_RNT595A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225202640_475801.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225202640_475801lp_RNT595A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNT595A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    771,
+    192,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNT595A",
+  "plateUnicode": "RNT595A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772051200716,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.89351224899292,
+    "coordinates": [
+      144,
+      0,
+      1084,
+      374
+    ],
+    "model": "Jetta",
+    "type": "CAR"
+  }
+}

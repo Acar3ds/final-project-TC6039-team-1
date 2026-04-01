@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771811259074,
+  "carID": 123211,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 194742913",
+  "datetimezone": "20260223 014737860-0600",
+  "frame_timestamp": 1771811259074,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223014738_110136lp_1GD894B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223014738_110136.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223014738_110136lp_1GD894B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGD894B",
+  "plateConfidence": 0.7433035969734192,
+  "plateCoordinates": [
+    996,
+    153,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGD894B",
+  "plateUnicode": "TGD894B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771811259074,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.671739101409912,
+    "coordinates": [
+      664,
+      0,
+      780,
+      320
+    ],
+    "model": "Range Rover Velar",
+    "type": "SUV"
+  }
+}

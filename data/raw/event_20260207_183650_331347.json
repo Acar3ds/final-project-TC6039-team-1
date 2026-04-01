@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770489393459,
+  "carID": 85600,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 123637765",
+  "datetimezone": "20260207 183632712-0600",
+  "frame_timestamp": 1770489393459,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207182833_989631/20260207183632_966244lp_VSX150C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207182833_989631/20260207183632_966244.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207182833_989631/20260207183632_966244lp_VSX150C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "VSX150C",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    864,
+    93,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "VSX150C",
+  "plateUnicode": "VSX150C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770489393459,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.895802974700928,
+    "coordinates": [
+      392,
+      0,
+      924,
+      296
+    ],
+    "model": "Alphard/Vellfire",
+    "type": "SUV"
+  }
+}

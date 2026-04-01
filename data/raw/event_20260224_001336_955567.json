@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771891997283,
+  "carID": 125555,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 181321292",
+  "datetimezone": "20260224 001316241-0600",
+  "frame_timestamp": 1771891997283,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224001314_628850/20260224001316_528293lp_RVC196B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224001314_628850/20260224001316_528293.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224001314_628850/20260224001316_528293lp_RVC196B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVC196B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    933,
+    141,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVC196B",
+  "plateUnicode": "RVC196B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771891997283,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.999852180480957,
+    "coordinates": [
+      624,
+      0,
+      760,
+      272
+    ],
+    "model": "Lacetti/Nubira/Optra/Sail/Viva",
+    "type": "CAR"
+  }
+}

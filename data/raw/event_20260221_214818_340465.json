@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771710478133,
+  "carID": 121041,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 154802556",
+  "datetimezone": "20260221 214757508-0600",
+  "frame_timestamp": 1771710478133,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221214757_847694lp_TAX161B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221214757_847694.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221214757_847694lp_TAX161B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAX161B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    951,
+    105,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAX161B",
+  "plateUnicode": "TAX161B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771710478133,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Haval",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.982125282287598,
+    "coordinates": [
+      604,
+      0,
+      836,
+      314
+    ],
+    "model": "h6",
+    "type": "SUV"
+  }
+}

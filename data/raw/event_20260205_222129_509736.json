@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770330072405,
+  "carID": 81214,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 162117303",
+  "datetimezone": "20260205 222112253-0600",
+  "frame_timestamp": 1770330072405,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205222112_499628lp_FZB200A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205222112_499628.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205222112_499628lp_FZB200A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FZB200A",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1242,
+    144,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FZB200A",
+  "plateUnicode": "FZB200A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770330072405,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.996286153793335,
+    "coordinates": [
+      808,
+      0,
+      912,
+      326
+    ],
+    "model": "Sienna",
+    "type": "VAN"
+  }
+}

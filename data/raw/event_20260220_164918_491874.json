@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771606138770,
+  "carID": 117619,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 104903076",
+  "datetimezone": "20260220 164858036-0600",
+  "frame_timestamp": 1771606138770,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220164858_411229lp_5A688MKX.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220164858_411229.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220164858_411229lp_5A688MKX.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A688MKX",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    891,
+    114,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "A688MKX",
+  "plateUnicode": "A688MKX",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771606138770,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6461329460144043,
+    "coordinates": [
+      600,
+      0,
+      732,
+      230
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

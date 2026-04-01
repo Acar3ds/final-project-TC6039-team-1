@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772049044754,
+  "carID": 130116,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 135048321",
+  "datetimezone": "20260225 195043266-0600",
+  "frame_timestamp": 1772049044754,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225195043_505655lp_RYV578A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225195043_505655.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225195043_505655lp_RYV578A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYV578A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    762,
+    135,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYV578A",
+  "plateUnicode": "RYV578A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772049044754,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.343405723571777,
+    "coordinates": [
+      432,
+      2,
+      760,
+      262
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

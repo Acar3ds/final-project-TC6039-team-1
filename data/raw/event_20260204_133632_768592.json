@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770212176489,
+  "carID": 77290,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 073620513",
+  "datetimezone": "20260204 133615463-0600",
+  "frame_timestamp": 1770212176489,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204133615_672485lp_RYV111B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204133615_672485.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204133615_672485lp_RYV111B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYV111B",
+  "plateConfidence": 0.7611607313156128,
+  "plateCoordinates": [
+    828,
+    108,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYV111B",
+  "plateUnicode": "RYV111B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770212176489,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.335531711578369,
+    "coordinates": [
+      524,
+      2,
+      752,
+      256
+    ],
+    "model": "Bolt/Bolt EV",
+    "type": "CAR"
+  }
+}

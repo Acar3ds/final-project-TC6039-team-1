@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770991972066,
+  "carID": 99579,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 081256950",
+  "datetimezone": "20260213 141251902-0600",
+  "frame_timestamp": 1770991972066,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213140748_742363/20260213141252_174917lp_RTN902C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213140748_742363/20260213141252_174917.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213140748_742363/20260213141252_174917lp_RTN902C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTN902C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1317,
+    189,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTN902C",
+  "plateUnicode": "RTN902C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770991972066,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8456908464431763,
+    "coordinates": [
+      864,
+      0,
+      880,
+      380
+    ],
+    "model": "Yaris Ativ",
+    "type": "CAR"
+  }
+}

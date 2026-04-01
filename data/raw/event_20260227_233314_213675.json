@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772235173814,
+  "carID": 136388,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 173257928",
+  "datetimezone": "20260227 233252870-0600",
+  "frame_timestamp": 1772235173814,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227225759_34672/20260227233253_137718lp_TAV708B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227225759_34672/20260227233253_137718.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227225759_34672/20260227233253_137718lp_TAV708B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAV708B",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    966,
+    129,
+    138,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAV708B",
+  "plateUnicode": "TAV708B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772235173814,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8729329109191895,
+    "coordinates": [
+      656,
+      0,
+      756,
+      282
+    ],
+    "model": "Bolt/Bolt EV",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771688880404,
+  "carID": 120134,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 094804683",
+  "datetimezone": "20260221 154759636-0600",
+  "frame_timestamp": 1771688880404,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221154759_963238lp_DAG900A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221154759_963238.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221154759_963238lp_DAG900A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DAG900A",
+  "plateConfidence": 0.8783482313156128,
+  "plateCoordinates": [
+    960,
+    147,
+    135,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "DAG900A",
+  "plateUnicode": "DAG900A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771688880404,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.869595766067505,
+    "coordinates": [
+      636,
+      0,
+      788,
+      306
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

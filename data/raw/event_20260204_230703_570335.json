@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770246407403,
+  "carID": 78776,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 170651155",
+  "datetimezone": "20260204 230646107-0600",
+  "frame_timestamp": 1770246407403,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204230646_381009lp_RLH314C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204230646_381009.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204230646_381009lp_RLH314C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLH314C",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    975,
+    102,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLH314C",
+  "plateUnicode": "RLH314C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770246407403,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.491915225982666,
+    "coordinates": [
+      656,
+      2,
+      776,
+      304
+    ],
+    "model": "T-Cross/T-Roc/T-Roc R",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770413846001,
+  "carID": 83749,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 153729137",
+  "datetimezone": "20260206 213724086-0600",
+  "frame_timestamp": 1770413846001,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206213724_314925lp_RZV864C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206213724_314925.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206213724_314925lp_RZV864C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZV864C",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1047,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZV864C",
+  "plateUnicode": "RZV864C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770413846001,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.2616777420043945,
+    "coordinates": [
+      744,
+      0,
+      720,
+      266
+    ],
+    "model": "Sharan/Touran",
+    "type": "VAN"
+  }
+}

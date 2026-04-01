@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771878292118,
+  "carID": 124936,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 142457021",
+  "datetimezone": "20260223 202451969-0600",
+  "frame_timestamp": 1771878292118,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223202452_198690lp_SFY845B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223202452_198690.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223202452_198690lp_SFY845B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFY845B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1137,
+    189,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFY845B",
+  "plateUnicode": "SFY845B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771878292118,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0790836811065674,
+    "coordinates": [
+      816,
+      0,
+      760,
+      342
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

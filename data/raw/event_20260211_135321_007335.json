@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770817983741,
+  "carID": 94039,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 075307751",
+  "datetimezone": "20260211 135302701-0600",
+  "frame_timestamp": 1770817983741,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211135302_934945lp_SAX096B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211135302_934945.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211135302_934945lp_SAX096B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAX096B",
+  "plateConfidence": 0.8035714030265808,
+  "plateCoordinates": [
+    1239,
+    240,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "ITA",
+  "plateText": "SAX096B",
+  "plateUnicode": "SAX096B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770817983741,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.198412895202637,
+    "coordinates": [
+      900,
+      0,
+      780,
+      390
+    ],
+    "model": "Belta/Yaris/Vios",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772213279964,
+  "carID": 135347,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 112804199",
+  "datetimezone": "20260227 172759145-0600",
+  "frame_timestamp": 1772213279964,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227172759_388645lp_SCT730B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227172759_388645.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227172759_388645lp_SCT730B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCT730B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    987,
+    135,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCT730B",
+  "plateUnicode": "SCT730B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772213279964,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2916932106018066,
+    "coordinates": [
+      828,
+      0,
+      756,
+      350
+    ],
+    "model": "Chevette",
+    "type": "CAR"
+  }
+}

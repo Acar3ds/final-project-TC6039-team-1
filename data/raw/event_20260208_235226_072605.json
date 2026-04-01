@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770594732108,
+  "carID": 88083,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 175213273",
+  "datetimezone": "20260208 235208214-0600",
+  "frame_timestamp": 1770594732108,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235208_451875lp_SWB651B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235208_451875.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235208_451875lp_SWB651B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWB651B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    969,
+    90,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWB651B",
+  "plateUnicode": "SWB651B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770594732108,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.562845230102539,
+    "coordinates": [
+      640,
+      0,
+      800,
+      252
+    ],
+    "model": "911 GT2/911 GT3/911 GT4",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771564221759,
+  "carID": 116639,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 231026058",
+  "datetimezone": "20260220 051021007-0600",
+  "frame_timestamp": 1771564221759,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220042122_821383/20260220051021_271398lp_RZA626B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220042122_821383/20260220051021_271398.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220042122_821383/20260220051021_271398lp_RZA626B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZA626B",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    1008,
+    96,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZA626B",
+  "plateUnicode": "RZA626B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771564221759,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.994335651397705,
+    "coordinates": [
+      700,
+      0,
+      764,
+      314
+    ],
+    "model": "Crown/Crown Majesta",
+    "type": "CAR"
+  }
+}

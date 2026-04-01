@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770670338286,
+  "carID": 90081,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 145222549",
+  "datetimezone": "20260209 205217499-0600",
+  "frame_timestamp": 1770670338286,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209204115_562174/20260209205217_743177lp_RTX871C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209204115_562174/20260209205217_743177.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209204115_562174/20260209205217_743177lp_RTX871C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTX871C",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    918,
+    174,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTX871C",
+  "plateUnicode": "RTX871C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770670338286,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.999737739562988,
+    "coordinates": [
+      604,
+      0,
+      760,
+      290
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

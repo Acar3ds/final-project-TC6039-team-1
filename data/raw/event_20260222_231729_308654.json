@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771802228911,
+  "carID": 122932,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 171713675",
+  "datetimezone": "20260222 231708617-0600",
+  "frame_timestamp": 1771802228911,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222231708_850224lp_RPH558B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222231708_850224.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222231708_850224lp_RPH558B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPH558B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1026,
+    153,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPH558B",
+  "plateUnicode": "RPH558B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771802228911,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.8151350021362305,
+    "coordinates": [
+      708,
+      0,
+      780,
+      300
+    ],
+    "model": "Aurion/Camry",
+    "type": "CAR"
+  }
+}

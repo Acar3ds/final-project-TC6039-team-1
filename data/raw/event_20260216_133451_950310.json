@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771248872416,
+  "carID": 106166,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 073437335",
+  "datetimezone": "20260216 133432283-0600",
+  "frame_timestamp": 1771248872416,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216125249_971410/20260216133432_514373lp_RZN552C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216125249_971410/20260216133432_514373.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216125249_971410/20260216133432_514373lp_RZN552C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZN552C",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1344,
+    219,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZN552C",
+  "plateUnicode": "RZN552C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771248872416,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.987978458404541,
+    "coordinates": [
+      992,
+      0,
+      800,
+      374
+    ],
+    "model": "Swift",
+    "type": "CAR"
+  }
+}

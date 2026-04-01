@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772117170389,
+  "carID": 131982,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 084615268",
+  "datetimezone": "20260226 144610219-0600",
+  "frame_timestamp": 1772117170389,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226144610_524473lp_RTC506C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226144610_524473.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226144610_524473lp_RTC506C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTC506C",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    972,
+    129,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTC506C",
+  "plateUnicode": "RTC506C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772117170389,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Tesla",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9983128309249878,
+    "coordinates": [
+      660,
+      0,
+      756,
+      296
+    ],
+    "model": "Model 3",
+    "type": "CAR"
+  }
+}

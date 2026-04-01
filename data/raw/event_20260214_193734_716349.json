@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771097835539,
+  "carID": 103053,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 133720131",
+  "datetimezone": "20260214 193715071-0600",
+  "frame_timestamp": 1771097835539,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214193715_304311lp_RZF985C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214193715_304311.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214193715_304311lp_RZF985C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZF985C",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    972,
+    123,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZF985C",
+  "plateUnicode": "RZF985C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771097835539,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.825146436691284,
+    "coordinates": [
+      628,
+      0,
+      776,
+      254
+    ],
+    "model": "307",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772251503348,
+  "carID": 137149,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 220507457",
+  "datetimezone": "20260228 040502407-0600",
+  "frame_timestamp": 1772251503348,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228030249_668803/20260228040502_687903lp_SFA454B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228030249_668803/20260228040502_687903.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228030249_668803/20260228040502_687903lp_SFA454B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFA454B",
+  "plateConfidence": 0.8058035969734192,
+  "plateCoordinates": [
+    987,
+    126,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFA454B",
+  "plateUnicode": "SFA454B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772251503348,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.191679000854492,
+    "coordinates": [
+      628,
+      0,
+      824,
+      384
+    ],
+    "model": "Magnum",
+    "type": "CAR"
+  }
+}

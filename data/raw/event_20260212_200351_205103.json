@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770926616213,
+  "carID": 97778,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 140337626",
+  "datetimezone": "20260212 200332574-0600",
+  "frame_timestamp": 1770926616213,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212200332_839234lp_RG8849B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212200332_839234.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212200332_839234lp_RG8849B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RG8849B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1014,
+    105,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RG8849B",
+  "plateUnicode": "RG8849B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770926616213,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 32.61906051635742,
+    "coordinates": [
+      612,
+      0,
+      948,
+      378
+    ],
+    "model": "Raptor/Ranger Raptor/Ranger",
+    "type": "PICKUPTRUCK"
+  }
+}

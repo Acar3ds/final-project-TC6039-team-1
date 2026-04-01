@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772143113855,
+  "carID": 133301,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 155838767",
+  "datetimezone": "20260226 215833710-0600",
+  "frame_timestamp": 1772143113855,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226213722_130496/20260226215833_978244lp_TGF034A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226213722_130496/20260226215833_978244.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226213722_130496/20260226215833_978244lp_TGF034A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGF034A",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    1467,
+    252,
+    150,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGF034A",
+  "plateUnicode": "TGF034A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772143113855,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9053889513015747,
+    "coordinates": [
+      1032,
+      0,
+      864,
+      422
+    ],
+    "model": "C-Max",
+    "type": "VAN"
+  }
+}

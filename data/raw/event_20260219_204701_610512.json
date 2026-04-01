@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771534004158,
+  "carID": 115484,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 144646246",
+  "datetimezone": "20260219 204641191-0600",
+  "frame_timestamp": 1771534004158,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219204641_453339lp_SCS576B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219204641_453339.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219204641_453339lp_SCS576B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCS576B",
+  "plateConfidence": 0.8772321343421936,
+  "plateCoordinates": [
+    1086,
+    114,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCS576B",
+  "plateUnicode": "SCS576B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771534004158,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.815971851348877,
+    "coordinates": [
+      704,
+      2,
+      872,
+      370
+    ],
+    "model": "F-550/F-450/F-350/F-250",
+    "type": "PICKUPTRUCK"
+  }
+}

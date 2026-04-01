@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771618095408,
+  "carID": 118337,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 140819317",
+  "datetimezone": "20260220 200814257-0600",
+  "frame_timestamp": 1771618095408,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220200814_540817lp_SBS519B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220200814_540817.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220200814_540817lp_SBS519B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBS519B",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    861,
+    126,
+    126,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    51
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBS519B",
+  "plateUnicode": "SBS519B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771618095408,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Scion",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.602907180786133,
+    "coordinates": [
+      548,
+      0,
+      740,
+      270
+    ],
+    "model": "iA",
+    "type": "CAR"
+  }
+}

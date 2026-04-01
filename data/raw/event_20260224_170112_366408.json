@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771952451927,
+  "carID": 126965,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 110056662",
+  "datetimezone": "20260224 170051611-0600",
+  "frame_timestamp": 1771952451927,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224163150_402497/20260224170051_891078lp_TGF260B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224163150_402497/20260224170051_891078.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224163150_402497/20260224170051_891078lp_TGF260B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGF260B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    894,
+    102,
+    126,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGF260B",
+  "plateUnicode": "TGF260B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771952451927,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.869699001312256,
+    "coordinates": [
+      588,
+      0,
+      744,
+      254
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

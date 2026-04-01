@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771559010895,
+  "carID": 116513,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 214335438",
+  "datetimezone": "20260220 034330377-0600",
+  "frame_timestamp": 1771559010895,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220025938_626616/20260220034330_656443lp_SRJ335A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220025938_626616/20260220034330_656443.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220025938_626616/20260220034330_656443lp_SRJ335A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRJ335A",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    948,
+    84,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRJ335A",
+  "plateUnicode": "SRJ335A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771559010895,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lotus",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6326866149902344,
+    "coordinates": [
+      668,
+      2,
+      744,
+      274
+    ],
+    "model": "Elise/Emira/3 Eleven/Evora/Exige",
+    "type": "CAR"
+  }
+}

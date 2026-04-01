@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771776260715,
+  "carID": 122244,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 100423368",
+  "datetimezone": "20260222 160418309-0600",
+  "frame_timestamp": 1771776260715,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160418_541759lp_RTN827C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160418_541759.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160418_541759lp_RTN827C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTN827C",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    855,
+    87,
+    132,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTN827C",
+  "plateUnicode": "RTN827C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771776260715,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.263004779815674,
+    "coordinates": [
+      540,
+      0,
+      760,
+      230
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

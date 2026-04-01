@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768923009429,
+  "carID": 123484,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 093010197",
+  "datetimezone": "20260120 153009429-0600",
+  "frame_timestamp": 1768923009429,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120152414_769309/20260120153010_115772lp_RVM384A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120152414_769309/20260120153010_115772.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120152414_769309/20260120153010_115772lp_RVM384A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVM384A",
+  "plateConfidence": 0.8158482313156128,
+  "plateCoordinates": [
+    2000,
+    32,
+    128,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    128,
+    43
+  ],
+  "plateCountry": "USA",
+  "plateText": "RVM384A",
+  "plateUnicode": "RVM384A",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768923009429,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.29434654116630554,
+    "coordinates": [
+      1776,
+      0,
+      492,
+      132
+    ],
+    "model": "5 Series/M5",
+    "type": "CAR"
+  }
+}

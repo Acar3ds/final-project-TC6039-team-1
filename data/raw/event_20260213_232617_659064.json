@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771025158437,
+  "carID": 101221,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 172603328",
+  "datetimezone": "20260213 232558285-0600",
+  "frame_timestamp": 1771025158437,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213232558_547742lp_SVU128A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213232558_547742.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213232558_547742lp_SVU128A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVU128A",
+  "plateConfidence": 0.8203125,
+  "plateCoordinates": [
+    1041,
+    216,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVU128A",
+  "plateUnicode": "SVU128A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771025158437,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.079240560531616,
+    "coordinates": [
+      696,
+      0,
+      840,
+      360
+    ],
+    "model": "Altima",
+    "type": "CAR"
+  }
+}

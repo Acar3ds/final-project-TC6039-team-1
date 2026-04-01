@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770594113315,
+  "carID": 88068,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 174158239",
+  "datetimezone": "20260208 234153160-0600",
+  "frame_timestamp": 1770594113315,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208234153_436670lp_SFA202B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208234153_436670.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208234153_436670lp_SFA202B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFA202B",
+  "plateConfidence": 0.8035714030265808,
+  "plateCoordinates": [
+    1014,
+    129,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFA202B",
+  "plateUnicode": "SFA202B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770594113315,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9109420776367188,
+    "coordinates": [
+      704,
+      0,
+      736,
+      282
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

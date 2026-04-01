@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772205292367,
+  "carID": 134940,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 091457247",
+  "datetimezone": "20260227 151452195-0600",
+  "frame_timestamp": 1772205292367,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227151452_516914lp_SUP004B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227151452_516914.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227151452_516914lp_SUP004B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUP004B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1068,
+    171,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUP004B",
+  "plateUnicode": "SUP004B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772205292367,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9850199222564697,
+    "coordinates": [
+      720,
+      0,
+      828,
+      314
+    ],
+    "model": "Azera/Sonata",
+    "type": "CAR"
+  }
+}

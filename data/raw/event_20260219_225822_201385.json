@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771541883186,
+  "carID": 115830,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 165807097",
+  "datetimezone": "20260219 225802041-0600",
+  "frame_timestamp": 1771541883186,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219225802_334501lp_RRD713A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219225802_334501.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219225802_334501lp_RRD713A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRD713A",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    918,
+    102,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRD713A",
+  "plateUnicode": "RRD713A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771541883186,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.700589179992676,
+    "coordinates": [
+      632,
+      6,
+      712,
+      254
+    ],
+    "model": "Mirage/Mirage G4/Space Star",
+    "type": "CAR"
+  }
+}

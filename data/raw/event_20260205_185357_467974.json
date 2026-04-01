@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770317623992,
+  "carID": 80644,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 125345246",
+  "datetimezone": "20260205 185340189-0600",
+  "frame_timestamp": 1770317623992,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205185340_414560lp_DTK569C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205185340_414560.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205185340_414560lp_DTK569C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DTK569C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    963,
+    105,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "DTK569C",
+  "plateUnicode": "DTK569C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770317623992,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.848878860473633,
+    "coordinates": [
+      588,
+      0,
+      844,
+      294
+    ],
+    "model": "CT4/CT4-V/CT5/CT5-V",
+    "type": "CAR"
+  }
+}

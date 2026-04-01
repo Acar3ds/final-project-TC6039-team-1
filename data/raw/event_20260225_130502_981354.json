@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772024681900,
+  "carID": 128861,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 070446811",
+  "datetimezone": "20260225 130441754-0600",
+  "frame_timestamp": 1772024681900,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225111053_912392/20260225130441_937529lp_NNY0N.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225111053_912392/20260225130441_937529.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225111053_912392/20260225130441_937529lp_NNY0N.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "NNY0NN",
+  "plateConfidence": 0.5403645634651184,
+  "plateCoordinates": [
+    1281,
+    267,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "NLD",
+  "plateText": "NNY0NN",
+  "plateUnicode": "NNY0NN",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772024681900,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Buick",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9029744863510132,
+    "coordinates": [
+      880,
+      0,
+      864,
+      422
+    ],
+    "model": "Excelle/LaCrosse",
+    "type": "CAR"
+  }
+}

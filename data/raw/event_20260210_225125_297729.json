@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770763867327,
+  "carID": 92959,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 165112217",
+  "datetimezone": "20260210 225107170-0600",
+  "frame_timestamp": 1770763867327,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210225107_457752lp_EZV305C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210225107_457752.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210225107_457752lp_EZV305C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EZV305C",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1461,
+    270,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "EZV305C",
+  "plateUnicode": "EZV305C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770763867327,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9994072914123535,
+    "coordinates": [
+      1008,
+      0,
+      904,
+      416
+    ],
+    "model": "Equinox",
+    "type": "SUV"
+  }
+}

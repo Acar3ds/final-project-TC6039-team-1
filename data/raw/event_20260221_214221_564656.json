@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771710125435,
+  "carID": 121021,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 154205735",
+  "datetimezone": "20260221 214200685-0600",
+  "frame_timestamp": 1771710125435,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221214200_971476lp_J1131B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221214200_971476.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221214200_971476lp_J1131B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "J1131B",
+  "plateConfidence": 0.8450520634651184,
+  "plateCoordinates": [
+    1050,
+    102,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "J1131B",
+  "plateUnicode": "J1131B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771710125435,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.597015380859375,
+    "coordinates": [
+      712,
+      0,
+      800,
+      330
+    ],
+    "model": "Armada/Patrol",
+    "type": "SUV"
+  }
+}

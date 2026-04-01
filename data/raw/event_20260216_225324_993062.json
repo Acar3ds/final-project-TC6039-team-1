@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771282385230,
+  "carID": 107738,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 165309973",
+  "datetimezone": "20260216 225304921-0600",
+  "frame_timestamp": 1771282385230,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216225305_156107lp_STW105B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216225305_156107.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216225305_156107lp_STW105B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STW105B",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    930,
+    117,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STW105B",
+  "plateUnicode": "STW105B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771282385230,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9468109607696533,
+    "coordinates": [
+      660,
+      0,
+      692,
+      284
+    ],
+    "model": "Kwid",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771257419184,
+  "carID": 106662,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 095659584",
+  "datetimezone": "20260216 155654538-0600",
+  "frame_timestamp": 1771257419184,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216155654_801012lp_RE012QA.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216155654_801012.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216155654_801012lp_RE012QA.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RE012QA",
+  "plateConfidence": 0.7276785969734192,
+  "plateCoordinates": [
+    942,
+    81,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RE012QA",
+  "plateUnicode": "RE012QA",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771257419184,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.323561668395996,
+    "coordinates": [
+      488,
+      0,
+      1016,
+      252
+    ],
+    "model": "iOn",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770229347376,
+  "carID": 78056,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 122230909",
+  "datetimezone": "20260204 182225861-0600",
+  "frame_timestamp": 1770229347376,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204182226_99540lp_L3162B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204182226_99540.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204182226_99540lp_L3162B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "L3162B",
+  "plateConfidence": 0.8684895634651184,
+  "plateCoordinates": [
+    1248,
+    177,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "ESP",
+  "plateText": "L3162B",
+  "plateUnicode": "L3162B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770229347376,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.547945022583008,
+    "coordinates": [
+      776,
+      0,
+      916,
+      408
+    ],
+    "model": "NV400",
+    "type": "VAN"
+  }
+}

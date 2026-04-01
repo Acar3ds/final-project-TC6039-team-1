@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770776932003,
+  "carID": 93463,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 202854674",
+  "datetimezone": "20260211 022849618-0600",
+  "frame_timestamp": 1770776932003,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211015857_404009/20260211022849_836659lp_TCM210A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211015857_404009/20260211022849_836659.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211015857_404009/20260211022849_836659lp_TCM210A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCM210A",
+  "plateConfidence": 0.8091517686843872,
+  "plateCoordinates": [
+    939,
+    93,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCM210A",
+  "plateUnicode": "TCM210A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770776932003,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.164325714111328,
+    "coordinates": [
+      632,
+      0,
+      836,
+      332
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771805592239,
+  "carID": 123050,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 181315701",
+  "datetimezone": "20260223 001310643-0600",
+  "frame_timestamp": 1771805592239,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260223001310_904192lp_SVB310B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260223001310_904192.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260223001310_904192lp_SVB310B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVB310B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1131,
+    129,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVB310B",
+  "plateUnicode": "SVB310B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771805592239,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.084897994995117,
+    "coordinates": [
+      808,
+      2,
+      768,
+      322
+    ],
+    "model": "Ertiga",
+    "type": "VAN"
+  }
+}

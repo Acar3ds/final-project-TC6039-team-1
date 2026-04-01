@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772151717211,
+  "carID": 133713,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 182201338",
+  "datetimezone": "20260227 002156286-0600",
+  "frame_timestamp": 1772151717211,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227001703_297125/20260227002156_537105lp_TDS086A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227001703_297125/20260227002156_537105.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227001703_297125/20260227002156_537105lp_TDS086A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDS086A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    855,
+    99,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDS086A",
+  "plateUnicode": "TDS086A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772151717211,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.999035835266113,
+    "coordinates": [
+      528,
+      2,
+      776,
+      268
+    ],
+    "model": "Renegade",
+    "type": "SUV"
+  }
+}

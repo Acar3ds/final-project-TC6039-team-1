@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770683066347,
+  "carID": 90607,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 182426994",
+  "datetimezone": "20260210 002421938-0600",
+  "frame_timestamp": 1770683066347,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210002422_179878lp_SCH5670.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210002422_179878.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210002422_179878lp_SCH5670.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCH5670",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1059,
+    102,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCH5670",
+  "plateUnicode": "SCH5670",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770683066347,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BYD",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.086384773254395,
+    "coordinates": [
+      720,
+      0,
+      804,
+      272
+    ],
+    "model": "Qin Plus/Qin Pro DM",
+    "type": "CAR"
+  }
+}

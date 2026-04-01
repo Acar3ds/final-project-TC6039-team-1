@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768798163249,
+  "carID": 111026,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260118 224923717",
+  "datetimezone": "20260119 044923249-0600",
+  "frame_timestamp": 1768798163249,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260119044801_358286/20260119044923_636373lp_TCR417B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260119044801_358286/20260119044923_636373.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260119044801_358286/20260119044923_636373lp_TCR417B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCR417B",
+  "plateConfidence": 0.6657366156578064,
+  "plateCoordinates": [
+    1357,
+    116,
+    135,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    43
+  ],
+  "plateCountry": "USA",
+  "plateText": "TCR417B",
+  "plateUnicode": "TCR417B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768798163249,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6483526825904846,
+    "coordinates": [
+      1168,
+      6,
+      516,
+      234
+    ],
+    "model": "5008",
+    "type": "VAN"
+  }
+}

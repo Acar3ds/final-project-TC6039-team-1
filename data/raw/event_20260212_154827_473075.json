@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770911288570,
+  "carID": 97140,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 094813193",
+  "datetimezone": "20260212 154808145-0600",
+  "frame_timestamp": 1770911288570,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212154808_367781lp_RPA678C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212154808_367781.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212154808_367781lp_RPA678C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPA678C",
+  "plateConfidence": 0.8783482313156128,
+  "plateCoordinates": [
+    1104,
+    165,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPA678C",
+  "plateUnicode": "RPA678C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770911288570,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Subaru",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.291319847106934,
+    "coordinates": [
+      780,
+      2,
+      768,
+      304
+    ],
+    "model": "Impreza",
+    "type": "CAR"
+  }
+}

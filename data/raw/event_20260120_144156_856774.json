@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768920106332,
+  "carID": 122942,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 084147403",
+  "datetimezone": "20260120 144146332-0600",
+  "frame_timestamp": 1768920106332,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120144113_208322/20260120144147_303532lp_SYU706B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120144113_208322/20260120144147_303532.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120144113_208322/20260120144147_303532lp_SYU706B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYU706B",
+  "plateConfidence": 0.7645089030265808,
+  "plateCoordinates": [
+    2125,
+    1,
+    135,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    57
+  ],
+  "plateCountry": "USA",
+  "plateText": "SYU706B",
+  "plateUnicode": "SYU706B",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768920106332,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7075009942054749,
+    "coordinates": [
+      1872,
+      0,
+      544,
+      120
+    ],
+    "model": "Alphard/Vellfire",
+    "type": "SUV"
+  }
+}

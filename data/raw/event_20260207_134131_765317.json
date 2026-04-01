@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770471674330,
+  "carID": 84963,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 074119247",
+  "datetimezone": "20260207 134114187-0600",
+  "frame_timestamp": 1770471674330,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207134114_422901/20260207134114_422901lp_SBT726C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207134114_422901/20260207134114_422901.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207134114_422901/20260207134114_422901lp_SBT726C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBT726C",
+  "plateConfidence": 0.7834821343421936,
+  "plateCoordinates": [
+    1293,
+    204,
+    150,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    78
+  ],
+  "plateCountry": "ITA",
+  "plateText": "SBT726C",
+  "plateUnicode": "SBT726C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770471674330,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9993577003479004,
+    "coordinates": [
+      884,
+      0,
+      912,
+      444
+    ],
+    "model": "Grand Cherokee",
+    "type": "SUV"
+  }
+}

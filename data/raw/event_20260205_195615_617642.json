@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770321359377,
+  "carID": 80810,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 135603391",
+  "datetimezone": "20260205 195558339-0600",
+  "frame_timestamp": 1770321359377,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205195558_581290lp_SAP228B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205195558_581290.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205195558_581290lp_SAP228B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAP228B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1044,
+    195,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAP228B",
+  "plateUnicode": "SAP228B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770321359377,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.416970729827881,
+    "coordinates": [
+      744,
+      0,
+      748,
+      342
+    ],
+    "model": "Estima/Previa",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770221188656,
+  "carID": 77783,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 100632196",
+  "datetimezone": "20260204 160627132-0600",
+  "frame_timestamp": 1770221188656,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160627_405501lp_DK842B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160627_405501.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160627_405501lp_DK842B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDK842B",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1131,
+    225,
+    144,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDK842B",
+  "plateUnicode": "TDK842B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770221188656,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.974048614501953,
+    "coordinates": [
+      792,
+      0,
+      808,
+      344
+    ],
+    "model": "Arteon/Arteon R",
+    "type": "CAR"
+  }
+}

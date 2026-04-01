@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770300781955,
+  "carID": 79839,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 081306707",
+  "datetimezone": "20260205 141301653-0600",
+  "frame_timestamp": 1770300781955,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205141301_827090lp_34KXJ.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205141301_827090.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205141301_827090lp_34KXJ.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "34KXJ",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1125,
+    168,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "34KXJ",
+  "plateUnicode": "34KXJ",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770300781955,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9728293418884277,
+    "coordinates": [
+      780,
+      2,
+      804,
+      340
+    ],
+    "model": "X-Trail/Xterra",
+    "type": "SUV"
+  }
+}

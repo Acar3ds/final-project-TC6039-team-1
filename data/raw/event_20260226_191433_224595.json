@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772133254862,
+  "carID": 132756,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 131417245",
+  "datetimezone": "20260226 191412191-0600",
+  "frame_timestamp": 1772133254862,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226191412_400940lp_TBU726A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226191412_400940.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226191412_400940lp_TBU726A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBU726A",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    966,
+    93,
+    120,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    54
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBU726A",
+  "plateUnicode": "TBU726A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772133254862,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lamborghini",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4875876903533936,
+    "coordinates": [
+      668,
+      0,
+      804,
+      252
+    ],
+    "model": "Aventador",
+    "type": "CAR"
+  }
+}

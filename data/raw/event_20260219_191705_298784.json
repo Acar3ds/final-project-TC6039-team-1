@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771528605320,
+  "carID": 115228,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 131649766",
+  "datetimezone": "20260219 191644664-0600",
+  "frame_timestamp": 1771528605320,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219191644_876077lp_KD689B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219191644_876077.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219191644_876077lp_KD689B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "KD689B",
+  "plateConfidence": 0.8763020634651184,
+  "plateCoordinates": [
+    882,
+    102,
+    126,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    63
+  ],
+  "plateCountry": "NLD",
+  "plateText": "KD689B",
+  "plateUnicode": "KD689B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771528605320,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.961682319641113,
+    "coordinates": [
+      568,
+      2,
+      768,
+      274
+    ],
+    "model": "Captiva/Tracker/Trax",
+    "type": "SUV"
+  }
+}

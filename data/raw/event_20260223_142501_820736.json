@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771856681212,
+  "carID": 123936,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 082446121",
+  "datetimezone": "20260223 142441073-0600",
+  "frame_timestamp": 1771856681212,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142441_320468lp_RUG452C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142441_320468.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142441_320468lp_RUG452C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUG452C",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1176,
+    264,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUG452C",
+  "plateUnicode": "RUG452C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771856681212,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8993852138519287,
+    "coordinates": [
+      808,
+      0,
+      864,
+      452
+    ],
+    "model": "GT4/Lyriq",
+    "type": "SUV"
+  }
+}

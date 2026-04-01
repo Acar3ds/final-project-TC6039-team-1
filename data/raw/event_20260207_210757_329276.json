@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770498460112,
+  "carID": 86005,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 150744872",
+  "datetimezone": "20260207 210739822-0600",
+  "frame_timestamp": 1770498460112,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207210740_45134lp_SLD059A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207210740_45134.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207210740_45134lp_SLD059A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLD059A",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    1020,
+    108,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLD059A",
+  "plateUnicode": "SLD059A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770498460112,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5175426006317139,
+    "coordinates": [
+      712,
+      2,
+      732,
+      262
+    ],
+    "model": "Civic/Civic Ferio/Civic Type R",
+    "type": "CAR"
+  }
+}

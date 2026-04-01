@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771787192679,
+  "carID": 122528,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 130636318",
+  "datetimezone": "20260222 190631273-0600",
+  "frame_timestamp": 1771787192679,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222183233_839955/20260222190631_549211lp_SKJ755A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222183233_839955/20260222190631_549211.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222183233_839955/20260222190631_549211lp_SKJ755A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKJ755A",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    996,
+    96,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKJ755A",
+  "plateUnicode": "SKJ755A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771787192679,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.7947998046875,
+    "coordinates": [
+      680,
+      0,
+      748,
+      254
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

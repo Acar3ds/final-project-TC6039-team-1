@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770941493372,
+  "carID": 98469,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 181136176",
+  "datetimezone": "20260213 001131119-0600",
+  "frame_timestamp": 1770941493372,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213001131_378936lp_SFY768B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213001131_378936.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213001131_378936lp_SFY768B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFY768B",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    897,
+    102,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFY768B",
+  "plateUnicode": "SFY768B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770941493372,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "YELLOW",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 25.185747146606445,
+    "coordinates": [
+      600,
+      2,
+      712,
+      234
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

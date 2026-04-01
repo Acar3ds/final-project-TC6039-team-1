@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771549013467,
+  "carID": 116124,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 185656849",
+  "datetimezone": "20260220 005651799-0600",
+  "frame_timestamp": 1771549013467,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220005652_47653lp_SFM704B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220005652_47653.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220005652_47653lp_SFM704B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFM704B",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    963,
+    123,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFM704B",
+  "plateUnicode": "SFM704B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771549013467,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.866348266601562,
+    "coordinates": [
+      652,
+      0,
+      760,
+      338
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

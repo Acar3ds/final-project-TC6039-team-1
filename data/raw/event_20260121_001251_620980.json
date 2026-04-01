@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "CAN"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768954361160,
+  "carID": 128807,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 181241905",
+  "datetimezone": "20260121 001241160-0600",
+  "frame_timestamp": 1768954361160,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121000452_610128/20260121001241_825653lp_SGH386.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121000452_610128/20260121001241_825653.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121000452_610128/20260121001241_825653lp_SGH386.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGH386",
+  "plateConfidence": 0.5899739861488342,
+  "plateCoordinates": [
+    3469,
+    642,
+    135,
+    65
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    65
+  ],
+  "plateCountry": "CAN",
+  "plateText": "SGH386",
+  "plateUnicode": "SGH386",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768954361160,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6886687874794006,
+    "coordinates": [
+      3112,
+      210,
+      636,
+      546
+    ],
+    "model": "A6/RS6/S6",
+    "type": "CAR"
+  }
+}

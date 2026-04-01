@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "LVA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770902169725,
+  "carID": 96615,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 071614779",
+  "datetimezone": "20260212 131609725-0600",
+  "frame_timestamp": 1770902169725,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212125930_467760/20260212131609_977010lp_BVP01A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212125930_467760/20260212131609_977010.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212125930_467760/20260212131609_977010lp_BVP01A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "BVP01A",
+  "plateConfidence": 0.50390625,
+  "plateCoordinates": [
+    1287,
+    774,
+    129,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    54
+  ],
+  "plateCountry": "LVA",
+  "plateText": "BVP01A",
+  "plateUnicode": "BVP01A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770902169725,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7471479773521423,
+    "coordinates": [
+      300,
+      308,
+      1332,
+      772
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

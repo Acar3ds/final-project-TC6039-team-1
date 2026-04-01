@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770682287079,
+  "carID": 90575,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 181131045",
+  "datetimezone": "20260210 001125996-0600",
+  "frame_timestamp": 1770682287079,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210001126_249829lp_SDB543C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210001126_249829.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210001126_249829lp_SDB543C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDB543C",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    1101,
+    120,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDB543C",
+  "plateUnicode": "SDB543C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770682287079,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.444136142730713,
+    "coordinates": [
+      752,
+      0,
+      824,
+      314
+    ],
+    "model": "Cayenne/Cayenne Coupe/Cayenne E-Hybrid Coupe",
+    "type": "SUV"
+  }
+}

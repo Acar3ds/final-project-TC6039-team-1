@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772055024017,
+  "carID": 130390,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 153028137",
+  "datetimezone": "20260225 213023089-0600",
+  "frame_timestamp": 1772055024017,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225203010_402452/20260225213023_340436lp_RWS229C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225203010_402452/20260225213023_340436.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225203010_402452/20260225213023_340436lp_RWS229C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWS229C",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1188,
+    165,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWS229C",
+  "plateUnicode": "RWS229C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772055024017,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.604866981506348,
+    "coordinates": [
+      864,
+      0,
+      756,
+      314
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

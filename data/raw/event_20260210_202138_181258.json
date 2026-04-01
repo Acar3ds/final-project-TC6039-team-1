@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770754880773,
+  "carID": 92565,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 142125150",
+  "datetimezone": "20260210 202120105-0600",
+  "frame_timestamp": 1770754880773,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210202120_342117lp_RNU476C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210202120_342117.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210202120_342117lp_RNU476C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNU476C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1467,
+    354,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNU476C",
+  "plateUnicode": "RNU476C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770754880773,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8935433626174927,
+    "coordinates": [
+      1040,
+      0,
+      872,
+      506
+    ],
+    "model": "Mohave",
+    "type": "SUV"
+  }
+}

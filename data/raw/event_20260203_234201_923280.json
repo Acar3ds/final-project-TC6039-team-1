@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770162104720,
+  "carID": 76479,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 174149695",
+  "datetimezone": "20260203 234144580-0600",
+  "frame_timestamp": 1770162104720,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203234144_787178lp_SAV964A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203234144_787178.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203234144_787178lp_SAV964A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAV964A",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    1272,
+    186,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAV964A",
+  "plateUnicode": "SAV964A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770162104720,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4706393480300903,
+    "coordinates": [
+      844,
+      6,
+      912,
+      374
+    ],
+    "model": "SL-Class/SL-Class AMG",
+    "type": "CAR"
+  }
+}

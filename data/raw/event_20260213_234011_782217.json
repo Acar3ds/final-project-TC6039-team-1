@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771025992458,
+  "carID": 101253,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 173957323",
+  "datetimezone": "20260213 233952274-0600",
+  "frame_timestamp": 1771025992458,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213233952_527505lp_L0701A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213233952_527505.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213233952_527505lp_L0701A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "L0701A",
+  "plateConfidence": 0.8059895634651184,
+  "plateCoordinates": [
+    1002,
+    90,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "L0701A",
+  "plateUnicode": "L0701A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771025992458,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 34.720558166503906,
+    "coordinates": [
+      668,
+      0,
+      796,
+      314
+    ],
+    "model": "Bipper/Expert",
+    "type": "VAN"
+  }
+}

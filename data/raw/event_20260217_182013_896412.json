@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771352398114,
+  "carID": 109632,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 121958581",
+  "datetimezone": "20260217 181953525-0600",
+  "frame_timestamp": 1771352398114,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217181953_706008lp_RMN388C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217181953_706008.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217181953_706008lp_RMN388C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMN388C",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    972,
+    105,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMN388C",
+  "plateUnicode": "RMN388C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771352398114,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 48.00929641723633,
+    "coordinates": [
+      636,
+      2,
+      788,
+      238
+    ],
+    "model": "Zafira",
+    "type": "VAN"
+  }
+}

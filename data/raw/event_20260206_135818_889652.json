@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770386281468,
+  "carID": 82343,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 075806218",
+  "datetimezone": "20260206 135801166-0600",
+  "frame_timestamp": 1770386281468,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206135801_374515lp_TGG523A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206135801_374515.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206135801_374515lp_TGG523A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGG523A",
+  "plateConfidence": 0.8158482313156128,
+  "plateCoordinates": [
+    1149,
+    150,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGG523A",
+  "plateUnicode": "TGG523A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770386281468,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.756509780883789,
+    "coordinates": [
+      840,
+      0,
+      720,
+      300
+    ],
+    "model": "Ibiza/Ibiza Cupra",
+    "type": "CAR"
+  }
+}

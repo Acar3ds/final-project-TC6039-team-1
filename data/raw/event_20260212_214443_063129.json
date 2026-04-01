@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770932665137,
+  "carID": 98091,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 154429345",
+  "datetimezone": "20260212 214424288-0600",
+  "frame_timestamp": 1770932665137,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212214424_545491lp_SEV567C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212214424_545491.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212214424_545491lp_SEV567C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEV567C",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    1176,
+    156,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEV567C",
+  "plateUnicode": "SEV567C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770932665137,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.448001861572266,
+    "coordinates": [
+      844,
+      0,
+      780,
+      320
+    ],
+    "model": "Prius/Prius Plug-In",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772125153728,
+  "carID": 132395,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 105918186",
+  "datetimezone": "20260226 165913130-0600",
+  "frame_timestamp": 1772125153728,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226162501_672087/20260226165913_383337lp_RN2975A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226162501_672087/20260226165913_383337.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226162501_672087/20260226165913_383337lp_RN2975A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RN2975A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1245,
+    168,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RN2975A",
+  "plateUnicode": "RN2975A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772125153728,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.534505605697632,
+    "coordinates": [
+      932,
+      0,
+      740,
+      356
+    ],
+    "model": "S-10",
+    "type": "SUV"
+  }
+}

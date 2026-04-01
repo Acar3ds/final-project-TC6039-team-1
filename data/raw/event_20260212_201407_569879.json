@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770927229291,
+  "carID": 97810,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 141354096",
+  "datetimezone": "20260212 201348985-0600",
+  "frame_timestamp": 1770927229291,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212201349_246031lp_SAP742A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212201349_246031.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212201349_246031lp_SAP742A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAP742A",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    873,
+    114,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAP742A",
+  "plateUnicode": "SAP742A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770927229291,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.910205841064453,
+    "coordinates": [
+      564,
+      2,
+      724,
+      268
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

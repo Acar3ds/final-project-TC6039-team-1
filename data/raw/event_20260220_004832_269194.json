@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771548492322,
+  "carID": 116102,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 184816911",
+  "datetimezone": "20260220 004811861-0600",
+  "frame_timestamp": 1771548492322,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220004812_112050lp_STV811B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220004812_112050.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220004812_112050lp_STV811B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STV811B",
+  "plateConfidence": 0.7890625,
+  "plateCoordinates": [
+    828,
+    108,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STV811B",
+  "plateUnicode": "STV811B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771548492322,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9372361898422241,
+    "coordinates": [
+      528,
+      0,
+      720,
+      254
+    ],
+    "model": "Primera",
+    "type": "CAR"
+  }
+}

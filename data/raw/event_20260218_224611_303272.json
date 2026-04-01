@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771454751189,
+  "carID": 113066,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 164555919",
+  "datetimezone": "20260218 224550869-0600",
+  "frame_timestamp": 1771454751189,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218224551_115733lp_TFX913B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218224551_115733.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218224551_115733lp_TFX913B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFX913B",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    957,
+    180,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFX913B",
+  "plateUnicode": "TFX913B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771454751189,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.863323211669922,
+    "coordinates": [
+      608,
+      2,
+      840,
+      382
+    ],
+    "model": "RAV4",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770301667507,
+  "carID": 79888,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 082752408",
+  "datetimezone": "20260205 142747362-0600",
+  "frame_timestamp": 1770301667507,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205142747_641504lp_TGG545B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205142747_641504.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205142747_641504lp_TGG545B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGG545B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1170,
+    180,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGG545B",
+  "plateUnicode": "TGG545B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770301667507,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.2753665447235107,
+    "coordinates": [
+      828,
+      0,
+      816,
+      324
+    ],
+    "model": "Altima",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770235697623,
+  "carID": 78342,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 140820649",
+  "datetimezone": "20260204 200815597-0600",
+  "frame_timestamp": 1770235697623,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204200815_833370lp_TFR987B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204200815_833370.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204200815_833370lp_TFR987B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFR987B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1047,
+    111,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFR987B",
+  "plateUnicode": "TFR987B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770235697623,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.27077579498291,
+    "coordinates": [
+      704,
+      0,
+      832,
+      314
+    ],
+    "model": "X4/X4 M",
+    "type": "SUV"
+  }
+}

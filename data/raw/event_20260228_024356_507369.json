@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772246617477,
+  "carID": 136956,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 204340147",
+  "datetimezone": "20260228 024335098-0600",
+  "frame_timestamp": 1772246617477,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228020851_94363/20260228024335_325849lp_RKL802A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228020851_94363/20260228024335_325849.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228020851_94363/20260228024335_325849lp_RKL802A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKL802A",
+  "plateConfidence": 0.8203125,
+  "plateCoordinates": [
+    1134,
+    129,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKL802A",
+  "plateUnicode": "RKL802A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772246617477,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.208319664001465,
+    "coordinates": [
+      808,
+      0,
+      784,
+      392
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

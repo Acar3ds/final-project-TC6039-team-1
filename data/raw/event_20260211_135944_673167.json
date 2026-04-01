@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770818366731,
+  "carID": 94072,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 075931479",
+  "datetimezone": "20260211 135926438-0600",
+  "frame_timestamp": 1770818366731,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211135926_737648lp_TAB787A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211135926_737648.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211135926_737648lp_TAB787A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAB787A",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    873,
+    156,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAB787A",
+  "plateUnicode": "TAB787A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770818366731,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.997776985168457,
+    "coordinates": [
+      564,
+      0,
+      740,
+      284
+    ],
+    "model": "Tiida/Versa",
+    "type": "CAR"
+  }
+}

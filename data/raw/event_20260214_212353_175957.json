@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771104214743,
+  "carID": 103334,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 152338537",
+  "datetimezone": "20260214 212333469-0600",
+  "frame_timestamp": 1771104214743,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212333_698609lp_SYW235B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212333_698609.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212333_698609lp_SYW235B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYW235B",
+  "plateConfidence": 0.7321428656578064,
+  "plateCoordinates": [
+    810,
+    591,
+    162,
+    84
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    162,
+    84
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYW235B",
+  "plateUnicode": "SYW235B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771104214743,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.62127685546875,
+    "coordinates": [
+      460,
+      0,
+      908,
+      744
+    ],
+    "model": "SL-Class/SL-Class AMG",
+    "type": "CAR"
+  }
+}

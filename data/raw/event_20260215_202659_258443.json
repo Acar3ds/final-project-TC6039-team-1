@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771187199854,
+  "carID": 105055,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 142644781",
+  "datetimezone": "20260215 202639708-0600",
+  "frame_timestamp": 1771187199854,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215202640_10415lp_SVB097B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215202640_10415.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215202640_10415lp_SVB097B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVB097B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1134,
+    183,
+    138,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVB097B",
+  "plateUnicode": "SVB097B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771187199854,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lamborghini",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.726309776306152,
+    "coordinates": [
+      0,
+      170,
+      1392,
+      904
+    ],
+    "model": "Huracan",
+    "type": "CAR"
+  }
+}

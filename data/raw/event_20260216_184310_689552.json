@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771267371144,
+  "carID": 107046,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 124255700",
+  "datetimezone": "20260216 184250647-0600",
+  "frame_timestamp": 1771267371144,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216184250_904927lp_TFJ355A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216184250_904927.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216184250_904927lp_TFJ355A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFJ355A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1104,
+    120,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFJ355A",
+  "plateUnicode": "TFJ355A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771267371144,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6586005687713623,
+    "coordinates": [
+      660,
+      0,
+      856,
+      324
+    ],
+    "model": "Colt",
+    "type": "CAR"
+  }
+}

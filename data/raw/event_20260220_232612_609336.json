@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771629952306,
+  "carID": 118899,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 172557049",
+  "datetimezone": "20260220 232551993-0600",
+  "frame_timestamp": 1771629952306,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220232552_233866lp_STN927A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220232552_233866.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220232552_233866lp_STN927A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STN927A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1197,
+    168,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STN927A",
+  "plateUnicode": "STN927A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771629952306,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.90464973449707,
+    "coordinates": [
+      864,
+      0,
+      812,
+      372
+    ],
+    "model": "Q2/SQ2",
+    "type": "SUV"
+  }
+}

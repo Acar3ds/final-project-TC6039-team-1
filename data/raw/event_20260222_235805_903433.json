@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771804664175,
+  "carID": 123028,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 175749067",
+  "datetimezone": "20260222 235744010-0600",
+  "frame_timestamp": 1771804664175,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222235744_232600lp_TED053B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222235744_232600.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222235744_232600lp_TED053B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TED053B",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    822,
+    105,
+    129,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TED053B",
+  "plateUnicode": "TED053B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771804664175,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6963950395584106,
+    "coordinates": [
+      504,
+      0,
+      748,
+      242
+    ],
+    "model": "MC20",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771512965236,
+  "carID": 114517,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 085608062",
+  "datetimezone": "20260219 145603004-0600",
+  "frame_timestamp": 1771512965236,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219142259_457820/20260219145603_325700lp_WGX916A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219142259_457820/20260219145603_325700.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219142259_457820/20260219145603_325700lp_WGX916A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "WGX916A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    906,
+    120,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "WGX916A",
+  "plateUnicode": "WGX916A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771512965236,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.65825080871582,
+    "coordinates": [
+      560,
+      0,
+      824,
+      308
+    ],
+    "model": "Bronco Sport",
+    "type": "SUV"
+  }
+}

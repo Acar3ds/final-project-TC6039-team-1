@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771776589667,
+  "carID": 122257,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 100954089",
+  "datetimezone": "20260222 160949034-0600",
+  "frame_timestamp": 1771776589667,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160949_323086lp_TAD807A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160949_323086.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160949_323086lp_TAD807A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAD807A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1197,
+    198,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAD807A",
+  "plateUnicode": "TAD807A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771776589667,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.611970901489258,
+    "coordinates": [
+      872,
+      0,
+      780,
+      374
+    ],
+    "model": "Equinox/Traverse",
+    "type": "SUV"
+  }
+}

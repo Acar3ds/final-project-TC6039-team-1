@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771342067767,
+  "carID": 109194,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 092750071",
+  "datetimezone": "20260217 152745016-0600",
+  "frame_timestamp": 1771342067767,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152745_221363lp_RG7858B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152745_221363.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152745_221363lp_RG7858B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RG7858B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    951,
+    87,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RG7858B",
+  "plateUnicode": "RG7858B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771342067767,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.252846717834473,
+    "coordinates": [
+      572,
+      0,
+      892,
+      254
+    ],
+    "model": "Tundra",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770669895506,
+  "carID": 90058,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 144500270",
+  "datetimezone": "20260209 204455206-0600",
+  "frame_timestamp": 1770669895506,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209204115_562174/20260209204455_413077lp_TCM376B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209204115_562174/20260209204455_413077.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209204115_562174/20260209204455_413077lp_TCM376B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCM376B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1041,
+    138,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCM376B",
+  "plateUnicode": "TCM376B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770669895506,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5585440397262573,
+    "coordinates": [
+      728,
+      0,
+      756,
+      282
+    ],
+    "model": "Accent/Solaris",
+    "type": "CAR"
+  }
+}

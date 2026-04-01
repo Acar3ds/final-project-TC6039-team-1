@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771030302079,
+  "carID": 101448,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 185146526",
+  "datetimezone": "20260214 005141473-0600",
+  "frame_timestamp": 1771030302079,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214005141_723952lp_RXF999C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214005141_723952.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214005141_723952lp_RXF999C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXF999C",
+  "plateConfidence": 0.7857142686843872,
+  "plateCoordinates": [
+    1089,
+    144,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RXF999C",
+  "plateUnicode": "RXF999C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771030302079,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6624436378479004,
+    "coordinates": [
+      752,
+      0,
+      800,
+      386
+    ],
+    "model": "Crossfire",
+    "type": "CAR"
+  }
+}

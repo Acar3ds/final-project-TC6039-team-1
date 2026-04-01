@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771661107982,
+  "carID": 119791,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 020512139",
+  "datetimezone": "20260221 080507048-0600",
+  "frame_timestamp": 1771661107982,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221054601_696844/20260221080507_319042lp_RWM911C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221054601_696844/20260221080507_319042.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221054601_696844/20260221080507_319042lp_RWM911C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWM911C",
+  "plateConfidence": 0.8046875,
+  "plateCoordinates": [
+    1104,
+    114,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWM911C",
+  "plateUnicode": "RWM911C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771661107982,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.7946062088012695,
+    "coordinates": [
+      816,
+      0,
+      812,
+      312
+    ],
+    "model": "Altea",
+    "type": "VAN"
+  }
+}

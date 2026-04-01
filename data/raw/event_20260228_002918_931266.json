@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772238539353,
+  "carID": 136569,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 182902553",
+  "datetimezone": "20260228 002857502-0600",
+  "frame_timestamp": 1772238539353,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228002857_860000lp_SLS884B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228002857_860000.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228002857_860000lp_SLS884B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLS884B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    870,
+    126,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLS884B",
+  "plateUnicode": "SLS884B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772238539353,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.56098747253418,
+    "coordinates": [
+      600,
+      0,
+      688,
+      248
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

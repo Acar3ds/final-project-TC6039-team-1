@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770678930482,
+  "carID": 90446,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 171534770",
+  "datetimezone": "20260209 231529723-0600",
+  "frame_timestamp": 1770678930482,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209224516_893810/20260209231529_966375lp_WFP5026.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209224516_893810/20260209231529_966375.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209224516_893810/20260209231529_966375lp_WFP5026.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "WFP5026",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    1008,
+    195,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "GRC",
+  "plateText": "WFP5026",
+  "plateUnicode": "WFP5026",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770678930482,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.732391357421875,
+    "coordinates": [
+      684,
+      0,
+      784,
+      284
+    ],
+    "model": "C-Class/C-Class AMG",
+    "type": "CAR"
+  }
+}

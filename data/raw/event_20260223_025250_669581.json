@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771815149794,
+  "carID": 123328,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 205233589",
+  "datetimezone": "20260223 025228525-0600",
+  "frame_timestamp": 1771815149794,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223025228_812812lp_RVU775C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223025228_812812.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223025228_812812lp_RVU775C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVU775C",
+  "plateConfidence": 0.8158482313156128,
+  "plateCoordinates": [
+    1233,
+    168,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RVU775C",
+  "plateUnicode": "RVU775C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771815149794,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.539854049682617,
+    "coordinates": [
+      856,
+      0,
+      852,
+      380
+    ],
+    "model": "XT4/XT5/XT6",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771086666098,
+  "carID": 102576,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 103108071",
+  "datetimezone": "20260214 163103016-0600",
+  "frame_timestamp": 1771086666098,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214163103_267350lp_TGY623B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214163103_267350.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214163103_267350lp_TGY623B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGY623B",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    870,
+    87,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGY623B",
+  "plateUnicode": "TGY623B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771086666098,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.811776161193848,
+    "coordinates": [
+      492,
+      0,
+      872,
+      258
+    ],
+    "model": "718 Boxster/718 Cayman/718 Cayman GT4/718 Cayman GT4 RS/718 Spyder",
+    "type": "CAR"
+  }
+}

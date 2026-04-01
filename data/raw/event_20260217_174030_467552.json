@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771350012892,
+  "carID": 109542,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 114015450",
+  "datetimezone": "20260217 174010396-0600",
+  "frame_timestamp": 1771350012892,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217174010_641123lp_SFG287B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217174010_641123.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217174010_641123lp_SFG287B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFG287B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    954,
+    117,
+    126,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFG287B",
+  "plateUnicode": "SFG287B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771350012892,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.258079528808594,
+    "coordinates": [
+      624,
+      0,
+      736,
+      236
+    ],
+    "model": "Utility/Orlando",
+    "type": "VAN"
+  }
+}

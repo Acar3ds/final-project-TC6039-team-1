@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771778272584,
+  "carID": 122291,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 103756036",
+  "datetimezone": "20260222 163750982-0600",
+  "frame_timestamp": 1771778272584,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222163751_205927lp_SAE022C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222163751_205927.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222163751_205927lp_SAE022C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAE022C",
+  "plateConfidence": 0.8337053656578064,
+  "plateCoordinates": [
+    972,
+    162,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAE022C",
+  "plateUnicode": "SAE022C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771778272584,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1690421104431152,
+    "coordinates": [
+      628,
+      0,
+      828,
+      326
+    ],
+    "model": "Tourneo Connect",
+    "type": "VAN"
+  }
+}

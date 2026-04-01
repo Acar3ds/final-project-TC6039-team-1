@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771594360972,
+  "carID": 116936,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 073244570",
+  "datetimezone": "20260220 133239515-0600",
+  "frame_timestamp": 1771594360972,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220130759_735457/20260220133239_807219lp_RUH860B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220130759_735457/20260220133239_807219.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220130759_735457/20260220133239_807219lp_RUH860B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUH860B",
+  "plateConfidence": 0.8805803656578064,
+  "plateCoordinates": [
+    1020,
+    99,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUH860B",
+  "plateUnicode": "RUH860B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771594360972,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.881420135498047,
+    "coordinates": [
+      680,
+      0,
+      808,
+      264
+    ],
+    "model": "CR-V",
+    "type": "SUV"
+  }
+}

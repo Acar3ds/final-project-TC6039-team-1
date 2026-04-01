@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771201739947,
+  "carID": 105461,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 182904512",
+  "datetimezone": "20260216 002859461-0600",
+  "frame_timestamp": 1771201739947,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216002859_714130lp_BB767D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216002859_714130.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216002859_714130lp_BB767D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "BB767D",
+  "plateConfidence": 0.8567708134651184,
+  "plateCoordinates": [
+    1068,
+    114,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "BB767D",
+  "plateUnicode": "BB767D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771201739947,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.2857424020767212,
+    "coordinates": [
+      728,
+      0,
+      804,
+      300
+    ],
+    "model": "Oroch/Duster",
+    "type": "PICKUPTRUCK"
+  }
+}

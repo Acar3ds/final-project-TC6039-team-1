@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771106942298,
+  "carID": 103444,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 160906365",
+  "datetimezone": "20260214 220901321-0600",
+  "frame_timestamp": 1771106942298,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214220901_586204lp_SAP270B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214220901_586204.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214220901_586204lp_SAP270B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAP270B",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1041,
+    126,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAP270B",
+  "plateUnicode": "SAP270B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771106942298,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.959916114807129,
+    "coordinates": [
+      732,
+      0,
+      720,
+      266
+    ],
+    "model": "Ibiza/Leon/Leon Cupra R/Toledo",
+    "type": "CAR"
+  }
+}

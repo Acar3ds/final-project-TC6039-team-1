@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770506756981,
+  "carID": 86337,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 172600173",
+  "datetimezone": "20260207 232555119-0600",
+  "frame_timestamp": 1770506756981,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207232555_352760lp_RWU680C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207232555_352760.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207232555_352760lp_RWU680C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWU680C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1005,
+    114,
+    132,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWU680C",
+  "plateUnicode": "RWU680C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770506756981,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.75160026550293,
+    "coordinates": [
+      676,
+      0,
+      776,
+      276
+    ],
+    "model": "Range Rover",
+    "type": "SUV"
+  }
+}

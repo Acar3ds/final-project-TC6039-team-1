@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771104635246,
+  "carID": 103350,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 153040142",
+  "datetimezone": "20260214 213035091-0600",
+  "frame_timestamp": 1771104635246,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214213035_345160lp_SGX349A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214213035_345160.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214213035_345160lp_SGX349A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGX349A",
+  "plateConfidence": 0.8816964030265808,
+  "plateCoordinates": [
+    1188,
+    216,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGX349A",
+  "plateUnicode": "SGX349A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771104635246,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.988953113555908,
+    "coordinates": [
+      844,
+      2,
+      804,
+      358
+    ],
+    "model": "Auris/Corolla",
+    "type": "CAR"
+  }
+}

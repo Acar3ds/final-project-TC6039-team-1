@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770299674509,
+  "carID": 79773,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 075438427",
+  "datetimezone": "20260205 135433372-0600",
+  "frame_timestamp": 1770299674509,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205135433_597873lp_SRT922B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205135433_597873.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205135433_597873lp_SRT922B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRT922B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1050,
+    135,
+    126,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRT922B",
+  "plateUnicode": "SRT922B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770299674509,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.430861473083496,
+    "coordinates": [
+      724,
+      0,
+      760,
+      276
+    ],
+    "model": "Kicks",
+    "type": "SUV"
+  }
+}

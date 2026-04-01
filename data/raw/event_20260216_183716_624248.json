@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771267021332,
+  "carID": 107028,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 123701615",
+  "datetimezone": "20260216 183656565-0600",
+  "frame_timestamp": 1771267021332,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216183656_828837lp_SSH869B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216183656_828837.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216183656_828837lp_SSH869B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSH869B",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    879,
+    78,
+    129,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSH869B",
+  "plateUnicode": "SSH869B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771267021332,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 18.49014663696289,
+    "coordinates": [
+      572,
+      0,
+      736,
+      236
+    ],
+    "model": "911 GT3/911 GT6/911 R",
+    "type": "CAR"
+  }
+}

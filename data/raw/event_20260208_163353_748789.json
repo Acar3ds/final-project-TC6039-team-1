@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770568416119,
+  "carID": 87342,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 103341012",
+  "datetimezone": "20260208 163335963-0600",
+  "frame_timestamp": 1770568416119,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208163336_241884lp_RE4530A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208163336_241884.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208163336_241884lp_RE4530A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RE4530A",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1452,
+    213,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RE4530A",
+  "plateUnicode": "RE4530A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770568416119,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.956785798072815,
+    "coordinates": [
+      960,
+      0,
+      952,
+      428
+    ],
+    "model": "Tundra",
+    "type": "PICKUPTRUCK"
+  }
+}

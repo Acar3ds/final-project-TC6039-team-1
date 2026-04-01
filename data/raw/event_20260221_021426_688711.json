@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771640048598,
+  "carID": 119343,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 201411069",
+  "datetimezone": "20260221 021406014-0600",
+  "frame_timestamp": 1771640048598,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221014935_262115/20260221021406_300970lp_SUH6048.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221014935_262115/20260221021406_300970.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221014935_262115/20260221021406_300970lp_SUH6048.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDP604B",
+  "plateConfidence": 0.7555803656578064,
+  "plateCoordinates": [
+    948,
+    135,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDP604B",
+  "plateUnicode": "SDP604B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771640048598,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.927769184112549,
+    "coordinates": [
+      620,
+      0,
+      780,
+      378
+    ],
+    "model": "Acadia/Terrain",
+    "type": "SUV"
+  }
+}

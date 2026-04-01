@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770736827730,
+  "carID": 91744,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 092032345",
+  "datetimezone": "20260210 152027292-0600",
+  "frame_timestamp": 1770736827730,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210152027_541712lp_SNN057A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210152027_541712.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210152027_541712lp_SNN057A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SNN057A",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1014,
+    99,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SNN057A",
+  "plateUnicode": "SNN057A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770736827730,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9917465448379517,
+    "coordinates": [
+      700,
+      0,
+      736,
+      264
+    ],
+    "model": "Ertiga/Swift",
+    "type": "CAR"
+  }
+}

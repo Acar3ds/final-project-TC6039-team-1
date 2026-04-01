@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771277318093,
+  "carID": 107536,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 152842113",
+  "datetimezone": "20260216 212837062-0600",
+  "frame_timestamp": 1771277318093,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216205642_447172/20260216212837_304520lp_SAB110C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216205642_447172/20260216212837_304520.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216205642_447172/20260216212837_304520lp_SAB110C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAB110C",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    825,
+    120,
+    132,
+    33
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    33
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAB110C",
+  "plateUnicode": "SAB110C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771277318093,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9987447261810303,
+    "coordinates": [
+      524,
+      0,
+      732,
+      240
+    ],
+    "model": "Attrage",
+    "type": "CAR"
+  }
+}

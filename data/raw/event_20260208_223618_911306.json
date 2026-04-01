@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770590159226,
+  "carID": 87948,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 163602989",
+  "datetimezone": "20260208 223557937-0600",
+  "frame_timestamp": 1770590159226,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208223558_184650lp_SCD046C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208223558_184650.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208223558_184650lp_SCD046C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCD046C",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1173,
+    165,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCD046C",
+  "plateUnicode": "SCD046C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770590159226,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Isuzu",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.344579696655273,
+    "coordinates": [
+      804,
+      2,
+      852,
+      334
+    ],
+    "model": "Elf",
+    "type": "TRUCK"
+  }
+}

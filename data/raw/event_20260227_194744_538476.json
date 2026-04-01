@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772221643317,
+  "carID": 135755,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 134728081",
+  "datetimezone": "20260227 194723025-0600",
+  "frame_timestamp": 1772221643317,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227194549_246149/20260227194723_291857lp_SPW530B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227194549_246149/20260227194723_291857.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227194549_246149/20260227194723_291857lp_SPW530B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPW530B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    945,
+    96,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SPW530B",
+  "plateUnicode": "SPW530B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772221643317,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9808732271194458,
+    "coordinates": [
+      624,
+      0,
+      780,
+      246
+    ],
+    "model": "Altima",
+    "type": "CAR"
+  }
+}

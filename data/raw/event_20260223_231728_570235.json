@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771888628666,
+  "carID": 125416,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 171711810",
+  "datetimezone": "20260223 231706760-0600",
+  "frame_timestamp": 1771888628666,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260223231706_987085lp_SCU682B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260223231706_987085.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260223231706_987085lp_SCU682B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCU682B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1056,
+    132,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCU682B",
+  "plateUnicode": "SCU682B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771888628666,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9374077320098877,
+    "coordinates": [
+      724,
+      6,
+      784,
+      284
+    ],
+    "model": "C-Class/C-Class AMG",
+    "type": "CAR"
+  }
+}

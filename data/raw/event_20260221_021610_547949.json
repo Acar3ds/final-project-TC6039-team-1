@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771640153210,
+  "carID": 119348,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 201554824",
+  "datetimezone": "20260221 021549762-0600",
+  "frame_timestamp": 1771640153210,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221014935_262115/20260221021550_47885lp_RWE255C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221014935_262115/20260221021550_47885.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221014935_262115/20260221021550_47885lp_RWE255C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWE255C",
+  "plateConfidence": 0.7555803656578064,
+  "plateCoordinates": [
+    915,
+    96,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWE255C",
+  "plateUnicode": "RWE255C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771640153210,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.7952561378479,
+    "coordinates": [
+      588,
+      0,
+      788,
+      374
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

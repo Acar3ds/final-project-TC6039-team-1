@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771115968428,
+  "carID": 103756,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 183933093",
+  "datetimezone": "20260215 003927995-0600",
+  "frame_timestamp": 1771115968428,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215003928_217870lp_TDL940H.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215003928_217870.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215003928_217870lp_TDL940H.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DL940B",
+  "plateConfidence": 0.7265625,
+  "plateCoordinates": [
+    876,
+    138,
+    123,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    63
+  ],
+  "plateCountry": "NLD",
+  "plateText": "DL940B",
+  "plateUnicode": "DL940B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771115968428,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.97355318069458,
+    "coordinates": [
+      540,
+      0,
+      792,
+      288
+    ],
+    "model": "Nivus/Taos/Taigo",
+    "type": "SUV"
+  }
+}

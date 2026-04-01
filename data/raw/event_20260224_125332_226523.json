@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "BEL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771937595229,
+  "carID": 126179,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 065316333",
+  "datetimezone": "20260224 125311276-0600",
+  "frame_timestamp": 1771937595229,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224124240_499062/20260224125311_565624lp_SZT763.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224124240_499062/20260224125311_565624.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224124240_499062/20260224125311_565624lp_SZT763.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZT763",
+  "plateConfidence": 0.8411458134651184,
+  "plateCoordinates": [
+    975,
+    99,
+    132,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    51
+  ],
+  "plateCountry": "BEL",
+  "plateText": "SZT763",
+  "plateUnicode": "SZT763",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771937595229,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 29.95554542541504,
+    "coordinates": [
+      636,
+      0,
+      804,
+      260
+    ],
+    "model": "CT4/CT4-V/CT5/CT5-V/CT6",
+    "type": "CAR"
+  }
+}

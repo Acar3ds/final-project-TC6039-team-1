@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771362684281,
+  "carID": 110099,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 151128918",
+  "datetimezone": "20260217 211123860-0600",
+  "frame_timestamp": 1771362684281,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217211124_85978lp_SXJ418A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217211124_85978.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217211124_85978lp_SXJ418A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXJ418A",
+  "plateConfidence": 0.7912946343421936,
+  "plateCoordinates": [
+    1020,
+    162,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXJ418A",
+  "plateUnicode": "SXJ418A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771362684281,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4223780632019043,
+    "coordinates": [
+      692,
+      0,
+      788,
+      288
+    ],
+    "model": "Fit",
+    "type": "CAR"
+  }
+}

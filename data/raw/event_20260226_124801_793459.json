@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772110062253,
+  "carID": 131553,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 064745550",
+  "datetimezone": "20260226 124740501-0600",
+  "frame_timestamp": 1772110062253,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226124740_762809lp_RSU211B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226124740_762809.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226124740_762809lp_RSU211B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSU211B",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    999,
+    120,
+    132,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSU211B",
+  "plateUnicode": "RSU211B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772110062253,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.4125871658325195,
+    "coordinates": [
+      668,
+      0,
+      792,
+      254
+    ],
+    "model": "Fiorino",
+    "type": "VAN"
+  }
+}

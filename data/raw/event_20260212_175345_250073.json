@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770918807285,
+  "carID": 97413,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 115331860",
+  "datetimezone": "20260212 175326814-0600",
+  "frame_timestamp": 1770918807285,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212175327_54020lp_TGS055B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212175327_54020.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212175327_54020lp_TGS055B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGS055B",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    879,
+    105,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGS055B",
+  "plateUnicode": "TGS055B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770918807285,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8532755374908447,
+    "coordinates": [
+      560,
+      0,
+      764,
+      290
+    ],
+    "model": "Patriot",
+    "type": "SUV"
+  }
+}

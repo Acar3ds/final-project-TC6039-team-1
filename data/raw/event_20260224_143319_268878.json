@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771943578985,
+  "carID": 126508,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 083303154",
+  "datetimezone": "20260224 143258104-0600",
+  "frame_timestamp": 1771943578985,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224143258_306773lp_0941C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224143258_306773.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224143258_306773lp_0941C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "ICANODECV",
+  "plateConfidence": 0.7065972089767456,
+  "plateCoordinates": [
+    474,
+    243,
+    210,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    210,
+    75
+  ],
+  "plateCountry": "ESP",
+  "plateText": "ICANODECV",
+  "plateUnicode": "ICANODECV",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771943578985,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.789559364318848,
+    "coordinates": [
+      60,
+      0,
+      1644,
+      1076
+    ],
+    "model": "F-550/F-450/F-350/F-250",
+    "type": "PICKUPTRUCK"
+  }
+}

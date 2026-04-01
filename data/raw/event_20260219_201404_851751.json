@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771532025195,
+  "carID": 115399,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 141349324",
+  "datetimezone": "20260219 201344270-0600",
+  "frame_timestamp": 1771532025195,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219201344_497276lp_TFP124A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219201344_497276.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219201344_497276lp_TFP124A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFP124A",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1011,
+    111,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFP124A",
+  "plateUnicode": "TFP124A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771532025195,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.968137741088867,
+    "coordinates": [
+      692,
+      0,
+      760,
+      288
+    ],
+    "model": "Sharan/Touran",
+    "type": "VAN"
+  }
+}

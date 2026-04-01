@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771642025609,
+  "carID": 119407,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 204710388",
+  "datetimezone": "20260221 024705333-0600",
+  "frame_timestamp": 1771642025609,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221014935_262115/20260221024705_598775lp_SSV543B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221014935_262115/20260221024705_598775.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221014935_262115/20260221024705_598775lp_SSV543B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSV543B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    921,
+    93,
+    129,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSV543B",
+  "plateUnicode": "SSV543B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771642025609,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Citroen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.113264083862305,
+    "coordinates": [
+      604,
+      0,
+      768,
+      284
+    ],
+    "model": "Nemo/C5 Aircross",
+    "type": "VAN"
+  }
+}

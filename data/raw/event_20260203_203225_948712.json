@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770150730060,
+  "carID": 76025,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 143213965",
+  "datetimezone": "20260203 203208913-0600",
+  "frame_timestamp": 1770150730060,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203195559_87411/20260203203209_142114lp_RYC514C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203195559_87411/20260203203209_142114.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203195559_87411/20260203203209_142114lp_RYC514C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYC514C",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    867,
+    102,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYC514C",
+  "plateUnicode": "RYC514C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770150730060,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9421048164367676,
+    "coordinates": [
+      560,
+      0,
+      752,
+      314
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

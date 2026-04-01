@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770937613128,
+  "carID": 98294,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 170657302",
+  "datetimezone": "20260212 230652257-0600",
+  "frame_timestamp": 1770937613128,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212230652_554211lp_RDU505C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212230652_554211.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212230652_554211lp_RDU505C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RDU505C",
+  "plateConfidence": 0.8158482313156128,
+  "plateCoordinates": [
+    1062,
+    180,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RDU505C",
+  "plateUnicode": "RDU505C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770937613128,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.29112434387207,
+    "coordinates": [
+      708,
+      0,
+      828,
+      342
+    ],
+    "model": "GLK-Class",
+    "type": "SUV"
+  }
+}

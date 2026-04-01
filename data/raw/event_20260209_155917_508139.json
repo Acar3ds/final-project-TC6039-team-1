@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770652740518,
+  "carID": 89289,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 095904558",
+  "datetimezone": "20260209 155859503-0600",
+  "frame_timestamp": 1770652740518,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209155859_742307lp_SBB847C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209155859_742307.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209155859_742307lp_SBB847C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBB847C",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1005,
+    135,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBB847C",
+  "plateUnicode": "SBB847C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770652740518,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.854616165161133,
+    "coordinates": [
+      580,
+      0,
+      880,
+      294
+    ],
+    "model": "R8",
+    "type": "CAR"
+  }
+}

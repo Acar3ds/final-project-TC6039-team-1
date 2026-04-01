@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770994969874,
+  "carID": 99797,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 090254768",
+  "datetimezone": "20260213 150249717-0600",
+  "frame_timestamp": 1770994969874,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213150249_978718lp_RSD349C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213150249_978718.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213150249_978718lp_RSD349C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSD349C",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    1161,
+    261,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSD349C",
+  "plateUnicode": "RSD349C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770994969874,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.429180145263672,
+    "coordinates": [
+      824,
+      0,
+      800,
+      420
+    ],
+    "model": "Sharan/Touran",
+    "type": "VAN"
+  }
+}

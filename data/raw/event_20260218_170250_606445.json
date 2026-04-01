@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771434151079,
+  "carID": 112080,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 110235218",
+  "datetimezone": "20260218 170230165-0600",
+  "frame_timestamp": 1771434151079,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218165218_623545/20260218170230_439552lp_TFR477B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218165218_623545/20260218170230_439552.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218165218_623545/20260218170230_439552lp_TFR477B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFR477B",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    1536,
+    228,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFR477B",
+  "plateUnicode": "TFR477B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771434151079,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.0845308303833,
+    "coordinates": [
+      1004,
+      0,
+      912,
+      392
+    ],
+    "model": "A3/RS3/S3",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770334173857,
+  "carID": 81368,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 172938599",
+  "datetimezone": "20260205 232933545-0600",
+  "frame_timestamp": 1770334173857,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205232933_788571lp_RUS695C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205232933_788571.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205232933_788571lp_RUS695C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUS695C",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    948,
+    126,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUS695C",
+  "plateUnicode": "RUS695C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770334173857,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9821860790252686,
+    "coordinates": [
+      744,
+      2,
+      708,
+      340
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

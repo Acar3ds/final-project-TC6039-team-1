@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770403106469,
+  "carID": 83156,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 123828060",
+  "datetimezone": "20260206 183823012-0600",
+  "frame_timestamp": 1770403106469,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206183823_367721lp_3PR9810B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206183823_367721.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206183823_367721lp_3PR9810B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "3PR9810B",
+  "plateConfidence": 0.794921875,
+  "plateCoordinates": [
+    864,
+    96,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "3PR9810B",
+  "plateUnicode": "3PR9810B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770403106469,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.276367664337158,
+    "coordinates": [
+      356,
+      0,
+      1016,
+      260
+    ],
+    "model": "SRX",
+    "type": "SUV"
+  }
+}

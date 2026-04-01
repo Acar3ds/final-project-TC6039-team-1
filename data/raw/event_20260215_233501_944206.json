@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771198482672,
+  "carID": 105366,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 173447087",
+  "datetimezone": "20260215 233442033-0600",
+  "frame_timestamp": 1771198482672,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215233442_284211lp_SVT654A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215233442_284211.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215233442_284211lp_SVT654A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVT654A",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    939,
+    93,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVT654A",
+  "plateUnicode": "SVT654A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771198482672,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.4908881187438965,
+    "coordinates": [
+      632,
+      2,
+      740,
+      238
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

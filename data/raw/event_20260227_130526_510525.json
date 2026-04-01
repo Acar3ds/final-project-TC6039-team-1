@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772197508612,
+  "carID": 134496,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 070510197",
+  "datetimezone": "20260227 130505139-0600",
+  "frame_timestamp": 1772197508612,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227123752_499152/20260227130505_374634lp_041S912.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227123752_499152/20260227130505_374634.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227123752_499152/20260227130505_374634lp_041S912.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "41S912",
+  "plateConfidence": 0.8307291865348816,
+  "plateCoordinates": [
+    984,
+    126,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "GRC",
+  "plateText": "41S912",
+  "plateUnicode": "41S912",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772197508612,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5210195779800415,
+    "coordinates": [
+      612,
+      0,
+      864,
+      308
+    ],
+    "model": "Corsa/Corsa-e",
+    "type": "CAR"
+  }
+}

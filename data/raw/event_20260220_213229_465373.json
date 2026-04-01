@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771623130266,
+  "carID": 118584,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 153214193",
+  "datetimezone": "20260220 213209128-0600",
+  "frame_timestamp": 1771623130266,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220213209_421411lp_TGR177B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220213209_421411.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220213209_421411lp_TGR177B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGR177B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    972,
+    111,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGR177B",
+  "plateUnicode": "TGR177B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771623130266,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.700996398925781,
+    "coordinates": [
+      632,
+      2,
+      792,
+      264
+    ],
+    "model": "ZR-V",
+    "type": "SUV"
+  }
+}

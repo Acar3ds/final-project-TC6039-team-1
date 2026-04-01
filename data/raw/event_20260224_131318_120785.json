@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771938778178,
+  "carID": 126242,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 071302247",
+  "datetimezone": "20260224 131257203-0600",
+  "frame_timestamp": 1771938778178,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224124240_499062/20260224131257_425080lp_TCT779U.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224124240_499062/20260224131257_425080.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224124240_499062/20260224131257_425080lp_TCT779U.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCI779U",
+  "plateConfidence": 0.6116071343421936,
+  "plateCoordinates": [
+    888,
+    108,
+    135,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    75
+  ],
+  "plateCountry": "ITA",
+  "plateText": "TCI779U",
+  "plateUnicode": "TCI779U",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771938778178,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.346982955932617,
+    "coordinates": [
+      544,
+      0,
+      804,
+      284
+    ],
+    "model": "Arkana/Koleos/Megane/Megane RS",
+    "type": "CAR"
+  }
+}

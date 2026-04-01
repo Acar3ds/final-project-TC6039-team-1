@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771863697315,
+  "carID": 124311,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 102140850",
+  "datetimezone": "20260223 162135798-0600",
+  "frame_timestamp": 1771863697315,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223162136_62888lp_SWX305A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223162136_62888.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223162136_62888lp_SWX305A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWX305A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1017,
+    129,
+    126,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWX305A",
+  "plateUnicode": "SWX305A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771863697315,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.42159652709961,
+    "coordinates": [
+      636,
+      0,
+      804,
+      276
+    ],
+    "model": "Zafira",
+    "type": "VAN"
+  }
+}

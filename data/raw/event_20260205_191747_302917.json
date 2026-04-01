@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770319051705,
+  "carID": 80694,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 131735047",
+  "datetimezone": "20260205 191729988-0600",
+  "frame_timestamp": 1770319051705,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205191730_263461lp_SLM546A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205191730_263461.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205191730_263461lp_SLM546A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLM546A",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    885,
+    78,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLM546A",
+  "plateUnicode": "SLM546A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770319051705,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.0423922538757324,
+    "coordinates": [
+      580,
+      0,
+      760,
+      218
+    ],
+    "model": "EQE SUV/EQE SUV AMG/EQS SUV",
+    "type": "SUV"
+  }
+}

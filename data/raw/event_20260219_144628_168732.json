@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "MKD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771512368267,
+  "carID": 114481,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 084612995",
+  "datetimezone": "20260219 144607947-0600",
+  "frame_timestamp": 1771512368267,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219142259_457820/20260219144608_200667lp_SWH251A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219142259_457820/20260219144608_200667.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219142259_457820/20260219144608_200667lp_SWH251A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWH251A",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1176,
+    189,
+    135,
+    42
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    42
+  ],
+  "plateCountry": "MKD",
+  "plateText": "SWH251A",
+  "plateUnicode": "SWH251A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771512368267,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9804906845092773,
+    "coordinates": [
+      836,
+      0,
+      792,
+      338
+    ],
+    "model": "Kicks",
+    "type": "SUV"
+  }
+}

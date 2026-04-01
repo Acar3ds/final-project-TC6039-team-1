@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770564223214,
+  "carID": 87260,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 092348269",
+  "datetimezone": "20260208 152343214-0600",
+  "frame_timestamp": 1770564223214,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208080221_874747/20260208152343_374971lp_SET262A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208080221_874747/20260208152343_374971.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208080221_874747/20260208152343_374971lp_SET262A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SET262A",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    1140,
+    114,
+    114,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    114,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SET262A",
+  "plateUnicode": "SET262A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770564223214,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Citroen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.46765944361686707,
+    "coordinates": [
+      836,
+      0,
+      488,
+      260
+    ],
+    "model": "Nemo/C5 Aircross",
+    "type": "VAN"
+  }
+}

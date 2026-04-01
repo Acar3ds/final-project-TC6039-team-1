@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771104108963,
+  "carID": 103330,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 152152603",
+  "datetimezone": "20260214 212147549-0600",
+  "frame_timestamp": 1771104108963,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212147_814087lp_RKZ825C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212147_814087.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212147_814087lp_RKZ825C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKZ825C",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    927,
+    126,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKZ825C",
+  "plateUnicode": "RKZ825C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771104108963,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BYD",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.802989959716797,
+    "coordinates": [
+      600,
+      0,
+      816,
+      308
+    ],
+    "model": "Qin Plus/Qin Pro DM",
+    "type": "CAR"
+  }
+}

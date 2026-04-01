@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771251176522,
+  "carID": 106302,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 081301079",
+  "datetimezone": "20260216 141256028-0600",
+  "frame_timestamp": 1771251176522,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216134239_644835/20260216141256_290242lp_GDT4220.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216134239_644835/20260216141256_290242.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216134239_644835/20260216141256_290242lp_GDT4220.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "GDT4220",
+  "plateConfidence": 0.7834821343421936,
+  "plateCoordinates": [
+    849,
+    171,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "ITA",
+  "plateText": "GDT4220",
+  "plateUnicode": "GDT4220",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771251176522,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.622236967086792,
+    "coordinates": [
+      512,
+      0,
+      824,
+      336
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

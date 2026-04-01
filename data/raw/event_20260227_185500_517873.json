@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772218479437,
+  "carID": 135576,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 125444162",
+  "datetimezone": "20260227 185439102-0600",
+  "frame_timestamp": 1772218479437,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227185439_353999lp_SUY991A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227185439_353999.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227185439_353999lp_SUY991A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUY991A",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1071,
+    153,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUY991A",
+  "plateUnicode": "SUY991A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772218479437,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9972357749938965,
+    "coordinates": [
+      432,
+      2,
+      1176,
+      568
+    ],
+    "model": "Gladiator/Wrangler Unlimited/Wrangler Rubicon 392/Wrangler",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771553107668,
+  "carID": 116310,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 200509604",
+  "datetimezone": "20260220 020504544-0600",
+  "frame_timestamp": 1771553107668,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220020504_822049lp_SXX004B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220020504_822049.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220020504_822049lp_SXX004B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXX004B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1080,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXX004B",
+  "plateUnicode": "SXX004B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771553107668,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Alfa Romeo",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 313.8231506347656,
+    "coordinates": [
+      752,
+      2,
+      772,
+      318
+    ],
+    "model": "Giulietta",
+    "type": "CAR"
+  }
+}

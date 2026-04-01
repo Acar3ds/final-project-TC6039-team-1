@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771509662295,
+  "carID": 114311,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 080107010",
+  "datetimezone": "20260219 140101954-0600",
+  "frame_timestamp": 1771509662295,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140102_222994lp_DPG341.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140102_222994.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140102_222994lp_DPG341.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DPG341G",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    849,
+    93,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "DPG341G",
+  "plateUnicode": "DPG341G",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771509662295,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7235629558563232,
+    "coordinates": [
+      524,
+      0,
+      780,
+      308
+    ],
+    "model": "HR-V",
+    "type": "SUV"
+  }
+}

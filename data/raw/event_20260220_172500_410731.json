@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771608280005,
+  "carID": 117746,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 112444758",
+  "datetimezone": "20260220 172439707-0600",
+  "frame_timestamp": 1771608280005,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220172439_979585lp_SFN955C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220172439_979585.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220172439_979585lp_SFN955C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFN955C",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1197,
+    132,
+    126,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFN955C",
+  "plateUnicode": "SFN955C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771608280005,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.3698679208755493,
+    "coordinates": [
+      816,
+      0,
+      812,
+      348
+    ],
+    "model": "New Beetle",
+    "type": "CAR"
+  }
+}

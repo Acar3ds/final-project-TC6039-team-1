@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771782908239,
+  "carID": 122410,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 115512797",
+  "datetimezone": "20260222 175507742-0600",
+  "frame_timestamp": 1771782908239,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222175507_945119lp_M440R.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222175507_945119.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222175507_945119lp_M440R.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SME444B",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    930,
+    198,
+    144,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SME444B",
+  "plateUnicode": "SME444B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771782908239,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.667720317840576,
+    "coordinates": [
+      600,
+      0,
+      780,
+      368
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

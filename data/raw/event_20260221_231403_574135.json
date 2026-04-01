@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771715624144,
+  "carID": 121228,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 171347974",
+  "datetimezone": "20260221 231342917-0600",
+  "frame_timestamp": 1771715624144,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221231343_196306lp_RMB201C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221231343_196306.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221231343_196306lp_RMB201C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMB201C",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1101,
+    165,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RMB201C",
+  "plateUnicode": "RMB201C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771715624144,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.213921070098877,
+    "coordinates": [
+      788,
+      0,
+      780,
+      374
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

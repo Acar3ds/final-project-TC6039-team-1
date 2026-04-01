@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771732318756,
+  "carID": 121844,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 215201744",
+  "datetimezone": "20260222 035156689-0600",
+  "frame_timestamp": 1771732318756,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222025221_594855/20260222035156_927890lp_TFS369B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222025221_594855/20260222035156_927890.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222025221_594855/20260222035156_927890lp_TFS369B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFS369B",
+  "plateConfidence": 0.8091517686843872,
+  "plateCoordinates": [
+    1116,
+    153,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFS369B",
+  "plateUnicode": "TFS369B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771732318756,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.8443454504013062,
+    "coordinates": [
+      800,
+      0,
+      776,
+      384
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

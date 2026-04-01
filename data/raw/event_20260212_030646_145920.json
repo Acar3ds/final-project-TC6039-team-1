@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770865588633,
+  "carID": 96219,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 210632814",
+  "datetimezone": "20260212 030627756-0600",
+  "frame_timestamp": 1770865588633,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212020849_343485/20260212030628_8212lp_SCB315A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212020849_343485/20260212030628_8212.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212020849_343485/20260212030628_8212lp_SCB315A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCB315A",
+  "plateConfidence": 0.7444196343421936,
+  "plateCoordinates": [
+    1008,
+    117,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCB315A",
+  "plateUnicode": "SCB315A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770865588633,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.97971773147583,
+    "coordinates": [
+      676,
+      0,
+      768,
+      330
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

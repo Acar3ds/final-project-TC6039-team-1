@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770213968705,
+  "carID": 77382,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 080613629",
+  "datetimezone": "20260204 140608575-0600",
+  "frame_timestamp": 1770213968705,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204140608_867829lp_TFB842B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204140608_867829.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204140608_867829lp_TFB842B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFB842B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    906,
+    81,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFB842B",
+  "plateUnicode": "TFB842B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770213968705,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.262818455696106,
+    "coordinates": [
+      572,
+      0,
+      804,
+      248
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

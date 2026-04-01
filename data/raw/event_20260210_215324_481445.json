@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770760387619,
+  "carID": 92832,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 155311306",
+  "datetimezone": "20260210 215306249-0600",
+  "frame_timestamp": 1770760387619,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210213354_978965/20260210215306_491947lp_SRL534B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210213354_978965/20260210215306_491947.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210213354_978965/20260210215306_491947lp_SRL534B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRL534B",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    1032,
+    150,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRL534B",
+  "plateUnicode": "SRL534B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770760387619,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.52719783782959,
+    "coordinates": [
+      720,
+      0,
+      744,
+      276
+    ],
+    "model": "Camaro",
+    "type": "CAR"
+  }
+}

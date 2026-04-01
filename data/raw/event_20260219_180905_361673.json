@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771524525319,
+  "carID": 115034,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 120850051",
+  "datetimezone": "20260219 180845008-0600",
+  "frame_timestamp": 1771524525319,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219175830_625279/20260219180845_273071lp_RKF913B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219175830_625279/20260219180845_273071.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219175830_625279/20260219180845_273071lp_RKF913B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKF913B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1032,
+    153,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKF913B",
+  "plateUnicode": "RKF913B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771524525319,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.995543122291565,
+    "coordinates": [
+      676,
+      0,
+      816,
+      344
+    ],
+    "model": "Murano/Rogue",
+    "type": "SUV"
+  }
+}

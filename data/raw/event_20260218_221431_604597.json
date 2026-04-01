@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771452851731,
+  "carID": 112993,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 161416438",
+  "datetimezone": "20260218 221411381-0600",
+  "frame_timestamp": 1771452851731,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218221411_670669lp_SZK193A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218221411_670669.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218221411_670669lp_SZK193A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZK193A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    927,
+    135,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZK193A",
+  "plateUnicode": "SZK193A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771452851731,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.372326135635376,
+    "coordinates": [
+      600,
+      0,
+      788,
+      318
+    ],
+    "model": "Trax",
+    "type": "SUV"
+  }
+}

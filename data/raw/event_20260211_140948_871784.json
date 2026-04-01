@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770818970882,
+  "carID": 94117,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 080935632",
+  "datetimezone": "20260211 140930576-0600",
+  "frame_timestamp": 1770818970882,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211140930_816402lp_STP824B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211140930_816402.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211140930_816402lp_STP824B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STP824B",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    963,
+    99,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STP824B",
+  "plateUnicode": "STP824B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770818970882,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9172697067260742,
+    "coordinates": [
+      672,
+      0,
+      716,
+      284
+    ],
+    "model": "Fullback/Freemont",
+    "type": "PICKUPTRUCK"
+  }
+}

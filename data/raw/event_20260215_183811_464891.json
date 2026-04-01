@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771180671951,
+  "carID": 104896,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 123756853",
+  "datetimezone": "20260215 183751804-0600",
+  "frame_timestamp": 1771180671951,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215183752_70618lp_SWM701A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215183752_70618.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215183752_70618lp_SWM701A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWM701A",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1107,
+    126,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWM701A",
+  "plateUnicode": "SWM701A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771180671951,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9878265857696533,
+    "coordinates": [
+      712,
+      0,
+      828,
+      320
+    ],
+    "model": "Swift",
+    "type": "CAR"
+  }
+}

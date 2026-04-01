@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770215764697,
+  "carID": 77500,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 083609320",
+  "datetimezone": "20260204 143604270-0600",
+  "frame_timestamp": 1770215764697,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204141124_133267/20260204143604_501770lp_RSJ597B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204141124_133267/20260204143604_501770.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204141124_133267/20260204143604_501770lp_RSJ597B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSJ597B",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    975,
+    93,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSJ597B",
+  "plateUnicode": "RSJ597B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770215764697,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9855527877807617,
+    "coordinates": [
+      676,
+      2,
+      744,
+      262
+    ],
+    "model": "Passat/Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

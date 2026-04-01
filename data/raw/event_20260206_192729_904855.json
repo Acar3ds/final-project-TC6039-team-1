@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770406032721,
+  "carID": 83357,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 132717453",
+  "datetimezone": "20260206 192712400-0600",
+  "frame_timestamp": 1770406032721,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192712_617256lp_SWL615B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192712_617256.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192712_617256lp_SWL615B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWL615B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    909,
+    225,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWL615B",
+  "plateUnicode": "SWL615B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770406032721,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5590367317199707,
+    "coordinates": [
+      552,
+      0,
+      852,
+      398
+    ],
+    "model": "Tacoma",
+    "type": "PICKUPTRUCK"
+  }
+}

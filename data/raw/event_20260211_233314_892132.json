@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770852778364,
+  "carID": 95737,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 173301643",
+  "datetimezone": "20260211 233256595-0600",
+  "frame_timestamp": 1770852778364,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211233256_903392lp_T2779B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211233256_903392.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211233256_903392lp_T2779B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "T2779B",
+  "plateConfidence": 0.8658854365348816,
+  "plateCoordinates": [
+    1308,
+    807,
+    180,
+    87
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    180,
+    87
+  ],
+  "plateCountry": "ESP",
+  "plateText": "T2779B",
+  "plateUnicode": "T2779B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770852778364,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.167564392089844,
+    "coordinates": [
+      864,
+      0,
+      1044,
+      968
+    ],
+    "model": "Meriva/Meriva OPC",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770763348760,
+  "carID": 92935,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 164233496",
+  "datetimezone": "20260210 224228446-0600",
+  "frame_timestamp": 1770763348760,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210213354_978965/20260210224228_686791lp_TGF744A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210213354_978965/20260210224228_686791.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210213354_978965/20260210224228_686791lp_TGF744A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGF744A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1023,
+    168,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGF744A",
+  "plateUnicode": "TGF744A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770763348760,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6401333808898926,
+    "coordinates": [
+      708,
+      0,
+      752,
+      300
+    ],
+    "model": "Freed/Odyssey",
+    "type": "VAN"
+  }
+}

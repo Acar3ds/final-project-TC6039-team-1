@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770303473456,
+  "carID": 80006,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 085758373",
+  "datetimezone": "20260205 145753313-0600",
+  "frame_timestamp": 1770303473456,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205144108_864629/20260205145753_557048lp_TES524B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205144108_864629/20260205145753_557048.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205144108_864629/20260205145753_557048lp_TES524B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TES524B",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1038,
+    171,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TES524B",
+  "plateUnicode": "TES524B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770303473456,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0927574634552,
+    "coordinates": [
+      688,
+      0,
+      812,
+      342
+    ],
+    "model": "Renegade",
+    "type": "SUV"
+  }
+}

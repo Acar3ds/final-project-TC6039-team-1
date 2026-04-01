@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771891786825,
+  "carID": 125540,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 180950889",
+  "datetimezone": "20260224 000945835-0600",
+  "frame_timestamp": 1771891786825,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260224000946_83317lp_TFE320B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260224000946_83317.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260224000946_83317lp_TFE320B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFE320B",
+  "plateConfidence": 0.8058035969734192,
+  "plateCoordinates": [
+    1047,
+    177,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFE320B",
+  "plateUnicode": "TFE320B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771891786825,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.442573547363281,
+    "coordinates": [
+      744,
+      0,
+      824,
+      336
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

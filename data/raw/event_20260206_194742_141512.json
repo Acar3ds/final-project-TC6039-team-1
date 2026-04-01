@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770407246408,
+  "carID": 83423,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 134729557",
+  "datetimezone": "20260206 194724502-0600",
+  "frame_timestamp": 1770407246408,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206194724_732126lp_SRL924A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206194724_732126.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206194724_732126lp_SRL924A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRL924A",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    918,
+    132,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRL924A",
+  "plateUnicode": "SRL924A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770407246408,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.974875450134277,
+    "coordinates": [
+      600,
+      2,
+      764,
+      298
+    ],
+    "model": "Auris/Corolla",
+    "type": "CAR"
+  }
+}

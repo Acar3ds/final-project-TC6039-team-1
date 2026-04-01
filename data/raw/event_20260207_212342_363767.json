@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770499404835,
+  "carID": 86047,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 152329583",
+  "datetimezone": "20260207 212324537-0600",
+  "frame_timestamp": 1770499404835,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207212324_784955lp_SMN255A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207212324_784955.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207212324_784955lp_SMN255A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMN255A",
+  "plateConfidence": 0.8850446343421936,
+  "plateCoordinates": [
+    846,
+    123,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMN255A",
+  "plateUnicode": "SMN255A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770499404835,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volvo",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.969939947128296,
+    "coordinates": [
+      512,
+      0,
+      808,
+      306
+    ],
+    "model": "XC40/XC60",
+    "type": "SUV"
+  }
+}

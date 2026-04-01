@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770398538293,
+  "carID": 82946,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 112221574",
+  "datetimezone": "20260206 172216523-0600",
+  "frame_timestamp": 1770398538293,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206172216_860813lp_5PV8917B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206172216_860813.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206172216_860813lp_5PV8917B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PV8917B",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    840,
+    93,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PV8917B",
+  "plateUnicode": "PV8917B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770398538293,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.710012912750244,
+    "coordinates": [
+      492,
+      0,
+      828,
+      458
+    ],
+    "model": "Discovery",
+    "type": "SUV"
+  }
+}

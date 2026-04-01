@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772039257849,
+  "carID": 129645,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 110741368",
+  "datetimezone": "20260225 170736304-0600",
+  "frame_timestamp": 1772039257849,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225170736_516767lp_PR4862A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225170736_516767.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225170736_516767lp_PR4862A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PR4862A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    996,
+    108,
+    135,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    54
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PR4862A",
+  "plateUnicode": "PR4862A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772039257849,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.915801048278809,
+    "coordinates": [
+      680,
+      0,
+      804,
+      404
+    ],
+    "model": "Ranger",
+    "type": "SUV"
+  }
+}

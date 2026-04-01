@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770999293291,
+  "carID": 100001,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 101457887",
+  "datetimezone": "20260213 161452830-0600",
+  "frame_timestamp": 1770999293291,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213161453_5020lp_RH5915.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213161453_5020.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213161453_5020lp_RH5915.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RH5915",
+  "plateConfidence": 0.8333333134651184,
+  "plateCoordinates": [
+    954,
+    138,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RH5915",
+  "plateUnicode": "RH5915",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770999293291,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hino",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.4206128120422363,
+    "coordinates": [
+      624,
+      0,
+      768,
+      294
+    ],
+    "model": "195/195h/300 Series",
+    "type": "TRUCK"
+  }
+}

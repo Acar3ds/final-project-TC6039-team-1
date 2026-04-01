@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771802916368,
+  "carID": 122962,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 172841278",
+  "datetimezone": "20260222 232836229-0600",
+  "frame_timestamp": 1771802916368,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222232836_489076lp_SJT192A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222232836_489076.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222232836_489076lp_SJT192A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJT192A",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1266,
+    171,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJT192A",
+  "plateUnicode": "SJT192A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771802916368,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9866275787353516,
+    "coordinates": [
+      908,
+      0,
+      804,
+      330
+    ],
+    "model": "A1/A1 Citycarver",
+    "type": "CAR"
+  }
+}

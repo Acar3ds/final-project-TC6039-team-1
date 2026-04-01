@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772135858527,
+  "carID": 132883,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 135743300",
+  "datetimezone": "20260226 195738249-0600",
+  "frame_timestamp": 1772135858527,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226195738_494024lp_RTN418B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226195738_494024.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226195738_494024lp_RTN418B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTN418B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    972,
+    162,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTN418B",
+  "plateUnicode": "RTN418B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772135858527,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8357748985290527,
+    "coordinates": [
+      668,
+      0,
+      720,
+      336
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

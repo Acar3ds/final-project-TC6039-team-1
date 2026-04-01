@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771022116779,
+  "carID": 101081,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 163521098",
+  "datetimezone": "20260213 223516051-0600",
+  "frame_timestamp": 1771022116779,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213223516_269523lp_SUV792B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213223516_269523.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213223516_269523lp_SUV792B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUV792B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1185,
+    234,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "SUV792B",
+  "plateUnicode": "SUV792B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771022116779,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.157806396484375,
+    "coordinates": [
+      848,
+      0,
+      788,
+      378
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

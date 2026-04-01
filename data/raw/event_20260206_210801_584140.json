@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770412064074,
+  "carID": 83664,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 150748992",
+  "datetimezone": "20260206 210743945-0600",
+  "frame_timestamp": 1770412064074,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206210744_131605lp_NLHH1.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206210744_131605.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206210744_131605lp_NLHH1.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "NLHH1",
+  "plateConfidence": 0.4281249940395355,
+  "plateCoordinates": [
+    1203,
+    618,
+    240,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    240,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "NLHH1",
+  "plateUnicode": "NLHH1",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770412064074,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9610884189605713,
+    "coordinates": [
+      596,
+      0,
+      1320,
+      1080
+    ],
+    "model": "Express",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771028001266,
+  "carID": 101353,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 181325999",
+  "datetimezone": "20260214 001320919-0600",
+  "frame_timestamp": 1771028001266,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214001321_143545lp_RD8240B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214001321_143545.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214001321_143545lp_RD8240B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RD8240B",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1074,
+    132,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RD8240B",
+  "plateUnicode": "RD8240B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771028001266,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.996957540512085,
+    "coordinates": [
+      696,
+      0,
+      876,
+      326
+    ],
+    "model": "Tacoma",
+    "type": "PICKUPTRUCK"
+  }
+}

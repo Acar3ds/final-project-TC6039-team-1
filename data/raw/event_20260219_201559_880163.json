@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771532139499,
+  "carID": 115411,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 141544411",
+  "datetimezone": "20260219 201539355-0600",
+  "frame_timestamp": 1771532139499,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219201539_629261lp_RYR118A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219201539_629261.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219201539_629261lp_RYR118A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYR118A",
+  "plateConfidence": 0.8191964030265808,
+  "plateCoordinates": [
+    1317,
+    144,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYR118A",
+  "plateUnicode": "RYR118A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771532139499,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9665567874908447,
+    "coordinates": [
+      924,
+      0,
+      864,
+      344
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

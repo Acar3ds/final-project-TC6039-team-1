@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771852278365,
+  "carID": 123688,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 071123010",
+  "datetimezone": "20260223 131117954-0600",
+  "frame_timestamp": 1771852278365,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223131118_196127lp_TFR907B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223131118_196127.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223131118_196127lp_TFR907B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFR907B",
+  "plateConfidence": 0.7165178656578064,
+  "plateCoordinates": [
+    1080,
+    105,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "TFR907B",
+  "plateUnicode": "TFR907B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771852278365,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.3450732231140137,
+    "coordinates": [
+      724,
+      0,
+      820,
+      296
+    ],
+    "model": "X3/X3 M",
+    "type": "SUV"
+  }
+}

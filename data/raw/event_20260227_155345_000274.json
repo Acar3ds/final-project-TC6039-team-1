@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GBR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772207603528,
+  "carID": 135082,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 095328584",
+  "datetimezone": "20260227 155323528-0600",
+  "frame_timestamp": 1772207603528,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227153326_47318/20260227155323_707637lp_A843M.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227153326_47318/20260227155323_707637.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227153326_47318/20260227155323_707637lp_A843M.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A843M",
+  "plateConfidence": 0.831250011920929,
+  "plateCoordinates": [
+    972,
+    867,
+    120,
+    36
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    36
+  ],
+  "plateCountry": "GBR",
+  "plateText": "A843M",
+  "plateUnicode": "A843M",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772207603528,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "YELLOW",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.4733828008174896,
+    "coordinates": [
+      448,
+      486,
+      1092,
+      594
+    ],
+    "model": "Titan/NP200/NP300/Navara",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770232511883,
+  "carID": 78199,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 131515400",
+  "datetimezone": "20260204 191510355-0600",
+  "frame_timestamp": 1770232511883,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204191510_621421lp_LB166B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204191510_621421.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204191510_621421lp_LB166B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLB166B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1494,
+    228,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLB166B",
+  "plateUnicode": "RLB166B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770232511883,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.74622917175293,
+    "coordinates": [
+      1016,
+      0,
+      900,
+      416
+    ],
+    "model": "Stepwgn",
+    "type": "VAN"
+  }
+}

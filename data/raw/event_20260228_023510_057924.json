@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772246090269,
+  "carID": 136937,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 203453615",
+  "datetimezone": "20260228 023448560-0600",
+  "frame_timestamp": 1772246090269,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228020851_94363/20260228023448_891981lp_SWL235A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228020851_94363/20260228023448_891981.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228020851_94363/20260228023448_891981lp_SWL235A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWL235A",
+  "plateConfidence": 0.7723214030265808,
+  "plateCoordinates": [
+    1005,
+    129,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWL235A",
+  "plateUnicode": "SWL235A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772246090269,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.080896377563477,
+    "coordinates": [
+      680,
+      2,
+      784,
+      382
+    ],
+    "model": "2008/2008 e",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771861781522,
+  "carID": 124235,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 094944780",
+  "datetimezone": "20260223 154939731-0600",
+  "frame_timestamp": 1771861781522,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223154939_996215lp_RZC533C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223154939_996215.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223154939_996215lp_RZC533C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZC533C",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1026,
+    120,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZC533C",
+  "plateUnicode": "RZC533C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771861781522,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.116353988647461,
+    "coordinates": [
+      708,
+      0,
+      764,
+      284
+    ],
+    "model": "ID.UNYX",
+    "type": "SUV"
+  }
+}

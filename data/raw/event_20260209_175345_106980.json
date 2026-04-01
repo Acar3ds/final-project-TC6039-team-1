@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770659608249,
+  "carID": 89567,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 115332105",
+  "datetimezone": "20260209 175327053-0600",
+  "frame_timestamp": 1770659608249,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209175327_313799lp_RKB575A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209175327_313799.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209175327_313799lp_RKB575A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKB575A",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    1038,
+    147,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RKB575A",
+  "plateUnicode": "RKB575A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770659608249,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.970525741577148,
+    "coordinates": [
+      684,
+      0,
+      840,
+      278
+    ],
+    "model": "XT4/XT5/XT6",
+    "type": "SUV"
+  }
+}

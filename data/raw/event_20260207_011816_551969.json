@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770427083646,
+  "carID": 84289,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 191804179",
+  "datetimezone": "20260207 011759126-0600",
+  "frame_timestamp": 1770427083646,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207010927_918451/20260207011759_303814lp_A22303R.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207010927_918451/20260207011759_303814.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207010927_918451/20260207011759_303814lp_A22303R.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A22303R",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    750,
+    123,
+    129,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    54
+  ],
+  "plateCountry": "ESP",
+  "plateText": "A22303R",
+  "plateUnicode": "A22303R",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770427083646,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 27.12315559387207,
+    "coordinates": [
+      288,
+      0,
+      904,
+      302
+    ],
+    "model": "Duna",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770246091829,
+  "carID": 78758,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 170136117",
+  "datetimezone": "20260204 230131062-0600",
+  "frame_timestamp": 1770246091829,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204230131_311856lp_TD4121.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204230131_311856.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204230131_311856lp_TD4121.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TD4121",
+  "plateConfidence": 0.8489583134651184,
+  "plateCoordinates": [
+    1140,
+    150,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "TD4121",
+  "plateUnicode": "TD4121",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770246091829,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.290904998779297,
+    "coordinates": [
+      828,
+      0,
+      740,
+      312
+    ],
+    "model": "Aygo/Yaris/Vitz",
+    "type": "CAR"
+  }
+}

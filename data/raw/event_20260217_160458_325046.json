@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771344278778,
+  "carID": 109308,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 100443243",
+  "datetimezone": "20260217 160438187-0600",
+  "frame_timestamp": 1771344278778,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217160438_447472lp_SAC203C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217160438_447472.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217160438_447472lp_SAC203C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAC203C",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1131,
+    129,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAC203C",
+  "plateUnicode": "SAC203C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771344278778,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6338083744049072,
+    "coordinates": [
+      720,
+      0,
+      860,
+      338
+    ],
+    "model": "Atlas",
+    "type": "TRUCK"
+  }
+}

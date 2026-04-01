@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771853564620,
+  "carID": 123744,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 073249008",
+  "datetimezone": "20260223 133243959-0600",
+  "frame_timestamp": 1771853564620,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223133244_245531lp_RTW773A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223133244_245531.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223133244_245531lp_RTW773A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTW773A",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    1032,
+    129,
+    129,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    72
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RTW773A",
+  "plateUnicode": "RTW773A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771853564620,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.989684104919434,
+    "coordinates": [
+      708,
+      2,
+      760,
+      274
+    ],
+    "model": "Accent/Solaris",
+    "type": "CAR"
+  }
+}

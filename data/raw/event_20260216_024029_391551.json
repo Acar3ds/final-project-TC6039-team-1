@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771209609654,
+  "carID": 105716,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 204014379",
+  "datetimezone": "20260216 024009331-0600",
+  "frame_timestamp": 1771209609654,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216020843_906484/20260216024009_584952lp_BKL802A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216020843_906484/20260216024009_584952.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216020843_906484/20260216024009_584952lp_BKL802A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKL802A",
+  "plateConfidence": 0.8102678656578064,
+  "plateCoordinates": [
+    1068,
+    132,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKL802A",
+  "plateUnicode": "RKL802A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771209609654,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Scion",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9813477993011475,
+    "coordinates": [
+      744,
+      0,
+      784,
+      332
+    ],
+    "model": "FR-S",
+    "type": "CAR"
+  }
+}

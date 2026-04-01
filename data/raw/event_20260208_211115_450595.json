@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770585057850,
+  "carID": 87785,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 151102592",
+  "datetimezone": "20260208 211057541-0600",
+  "frame_timestamp": 1770585057850,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208202942_789114/20260208211057_775006lp_RUP332B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208202942_789114/20260208211057_775006.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208202942_789114/20260208211057_775006lp_RUP332B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUP332B",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1128,
+    213,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUP332B",
+  "plateUnicode": "RUP332B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770585057850,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MINI",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2191567420959473,
+    "coordinates": [
+      816,
+      0,
+      752,
+      354
+    ],
+    "model": "One/Hatch/Clubman/Cabrio",
+    "type": "CAR"
+  }
+}

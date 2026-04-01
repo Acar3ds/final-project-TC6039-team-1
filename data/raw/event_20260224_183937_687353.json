@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771958357147,
+  "carID": 127216,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 123922054",
+  "datetimezone": "20260224 183917003-0600",
+  "frame_timestamp": 1771958357147,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224183917_262564lp_RTM901C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224183917_262564.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224183917_262564lp_RTM901C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTM901C",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    792,
+    90,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTM901C",
+  "plateUnicode": "RTM901C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771958357147,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 619.7928466796875,
+    "coordinates": [
+      468,
+      0,
+      792,
+      308
+    ],
+    "model": "911 GT3/911 GT6/911 R",
+    "type": "CAR"
+  }
+}

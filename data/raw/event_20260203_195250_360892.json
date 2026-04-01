@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770148353547,
+  "carID": 75908,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 135238439",
+  "datetimezone": "20260203 195233382-0600",
+  "frame_timestamp": 1770148353547,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203190822_645231/20260203195233_652538lp_SRT738A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203190822_645231/20260203195233_652538.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203190822_645231/20260203195233_652538lp_SRT738A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRT738A",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1089,
+    177,
+    141,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRT738A",
+  "plateUnicode": "SRT738A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770148353547,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.957378387451172,
+    "coordinates": [
+      728,
+      0,
+      844,
+      368
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

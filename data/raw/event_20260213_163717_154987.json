@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771000618174,
+  "carID": 100060,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 103702757",
+  "datetimezone": "20260213 163657710-0600",
+  "frame_timestamp": 1771000618174,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213163658_6443lp_SJC542A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213163658_6443.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213163658_6443lp_SJC542A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJC542A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    987,
+    102,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJC542A",
+  "plateUnicode": "SJC542A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771000618174,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3106675148010254,
+    "coordinates": [
+      640,
+      0,
+      812,
+      284
+    ],
+    "model": "RAV4",
+    "type": "SUV"
+  }
+}

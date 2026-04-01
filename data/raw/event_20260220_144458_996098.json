@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771598678888,
+  "carID": 117216,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 084443787",
+  "datetimezone": "20260220 144438720-0600",
+  "frame_timestamp": 1771598678888,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220144439_25376lp_RRH432C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220144439_25376.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220144439_25376lp_RRH432C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRH432C",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    1041,
+    159,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRH432C",
+  "plateUnicode": "RRH432C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771598678888,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9625047445297241,
+    "coordinates": [
+      708,
+      0,
+      792,
+      314
+    ],
+    "model": "A3/RS3/S3",
+    "type": "CAR"
+  }
+}

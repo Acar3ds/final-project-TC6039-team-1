@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771713736021,
+  "carID": 121158,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 164220936",
+  "datetimezone": "20260221 224215890-0600",
+  "frame_timestamp": 1771713736021,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221224216_115427lp_FNY335C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221224216_115427.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221224216_115427lp_FNY335C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FNY335C",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    954,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FNY335C",
+  "plateUnicode": "FNY335C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771713736021,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7623207569122314,
+    "coordinates": [
+      656,
+      0,
+      732,
+      252
+    ],
+    "model": "Figo",
+    "type": "CAR"
+  }
+}

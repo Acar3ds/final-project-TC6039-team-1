@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770505081437,
+  "carID": 86269,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 165806035",
+  "datetimezone": "20260207 225800980-0600",
+  "frame_timestamp": 1770505081437,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207225801_216132lp_SAR724C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207225801_216132.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207225801_216132lp_SAR724C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAR724C",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1047,
+    156,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAR724C",
+  "plateUnicode": "SAR724C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770505081437,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9985785484313965,
+    "coordinates": [
+      704,
+      0,
+      808,
+      330
+    ],
+    "model": "Taos",
+    "type": "SUV"
+  }
+}

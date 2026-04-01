@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "IRL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770571793604,
+  "carID": 87427,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 112957718",
+  "datetimezone": "20260208 172952654-0600",
+  "frame_timestamp": 1770571793604,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208172952_948995lp_42BE6R.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208172952_948995.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208172952_948995lp_42BE6R.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "42BE6R",
+  "plateConfidence": 0.8619791865348816,
+  "plateCoordinates": [
+    1200,
+    177,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "IRL",
+  "plateText": "42BE6R",
+  "plateUnicode": "42BE6R",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770571793604,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.467277526855469,
+    "coordinates": [
+      800,
+      0,
+      868,
+      422
+    ],
+    "model": "Frontier",
+    "type": "PICKUPTRUCK"
+  }
+}

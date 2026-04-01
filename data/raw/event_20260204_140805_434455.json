@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770214068537,
+  "carID": 77389,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 080753283",
+  "datetimezone": "20260204 140748232-0600",
+  "frame_timestamp": 1770214068537,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204140748_461055lp_RLZ522C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204140748_461055.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204140748_461055lp_RLZ522C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLZ522C",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1005,
+    90,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RLZ522C",
+  "plateUnicode": "RLZ522C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770214068537,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9993633031845093,
+    "coordinates": [
+      676,
+      0,
+      776,
+      252
+    ],
+    "model": "Trax",
+    "type": "SUV"
+  }
+}

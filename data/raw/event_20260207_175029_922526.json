@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770486612547,
+  "carID": 85471,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 115017144",
+  "datetimezone": "20260207 175012085-0600",
+  "frame_timestamp": 1770486612547,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207175012_334133lp_LJY4636.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207175012_334133.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207175012_334133lp_LJY4636.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "LJY4636",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    984,
+    99,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "LJY4636",
+  "plateUnicode": "LJY4636",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770486612547,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.90574312210083,
+    "coordinates": [
+      564,
+      0,
+      880,
+      410
+    ],
+    "model": "Escape/Kuga",
+    "type": "SUV"
+  }
+}

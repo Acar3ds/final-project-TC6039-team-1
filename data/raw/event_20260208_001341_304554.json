@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770509604121,
+  "carID": 86447,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 181328716",
+  "datetimezone": "20260208 001323664-0600",
+  "frame_timestamp": 1770509604121,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207233115_35296/20260208001323_889482lp_MDC911A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207233115_35296/20260208001323_889482.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207233115_35296/20260208001323_889482lp_MDC911A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "MDC911A",
+  "plateConfidence": 0.5948660969734192,
+  "plateCoordinates": [
+    1014,
+    261,
+    144,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    81
+  ],
+  "plateCountry": "FRA",
+  "plateText": "MDC911A",
+  "plateUnicode": "MDC911A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770509604121,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9995765686035156,
+    "coordinates": [
+      672,
+      0,
+      812,
+      416
+    ],
+    "model": "New Beetle",
+    "type": "CAR"
+  }
+}

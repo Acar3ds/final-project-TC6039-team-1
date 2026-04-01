@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770656447315,
+  "carID": 89449,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 110051240",
+  "datetimezone": "20260209 170046194-0600",
+  "frame_timestamp": 1770656447315,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209163521_658853/20260209170046_515117lp_3SXD704B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209163521_658853/20260209170046_515117.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209163521_658853/20260209170046_515117lp_3SXD704B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXD704B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1071,
+    111,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXD704B",
+  "plateUnicode": "SXD704B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770656447315,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.864745616912842,
+    "coordinates": [
+      764,
+      0,
+      744,
+      344
+    ],
+    "model": "Note",
+    "type": "CAR"
+  }
+}

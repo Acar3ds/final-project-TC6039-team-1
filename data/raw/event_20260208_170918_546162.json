@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770570543359,
+  "carID": 87393,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 110905907",
+  "datetimezone": "20260208 170900847-0600",
+  "frame_timestamp": 1770570543359,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208170901_102438lp_RTG448A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208170901_102438.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208170901_102438lp_RTG448A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTG448A",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1047,
+    102,
+    129,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTG448A",
+  "plateUnicode": "RTG448A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770570543359,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 26.053688049316406,
+    "coordinates": [
+      728,
+      2,
+      756,
+      262
+    ],
+    "model": "Acadia/Terrain",
+    "type": "SUV"
+  }
+}

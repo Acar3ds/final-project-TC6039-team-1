@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769124675038,
+  "carID": 865,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 173115352",
+  "datetimezone": "20260122 233115038-0600",
+  "frame_timestamp": 1769124675038,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122225956_631421/20260122233115_222465lp_SMH115B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122225956_631421/20260122233115_222465.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122225956_631421/20260122233115_222465lp_SMH115B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMH115B",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    699,
+    485,
+    225,
+    112
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    225,
+    112
+  ],
+  "plateCountry": "USA",
+  "plateText": "SMH115B",
+  "plateUnicode": "SMH115B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769124675038,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6601044535636902,
+    "coordinates": [
+      288,
+      0,
+      1068,
+      674
+    ],
+    "model": "Auris/Corolla/Avensis",
+    "type": "CAR"
+  }
+}

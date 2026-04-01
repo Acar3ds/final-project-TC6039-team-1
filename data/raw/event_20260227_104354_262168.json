@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772189014292,
+  "carID": 134380,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 044337974",
+  "datetimezone": "20260227 104332926-0600",
+  "frame_timestamp": 1772189014292,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227052001_878554/20260227104333_87123lp_A29713R.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227052001_878554/20260227104333_87123.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227052001_878554/20260227104333_87123lp_A29713R.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A29713R",
+  "plateConfidence": 0.8147321343421936,
+  "plateCoordinates": [
+    861,
+    99,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "A29713R",
+  "plateUnicode": "A29713R",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772189014292,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9981088638305664,
+    "coordinates": [
+      572,
+      0,
+      744,
+      236
+    ],
+    "model": "NV350 Caravan",
+    "type": "VAN"
+  }
+}

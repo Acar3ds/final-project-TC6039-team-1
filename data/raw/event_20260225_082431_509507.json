@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772007852780,
+  "carID": 128721,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 022415547",
+  "datetimezone": "20260225 082410453-0600",
+  "frame_timestamp": 1772007852780,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225034339_418757/20260225082410_719722lp_RWK429C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225034339_418757/20260225082410_719722.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225034339_418757/20260225082410_719722lp_RWK429C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWK429C",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    1191,
+    180,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RWK429C",
+  "plateUnicode": "RWK429C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772007852780,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.192200660705566,
+    "coordinates": [
+      852,
+      0,
+      844,
+      426
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

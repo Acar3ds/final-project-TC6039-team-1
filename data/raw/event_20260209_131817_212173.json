@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770643080647,
+  "carID": 88744,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 071804375",
+  "datetimezone": "20260209 131759318-0600",
+  "frame_timestamp": 1770643080647,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209124738_196063/20260209131759_573847lp_RD7552A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209124738_196063/20260209131759_573847.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209124738_196063/20260209131759_573847lp_RD7552A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RD7552A",
+  "plateConfidence": 0.8046875,
+  "plateCoordinates": [
+    903,
+    126,
+    141,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RD7552A",
+  "plateUnicode": "RD7552A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770643080647,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.996390342712402,
+    "coordinates": [
+      548,
+      0,
+      860,
+      312
+    ],
+    "model": "Duna",
+    "type": "CAR"
+  }
+}

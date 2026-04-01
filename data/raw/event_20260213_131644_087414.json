@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "BEL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770988585214,
+  "carID": 99383,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 071629816",
+  "datetimezone": "20260213 131624760-0600",
+  "frame_timestamp": 1770988585214,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213123616_549529/20260213131624_950434lp_NTU275.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213123616_549529/20260213131624_950434.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213123616_549529/20260213131624_950434lp_NTU275.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "NTU275",
+  "plateConfidence": 0.6575520634651184,
+  "plateCoordinates": [
+    1200,
+    177,
+    126,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    54
+  ],
+  "plateCountry": "BEL",
+  "plateText": "NTU275",
+  "plateUnicode": "NTU275",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770988585214,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9173426628112793,
+    "coordinates": [
+      792,
+      0,
+      848,
+      332
+    ],
+    "model": "Airtrek",
+    "type": "SUV"
+  }
+}

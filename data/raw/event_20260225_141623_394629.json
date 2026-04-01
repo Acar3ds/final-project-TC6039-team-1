@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772028963714,
+  "carID": 129104,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 081607411",
+  "datetimezone": "20260225 141602351-0600",
+  "frame_timestamp": 1772028963714,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225141602_629622lp_SBT205B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225141602_629622.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225141602_629622lp_SBT205B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBT205B",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    777,
+    141,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBT205B",
+  "plateUnicode": "SBT205B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772028963714,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.993151664733887,
+    "coordinates": [
+      444,
+      2,
+      760,
+      268
+    ],
+    "model": "Tiida/Versa",
+    "type": "CAR"
+  }
+}

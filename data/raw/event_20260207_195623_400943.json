@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770494165837,
+  "carID": 85827,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 135610726",
+  "datetimezone": "20260207 195605680-0600",
+  "frame_timestamp": 1770494165837,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207195605_940705lp_RLY370C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207195605_940705.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207195605_940705lp_RLY370C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLY370C",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1530,
+    312,
+    150,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLY370C",
+  "plateUnicode": "RLY370C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770494165837,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.080267906188965,
+    "coordinates": [
+      996,
+      0,
+      920,
+      492
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

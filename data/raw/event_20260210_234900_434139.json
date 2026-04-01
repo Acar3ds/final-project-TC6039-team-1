@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770767324308,
+  "carID": 93089,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 174847286",
+  "datetimezone": "20260210 234842215-0600",
+  "frame_timestamp": 1770767324308,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210234842_473592lp_PY7858A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210234842_473592.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210234842_473592lp_PY7858A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "P7858A",
+  "plateConfidence": 0.86328125,
+  "plateCoordinates": [
+    909,
+    141,
+    138,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "P7858A",
+  "plateUnicode": "P7858A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770767324308,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.026710510253906,
+    "coordinates": [
+      504,
+      0,
+      932,
+      270
+    ],
+    "model": "F-550/F-450/F-350/F-250",
+    "type": "PICKUPTRUCK"
+  }
+}

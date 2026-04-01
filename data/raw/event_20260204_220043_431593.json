@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770242428534,
+  "carID": 78631,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 160030966",
+  "datetimezone": "20260204 220025892-0600",
+  "frame_timestamp": 1770242428534,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204220026_65142lp_PU2880A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204220026_65142.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204220026_65142lp_PU2880A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PU2880A",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1230,
+    237,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "ITA",
+  "plateText": "PU2880A",
+  "plateUnicode": "PU2880A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770242428534,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.441462516784668,
+    "coordinates": [
+      828,
+      0,
+      944,
+      392
+    ],
+    "model": "Silverado",
+    "type": "PICKUPTRUCK"
+  }
+}

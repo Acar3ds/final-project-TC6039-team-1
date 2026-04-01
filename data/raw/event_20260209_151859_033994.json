@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770650322339,
+  "carID": 89173,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 091846250",
+  "datetimezone": "20260209 151841197-0600",
+  "frame_timestamp": 1770650322339,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209145246_406533/20260209151841_468123lp_SUN206B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209145246_406533/20260209151841_468123.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209145246_406533/20260209151841_468123lp_SUN206B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUN206B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1278,
+    210,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUN206B",
+  "plateUnicode": "SUN206B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770650322339,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Acura",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.787636756896973,
+    "coordinates": [
+      904,
+      0,
+      868,
+      374
+    ],
+    "model": "RDX",
+    "type": "SUV"
+  }
+}

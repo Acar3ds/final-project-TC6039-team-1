@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "CAN"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769000553757,
+  "carID": 130626,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260121 070234470",
+  "datetimezone": "20260121 130233757-0600",
+  "frame_timestamp": 1769000553757,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121130234_304618/20260121130234_370724lp_F696C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121130234_304618/20260121130234_370724.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121130234_304618/20260121130234_370724lp_F696C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "F696C",
+  "plateConfidence": 0.4403124749660492,
+  "plateCoordinates": [
+    2153,
+    176,
+    157,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    157,
+    43
+  ],
+  "plateCountry": "CAN",
+  "plateText": "F696C",
+  "plateUnicode": "F696C",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769000553757,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6234745979309082,
+    "coordinates": [
+      1960,
+      0,
+      532,
+      270
+    ],
+    "model": "Fiorino",
+    "type": "VAN"
+  }
+}

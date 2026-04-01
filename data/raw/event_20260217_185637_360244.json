@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771354577498,
+  "carID": 109742,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 125622406",
+  "datetimezone": "20260217 185617348-0600",
+  "frame_timestamp": 1771354577498,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217185617_597368lp_TDN866B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217185617_597368.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217185617_597368lp_TDN866B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDN866B",
+  "plateConfidence": 0.875,
+  "plateCoordinates": [
+    855,
+    96,
+    126,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDN866B",
+  "plateUnicode": "TDN866B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771354577498,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 113.4552001953125,
+    "coordinates": [
+      536,
+      0,
+      748,
+      284
+    ],
+    "model": "Focus/Focus RS/Focus ST",
+    "type": "CAR"
+  }
+}

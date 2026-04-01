@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771081427558,
+  "carID": 102401,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 090348849",
+  "datetimezone": "20260214 150343786-0600",
+  "frame_timestamp": 1771081427558,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214150343_975053lp_RH7480B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214150343_975053.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214150343_975053lp_RH7480B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RH7480B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    858,
+    87,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RH7480B",
+  "plateUnicode": "RH7480B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771081427558,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.49220085144043,
+    "coordinates": [
+      520,
+      2,
+      824,
+      232
+    ],
+    "model": "Suburban/Tahoe",
+    "type": "SUV"
+  }
+}

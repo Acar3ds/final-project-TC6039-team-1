@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770415737897,
+  "carID": 83828,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 160901652",
+  "datetimezone": "20260206 220856602-0600",
+  "frame_timestamp": 1770415737897,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206220856_831695lp_HCP095E.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206220856_831695.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206220856_831695lp_HCP095E.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "HCP095E",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    1143,
+    147,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "HCP095E",
+  "plateUnicode": "HCP095E",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770415737897,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.557988166809082,
+    "coordinates": [
+      832,
+      2,
+      736,
+      334
+    ],
+    "model": "Panda",
+    "type": "CAR"
+  }
+}

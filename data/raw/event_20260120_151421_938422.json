@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768922051356,
+  "carID": 123304,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 091412157",
+  "datetimezone": "20260120 151411356-0600",
+  "frame_timestamp": 1768922051356,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120150640_802130/20260120151412_77019lp_RMT391B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120150640_802130/20260120151412_77019.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120150640_802130/20260120151412_77019lp_RMT391B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMT391B",
+  "plateConfidence": 0.7377232313156128,
+  "plateCoordinates": [
+    2091,
+    7,
+    120,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    57
+  ],
+  "plateCountry": "USA",
+  "plateText": "RMT391B",
+  "plateUnicode": "RMT391B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768922051356,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9032100439071655,
+    "coordinates": [
+      1972,
+      0,
+      376,
+      138
+    ],
+    "model": "Voxy",
+    "type": "VAN"
+  }
+}

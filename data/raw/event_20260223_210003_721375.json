@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771880381900,
+  "carID": 125064,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 145946562",
+  "datetimezone": "20260223 205941429-0600",
+  "frame_timestamp": 1771880381900,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223205812_401136/20260223205941_646566lp_RVJ493B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223205812_401136/20260223205941_646566.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223205812_401136/20260223205941_646566lp_RVJ493B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVJ493B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    927,
+    129,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVJ493B",
+  "plateUnicode": "RVJ493B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771880381900,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6338908672332764,
+    "coordinates": [
+      624,
+      2,
+      744,
+      274
+    ],
+    "model": "Accent/Verna",
+    "type": "CAR"
+  }
+}

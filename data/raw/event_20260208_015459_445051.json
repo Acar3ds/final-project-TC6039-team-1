@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770515683431,
+  "carID": 86675,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 195446603",
+  "datetimezone": "20260208 015441542-0600",
+  "frame_timestamp": 1770515683431,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208012833_543857/20260208015441_873623lp_IET952A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208012833_543857/20260208015441_873623.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208012833_543857/20260208015441_873623lp_IET952A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "IET952A",
+  "plateConfidence": 0.6685267686843872,
+  "plateCoordinates": [
+    1059,
+    261,
+    150,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    69
+  ],
+  "plateCountry": "ITA",
+  "plateText": "IET952A",
+  "plateUnicode": "IET952A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770515683431,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.701202392578125,
+    "coordinates": [
+      696,
+      0,
+      876,
+      432
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

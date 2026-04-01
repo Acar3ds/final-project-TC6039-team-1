@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771422669067,
+  "carID": 111438,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 075113962",
+  "datetimezone": "20260218 135108910-0600",
+  "frame_timestamp": 1771422669067,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218130745_403016/20260218135109_138158lp_SMF795A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218130745_403016/20260218135109_138158.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218130745_403016/20260218135109_138158lp_SMF795A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMF795A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1134,
+    405,
+    153,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    153,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMF795A",
+  "plateUnicode": "SMF795A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771422669067,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9989101886749268,
+    "coordinates": [
+      780,
+      0,
+      852,
+      540
+    ],
+    "model": "Grace",
+    "type": "CAR"
+  }
+}

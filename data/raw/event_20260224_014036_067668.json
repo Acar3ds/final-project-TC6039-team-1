@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771897218627,
+  "carID": 125763,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 194018988",
+  "datetimezone": "20260224 014013937-0600",
+  "frame_timestamp": 1771897218627,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224011108_696469/20260224014014_185543lp_SKV627A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224011108_696469/20260224014014_185543.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224011108_696469/20260224014014_185543lp_SKV627A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKV627A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1176,
+    132,
+    126,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKV627A",
+  "plateUnicode": "SKV627A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771897218627,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 22.511695861816406,
+    "coordinates": [
+      872,
+      0,
+      744,
+      314
+    ],
+    "model": "Sierra/Canyon",
+    "type": "PICKUPTRUCK"
+  }
+}

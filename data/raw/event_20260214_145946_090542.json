@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771081168819,
+  "carID": 102397,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 085931713",
+  "datetimezone": "20260214 145926638-0600",
+  "frame_timestamp": 1771081168819,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214145926_925519lp_RUV346B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214145926_925519.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214145926_925519lp_RUV346B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUV346B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1029,
+    174,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUV346B",
+  "plateUnicode": "RUV346B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771081168819,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4167190790176392,
+    "coordinates": [
+      684,
+      0,
+      808,
+      308
+    ],
+    "model": "RAV4/Rush",
+    "type": "SUV"
+  }
+}

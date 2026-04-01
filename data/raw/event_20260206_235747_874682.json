@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770422250730,
+  "carID": 84065,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 175735478",
+  "datetimezone": "20260206 235730420-0600",
+  "frame_timestamp": 1770422250730,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206235730_653373lp_TAX331B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206235730_653373.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206235730_653373lp_TAX331B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAX331B",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1029,
+    159,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAX331B",
+  "plateUnicode": "TAX331B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770422250730,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.508085012435913,
+    "coordinates": [
+      672,
+      0,
+      828,
+      306
+    ],
+    "model": "Freed/Odyssey",
+    "type": "VAN"
+  }
+}

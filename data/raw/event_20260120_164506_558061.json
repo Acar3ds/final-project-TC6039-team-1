@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768927496492,
+  "carID": 124192,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 104457078",
+  "datetimezone": "20260120 164456492-0600",
+  "frame_timestamp": 1768927496492,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120163739_208168/20260120164457_7359lp_SCB773A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120163739_208168/20260120164457_7359.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120163739_208168/20260120164457_7359lp_SCB773A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCB773A",
+  "plateConfidence": 0.8002232313156128,
+  "plateCoordinates": [
+    2157,
+    38,
+    120,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    43
+  ],
+  "plateCountry": "USA",
+  "plateText": "SCB773A",
+  "plateUnicode": "SCB773A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768927496492,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.34497591853141785,
+    "coordinates": [
+      1932,
+      0,
+      448,
+      150
+    ],
+    "model": "911 GT2/911 GT3/911 GT4",
+    "type": "CAR"
+  }
+}

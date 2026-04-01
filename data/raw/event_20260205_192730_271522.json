@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770319633353,
+  "carID": 80730,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 132717942",
+  "datetimezone": "20260205 192712898-0600",
+  "frame_timestamp": 1770319633353,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192713_185604lp_SJL445A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192713_185604.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192713_185604lp_SJL445A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJL445A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    927,
+    150,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJL445A",
+  "plateUnicode": "SJL445A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770319633353,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9653265476226807,
+    "coordinates": [
+      588,
+      0,
+      804,
+      284
+    ],
+    "model": "Maxima",
+    "type": "CAR"
+  }
+}

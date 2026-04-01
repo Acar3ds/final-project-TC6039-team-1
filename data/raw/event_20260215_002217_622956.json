@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "CHE"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771114919269,
+  "carID": 103725,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 182203131",
+  "datetimezone": "20260215 002158074-0600",
+  "frame_timestamp": 1771114919269,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215002158_306212lp_25J295.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215002158_306212.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215002158_306212lp_25J295.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "25J295",
+  "plateConfidence": 0.8255208134651184,
+  "plateCoordinates": [
+    963,
+    129,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "CHE",
+  "plateText": "25J295",
+  "plateUnicode": "25J295",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771114919269,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lincoln",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.564542770385742,
+    "coordinates": [
+      576,
+      0,
+      904,
+      320
+    ],
+    "model": "Aviator/Corsair/MKC/Nautilus",
+    "type": "SUV"
+  }
+}

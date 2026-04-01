@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770934764651,
+  "carID": 98172,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 161927884",
+  "datetimezone": "20260212 221922825-0600",
+  "frame_timestamp": 1770934764651,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212221923_125368lp_SDB420C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212221923_125368.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212221923_125368lp_SDB420C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDB420C",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    903,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDB420C",
+  "plateUnicode": "SDB420C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770934764651,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 19.634496688842773,
+    "coordinates": [
+      576,
+      0,
+      796,
+      254
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

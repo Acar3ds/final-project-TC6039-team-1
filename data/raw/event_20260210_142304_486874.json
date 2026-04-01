@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770733366416,
+  "carID": 91510,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 082251318",
+  "datetimezone": "20260210 142246264-0600",
+  "frame_timestamp": 1770733366416,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210141938_318466/20260210142246_464526lp_GBS854C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210141938_318466/20260210142246_464526.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210141938_318466/20260210142246_464526lp_GBS854C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "GBS854C",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    1080,
+    159,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "GBS854C",
+  "plateUnicode": "GBS854C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770733366416,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.747636318206787,
+    "coordinates": [
+      728,
+      2,
+      824,
+      292
+    ],
+    "model": "Camaro",
+    "type": "CAR"
+  }
+}

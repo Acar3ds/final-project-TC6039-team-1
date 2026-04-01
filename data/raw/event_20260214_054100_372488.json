@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771047641701,
+  "carID": 102081,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 234045828",
+  "datetimezone": "20260214 054040784-0600",
+  "frame_timestamp": 1771047641701,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214041746_812038/20260214054041_33951lp_SG127B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214041746_812038/20260214054041_33951.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214041746_812038/20260214054041_33951lp_SG127B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHG127B",
+  "plateConfidence": 0.7511160969734192,
+  "plateCoordinates": [
+    1215,
+    141,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHG127B",
+  "plateUnicode": "SHG127B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771047641701,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5961765050888062,
+    "coordinates": [
+      880,
+      0,
+      800,
+      378
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

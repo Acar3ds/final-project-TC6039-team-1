@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770935953077,
+  "carID": 98219,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 163916798",
+  "datetimezone": "20260212 223911744-0600",
+  "frame_timestamp": 1770935953077,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212223912_6832lp_TDW717B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212223912_6832.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212223912_6832lp_TDW717B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDW717B",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    840,
+    108,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDW717B",
+  "plateUnicode": "TDW717B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770935953077,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3167457580566406,
+    "coordinates": [
+      540,
+      0,
+      752,
+      236
+    ],
+    "model": "2008",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771510177851,
+  "carID": 114354,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 080942285",
+  "datetimezone": "20260219 140937229-0600",
+  "frame_timestamp": 1771510177851,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140937_497388lp_TBP796A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140937_497388.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140937_497388lp_TBP796A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBP796A",
+  "plateConfidence": 0.8258928656578064,
+  "plateCoordinates": [
+    933,
+    117,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBP796A",
+  "plateUnicode": "TBP796A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771510177851,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.977750301361084,
+    "coordinates": [
+      616,
+      2,
+      760,
+      280
+    ],
+    "model": "Bolt/Bolt EV",
+    "type": "CAR"
+  }
+}

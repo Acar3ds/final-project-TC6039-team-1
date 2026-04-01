@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772031466990,
+  "carID": 129280,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 085751710",
+  "datetimezone": "20260225 145746658-0600",
+  "frame_timestamp": 1772031466990,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225145746_976725lp_SAL202C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225145746_976725.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225145746_976725lp_SAL202C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAL202C",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1056,
+    120,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAL202C",
+  "plateUnicode": "SAL202C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772031466990,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8781222105026245,
+    "coordinates": [
+      660,
+      0,
+      900,
+      326
+    ],
+    "model": "bZ3/bZ4X",
+    "type": "CAR"
+  }
+}

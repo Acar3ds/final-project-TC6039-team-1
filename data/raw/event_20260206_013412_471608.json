@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770341636450,
+  "carID": 81678,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 193400130",
+  "datetimezone": "20260206 013355075-0600",
+  "frame_timestamp": 1770341636450,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206004116_303051/20260206013355_422934lp_TED071A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206004116_303051/20260206013355_422934.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206004116_303051/20260206013355_422934lp_TED071A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TED071A",
+  "plateConfidence": 0.78125,
+  "plateCoordinates": [
+    1017,
+    153,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TED071A",
+  "plateUnicode": "TED071A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770341636450,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Pontiac",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.895702838897705,
+    "coordinates": [
+      684,
+      0,
+      768,
+      362
+    ],
+    "model": "Solstice",
+    "type": "CAR"
+  }
+}

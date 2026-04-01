@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772129218335,
+  "carID": 132567,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 120702922",
+  "datetimezone": "20260226 180657863-0600",
+  "frame_timestamp": 1772129218335,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226180658_98954lp_SJX195A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226180658_98954.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226180658_98954lp_SJX195A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJX195A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    876,
+    93,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJX195A",
+  "plateUnicode": "SJX195A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772129218335,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Buick",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.992682933807373,
+    "coordinates": [
+      512,
+      0,
+      864,
+      270
+    ],
+    "model": "Enclave/Encore GX/Envision",
+    "type": "SUV"
+  }
+}

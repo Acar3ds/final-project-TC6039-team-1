@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772127920331,
+  "carID": 132509,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 114521307",
+  "datetimezone": "20260226 174516249-0600",
+  "frame_timestamp": 1772127920331,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226174516_513534lp_RKD890A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226174516_513534.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226174516_513534lp_RKD890A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKD890A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    843,
+    90,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKD890A",
+  "plateUnicode": "RKD890A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772127920331,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 16.72283935546875,
+    "coordinates": [
+      516,
+      0,
+      768,
+      270
+    ],
+    "model": "911 GT3/911 GT6/911 R",
+    "type": "CAR"
+  }
+}

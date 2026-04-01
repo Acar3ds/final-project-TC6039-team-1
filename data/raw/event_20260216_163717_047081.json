@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771259818192,
+  "carID": 106736,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 103701998",
+  "datetimezone": "20260216 163656943-0600",
+  "frame_timestamp": 1771259818192,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216163657_118553lp_PU2490A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216163657_118553.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216163657_118553lp_PU2490A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PU2490A",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1023,
+    102,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PU2490A",
+  "plateUnicode": "PU2490A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771259818192,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6455838680267334,
+    "coordinates": [
+      668,
+      0,
+      856,
+      368
+    ],
+    "model": "Tacoma",
+    "type": "PICKUPTRUCK"
+  }
+}

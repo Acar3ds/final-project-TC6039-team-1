@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770939490775,
+  "carID": 98384,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 173815650",
+  "datetimezone": "20260212 233810603-0600",
+  "frame_timestamp": 1770939490775,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212233810_847617lp_TEJ488A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212233810_847617.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212233810_847617lp_TEJ488A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEJ488A",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1419,
+    288,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEJ488A",
+  "plateUnicode": "TEJ488A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770939490775,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9864253997802734,
+    "coordinates": [
+      960,
+      0,
+      924,
+      422
+    ],
+    "model": "6/Atenza",
+    "type": "CAR"
+  }
+}

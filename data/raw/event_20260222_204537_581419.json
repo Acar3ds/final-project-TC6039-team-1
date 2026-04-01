@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771793117067,
+  "carID": 122681,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 144520915",
+  "datetimezone": "20260222 204515855-0600",
+  "frame_timestamp": 1771793117067,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222204516_106163lp_RWU127C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222204516_106163.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222204516_106163lp_RWU127C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWU127C",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    1008,
+    93,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWU127C",
+  "plateUnicode": "RWU127C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771793117067,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.231257915496826,
+    "coordinates": [
+      696,
+      0,
+      740,
+      276
+    ],
+    "model": "Cavalier/Onix/Sonic",
+    "type": "CAR"
+  }
+}

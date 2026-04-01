@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772036300081,
+  "carID": 129512,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 101824369",
+  "datetimezone": "20260225 161819306-0600",
+  "frame_timestamp": 1772036300081,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225161819_609274lp_RL5589B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225161819_609274.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225161819_609274lp_RL5589B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RL5589B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    990,
+    174,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RL5589B",
+  "plateUnicode": "RL5589B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772036300081,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5901451110839844,
+    "coordinates": [
+      588,
+      0,
+      896,
+      366
+    ],
+    "model": "Yukon",
+    "type": "SUV"
+  }
+}

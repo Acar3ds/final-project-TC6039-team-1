@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770224553050,
+  "carID": 77903,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 110236259",
+  "datetimezone": "20260204 170231206-0600",
+  "frame_timestamp": 1770224553050,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204170231_467943lp_RZ187B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204170231_467943.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204170231_467943lp_RZ187B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZ187B",
+  "plateConfidence": 0.8567708134651184,
+  "plateCoordinates": [
+    795,
+    99,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZ187B",
+  "plateUnicode": "RZ187B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770224553050,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.036288261413574,
+    "coordinates": [
+      472,
+      0,
+      784,
+      288
+    ],
+    "model": "Seltos/Sonet",
+    "type": "SUV"
+  }
+}

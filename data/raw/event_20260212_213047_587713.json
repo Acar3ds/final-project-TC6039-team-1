@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770931829636,
+  "carID": 98044,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 153033854",
+  "datetimezone": "20260212 213028796-0600",
+  "frame_timestamp": 1770931829636,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212213029_118906lp_SAP351A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212213029_118906.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212213029_118906lp_SAP351A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAP351A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    879,
+    111,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAP351A",
+  "plateUnicode": "SAP351A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770931829636,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.889200210571289,
+    "coordinates": [
+      596,
+      2,
+      696,
+      280
+    ],
+    "model": "Beat Premier",
+    "type": "CAR"
+  }
+}

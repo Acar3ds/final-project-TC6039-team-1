@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771018337962,
+  "carID": 100889,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 153222250",
+  "datetimezone": "20260213 213217199-0600",
+  "frame_timestamp": 1771018337962,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213213217_503414lp_RK6818B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213213217_503414.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213213217_503414lp_RK6818B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RK6818B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    972,
+    129,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RK6818B",
+  "plateUnicode": "RK6818B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771018337962,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.043453216552734,
+    "coordinates": [
+      628,
+      2,
+      816,
+      358
+    ],
+    "model": "Armada/NP300/Navara/Pathfinder/Patrol/Titan",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770726164102,
+  "carID": 91177,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 062247832",
+  "datetimezone": "20260210 122242770-0600",
+  "frame_timestamp": 1770726164102,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210052523_41766/20260210122242_986670lp_RYA554C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210052523_41766/20260210122242_986670.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210052523_41766/20260210122242_986670lp_RYA554C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYA554C",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    921,
+    90,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYA554C",
+  "plateUnicode": "RYA554C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770726164102,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 55.2867546081543,
+    "coordinates": [
+      620,
+      0,
+      732,
+      326
+    ],
+    "model": "Duna",
+    "type": "CAR"
+  }
+}

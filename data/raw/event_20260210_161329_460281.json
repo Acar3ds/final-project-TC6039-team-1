@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770739993656,
+  "carID": 91897,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 101316374",
+  "datetimezone": "20260210 161311316-0600",
+  "frame_timestamp": 1770739993656,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210153709_755763/20260210161311_664126lp_A451MLC.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210153709_755763/20260210161311_664126.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210153709_755763/20260210161311_664126lp_A451MLC.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "0A451MLC",
+  "plateConfidence": 0.802734375,
+  "plateCoordinates": [
+    936,
+    177,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "0A451MLC",
+  "plateUnicode": "0A451MLC",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770739993656,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lamborghini",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9471206665039062,
+    "coordinates": [
+      624,
+      0,
+      756,
+      296
+    ],
+    "model": "Gallardo",
+    "type": "CAR"
+  }
+}

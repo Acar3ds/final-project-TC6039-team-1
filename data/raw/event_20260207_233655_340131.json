@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770507398194,
+  "carID": 86362,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 173642795",
+  "datetimezone": "20260207 233637741-0600",
+  "frame_timestamp": 1770507398194,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207233115_35296/20260207233638_37283lp_SBL226B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207233115_35296/20260207233638_37283.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207233115_35296/20260207233638_37283lp_SBL226B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBL226B",
+  "plateConfidence": 0.8794642686843872,
+  "plateCoordinates": [
+    939,
+    117,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBL226B",
+  "plateUnicode": "SBL226B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770507398194,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.881354331970215,
+    "coordinates": [
+      628,
+      2,
+      768,
+      250
+    ],
+    "model": "3/5/3 MPS/Axela/Premacy",
+    "type": "CAR"
+  }
+}

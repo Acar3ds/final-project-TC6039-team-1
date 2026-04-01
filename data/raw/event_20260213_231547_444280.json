@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771024528297,
+  "carID": 101184,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 171533212",
+  "datetimezone": "20260213 231528160-0600",
+  "frame_timestamp": 1771024528297,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213231528_461228lp_RTE875B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213231528_461228.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213231528_461228lp_RTE875B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTE875B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1296,
+    237,
+    135,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTE875B",
+  "plateUnicode": "RTE875B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771024528297,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5363569259643555,
+    "coordinates": [
+      848,
+      0,
+      852,
+      344
+    ],
+    "model": "Armada/NP300/Navara/Pathfinder/Patrol/Titan",
+    "type": "SUV"
+  }
+}

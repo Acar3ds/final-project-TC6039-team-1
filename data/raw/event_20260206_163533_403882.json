@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770395717411,
+  "carID": 82844,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 103520959",
+  "datetimezone": "20260206 163515905-0600",
+  "frame_timestamp": 1770395717411,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206163516_102183lp_RM3410B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206163516_102183.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206163516_102183lp_RM3410B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RM3410B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    894,
+    105,
+    150,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RM3410B",
+  "plateUnicode": "RM3410B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770395717411,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Isuzu",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.662298202514648,
+    "coordinates": [
+      384,
+      0,
+      1164,
+      386
+    ],
+    "model": "Forward FTR",
+    "type": "TRUCK"
+  }
+}

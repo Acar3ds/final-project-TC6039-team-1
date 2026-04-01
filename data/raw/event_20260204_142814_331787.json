@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770215278425,
+  "carID": 77475,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 082801951",
+  "datetimezone": "20260204 142756898-0600",
+  "frame_timestamp": 1770215278425,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204141124_133267/20260204142757_141643lp_SYL795A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204141124_133267/20260204142757_141643.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204141124_133267/20260204142757_141643lp_SYL795A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYL795A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1524,
+    219,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYL795A",
+  "plateUnicode": "SYL795A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770215278425,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Infiniti",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.636077880859375,
+    "coordinates": [
+      972,
+      0,
+      944,
+      380
+    ],
+    "model": "QX60",
+    "type": "SUV"
+  }
+}

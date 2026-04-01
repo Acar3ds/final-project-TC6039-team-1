@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771197223000,
+  "carID": 105328,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 171347905",
+  "datetimezone": "20260215 231342857-0600",
+  "frame_timestamp": 1771197223000,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215231343_96132lp_SZW274A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215231343_96132.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215231343_96132lp_SZW274A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZW274A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1197,
+    225,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZW274A",
+  "plateUnicode": "SZW274A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771197223000,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MG",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9999752044677734,
+    "coordinates": [
+      852,
+      0,
+      820,
+      380
+    ],
+    "model": "5",
+    "type": "CAR"
+  }
+}

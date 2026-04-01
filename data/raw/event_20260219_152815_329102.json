@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771514875061,
+  "carID": 114634,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 092759960",
+  "datetimezone": "20260219 152754908-0600",
+  "frame_timestamp": 1771514875061,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219150102_868676/20260219152755_130012lp_RSZ895B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219150102_868676/20260219152755_130012.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219150102_868676/20260219152755_130012lp_RSZ895B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSZ895B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    918,
+    153,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSZ895B",
+  "plateUnicode": "RSZ895B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771514875061,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0403833389282227,
+    "coordinates": [
+      592,
+      0,
+      788,
+      266
+    ],
+    "model": "C-Class/C-Class AMG/E-Class/E-Class AMG",
+    "type": "CAR"
+  }
+}

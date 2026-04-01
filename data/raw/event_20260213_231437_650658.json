@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771024458524,
+  "carID": 101181,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 171423443",
+  "datetimezone": "20260213 231418388-0600",
+  "frame_timestamp": 1771024458524,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213231418_593177lp_STE234A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213231418_593177.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213231418_593177lp_STE234A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STE234",
+  "plateConfidence": 0.8385416865348816,
+  "plateCoordinates": [
+    921,
+    123,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STE234",
+  "plateUnicode": "STE234",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771024458524,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9819203615188599,
+    "coordinates": [
+      592,
+      0,
+      776,
+      252
+    ],
+    "model": "Auris/Corolla",
+    "type": "CAR"
+  }
+}

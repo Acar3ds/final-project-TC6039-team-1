@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771192001515,
+  "carID": 105186,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 154646567",
+  "datetimezone": "20260215 214641515-0600",
+  "frame_timestamp": 1771192001515,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215214641_698903lp_SLB367B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215214641_698903.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215214641_698903lp_SLB367B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLB367B",
+  "plateConfidence": 0.8783482313156128,
+  "plateCoordinates": [
+    1056,
+    111,
+    117,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    117,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLB367B",
+  "plateUnicode": "SLB367B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771192001515,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ferrari",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9932807683944702,
+    "coordinates": [
+      740,
+      0,
+      744,
+      266
+    ],
+    "model": "F430",
+    "type": "CAR"
+  }
+}

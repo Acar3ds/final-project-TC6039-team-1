@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770903076647,
+  "carID": 96645,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 073121554",
+  "datetimezone": "20260212 133116500-0600",
+  "frame_timestamp": 1770903076647,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212125930_467760/20260212133116_790489lp_TBV257B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212125930_467760/20260212133116_790489.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212125930_467760/20260212133116_790489lp_TBV257B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBV257B",
+  "plateConfidence": 0.8125,
+  "plateCoordinates": [
+    822,
+    138,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBV257B",
+  "plateUnicode": "TBV257B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770903076647,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9767316579818726,
+    "coordinates": [
+      512,
+      2,
+      732,
+      250
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

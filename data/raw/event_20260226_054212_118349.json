@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772084510770,
+  "carID": 131417,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 234155657",
+  "datetimezone": "20260226 054150606-0600",
+  "frame_timestamp": 1772084510770,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226054150_808726lp_KJ755A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226054150_808726.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226054150_808726lp_KJ755A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "AKJ755A",
+  "plateConfidence": 0.6361607313156128,
+  "plateCoordinates": [
+    1245,
+    204,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "AKJ755A",
+  "plateUnicode": "AKJ755A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772084510770,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Pontiac",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9786347150802612,
+    "coordinates": [
+      936,
+      0,
+      904,
+      456
+    ],
+    "model": "G4/G5/G6",
+    "type": "CAR"
+  }
+}

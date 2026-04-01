@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770333860162,
+  "carID": 81355,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 172424388",
+  "datetimezone": "20260205 232419330-0600",
+  "frame_timestamp": 1770333860162,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205232419_573998lp_SCT730B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205232419_573998.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205232419_573998lp_SCT730B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCT730B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    813,
+    99,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCT730B",
+  "plateUnicode": "SCT730B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770333860162,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9662368297576904,
+    "coordinates": [
+      660,
+      0,
+      736,
+      258
+    ],
+    "model": "Alto Lapin",
+    "type": "CAR"
+  }
+}

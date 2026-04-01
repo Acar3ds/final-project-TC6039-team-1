@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771508180001,
+  "carID": 114222,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 073623460",
+  "datetimezone": "20260219 133618406-0600",
+  "frame_timestamp": 1771508180001,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219125934_511122/20260219133618_667700lp_SYR326B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219125934_511122/20260219133618_667700.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219125934_511122/20260219133618_667700lp_SYR326B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYR326B",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    1101,
+    168,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYR326B",
+  "plateUnicode": "SYR326B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771508180001,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Subaru",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.3707075119018555,
+    "coordinates": [
+      684,
+      0,
+      852,
+      336
+    ],
+    "model": "Crosstrek",
+    "type": "SUV"
+  }
+}

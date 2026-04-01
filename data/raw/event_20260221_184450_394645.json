@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771699469983,
+  "carID": 120548,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 124434883",
+  "datetimezone": "20260221 184429830-0600",
+  "frame_timestamp": 1771699469983,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221184430_96319lp_ACP733G.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221184430_96319.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221184430_96319lp_ACP733G.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "ACP733G",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1110,
+    180,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "ACP733G",
+  "plateUnicode": "ACP733G",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771699469983,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9922432899475098,
+    "coordinates": [
+      752,
+      0,
+      820,
+      392
+    ],
+    "model": "Compass",
+    "type": "SUV"
+  }
+}

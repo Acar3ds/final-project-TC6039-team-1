@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770502064292,
+  "carID": 86154,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 160748318",
+  "datetimezone": "20260207 220743248-0600",
+  "frame_timestamp": 1770502064292,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207220743_480453lp_RZN788C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207220743_480453.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207220743_480453lp_RZN788C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZN788C",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1167,
+    165,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZN788C",
+  "plateUnicode": "RZN788C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770502064292,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.052423477172852,
+    "coordinates": [
+      840,
+      0,
+      768,
+      306
+    ],
+    "model": "Baleno",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772116961871,
+  "carID": 131970,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 084246274",
+  "datetimezone": "20260226 144241229-0600",
+  "frame_timestamp": 1772116961871,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226144241_469800lp_STM791A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226144241_469800.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226144241_469800lp_STM791A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STM791A",
+  "plateConfidence": 0.8337053656578064,
+  "plateCoordinates": [
+    1059,
+    195,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STM791A",
+  "plateUnicode": "STM791A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772116961871,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.17283296585083,
+    "coordinates": [
+      744,
+      0,
+      752,
+      308
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

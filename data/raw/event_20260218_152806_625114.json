@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771428466711,
+  "carID": 111836,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 092751442",
+  "datetimezone": "20260218 152746388-0600",
+  "frame_timestamp": 1771428466711,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218150113_702404/20260218152746_682623lp_TDK813A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218150113_702404/20260218152746_682623.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218150113_702404/20260218152746_682623lp_TDK813A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDK813A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    924,
+    99,
+    126,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDK813A",
+  "plateUnicode": "TDK813A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771428466711,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9781819581985474,
+    "coordinates": [
+      600,
+      0,
+      780,
+      234
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

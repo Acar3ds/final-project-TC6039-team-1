@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770509805258,
+  "carID": 86462,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 181649755",
+  "datetimezone": "20260208 001644696-0600",
+  "frame_timestamp": 1770509805258,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207233115_35296/20260208001644_973149lp_VTC688C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207233115_35296/20260208001644_973149.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207233115_35296/20260208001644_973149lp_VTC688C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "VTC688C",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    987,
+    120,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "VTC688C",
+  "plateUnicode": "VTC688C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770509805258,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0582547187805176,
+    "coordinates": [
+      652,
+      0,
+      772,
+      288
+    ],
+    "model": "Astra",
+    "type": "CAR"
+  }
+}

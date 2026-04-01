@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771974546531,
+  "carID": 127978,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 170908616",
+  "datetimezone": "20260224 230903560-0600",
+  "frame_timestamp": 1771974546531,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224230903_804266lp_RPE168A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224230903_804266.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224230903_804266lp_RPE168A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPE168A",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    933,
+    111,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPE168A",
+  "plateUnicode": "RPE168A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771974546531,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "YELLOW",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9343911409378052,
+    "coordinates": [
+      648,
+      0,
+      688,
+      228
+    ],
+    "model": "Mirage/Mirage G4/Space Star",
+    "type": "CAR"
+  }
+}

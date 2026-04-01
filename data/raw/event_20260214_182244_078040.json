@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771093345582,
+  "carID": 102849,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 122229370",
+  "datetimezone": "20260214 182224321-0600",
+  "frame_timestamp": 1771093345582,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214182224_555326lp_DB177A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214182224_555326.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214182224_555326lp_DB177A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDB177A",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    927,
+    99,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDB177A",
+  "plateUnicode": "TDB177A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771093345582,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Citroen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.770597457885742,
+    "coordinates": [
+      580,
+      0,
+      784,
+      300
+    ],
+    "model": "Jumpy",
+    "type": "VAN"
+  }
+}

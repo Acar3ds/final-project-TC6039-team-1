@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771628072519,
+  "carID": 118810,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 165436826",
+  "datetimezone": "20260220 225431780-0600",
+  "frame_timestamp": 1771628072519,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220225432_9764lp_SSD245A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220225432_9764.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220225432_9764lp_SSD245A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSD245A",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    618,
+    198,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSD245A",
+  "plateUnicode": "SSD245A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771628072519,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.724203586578369,
+    "coordinates": [
+      308,
+      0,
+      792,
+      326
+    ],
+    "model": "Cobalt/Malibu",
+    "type": "CAR"
+  }
+}

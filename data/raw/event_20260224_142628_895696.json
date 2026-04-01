@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771943168383,
+  "carID": 126490,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 082612975",
+  "datetimezone": "20260224 142607920-0600",
+  "frame_timestamp": 1771943168383,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224142608_193142lp_SLD727A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224142608_193142.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224142608_193142lp_SLD727A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLD727A",
+  "plateConfidence": 0.7098214030265808,
+  "plateCoordinates": [
+    1071,
+    126,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLD727A",
+  "plateUnicode": "SLD727A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771943168383,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.53602933883667,
+    "coordinates": [
+      756,
+      0,
+      732,
+      290
+    ],
+    "model": "Micra",
+    "type": "CAR"
+  }
+}

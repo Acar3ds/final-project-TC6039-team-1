@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770408501144,
+  "carID": 83480,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 140824744",
+  "datetimezone": "20260206 200819678-0600",
+  "frame_timestamp": 1770408501144,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206200819_961741lp_J4613B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206200819_961741.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206200819_961741lp_J4613B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "J4613B",
+  "plateConfidence": 0.8580729365348816,
+  "plateCoordinates": [
+    1128,
+    165,
+    135,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    51
+  ],
+  "plateCountry": "ESP",
+  "plateText": "J4613B",
+  "plateUnicode": "J4613B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770408501144,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.980332374572754,
+    "coordinates": [
+      828,
+      2,
+      720,
+      304
+    ],
+    "model": "Colorado",
+    "type": "PICKUPTRUCK"
+  }
+}

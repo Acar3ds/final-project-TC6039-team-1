@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771617560306,
+  "carID": 118313,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 135924693",
+  "datetimezone": "20260220 195919636-0600",
+  "frame_timestamp": 1771617560306,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220195919_883693lp_SZF203A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220195919_883693.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220195919_883693lp_SZF203A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZF203A",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    966,
+    147,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZF203A",
+  "plateUnicode": "SZF203A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771617560306,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8349404335021973,
+    "coordinates": [
+      612,
+      0,
+      824,
+      330
+    ],
+    "model": "RAV4",
+    "type": "SUV"
+  }
+}

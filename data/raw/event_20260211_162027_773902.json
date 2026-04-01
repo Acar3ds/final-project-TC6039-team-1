@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770826810538,
+  "carID": 94566,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 102014538",
+  "datetimezone": "20260211 162009487-0600",
+  "frame_timestamp": 1770826810538,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211152756_932096/20260211162009_831013lp_5RL6204B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211152756_932096/20260211162009_831013.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211152756_932096/20260211162009_831013lp_5RL6204B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "L6204B",
+  "plateConfidence": 0.8619791865348816,
+  "plateCoordinates": [
+    1440,
+    231,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "ESP",
+  "plateText": "L6204B",
+  "plateUnicode": "L6204B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770826810538,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4660941362380981,
+    "coordinates": [
+      1004,
+      6,
+      904,
+      476
+    ],
+    "model": "Transit/E-Transit",
+    "type": "VAN"
+  }
+}

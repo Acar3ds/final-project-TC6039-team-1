@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771535895963,
+  "carID": 115584,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 151820524",
+  "datetimezone": "20260219 211815467-0600",
+  "frame_timestamp": 1771535895963,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219205413_620806/20260219211815_729420lp_DBA371A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219205413_620806/20260219211815_729420.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219205413_620806/20260219211815_729420lp_DBA371A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DBA371A",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    786,
+    147,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "DBA371A",
+  "plateUnicode": "DBA371A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771535895963,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.81302547454834,
+    "coordinates": [
+      476,
+      0,
+      776,
+      314
+    ],
+    "model": "Outlander/Eclipse Cross",
+    "type": "SUV"
+  }
+}

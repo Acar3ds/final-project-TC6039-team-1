@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771597974426,
+  "carID": 117171,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 083259027",
+  "datetimezone": "20260220 143253977-0600",
+  "frame_timestamp": 1771597974426,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143254_251015lp_SKU562B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143254_251015.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143254_251015lp_SKU562B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKU562B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1083,
+    225,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKU562B",
+  "plateUnicode": "SKU562B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771597974426,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.216752290725708,
+    "coordinates": [
+      748,
+      0,
+      804,
+      368
+    ],
+    "model": "Jetta/Polo/Polo GTI",
+    "type": "CAR"
+  }
+}

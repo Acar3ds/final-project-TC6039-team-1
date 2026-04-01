@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770246935206,
+  "carID": 78806,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 171540259",
+  "datetimezone": "20260204 231535206-0600",
+  "frame_timestamp": 1770246935206,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204231535_407444lp_DKU26KD.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204231535_407444.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204231535_407444lp_DKU26KD.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DKU26KD",
+  "plateConfidence": 0.5970982313156128,
+  "plateCoordinates": [
+    1008,
+    120,
+    135,
+    42
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    42
+  ],
+  "plateCountry": "ITA",
+  "plateText": "DKU26KD",
+  "plateUnicode": "DKU26KD",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770246935206,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hino",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.46684327721595764,
+    "coordinates": [
+      348,
+      110,
+      1244,
+      970
+    ],
+    "model": "Ranger",
+    "type": "TRUCK"
+  }
+}

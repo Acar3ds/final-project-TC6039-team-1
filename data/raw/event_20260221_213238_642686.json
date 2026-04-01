@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771709538364,
+  "carID": 120982,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 153223076",
+  "datetimezone": "20260221 213218028-0600",
+  "frame_timestamp": 1771709538364,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221213218_286572lp_TBF961B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221213218_286572.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221213218_286572lp_TBF961B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBF961B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    891,
+    156,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBF961B",
+  "plateUnicode": "TBF961B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771709538364,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6550848484039307,
+    "coordinates": [
+      592,
+      2,
+      744,
+      298
+    ],
+    "model": "200/Neon",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771858665401,
+  "carID": 124080,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 085749396",
+  "datetimezone": "20260223 145744349-0600",
+  "frame_timestamp": 1771858665401,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223145104_682464/20260223145744_576586lp_RMP542C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223145104_682464/20260223145744_576586.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223145104_682464/20260223145744_576586lp_RMP542C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMP542C",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    876,
+    111,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMP542C",
+  "plateUnicode": "RMP542C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771858665401,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.212416648864746,
+    "coordinates": [
+      576,
+      2,
+      716,
+      226
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

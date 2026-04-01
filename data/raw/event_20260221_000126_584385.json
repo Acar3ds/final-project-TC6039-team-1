@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771632066151,
+  "carID": 119004,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 180110917",
+  "datetimezone": "20260221 000105869-0600",
+  "frame_timestamp": 1771632066151,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260221000106_136747lp_SAK376C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260221000106_136747.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260221000106_136747lp_SAK376C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAK376C",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    984,
+    201,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAK376C",
+  "plateUnicode": "SAK376C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771632066151,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9999542236328125,
+    "coordinates": [
+      672,
+      0,
+      760,
+      320
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

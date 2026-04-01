@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771885476130,
+  "carID": 125270,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 162440872",
+  "datetimezone": "20260223 222435822-0600",
+  "frame_timestamp": 1771885476130,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223221037_252623/20260223222436_62306lp_TED544B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223221037_252623/20260223222436_62306.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223221037_252623/20260223222436_62306lp_TED544B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TED544B",
+  "plateConfidence": 0.8203125,
+  "plateCoordinates": [
+    1020,
+    114,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TED544B",
+  "plateUnicode": "TED544B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771885476130,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4575774669647217,
+    "coordinates": [
+      716,
+      2,
+      744,
+      262
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

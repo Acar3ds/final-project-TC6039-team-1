@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772025067216,
+  "carID": 128881,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 071111928",
+  "datetimezone": "20260225 131106885-0600",
+  "frame_timestamp": 1772025067216,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225130935_291479/20260225131107_230770lp_TGD251B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225130935_291479/20260225131107_230770.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225130935_291479/20260225131107_230770lp_TGD251B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGD251B",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1041,
+    129,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGD251B",
+  "plateUnicode": "TGD251B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772025067216,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6583251953125,
+    "coordinates": [
+      708,
+      2,
+      784,
+      262
+    ],
+    "model": "CX-5",
+    "type": "SUV"
+  }
+}

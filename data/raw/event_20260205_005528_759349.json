@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770252911416,
+  "carID": 79062,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 185516337",
+  "datetimezone": "20260205 005511265-0600",
+  "frame_timestamp": 1770252911416,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205005511_510040lp_SHG127B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205005511_510040.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205005511_510040lp_SHG127B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHG127B",
+  "plateConfidence": 0.8080357313156128,
+  "plateCoordinates": [
+    1035,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHG127B",
+  "plateUnicode": "SHG127B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770252911416,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.0175440311431885,
+    "coordinates": [
+      716,
+      0,
+      768,
+      374
+    ],
+    "model": "R8",
+    "type": "CAR"
+  }
+}

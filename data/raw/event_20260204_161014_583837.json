@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770221397583,
+  "carID": 77794,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 101002319",
+  "datetimezone": "20260204 160957268-0600",
+  "frame_timestamp": 1770221397583,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160957_493907lp_SAK419C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160957_493907.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160957_493907lp_SAK419C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAK419C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    942,
+    147,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAK419C",
+  "plateUnicode": "SAK419C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770221397583,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9843764305114746,
+    "coordinates": [
+      576,
+      0,
+      852,
+      360
+    ],
+    "model": "Discovery",
+    "type": "SUV"
+  }
+}

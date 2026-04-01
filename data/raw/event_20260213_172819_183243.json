@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771003680586,
+  "carID": 100195,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 112804850",
+  "datetimezone": "20260213 172759791-0600",
+  "frame_timestamp": 1771003680586,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213172800_91222lp_XMJ350D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213172800_91222.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213172800_91222lp_XMJ350D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "XMJ350D",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    936,
+    147,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "XMJ350D",
+  "plateUnicode": "XMJ350D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771003680586,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3181419372558594,
+    "coordinates": [
+      588,
+      2,
+      828,
+      304
+    ],
+    "model": "Freed/Odyssey",
+    "type": "VAN"
+  }
+}

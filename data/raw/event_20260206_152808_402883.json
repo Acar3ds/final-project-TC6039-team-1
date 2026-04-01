@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770391673093,
+  "carID": 82676,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 092755867",
+  "datetimezone": "20260206 152750821-0600",
+  "frame_timestamp": 1770391673093,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206151833_514698/20260206152751_38598lp_RE6441A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206151833_514698/20260206152751_38598.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206151833_514698/20260206152751_38598lp_RE6441A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RE6441A",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    984,
+    159,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RE6441A",
+  "plateUnicode": "RE6441A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770391673093,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ram",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.488977432250977,
+    "coordinates": [
+      604,
+      0,
+      888,
+      294
+    ],
+    "model": "Chassis Cab/3500/2500/1500",
+    "type": "PICKUPTRUCK"
+  }
+}

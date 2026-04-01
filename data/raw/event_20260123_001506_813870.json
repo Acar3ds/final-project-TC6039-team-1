@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769127296681,
+  "carID": 930,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 181456999",
+  "datetimezone": "20260123 001456681-0600",
+  "frame_timestamp": 1769127296681,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123001456_876330lp_SSS353A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123001456_876330.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123001456_876330lp_SSS353A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSS353A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    684,
+    462,
+    225,
+    108
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    225,
+    108
+  ],
+  "plateCountry": "USA",
+  "plateText": "SSS353A",
+  "plateUnicode": "SSS353A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769127296681,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.5423194766044617,
+    "coordinates": [
+      316,
+      0,
+      1012,
+      660
+    ],
+    "model": "Aygo/Yaris/Vitz",
+    "type": "CAR"
+  }
+}

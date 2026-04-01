@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771335565917,
+  "carID": 108772,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 073930210",
+  "datetimezone": "20260217 133925157-0600",
+  "frame_timestamp": 1771335565917,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217131805_538991/20260217133925_434105lp_TFL058A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217131805_538991/20260217133925_434105.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217131805_538991/20260217133925_434105lp_TFL058A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFL058A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1020,
+    120,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFL058A",
+  "plateUnicode": "TFL058A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771335565917,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.999916076660156,
+    "coordinates": [
+      684,
+      2,
+      796,
+      324
+    ],
+    "model": "Escape",
+    "type": "SUV"
+  }
+}

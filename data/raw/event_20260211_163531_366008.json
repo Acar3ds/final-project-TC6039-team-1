@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770827714087,
+  "carID": 94604,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 103518176",
+  "datetimezone": "20260211 163513119-0600",
+  "frame_timestamp": 1770827714087,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211163513_366861lp_RMV081A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211163513_366861.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211163513_366861lp_RMV081A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMV081A",
+  "plateConfidence": 0.8113839030265808,
+  "plateCoordinates": [
+    960,
+    123,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMV081A",
+  "plateUnicode": "RMV081A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770827714087,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.52156400680542,
+    "coordinates": [
+      648,
+      2,
+      748,
+      274
+    ],
+    "model": "Bolt/Bolt EV",
+    "type": "CAR"
+  }
+}

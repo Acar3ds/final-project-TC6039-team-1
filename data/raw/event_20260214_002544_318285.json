@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771028726508,
+  "carID": 101385,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 182529744",
+  "datetimezone": "20260214 002524696-0600",
+  "frame_timestamp": 1771028726508,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002525_8134lp_SER169B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002525_8134.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002525_8134lp_SER169B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SER169B",
+  "plateConfidence": 0.7678571343421936,
+  "plateCoordinates": [
+    912,
+    117,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "SER169B",
+  "plateUnicode": "SER169B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771028726508,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.834419250488281,
+    "coordinates": [
+      580,
+      0,
+      796,
+      308
+    ],
+    "model": "Compass",
+    "type": "SUV"
+  }
+}

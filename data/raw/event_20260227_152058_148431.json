@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772205638151,
+  "carID": 134979,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 092041884",
+  "datetimezone": "20260227 152036800-0600",
+  "frame_timestamp": 1772205638151,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227152037_81122lp_VEU230C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227152037_81122.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227152037_81122lp_VEU230C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "VEU230C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    963,
+    90,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "VEU230C",
+  "plateUnicode": "VEU230C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772205638151,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.478466987609863,
+    "coordinates": [
+      660,
+      0,
+      740,
+      252
+    ],
+    "model": "Bolt/Bolt EV",
+    "type": "CAR"
+  }
+}

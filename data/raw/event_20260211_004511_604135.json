@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770770693623,
+  "carID": 93218,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 184458305",
+  "datetimezone": "20260211 004453245-0600",
+  "frame_timestamp": 1770770693623,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211004453_609084lp_RXS201C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211004453_609084.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211004453_609084lp_RXS201C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXS201C",
+  "plateConfidence": 0.8203125,
+  "plateCoordinates": [
+    948,
+    162,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXS201C",
+  "plateUnicode": "RXS201C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770770693623,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.264517068862915,
+    "coordinates": [
+      600,
+      0,
+      804,
+      332
+    ],
+    "model": "Tiggo 3X Plus",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769110224904,
+  "carID": 463,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 133025235",
+  "datetimezone": "20260122 193024904-0600",
+  "frame_timestamp": 1769110224904,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122190434_496961/20260122193025_106839lp_RUL706C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122190434_496961/20260122193025_106839.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122190434_496961/20260122193025_106839lp_RUL706C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUL706C",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1099,
+    363,
+    210,
+    104
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    210,
+    104
+  ],
+  "plateCountry": "USA",
+  "plateText": "RUL706C",
+  "plateUnicode": "RUL706C",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769110224904,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9999994039535522,
+    "coordinates": [
+      600,
+      0,
+      1048,
+      570
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

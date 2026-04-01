@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770156127737,
+  "carID": 76254,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 160212463",
+  "datetimezone": "20260203 220207399-0600",
+  "frame_timestamp": 1770156127737,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203220207_680364lp_SDS450A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203220207_680364.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203220207_680364lp_SDS450A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDS450A",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    993,
+    120,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDS450A",
+  "plateUnicode": "SDS450A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770156127737,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.403146743774414,
+    "coordinates": [
+      696,
+      0,
+      728,
+      254
+    ],
+    "model": "Ignis",
+    "type": "CAR"
+  }
+}

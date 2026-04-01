@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771113815676,
+  "carID": 103684,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 180340181",
+  "datetimezone": "20260215 000335104-0600",
+  "frame_timestamp": 1771113815676,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214230841_668248/20260215000335_335227lp_SKZ571A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214230841_668248/20260215000335_335227.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214230841_668248/20260215000335_335227lp_SKZ571A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKZ571A",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1017,
+    111,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKZ571A",
+  "plateUnicode": "SKZ571A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771113815676,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7077622413635254,
+    "coordinates": [
+      684,
+      0,
+      776,
+      252
+    ],
+    "model": "Prius",
+    "type": "CAR"
+  }
+}

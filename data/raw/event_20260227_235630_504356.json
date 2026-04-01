@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772236571137,
+  "carID": 136450,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 175614048",
+  "datetimezone": "20260227 235608996-0600",
+  "frame_timestamp": 1772236571137,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260227235609_234016lp_TFM450B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260227235609_234016.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260227235609_234016lp_TFM450B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFM450B",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1152,
+    153,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFM450B",
+  "plateUnicode": "TFM450B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772236571137,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.298259735107422,
+    "coordinates": [
+      804,
+      0,
+      816,
+      300
+    ],
+    "model": "Altima",
+    "type": "CAR"
+  }
+}

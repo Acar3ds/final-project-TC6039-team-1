@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770502149597,
+  "carID": 86160,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 160914504",
+  "datetimezone": "20260207 220909451-0600",
+  "frame_timestamp": 1770502149597,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207220909_723288lp_RTU584C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207220909_723288.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207220909_723288lp_RTU584C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTU584C",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    1050,
+    141,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTU584C",
+  "plateUnicode": "RTU584C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770502149597,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4842182397842407,
+    "coordinates": [
+      712,
+      0,
+      816,
+      318
+    ],
+    "model": "RS Q3 Sportback/Q3 Sportback/Q3",
+    "type": "SUV"
+  }
+}

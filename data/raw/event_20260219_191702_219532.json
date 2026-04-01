@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771528602750,
+  "carID": 115227,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 131646603",
+  "datetimezone": "20260219 191641541-0600",
+  "frame_timestamp": 1771528602750,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219191641_820094lp_SEL891C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219191641_820094.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219191641_820094lp_SEL891C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEL891C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    861,
+    93,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEL891C",
+  "plateUnicode": "SEL891C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771528602750,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.812201499938965,
+    "coordinates": [
+      532,
+      0,
+      768,
+      276
+    ],
+    "model": "Ioniq 5",
+    "type": "CAR"
+  }
+}

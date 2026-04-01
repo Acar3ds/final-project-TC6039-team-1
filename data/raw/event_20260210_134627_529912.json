@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770731169864,
+  "carID": 91368,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 074614608",
+  "datetimezone": "20260210 134609556-0600",
+  "frame_timestamp": 1770731169864,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134609_843592lp_RVE213B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134609_843592.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134609_843592lp_RVE213B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVE213B",
+  "plateConfidence": 0.8191964030265808,
+  "plateCoordinates": [
+    1242,
+    168,
+    135,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVE213B",
+  "plateUnicode": "RVE213B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770731169864,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.449167251586914,
+    "coordinates": [
+      780,
+      0,
+      864,
+      308
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

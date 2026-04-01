@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770412067111,
+  "carID": 83666,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 150751727",
+  "datetimezone": "20260206 210746679-0600",
+  "frame_timestamp": 1770412067111,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206210746_986978lp_T4235A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206210746_986978.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206210746_986978lp_T4235A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "T4235A",
+  "plateConfidence": 0.8528645634651184,
+  "plateCoordinates": [
+    948,
+    108,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "T4235A",
+  "plateUnicode": "T4235A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770412067111,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8073301315307617,
+    "coordinates": [
+      588,
+      0,
+      844,
+      356
+    ],
+    "model": "Triton/L200",
+    "type": "PICKUPTRUCK"
+  }
+}

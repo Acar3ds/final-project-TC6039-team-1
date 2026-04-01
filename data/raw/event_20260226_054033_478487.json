@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772084414018,
+  "carID": 131416,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 234017001",
+  "datetimezone": "20260226 054011945-0600",
+  "frame_timestamp": 1772084414018,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226054012_198297lp_FHR710C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226054012_198297.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226054012_198297lp_FHR710C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FHR710C",
+  "plateConfidence": 0.7767857313156128,
+  "plateCoordinates": [
+    1041,
+    102,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FHR710C",
+  "plateUnicode": "FHR710C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772084414018,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.27381706237793,
+    "coordinates": [
+      732,
+      0,
+      848,
+      314
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

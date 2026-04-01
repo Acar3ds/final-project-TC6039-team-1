@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771025154417,
+  "carID": 101219,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 172557918",
+  "datetimezone": "20260213 232552862-0600",
+  "frame_timestamp": 1771025154417,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213232553_115971lp_SAJ997C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213232553_115971.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213232553_115971lp_SAJ997C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAJ997C",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    1014,
+    144,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAJ997C",
+  "plateUnicode": "SAJ997C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771025154417,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.231589317321777,
+    "coordinates": [
+      676,
+      2,
+      808,
+      274
+    ],
+    "model": "Grand Voyager/Town   Country/Pacifica",
+    "type": "VAN"
+  }
+}

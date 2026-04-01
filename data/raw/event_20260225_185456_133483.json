@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772045675159,
+  "carID": 129924,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 125440061",
+  "datetimezone": "20260225 185435006-0600",
+  "frame_timestamp": 1772045675159,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225182921_196782/20260225185435_264308lp_RVX045C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225182921_196782/20260225185435_264308.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225182921_196782/20260225185435_264308lp_RVX045C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVX045C",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    903,
+    87,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVX045C",
+  "plateUnicode": "RVX045C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772045675159,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "IVECO",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.592121124267578,
+    "coordinates": [
+      528,
+      0,
+      840,
+      290
+    ],
+    "model": "S-Way/Stralis/Trakker",
+    "type": "TRUCK"
+  }
+}

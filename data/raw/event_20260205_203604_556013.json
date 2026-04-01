@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770323748661,
+  "carID": 80948,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 143552295",
+  "datetimezone": "20260205 203547233-0600",
+  "frame_timestamp": 1770323748661,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205203547_458969lp_SES423A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205203547_458969.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205203547_458969lp_SES423A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SES423A",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    954,
+    138,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SES423A",
+  "plateUnicode": "SES423A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770323748661,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.612529754638672,
+    "coordinates": [
+      624,
+      0,
+      796,
+      288
+    ],
+    "model": "3/6/Atenza/Axela",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770932052021,
+  "carID": 98057,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 153416397",
+  "datetimezone": "20260212 213411340-0600",
+  "frame_timestamp": 1770932052021,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212213411_561789lp_PX7511B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212213411_561789.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212213411_561789lp_PX7511B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PX7511B",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    906,
+    159,
+    141,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PX7511B",
+  "plateUnicode": "PX7511B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770932052021,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9788031578063965,
+    "coordinates": [
+      540,
+      0,
+      900,
+      302
+    ],
+    "model": "F-150",
+    "type": "PICKUPTRUCK"
+  }
+}

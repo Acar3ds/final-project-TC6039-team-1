@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771718453565,
+  "carID": 121317,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 180056496",
+  "datetimezone": "20260222 000051436-0600",
+  "frame_timestamp": 1771718453565,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222000051_689080lp_RNV115C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222000051_689080.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222000051_689080lp_RNV115C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNV115C",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1089,
+    144,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNV115C",
+  "plateUnicode": "RNV115C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771718453565,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Subaru",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.77967357635498,
+    "coordinates": [
+      756,
+      0,
+      796,
+      290
+    ],
+    "model": "Impreza",
+    "type": "CAR"
+  }
+}

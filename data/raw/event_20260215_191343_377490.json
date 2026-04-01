@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771182804569,
+  "carID": 104946,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 131328460",
+  "datetimezone": "20260215 191323413-0600",
+  "frame_timestamp": 1771182804569,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215191323_705893lp_RZL562B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215191323_705893.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215191323_705893lp_RZL562B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZL562B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    861,
+    171,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZL562B",
+  "plateUnicode": "RZL562B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771182804569,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.898922920227051,
+    "coordinates": [
+      560,
+      0,
+      740,
+      284
+    ],
+    "model": "RAM/Durango/Dakota",
+    "type": "PICKUPTRUCK"
+  }
+}

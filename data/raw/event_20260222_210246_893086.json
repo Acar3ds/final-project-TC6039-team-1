@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771794146573,
+  "carID": 122702,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 150231352",
+  "datetimezone": "20260222 210226299-0600",
+  "frame_timestamp": 1771794146573,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222210226_573697lp_SJC585B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222210226_573697.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222210226_573697lp_SJC585B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJC585B",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    948,
+    93,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJC585B",
+  "plateUnicode": "SJC585B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771794146573,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9978030920028687,
+    "coordinates": [
+      652,
+      2,
+      732,
+      262
+    ],
+    "model": "Attrage/Mirage/Mirage G4/Space Star",
+    "type": "CAR"
+  }
+}

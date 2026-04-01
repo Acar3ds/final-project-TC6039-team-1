@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771703353249,
+  "carID": 120712,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 134918163",
+  "datetimezone": "20260221 194913111-0600",
+  "frame_timestamp": 1771703353249,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221194913_347048lp_RXT796A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221194913_347048.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221194913_347048lp_RXT796A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXT796A",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1143,
+    168,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXT796A",
+  "plateUnicode": "RXT796A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771703353249,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9916892051696777,
+    "coordinates": [
+      812,
+      0,
+      812,
+      374
+    ],
+    "model": "Juke/Juke Nismo",
+    "type": "SUV"
+  }
+}

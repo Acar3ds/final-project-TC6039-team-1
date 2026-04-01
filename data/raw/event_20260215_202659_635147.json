@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771187201167,
+  "carID": 105056,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 142645062",
+  "datetimezone": "20260215 202640017-0600",
+  "frame_timestamp": 1771187201167,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215202640_343371lp_SVB097B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215202640_343371.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215202640_343371lp_SVB097B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVB097B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1134,
+    315,
+    150,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVB097B",
+  "plateUnicode": "SVB097B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771187201167,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.610550880432129,
+    "coordinates": [
+      796,
+      0,
+      808,
+      492
+    ],
+    "model": "TrailBlazer",
+    "type": "SUV"
+  }
+}

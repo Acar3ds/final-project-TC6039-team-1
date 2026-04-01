@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "PRT"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770239747514,
+  "carID": 78523,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 151551947",
+  "datetimezone": "20260204 211546895-0600",
+  "frame_timestamp": 1770239747514,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204211547_88209lp_SUD3087.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204211547_88209.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204211547_88209lp_SUD3087.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUD3087",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1035,
+    147,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "PRT",
+  "plateText": "SUD3087",
+  "plateUnicode": "SUD3087",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770239747514,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.197065830230713,
+    "coordinates": [
+      696,
+      0,
+      804,
+      306
+    ],
+    "model": "Murano/Rogue",
+    "type": "SUV"
+  }
+}

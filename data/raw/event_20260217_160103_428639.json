@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771344043370,
+  "carID": 109297,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 100048255",
+  "datetimezone": "20260217 160043208-0600",
+  "frame_timestamp": 1771344043370,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217160043_493725lp_RKJ966B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217160043_493725.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217160043_493725lp_RKJ966B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKJ966B",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    1317,
+    219,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKJ966B",
+  "plateUnicode": "RKJ966B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771344043370,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.483173131942749,
+    "coordinates": [
+      976,
+      0,
+      768,
+      380
+    ],
+    "model": "Fox/Golf/Golf Alltrack/Golf GTI/Golf Plus/Golf Sportsvan/e-Golf",
+    "type": "CAR"
+  }
+}

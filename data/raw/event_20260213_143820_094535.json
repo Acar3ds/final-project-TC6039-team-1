@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770993480757,
+  "carID": 99678,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 083805501",
+  "datetimezone": "20260213 143800439-0600",
+  "frame_timestamp": 1770993480757,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213140748_742363/20260213143800_676659lp_SVH495B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213140748_742363/20260213143800_676659.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213140748_742363/20260213143800_676659lp_SVH495B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVH495B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    921,
+    153,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVH495B",
+  "plateUnicode": "SVH495B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770993480757,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.136504888534546,
+    "coordinates": [
+      600,
+      0,
+      780,
+      314
+    ],
+    "model": "Camaro",
+    "type": "CAR"
+  }
+}

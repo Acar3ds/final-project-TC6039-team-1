@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771946538191,
+  "carID": 126719,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 092223096",
+  "datetimezone": "20260224 152218041-0600",
+  "frame_timestamp": 1771946538191,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224152218_289836lp_TEF022A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224152218_289836.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224152218_289836lp_TEF022A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEF022A",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    1170,
+    231,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEF022A",
+  "plateUnicode": "TEF022A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771946538191,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.28118896484375,
+    "coordinates": [
+      836,
+      0,
+      792,
+      366
+    ],
+    "model": "Passat",
+    "type": "CAR"
+  }
+}

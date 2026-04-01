@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770337742631,
+  "carID": 81544,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 182906158",
+  "datetimezone": "20260206 002901098-0600",
+  "frame_timestamp": 1770337742631,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002901_448984lp_RXM438C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002901_448984.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002901_448984lp_RXM438C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXM438C",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1086,
+    195,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RXM438C",
+  "plateUnicode": "RXM438C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770337742631,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.277825355529785,
+    "coordinates": [
+      732,
+      2,
+      836,
+      342
+    ],
+    "model": "Rogue",
+    "type": "SUV"
+  }
+}

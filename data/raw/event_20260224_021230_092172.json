@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771899130502,
+  "carID": 125825,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 201213153",
+  "datetimezone": "20260224 021208101-0600",
+  "frame_timestamp": 1771899130502,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224011108_696469/20260224021208_363960lp_RTX380B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224011108_696469/20260224021208_363960.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224011108_696469/20260224021208_363960lp_RTX380B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTX380B",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    975,
+    123,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTX380B",
+  "plateUnicode": "RTX380B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771899130502,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.573135852813721,
+    "coordinates": [
+      636,
+      0,
+      816,
+      294
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

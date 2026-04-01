@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770999408614,
+  "carID": 100011,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 101653315",
+  "datetimezone": "20260213 161648265-0600",
+  "frame_timestamp": 1770999408614,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213161648_497842lp_TCH832B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213161648_497842.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213161648_497842lp_TCH832B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCH832B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1281,
+    333,
+    153,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    153,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCH832B",
+  "plateUnicode": "TCH832B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770999408614,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.459506034851074,
+    "coordinates": [
+      868,
+      0,
+      936,
+      482
+    ],
+    "model": "M-Class/M-Class AMG",
+    "type": "SUV"
+  }
+}

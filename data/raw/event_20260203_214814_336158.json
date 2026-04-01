@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "PRT"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770155277980,
+  "carID": 76225,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 154802290",
+  "datetimezone": "20260203 214757233-0600",
+  "frame_timestamp": 1770155277980,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203214757_443629lp_STT5895.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203214757_443629.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203214757_443629lp_STT5895.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STT5895",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    939,
+    117,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "PRT",
+  "plateText": "STT5895",
+  "plateUnicode": "STT5895",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770155277980,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.71964693069458,
+    "coordinates": [
+      632,
+      0,
+      756,
+      264
+    ],
+    "model": "Auris/Corolla/Avensis",
+    "type": "CAR"
+  }
+}

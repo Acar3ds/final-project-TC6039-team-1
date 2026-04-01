@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771103995998,
+  "carID": 103322,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 151957462",
+  "datetimezone": "20260214 211952405-0600",
+  "frame_timestamp": 1771103995998,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214211952_666291lp_L4720C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214211952_666291.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214211952_666291lp_L4720C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "L4720C",
+  "plateConfidence": 0.8684895634651184,
+  "plateCoordinates": [
+    1128,
+    123,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "L4720C",
+  "plateUnicode": "L4720C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771103995998,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 21.144264221191406,
+    "coordinates": [
+      736,
+      0,
+      900,
+      324
+    ],
+    "model": "F-150",
+    "type": "PICKUPTRUCK"
+  }
+}

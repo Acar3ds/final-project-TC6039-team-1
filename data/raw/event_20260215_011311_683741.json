@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771117973758,
+  "carID": 103846,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 191257139",
+  "datetimezone": "20260215 011252073-0600",
+  "frame_timestamp": 1771117973758,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215011112_48358/20260215011252_351267lp_AN4618.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215011112_48358/20260215011252_351267.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215011112_48358/20260215011252_351267lp_AN4618.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "IAN4610",
+  "plateConfidence": 0.6595982313156128,
+  "plateCoordinates": [
+    1011,
+    105,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "IAN4610",
+  "plateUnicode": "IAN4610",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771117973758,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.475480079650879,
+    "coordinates": [
+      684,
+      0,
+      764,
+      338
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

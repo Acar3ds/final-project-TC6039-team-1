@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771944574309,
+  "carID": 126567,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 084937535",
+  "datetimezone": "20260224 144932472-0600",
+  "frame_timestamp": 1771944574309,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224144932_668425lp_PM7015B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224144932_668425.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224144932_668425lp_PM7015B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PM7015B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1194,
+    240,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PM7015B",
+  "plateUnicode": "PM7015B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771944574309,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ram",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.989998817443848,
+    "coordinates": [
+      788,
+      0,
+      936,
+      378
+    ],
+    "model": "Chassis Cab/3500/2500/1500",
+    "type": "PICKUPTRUCK"
+  }
+}

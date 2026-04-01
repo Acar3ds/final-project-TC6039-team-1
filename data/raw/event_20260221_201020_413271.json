@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "PRT"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771704601256,
+  "carID": 120772,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 141004981",
+  "datetimezone": "20260221 200959901-0600",
+  "frame_timestamp": 1771704601256,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221201000_178274lp_LW5585.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221201000_178274.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221201000_178274lp_LW5585.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "LW5585",
+  "plateConfidence": 0.8736979365348816,
+  "plateCoordinates": [
+    909,
+    81,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "PRT",
+  "plateText": "LW5585",
+  "plateUnicode": "LW5585",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771704601256,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.850995063781738,
+    "coordinates": [
+      612,
+      2,
+      720,
+      250
+    ],
+    "model": "Panda",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770298667743,
+  "carID": 79726,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 073752649",
+  "datetimezone": "20260205 133747596-0600",
+  "frame_timestamp": 1770298667743,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205133747_829897lp_TAB235A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205133747_829897.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205133747_829897lp_TAB235A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAB235A",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1107,
+    180,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAB235A",
+  "plateUnicode": "TAB235A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770298667743,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9591561555862427,
+    "coordinates": [
+      784,
+      0,
+      788,
+      350
+    ],
+    "model": "Accent/Solaris",
+    "type": "CAR"
+  }
+}

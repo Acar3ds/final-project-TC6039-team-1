@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771143686116,
+  "carID": 104508,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 022126371",
+  "datetimezone": "20260215 082121314-0600",
+  "frame_timestamp": 1771143686116,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215082121_562506lp_WAU978A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215082121_562506.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215082121_562506lp_WAU978A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "WAU978A",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    1026,
+    102,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "WAU978A",
+  "plateUnicode": "WAU978A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771143686116,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lancia",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.020567893981934,
+    "coordinates": [
+      700,
+      0,
+      860,
+      312
+    ],
+    "model": "Ypsilon",
+    "type": "CAR"
+  }
+}

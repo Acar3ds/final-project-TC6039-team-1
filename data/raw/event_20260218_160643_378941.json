@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771430785382,
+  "carID": 111941,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 100628335",
+  "datetimezone": "20260218 160623280-0600",
+  "frame_timestamp": 1771430785382,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218154620_688407/20260218160623_442767lp_732USZ.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218154620_688407/20260218160623_442767.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218154620_688407/20260218160623_442767lp_732USZ.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "732USZ",
+  "plateConfidence": 0.84765625,
+  "plateCoordinates": [
+    951,
+    114,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "732USZ",
+  "plateUnicode": "732USZ",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771430785382,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.515411376953125,
+    "coordinates": [
+      612,
+      0,
+      808,
+      278
+    ],
+    "model": "Grande Punto",
+    "type": "CAR"
+  }
+}

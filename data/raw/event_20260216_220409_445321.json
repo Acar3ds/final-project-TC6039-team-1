@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771279429418,
+  "carID": 107639,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 160354462",
+  "datetimezone": "20260216 220349418-0600",
+  "frame_timestamp": 1771279429418,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216220349_670022lp_RXV500B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216220349_670022.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216220349_670022lp_RXV500B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXV500B",
+  "plateConfidence": 0.6752232313156128,
+  "plateCoordinates": [
+    1542,
+    354,
+    153,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    153,
+    81
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RXV500B",
+  "plateUnicode": "RXV500B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771279429418,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9999979138374329,
+    "coordinates": [
+      1176,
+      0,
+      740,
+      506
+    ],
+    "model": "3/5/3 MPS/Axela/Premacy",
+    "type": "CAR"
+  }
+}

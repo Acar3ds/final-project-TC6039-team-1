@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771520962278,
+  "carID": 114894,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 110926230",
+  "datetimezone": "20260219 170921186-0600",
+  "frame_timestamp": 1771520962278,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219170921_403545lp_TCJ281A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219170921_403545.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219170921_403545lp_TCJ281A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCJ281A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1350,
+    219,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCJ281A",
+  "plateUnicode": "TCJ281A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771520962278,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.658003807067871,
+    "coordinates": [
+      832,
+      0,
+      992,
+      374
+    ],
+    "model": "Fit Aria/FR-V",
+    "type": "CAR"
+  }
+}

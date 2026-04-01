@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771423678802,
+  "carID": 111520,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 080802592",
+  "datetimezone": "20260218 140757542-0600",
+  "frame_timestamp": 1771423678802,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218135605_641076/20260218140757_774865lp_SAC203C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218135605_641076/20260218140757_774865.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218135605_641076/20260218140757_774865lp_SAC203C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAC203C",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    1077,
+    174,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAC203C",
+  "plateUnicode": "SAC203C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771423678802,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.130655765533447,
+    "coordinates": [
+      720,
+      0,
+      832,
+      384
+    ],
+    "model": "Altima",
+    "type": "CAR"
+  }
+}

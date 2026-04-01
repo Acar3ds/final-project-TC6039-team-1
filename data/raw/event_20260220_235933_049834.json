@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771631953590,
+  "carID": 118994,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 175917484",
+  "datetimezone": "20260220 235912434-0600",
+  "frame_timestamp": 1771631953590,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260220235912_707446lp_SRA316A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260220235912_707446.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260220235912_707446lp_SRA316A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRA316A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    996,
+    165,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRA316A",
+  "plateUnicode": "SRA316A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771631953590,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.178098678588867,
+    "coordinates": [
+      676,
+      0,
+      764,
+      290
+    ],
+    "model": "Kicks",
+    "type": "SUV"
+  }
+}

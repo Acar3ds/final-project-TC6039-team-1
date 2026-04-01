@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770587502138,
+  "carID": 87872,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 155147050",
+  "datetimezone": "20260208 215142000-0600",
+  "frame_timestamp": 1770587502138,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208215142_245853lp_TGB712A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208215142_245853.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208215142_245853lp_TGB712A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGB712A",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1377,
+    378,
+    156,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    156,
+    81
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGB712A",
+  "plateUnicode": "TGB712A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770587502138,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9999780654907227,
+    "coordinates": [
+      1068,
+      0,
+      840,
+      540
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

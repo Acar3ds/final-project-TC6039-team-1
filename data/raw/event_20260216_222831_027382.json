@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771280892575,
+  "carID": 107687,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 162815888",
+  "datetimezone": "20260216 222810844-0600",
+  "frame_timestamp": 1771280892575,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222811_84335lp_SVY519B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222811_84335.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222811_84335lp_SVY519B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVY519B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    960,
+    138,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVY519B",
+  "plateUnicode": "SVY519B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771280892575,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.345239639282227,
+    "coordinates": [
+      664,
+      0,
+      728,
+      288
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

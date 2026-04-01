@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771806162499,
+  "carID": 123063,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 182246724",
+  "datetimezone": "20260223 002241671-0600",
+  "frame_timestamp": 1771806162499,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260223002241_908068lp_SFK720B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260223002241_908068.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260223002241_908068lp_SFK720B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFK720B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1182,
+    192,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFK720B",
+  "plateUnicode": "SFK720B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771806162499,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6936604976654053,
+    "coordinates": [
+      852,
+      0,
+      768,
+      324
+    ],
+    "model": "Ka",
+    "type": "CAR"
+  }
+}

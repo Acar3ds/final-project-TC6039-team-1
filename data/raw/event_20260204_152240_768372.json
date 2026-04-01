@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770218543809,
+  "carID": 77669,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 092228726",
+  "datetimezone": "20260204 152223666-0600",
+  "frame_timestamp": 1770218543809,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204152223_896135lp_RNG824C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204152223_896135.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204152223_896135lp_RNG824C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNG824C",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1425,
+    261,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNG824C",
+  "plateUnicode": "RNG824C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770218543809,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8356608152389526,
+    "coordinates": [
+      960,
+      2,
+      892,
+      438
+    ],
+    "model": "Equinox/Traverse",
+    "type": "SUV"
+  }
+}

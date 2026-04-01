@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771619303846,
+  "carID": 118402,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 142828246",
+  "datetimezone": "20260220 202823191-0600",
+  "frame_timestamp": 1771619303846,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202823_441961lp_FMP362C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202823_441961.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202823_441961lp_FMP362C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FMP362C",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    1059,
+    111,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FMP362C",
+  "plateUnicode": "FMP362C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771619303846,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9300496578216553,
+    "coordinates": [
+      684,
+      0,
+      876,
+      320
+    ],
+    "model": "Explorer",
+    "type": "SUV"
+  }
+}

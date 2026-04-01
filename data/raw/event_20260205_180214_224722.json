@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770314518887,
+  "carID": 80501,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 120201986",
+  "datetimezone": "20260205 180156940-0600",
+  "frame_timestamp": 1770314518887,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205180157_219450lp_B3697A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205180157_219450.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205180157_219450lp_B3697A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "B3697A",
+  "plateConfidence": 0.8294270634651184,
+  "plateCoordinates": [
+    984,
+    99,
+    123,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "B3697A",
+  "plateUnicode": "B3697A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770314518887,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Scion",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.530699729919434,
+    "coordinates": [
+      588,
+      0,
+      804,
+      362
+    ],
+    "model": "xB",
+    "type": "VAN"
+  }
+}

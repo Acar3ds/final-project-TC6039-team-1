@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771258592728,
+  "carID": 106703,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 101636681",
+  "datetimezone": "20260216 161631623-0600",
+  "frame_timestamp": 1771258592728,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216161631_926302lp_TGP808B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216161631_926302.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216161631_926302lp_TGP808B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGP808B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    912,
+    90,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGP808B",
+  "plateUnicode": "TGP808B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771258592728,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.778749942779541,
+    "coordinates": [
+      600,
+      0,
+      744,
+      230
+    ],
+    "model": "Volt",
+    "type": "CAR"
+  }
+}

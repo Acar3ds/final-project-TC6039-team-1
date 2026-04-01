@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771879279480,
+  "carID": 124999,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 144124380",
+  "datetimezone": "20260223 204119325-0600",
+  "frame_timestamp": 1771879279480,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223204119_608544lp_RYD201C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223204119_608544.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223204119_608544lp_RYD201C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYD201C",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    1023,
+    204,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYD201C",
+  "plateUnicode": "RYD201C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771879279480,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9880294799804688,
+    "coordinates": [
+      708,
+      0,
+      768,
+      356
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

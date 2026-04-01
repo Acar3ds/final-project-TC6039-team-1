@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771962455201,
+  "carID": 127430,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 134739941",
+  "datetimezone": "20260224 194734891-0600",
+  "frame_timestamp": 1771962455201,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224194735_111683lp_RKH221B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224194735_111683.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224194735_111683lp_RKH221B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKH221B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1092,
+    222,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RKH221B",
+  "plateUnicode": "RKH221B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771962455201,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6784374713897705,
+    "coordinates": [
+      752,
+      0,
+      796,
+      392
+    ],
+    "model": "ix35/Santa Fe/Tucson",
+    "type": "SUV"
+  }
+}

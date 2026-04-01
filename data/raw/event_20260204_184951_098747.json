@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770230975112,
+  "carID": 78129,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 124939089",
+  "datetimezone": "20260204 184934033-0600",
+  "frame_timestamp": 1770230975112,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204184934_250592lp_RLW280C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204184934_250592.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204184934_250592lp_RLW280C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLW280C",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1005,
+    93,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLW280C",
+  "plateUnicode": "RLW280C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770230975112,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.571398735046387,
+    "coordinates": [
+      636,
+      0,
+      832,
+      326
+    ],
+    "model": "Grand Cherokee",
+    "type": "SUV"
+  }
+}

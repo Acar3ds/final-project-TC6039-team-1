@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771185175682,
+  "carID": 105010,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 135257935",
+  "datetimezone": "20260215 195252883-0600",
+  "frame_timestamp": 1771185175682,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215195253_150840lp_SWK823B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215195253_150840.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215195253_150840lp_SWK823B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWK823B",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    972,
+    90,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWK823B",
+  "plateUnicode": "SWK823B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771185175682,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.687442779541016,
+    "coordinates": [
+      672,
+      0,
+      740,
+      260
+    ],
+    "model": "XT4/XT5/XT6",
+    "type": "SUV"
+  }
+}

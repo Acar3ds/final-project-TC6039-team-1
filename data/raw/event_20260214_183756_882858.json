@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771094257589,
+  "carID": 102886,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 123742370",
+  "datetimezone": "20260214 183737317-0600",
+  "frame_timestamp": 1771094257589,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214183737_582440lp_LX195B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214183737_582440.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214183737_582440lp_LX195B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "LX195B",
+  "plateConfidence": 0.8385416865348816,
+  "plateCoordinates": [
+    999,
+    117,
+    135,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    60
+  ],
+  "plateCountry": "NLD",
+  "plateText": "LX195B",
+  "plateUnicode": "LX195B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771094257589,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1159799098968506,
+    "coordinates": [
+      688,
+      2,
+      756,
+      280
+    ],
+    "model": "Sharan/Touran",
+    "type": "VAN"
+  }
+}

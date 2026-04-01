@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770398783170,
+  "carID": 82962,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 112626083",
+  "datetimezone": "20260206 172621025-0600",
+  "frame_timestamp": 1770398783170,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206172621_264926lp_RRM288C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206172621_264926.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206172621_264926lp_RRM288C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRM288C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    963,
+    132,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRM288C",
+  "plateUnicode": "RRM288C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770398783170,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.166422128677368,
+    "coordinates": [
+      624,
+      0,
+      760,
+      288
+    ],
+    "model": "Focus/Focus RS/Focus ST",
+    "type": "CAR"
+  }
+}

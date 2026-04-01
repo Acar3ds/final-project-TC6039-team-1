@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770913605386,
+  "carID": 97245,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 102649859",
+  "datetimezone": "20260212 162644809-0600",
+  "frame_timestamp": 1770913605386,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212162645_97818lp_SDY153B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212162645_97818.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212162645_97818lp_SDY153B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDY153B",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    951,
+    96,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDY153B",
+  "plateUnicode": "SDY153B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770913605386,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.924483776092529,
+    "coordinates": [
+      636,
+      0,
+      776,
+      248
+    ],
+    "model": "Galant Fortis/Lancer/Lancer Evolution/Lancer Ralliart",
+    "type": "CAR"
+  }
+}

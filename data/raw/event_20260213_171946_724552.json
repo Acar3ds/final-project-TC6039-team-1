@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771003167862,
+  "carID": 100179,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 111932479",
+  "datetimezone": "20260213 171927431-0600",
+  "frame_timestamp": 1771003167862,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213171927_662346lp_RZB790C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213171927_662346.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213171927_662346lp_RZB790C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZB790C",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    888,
+    84,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZB790C",
+  "plateUnicode": "RZB790C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771003167862,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5528978109359741,
+    "coordinates": [
+      596,
+      0,
+      704,
+      240
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

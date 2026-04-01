@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771017020120,
+  "carID": 100821,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 151020807",
+  "datetimezone": "20260213 211015742-0600",
+  "frame_timestamp": 1771017020120,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213211015_976710lp_SKM546A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213211015_976710.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213211015_976710lp_SKM546A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKM546A",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    1170,
+    135,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKM546A",
+  "plateUnicode": "SKM546A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771017020120,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6192116737365723,
+    "coordinates": [
+      832,
+      0,
+      812,
+      306
+    ],
+    "model": "Accord  USA ",
+    "type": "CAR"
+  }
+}

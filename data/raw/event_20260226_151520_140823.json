@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772118899680,
+  "carID": 132136,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 091503933",
+  "datetimezone": "20260226 151458891-0600",
+  "frame_timestamp": 1772118899680,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226151459_128610lp_RPY809B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226151459_128610.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226151459_128610lp_RPY809B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPY809B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1020,
+    171,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPY809B",
+  "plateUnicode": "RPY809B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772118899680,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.75571870803833,
+    "coordinates": [
+      636,
+      0,
+      892,
+      348
+    ],
+    "model": "Mufasa/Palisade",
+    "type": "SUV"
+  }
+}

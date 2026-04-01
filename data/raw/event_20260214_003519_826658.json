@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771029304964,
+  "carID": 101409,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 183505276",
+  "datetimezone": "20260214 003500223-0600",
+  "frame_timestamp": 1771029304964,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214003500_452034lp_RK8163A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214003500_452034.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214003500_452034lp_RK8163A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RK8163A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    912,
+    144,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RK8163A",
+  "plateUnicode": "RK8163A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771029304964,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 47.57887268066406,
+    "coordinates": [
+      632,
+      0,
+      728,
+      240
+    ],
+    "model": "Primastar",
+    "type": "VAN"
+  }
+}

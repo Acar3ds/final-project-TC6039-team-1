@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771105067087,
+  "carID": 103361,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 153751999",
+  "datetimezone": "20260214 213746940-0600",
+  "frame_timestamp": 1771105067087,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214213747_188267lp_TFV597A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214213747_188267.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214213747_188267lp_TFV597A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFV597A",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    1098,
+    192,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFV597A",
+  "plateUnicode": "TFV597A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771105067087,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.776362419128418,
+    "coordinates": [
+      776,
+      0,
+      780,
+      338
+    ],
+    "model": "Kicks",
+    "type": "SUV"
+  }
+}

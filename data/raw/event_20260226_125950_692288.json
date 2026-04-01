@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772110771792,
+  "carID": 131592,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 065934553",
+  "datetimezone": "20260226 125929499-0600",
+  "frame_timestamp": 1772110771792,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226125424_861618/20260226125929_775321lp_SXJ500A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226125424_861618/20260226125929_775321.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226125424_861618/20260226125929_775321lp_SXJ500A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXJ500A",
+  "plateConfidence": 0.8080357313156128,
+  "plateCoordinates": [
+    1122,
+    174,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXJ500A",
+  "plateUnicode": "SXJ500A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772110771792,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.288547992706299,
+    "coordinates": [
+      736,
+      2,
+      832,
+      306
+    ],
+    "model": "Traverse",
+    "type": "SUV"
+  }
+}

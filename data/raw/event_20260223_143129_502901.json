@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771857071128,
+  "carID": 123957,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 083113537",
+  "datetimezone": "20260223 143108482-0600",
+  "frame_timestamp": 1771857071128,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223143108_758643lp_GDZ432D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223143108_758643.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223143108_758643lp_GDZ432D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "GDZ432D",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1017,
+    135,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "GDZ432D",
+  "plateUnicode": "GDZ432D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771857071128,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.986048698425293,
+    "coordinates": [
+      632,
+      0,
+      896,
+      288
+    ],
+    "model": "Savana",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768925343480,
+  "carID": 123866,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 100904188",
+  "datetimezone": "20260120 160903480-0600",
+  "frame_timestamp": 1768925343480,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120160445_231211/20260120160904_105681lp_RLM181B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120160445_231211/20260120160904_105681.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120160445_231211/20260120160904_105681lp_RLM181B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLM181B",
+  "plateConfidence": 0.7354910969734192,
+  "plateCoordinates": [
+    2004,
+    26,
+    143,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    143,
+    43
+  ],
+  "plateCountry": "USA",
+  "plateText": "RLM181B",
+  "plateUnicode": "RLM181B",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768925343480,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9321983456611633,
+    "coordinates": [
+      1780,
+      0,
+      492,
+      138
+    ],
+    "model": "Accord  USA ",
+    "type": "CAR"
+  }
+}

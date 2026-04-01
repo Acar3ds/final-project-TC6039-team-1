@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771626090406,
+  "carID": 118710,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 162133370",
+  "datetimezone": "20260220 222128314-0600",
+  "frame_timestamp": 1771626090406,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220222128_559227lp_A556MKY.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220222128_559227.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220222128_559227lp_A556MKY.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A556MKY",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    813,
+    111,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "A556MKY",
+  "plateUnicode": "A556MKY",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771626090406,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5740857124328613,
+    "coordinates": [
+      508,
+      0,
+      732,
+      246
+    ],
+    "model": "Bipper/Expert",
+    "type": "VAN"
+  }
+}

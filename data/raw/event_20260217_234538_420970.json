@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771371918870,
+  "carID": 110483,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 174523466",
+  "datetimezone": "20260217 234518417-0600",
+  "frame_timestamp": 1771371918870,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217234518_633939lp_RL8166B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217234518_633939.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217234518_633939lp_RL8166B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "L8166B",
+  "plateConfidence": 0.81640625,
+  "plateCoordinates": [
+    906,
+    120,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "L8166B",
+  "plateUnicode": "L8166B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771371918870,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9906070232391357,
+    "coordinates": [
+      500,
+      0,
+      932,
+      300
+    ],
+    "model": "Tundra",
+    "type": "PICKUPTRUCK"
+  }
+}

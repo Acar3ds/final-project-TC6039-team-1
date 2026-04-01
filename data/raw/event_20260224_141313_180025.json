@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771942372468,
+  "carID": 126446,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 081257376",
+  "datetimezone": "20260224 141252321-0600",
+  "frame_timestamp": 1771942372468,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224141252_581347lp_TAG430A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224141252_581347.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224141252_581347lp_TAG430A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAG430A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1050,
+    204,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAG430A",
+  "plateUnicode": "TAG430A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771942372468,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.994901180267334,
+    "coordinates": [
+      728,
+      0,
+      764,
+      344
+    ],
+    "model": "Belta/Yaris/Vios",
+    "type": "CAR"
+  }
+}

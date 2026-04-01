@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772061746756,
+  "carID": 130685,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 172229972",
+  "datetimezone": "20260225 232224922-0600",
+  "frame_timestamp": 1772061746756,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225225941_901892/20260225232225_179322lp_RYS594A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225225941_901892/20260225232225_179322.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225225941_901892/20260225232225_179322lp_RYS594A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYS594A",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    1014,
+    162,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RYS594A",
+  "plateUnicode": "RYS594A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772061746756,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.193940162658691,
+    "coordinates": [
+      676,
+      0,
+      832,
+      320
+    ],
+    "model": "Tundra",
+    "type": "PICKUPTRUCK"
+  }
+}

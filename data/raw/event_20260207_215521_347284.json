@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770501304346,
+  "carID": 86134,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 155508513",
+  "datetimezone": "20260207 215503458-0600",
+  "frame_timestamp": 1770501304346,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207215503_676378lp_SDR412C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207215503_676378.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207215503_676378lp_SDR412C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDR412C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1080,
+    144,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDR412C",
+  "plateUnicode": "SDR412C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770501304346,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.676541328430176,
+    "coordinates": [
+      744,
+      0,
+      808,
+      308
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770257219775,
+  "carID": 79225,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 200702761",
+  "datetimezone": "20260205 020657709-0600",
+  "frame_timestamp": 1770257219775,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205010552_17422/20260205020657_923759lp_STS7406.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205010552_17422/20260205020657_923759.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205010552_17422/20260205020657_923759lp_STS7406.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STS7406",
+  "plateConfidence": 0.7834821343421936,
+  "plateCoordinates": [
+    1023,
+    144,
+    138,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    63
+  ],
+  "plateCountry": "NLD",
+  "plateText": "STS7406",
+  "plateUnicode": "STS7406",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770257219775,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.025551795959473,
+    "coordinates": [
+      724,
+      0,
+      724,
+      386
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

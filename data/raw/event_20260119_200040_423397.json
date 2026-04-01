@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768852830011,
+  "carID": 116312,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260119 140031026",
+  "datetimezone": "20260119 200030011-0600",
+  "frame_timestamp": 1768852830011,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260119195252_836601/20260119200030_932933lp_SDB543C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260119195252_836601/20260119200030_932933.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260119195252_836601/20260119200030_932933lp_SDB543C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDB543C",
+  "plateConfidence": 0.5824776887893677,
+  "plateCoordinates": [
+    2131,
+    79,
+    135,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "SDB543C",
+  "plateUnicode": "SDB543C",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768852830011,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.3915637135505676,
+    "coordinates": [
+      1852,
+      0,
+      580,
+      210
+    ],
+    "model": "Suburban/Tahoe",
+    "type": "SUV"
+  }
+}

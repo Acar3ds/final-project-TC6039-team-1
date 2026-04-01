@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771368968663,
+  "carID": 110350,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 165612966",
+  "datetimezone": "20260217 225607887-0600",
+  "frame_timestamp": 1771368968663,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217223143_63771/20260217225608_124822lp_RPL047C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217223143_63771/20260217225608_124822.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217223143_63771/20260217225608_124822lp_RPL047C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPL047C",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1113,
+    141,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPL047C",
+  "plateUnicode": "RPL047C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771368968663,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.026189804077148,
+    "coordinates": [
+      760,
+      0,
+      832,
+      330
+    ],
+    "model": "GLC/GLC AMG/GLC Coupe/GLC Coupe AMG",
+    "type": "SUV"
+  }
+}

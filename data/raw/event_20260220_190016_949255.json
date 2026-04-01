@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771613996870,
+  "carID": 118080,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 130001617",
+  "datetimezone": "20260220 185956559-0600",
+  "frame_timestamp": 1771613996870,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220185956_809252lp_RVX679C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220185956_809252.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220185956_809252lp_RVX679C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVX679C",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    918,
+    93,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVX679C",
+  "plateUnicode": "RVX679C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771613996870,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7796882390975952,
+    "coordinates": [
+      576,
+      0,
+      808,
+      312
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

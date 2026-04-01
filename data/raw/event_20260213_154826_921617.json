@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "MKD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770997688560,
+  "carID": 99934,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 094812394",
+  "datetimezone": "20260213 154807334-0600",
+  "frame_timestamp": 1770997688560,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213151317_566499/20260213154807_570806lp_SXS470A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213151317_566499/20260213154807_570806.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213151317_566499/20260213154807_570806lp_SXS470A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXS470A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    825,
+    195,
+    135,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    54
+  ],
+  "plateCountry": "MKD",
+  "plateText": "SXS470A",
+  "plateUnicode": "SXS470A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770997688560,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.060899257659912,
+    "coordinates": [
+      504,
+      0,
+      768,
+      344
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

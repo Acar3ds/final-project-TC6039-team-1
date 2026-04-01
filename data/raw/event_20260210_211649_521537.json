@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770758191570,
+  "carID": 92745,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 151636500",
+  "datetimezone": "20260210 211631442-0600",
+  "frame_timestamp": 1770758191570,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210211631_663017lp_RKG963B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210211631_663017.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210211631_663017lp_RKG963B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKG963B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1281,
+    213,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKG963B",
+  "plateUnicode": "RKG963B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770758191570,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.926830530166626,
+    "coordinates": [
+      912,
+      0,
+      816,
+      374
+    ],
+    "model": "3 Series/M3",
+    "type": "CAR"
+  }
+}

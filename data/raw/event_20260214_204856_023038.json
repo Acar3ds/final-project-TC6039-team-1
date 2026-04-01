@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771102117253,
+  "carID": 103242,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 144841296",
+  "datetimezone": "20260214 204836243-0600",
+  "frame_timestamp": 1771102117253,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214204836_505854lp_L4596H.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214204836_505854.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214204836_505854lp_L4596H.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "L4596H",
+  "plateConfidence": 0.8138020634651184,
+  "plateCoordinates": [
+    849,
+    150,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "L4596H",
+  "plateUnicode": "L4596H",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771102117253,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.014176845550537,
+    "coordinates": [
+      516,
+      0,
+      808,
+      390
+    ],
+    "model": "Pathfinder/Navara",
+    "type": "PICKUPTRUCK"
+  }
+}

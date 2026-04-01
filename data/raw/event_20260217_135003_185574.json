@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771336183148,
+  "carID": 108816,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 074948073",
+  "datetimezone": "20260217 134943016-0600",
+  "frame_timestamp": 1771336183148,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217131805_538991/20260217134943_259815lp_RNC380C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217131805_538991/20260217134943_259815.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217131805_538991/20260217134943_259815lp_RNC380C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNC380C",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1032,
+    162,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNC380C",
+  "plateUnicode": "RNC380C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771336183148,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9993010759353638,
+    "coordinates": [
+      708,
+      0,
+      768,
+      320
+    ],
+    "model": "Cavalier/Onix/Sonic",
+    "type": "CAR"
+  }
+}

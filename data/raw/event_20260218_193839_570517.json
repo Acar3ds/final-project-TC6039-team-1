@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771443501799,
+  "carID": 112532,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 133824552",
+  "datetimezone": "20260218 193819474-0600",
+  "frame_timestamp": 1771443501799,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218184747_933936/20260218193819_702738lp_RKZ450A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218184747_933936/20260218193819_702738.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218184747_933936/20260218193819_702738lp_RKZ450A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKZ450A",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    966,
+    108,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKZ450A",
+  "plateUnicode": "RKZ450A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771443501799,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.129200458526611,
+    "coordinates": [
+      632,
+      2,
+      792,
+      244
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772165188272,
+  "carID": 134219,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 220633177",
+  "datetimezone": "20260227 040628126-0600",
+  "frame_timestamp": 1772165188272,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227032350_810366/20260227040628_379921lp_SBM154A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227032350_810366/20260227040628_379921.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227032350_810366/20260227040628_379921lp_SBM154A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBM154A",
+  "plateConfidence": 0.7354910969734192,
+  "plateCoordinates": [
+    927,
+    78,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBM154A",
+  "plateUnicode": "SBM154A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772165188272,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 19.13589096069336,
+    "coordinates": [
+      636,
+      0,
+      716,
+      258
+    ],
+    "model": "Teana",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770333766931,
+  "carID": 81350,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 172250046",
+  "datetimezone": "20260205 232244990-0600",
+  "frame_timestamp": 1770333766931,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205232245_250934lp_XHY076D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205232245_250934.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205232245_250934lp_XHY076D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "XHY076D",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1032,
+    162,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "XHY076D",
+  "plateUnicode": "XHY076D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770333766931,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.948633193969727,
+    "coordinates": [
+      672,
+      0,
+      808,
+      320
+    ],
+    "model": "Arona/Ateca",
+    "type": "SUV"
+  }
+}

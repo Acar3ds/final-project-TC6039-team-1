@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771719187772,
+  "carID": 121345,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 181312254",
+  "datetimezone": "20260222 001307201-0600",
+  "frame_timestamp": 1771719187772,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222001307_444109lp_XBE427C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222001307_444109.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222001307_444109lp_XBE427C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "XBE427C",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    1341,
+    222,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "GRC",
+  "plateText": "XBE427C",
+  "plateUnicode": "XBE427C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771719187772,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9504115581512451,
+    "coordinates": [
+      968,
+      0,
+      816,
+      396
+    ],
+    "model": "Bolt/Bolt EV",
+    "type": "CAR"
+  }
+}

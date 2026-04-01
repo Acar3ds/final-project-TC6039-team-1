@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771510769164,
+  "carID": 114392,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 081934081",
+  "datetimezone": "20260219 141929021-0600",
+  "frame_timestamp": 1771510769164,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219141929_276146lp_TEP147A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219141929_276146.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219141929_276146lp_TEP147A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEP147A",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    972,
+    105,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEP147A",
+  "plateUnicode": "TEP147A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771510769164,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.3493449687957764,
+    "coordinates": [
+      652,
+      0,
+      768,
+      258
+    ],
+    "model": "Focus/Focus RS",
+    "type": "CAR"
+  }
+}

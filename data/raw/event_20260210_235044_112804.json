@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770767427743,
+  "carID": 93090,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 175030881",
+  "datetimezone": "20260210 235025819-0600",
+  "frame_timestamp": 1770767427743,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210235026_50018lp_RTL629C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210235026_50018.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210235026_50018lp_RTL629C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTL629C",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    846,
+    102,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTL629C",
+  "plateUnicode": "RTL629C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770767427743,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.992985248565674,
+    "coordinates": [
+      504,
+      0,
+      840,
+      242
+    ],
+    "model": "Wingroad",
+    "type": "CAR"
+  }
+}

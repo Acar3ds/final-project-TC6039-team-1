@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770668585254,
+  "carID": 89993,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 142309813",
+  "datetimezone": "20260209 202304763-0600",
+  "frame_timestamp": 1770668585254,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209202305_44871lp_544S801.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209202305_44871.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209202305_44871lp_544S801.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "44S801",
+  "plateConfidence": 0.8489583134651184,
+  "plateCoordinates": [
+    1203,
+    147,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "44S801",
+  "plateUnicode": "44S801",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770668585254,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Tesla",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9837799072265625,
+    "coordinates": [
+      828,
+      0,
+      852,
+      320
+    ],
+    "model": "Model 3/Model Y",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770312173480,
+  "carID": 80397,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 112258390",
+  "datetimezone": "20260205 172253338-0600",
+  "frame_timestamp": 1770312173480,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205163156_307473/20260205172253_558873lp_SPR805B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205163156_307473/20260205172253_558873.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205163156_307473/20260205172253_558873lp_SPR805B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPR805B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    990,
+    153,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SPR805B",
+  "plateUnicode": "SPR805B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770312173480,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.951642394065857,
+    "coordinates": [
+      668,
+      0,
+      768,
+      450
+    ],
+    "model": "Raize",
+    "type": "SUV"
+  }
+}

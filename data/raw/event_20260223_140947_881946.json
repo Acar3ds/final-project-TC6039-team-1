@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771855767768,
+  "carID": 123869,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 080932220",
+  "datetimezone": "20260223 140927166-0600",
+  "frame_timestamp": 1771855767768,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223140927_432607lp_RZY946B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223140927_432607.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223140927_432607lp_RZY946B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZY946B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    822,
+    147,
+    132,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    51
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZY946B",
+  "plateUnicode": "RZY946B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771855767768,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.538800239562988,
+    "coordinates": [
+      520,
+      0,
+      740,
+      282
+    ],
+    "model": "S-10",
+    "type": "SUV"
+  }
+}

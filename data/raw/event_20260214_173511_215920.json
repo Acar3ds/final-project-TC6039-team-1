@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771090492597,
+  "carID": 102736,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 113456786",
+  "datetimezone": "20260214 173451732-0600",
+  "frame_timestamp": 1771090492597,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214173451_970901lp_TAC042A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214173451_970901.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214173451_970901lp_TAC042A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAC042A",
+  "plateConfidence": 0.828125,
+  "plateCoordinates": [
+    873,
+    177,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAC042A",
+  "plateUnicode": "TAC042A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771090492597,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2164177894592285,
+    "coordinates": [
+      556,
+      2,
+      748,
+      358
+    ],
+    "model": "Attrage/Mirage/Mirage G4/Space Star",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771687660369,
+  "carID": 120089,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 092744628",
+  "datetimezone": "20260221 152739570-0600",
+  "frame_timestamp": 1771687660369,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221152739_803805lp_RMA326C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221152739_803805.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221152739_803805lp_RMA326C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMA326C",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1065,
+    117,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMA326C",
+  "plateUnicode": "RMA326C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771687660369,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.986917495727539,
+    "coordinates": [
+      724,
+      0,
+      808,
+      276
+    ],
+    "model": "GLB/GLB AMG",
+    "type": "SUV"
+  }
+}

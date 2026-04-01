@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771718767462,
+  "carID": 121336,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 180612361",
+  "datetimezone": "20260222 000607310-0600",
+  "frame_timestamp": 1771718767462,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222000607_547915lp_SXS043B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222000607_547915.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222000607_547915lp_SXS043B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXS043B",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    804,
+    156,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXS043B",
+  "plateUnicode": "SXS043B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771718767462,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lincoln",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8379316329956055,
+    "coordinates": [
+      468,
+      6,
+      816,
+      266
+    ],
+    "model": "LS/Town Car",
+    "type": "CAR"
+  }
+}

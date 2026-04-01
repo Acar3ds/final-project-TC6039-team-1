@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768946219831,
+  "carID": 127558,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 155700511",
+  "datetimezone": "20260120 215659831-0600",
+  "frame_timestamp": 1768946219831,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120215326_714354/20260120215700_438002lp_SPV556A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120215326_714354/20260120215700_438002.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120215326_714354/20260120215700_438002lp_SPV556A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPV556A",
+  "plateConfidence": 0.8158482313156128,
+  "plateCoordinates": [
+    2048,
+    14,
+    128,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    128,
+    43
+  ],
+  "plateCountry": "USA",
+  "plateText": "SPV556A",
+  "plateUnicode": "SPV556A",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768946219831,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peterbilt",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.777266263961792,
+    "coordinates": [
+      1804,
+      0,
+      504,
+      132
+    ],
+    "model": "365/367/389",
+    "type": "TRUCK"
+  }
+}

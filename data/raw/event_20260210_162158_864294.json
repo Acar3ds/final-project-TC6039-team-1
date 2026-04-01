@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770740502030,
+  "carID": 91911,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 102145875",
+  "datetimezone": "20260210 162140825-0600",
+  "frame_timestamp": 1770740502030,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210153709_755763/20260210162141_46595lp_VKL018C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210153709_755763/20260210162141_46595.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210153709_755763/20260210162141_46595lp_VKL018C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "VKL018C",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    1023,
+    153,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "VKL018C",
+  "plateUnicode": "VKL018C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770740502030,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.979336738586426,
+    "coordinates": [
+      708,
+      0,
+      768,
+      288
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771265629515,
+  "carID": 106971,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 121353971",
+  "datetimezone": "20260216 181348913-0600",
+  "frame_timestamp": 1771265629515,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216181349_124441lp_PZ8550A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216181349_124441.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216181349_124441lp_PZ8550A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PZ8550A",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    993,
+    93,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PZ8550A",
+  "plateUnicode": "PZ8550A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771265629515,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.975402593612671,
+    "coordinates": [
+      588,
+      0,
+      888,
+      446
+    ],
+    "model": "Ranger",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771104217774,
+  "carID": 103336,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 152342680",
+  "datetimezone": "20260214 212337624-0600",
+  "frame_timestamp": 1771104217774,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212337_864031lp_STY943A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212337_864031.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212337_864031lp_STY943A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STY943A",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1020,
+    120,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STY943A",
+  "plateUnicode": "STY943A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771104217774,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.999962568283081,
+    "coordinates": [
+      696,
+      0,
+      768,
+      302
+    ],
+    "model": "EcoSport",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771853269974,
+  "carID": 123730,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 072753528",
+  "datetimezone": "20260223 132748477-0600",
+  "frame_timestamp": 1771853269974,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223132748_727904lp_RVZ972A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223132748_727904.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223132748_727904lp_RVZ972A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVZ972A",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    1143,
+    225,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVZ972A",
+  "plateUnicode": "RVZ972A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771853269974,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.406513214111328,
+    "coordinates": [
+      824,
+      0,
+      760,
+      348
+    ],
+    "model": "Grace",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771041324978,
+  "carID": 101921,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 215526969",
+  "datetimezone": "20260214 035521909-0600",
+  "frame_timestamp": 1771041324978,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214035522_108331lp_SMK250B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214035522_108331.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214035522_108331lp_SMK250B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMK250B",
+  "plateConfidence": 0.8247767686843872,
+  "plateCoordinates": [
+    870,
+    111,
+    126,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    51
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMK250B",
+  "plateUnicode": "SMK250B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771041324978,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5502078533172607,
+    "coordinates": [
+      572,
+      0,
+      688,
+      230
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770319666631,
+  "carID": 80731,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 132748125",
+  "datetimezone": "20260205 192743067-0600",
+  "frame_timestamp": 1770319666631,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192743_283438lp_RNT735A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192743_283438.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192743_283438lp_RNT735A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNT735A",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    891,
+    75,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNT735A",
+  "plateUnicode": "RNT735A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770319666631,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.314578056335449,
+    "coordinates": [
+      564,
+      2,
+      776,
+      274
+    ],
+    "model": "Kona",
+    "type": "SUV"
+  }
+}

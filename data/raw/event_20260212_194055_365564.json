@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770925237193,
+  "carID": 97703,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 134041889",
+  "datetimezone": "20260212 194036821-0600",
+  "frame_timestamp": 1770925237193,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212184949_609714/20260212194037_90040lp_RVP432B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212184949_609714/20260212194037_90040.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212184949_609714/20260212194037_90040lp_RVP432B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVP432B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1347,
+    183,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVP432B",
+  "plateUnicode": "RVP432B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770925237193,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Pontiac",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.647606611251831,
+    "coordinates": [
+      940,
+      0,
+      828,
+      378
+    ],
+    "model": "G6/Grand Prix",
+    "type": "CAR"
+  }
+}

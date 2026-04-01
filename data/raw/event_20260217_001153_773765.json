@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771287095252,
+  "carID": 107923,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 181139052",
+  "datetimezone": "20260217 001134001-0600",
+  "frame_timestamp": 1771287095252,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216225938_484875/20260217001134_237759lp_SJC885A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216225938_484875/20260217001134_237759.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216225938_484875/20260217001134_237759lp_SJC885A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJC885A",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    861,
+    186,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJC885A",
+  "plateUnicode": "SJC885A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771287095252,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.482545852661133,
+    "coordinates": [
+      540,
+      0,
+      780,
+      314
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "POL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771853476038,
+  "carID": 123737,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 073121091",
+  "datetimezone": "20260223 133116038-0600",
+  "frame_timestamp": 1771853476038,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223133116_292885lp_ACENTRL.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223133116_292885.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223133116_292885lp_ACENTRL.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "ACENTRL",
+  "plateConfidence": 0.8102678656578064,
+  "plateCoordinates": [
+    1467,
+    708,
+    291,
+    87
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    291,
+    87
+  ],
+  "plateCountry": "POL",
+  "plateText": "ACENTRL",
+  "plateUnicode": "ACENTRL",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771853476038,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.2090744972229,
+    "coordinates": [
+      200,
+      18,
+      1716,
+      1062
+    ],
+    "model": "Traverse",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771196389841,
+  "carID": 105308,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 165954136",
+  "datetimezone": "20260215 225949084-0600",
+  "frame_timestamp": 1771196389841,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215225949_339988lp_RVR220C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215225949_339988.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215225949_339988lp_RVR220C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVR220C",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1125,
+    162,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVR220C",
+  "plateUnicode": "RVR220C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771196389841,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hummer",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.166657447814941,
+    "coordinates": [
+      816,
+      0,
+      748,
+      350
+    ],
+    "model": "H3/H2",
+    "type": "PICKUPTRUCK"
+  }
+}

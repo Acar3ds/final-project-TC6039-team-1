@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771013420142,
+  "carID": 100652,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 141024102",
+  "datetimezone": "20260213 201019054-0600",
+  "frame_timestamp": 1771013420142,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213200246_222318/20260213201019_317339lp_SHC650B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213200246_222318/20260213201019_317339.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213200246_222318/20260213201019_317339lp_SHC650B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHC650B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    888,
+    129,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHC650B",
+  "plateUnicode": "SHC650B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771013420142,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.302750587463379,
+    "coordinates": [
+      580,
+      0,
+      756,
+      312
+    ],
+    "model": "Aygo/Yaris/Vitz",
+    "type": "CAR"
+  }
+}

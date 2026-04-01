@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770827615462,
+  "carID": 94601,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 103339885",
+  "datetimezone": "20260211 163334821-0600",
+  "frame_timestamp": 1770827615462,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211163335_70070lp_T1279B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211163335_70070.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211163335_70070lp_T1279B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "T1279B",
+  "plateConfidence": 0.8190104365348816,
+  "plateCoordinates": [
+    906,
+    141,
+    144,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "T1279B",
+  "plateUnicode": "T1279B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770827615462,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.699427366256714,
+    "coordinates": [
+      480,
+      2,
+      1008,
+      250
+    ],
+    "model": "F-150",
+    "type": "PICKUPTRUCK"
+  }
+}

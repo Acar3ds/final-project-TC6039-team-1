@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772146781043,
+  "carID": 133486,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 165943901",
+  "datetimezone": "20260226 225938834-0600",
+  "frame_timestamp": 1772146781043,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226225939_94430lp_ZD204B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226225939_94430.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226225939_94430lp_ZD204B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZD204B",
+  "plateConfidence": 0.7991071343421936,
+  "plateCoordinates": [
+    1008,
+    93,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZD204B",
+  "plateUnicode": "RZD204B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772146781043,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.787281036376953,
+    "coordinates": [
+      696,
+      2,
+      772,
+      262
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

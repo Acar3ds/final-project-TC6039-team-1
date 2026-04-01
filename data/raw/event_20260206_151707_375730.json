@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770391010486,
+  "carID": 82643,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 091655066",
+  "datetimezone": "20260206 151650015-0600",
+  "frame_timestamp": 1770391010486,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206151650_278212lp_RK9824A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206151650_278212.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206151650_278212lp_RK9824A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RK9824A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1254,
+    180,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RK9824A",
+  "plateUnicode": "RK9824A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770391010486,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.2809977531433105,
+    "coordinates": [
+      864,
+      0,
+      864,
+      374
+    ],
+    "model": "S-10 Pickup",
+    "type": "PICKUPTRUCK"
+  }
+}

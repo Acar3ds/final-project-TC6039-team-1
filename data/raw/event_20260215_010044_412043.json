@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771117225458,
+  "carID": 103810,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 190029855",
+  "datetimezone": "20260215 010024798-0600",
+  "frame_timestamp": 1771117225458,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215010025_33990lp_STZ614A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215010025_33990.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215010025_33990lp_STZ614A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STZ614A",
+  "plateConfidence": 0.8046875,
+  "plateCoordinates": [
+    1116,
+    147,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STZ614A",
+  "plateUnicode": "STZ614A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771117225458,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ram",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9662575721740723,
+    "coordinates": [
+      768,
+      0,
+      816,
+      356
+    ],
+    "model": "1500 TRX",
+    "type": "PICKUPTRUCK"
+  }
+}

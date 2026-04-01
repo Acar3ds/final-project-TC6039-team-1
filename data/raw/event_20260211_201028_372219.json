@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770840611490,
+  "carID": 95201,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 141015062",
+  "datetimezone": "20260211 201010005-0600",
+  "frame_timestamp": 1770840611490,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211194915_799091/20260211201010_257106lp_0RN2904B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211194915_799091/20260211201010_257106.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211194915_799091/20260211201010_257106lp_0RN2904B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RN2904B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    939,
+    81,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RN2904B",
+  "plateUnicode": "RN2904B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770840611490,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.474964141845703,
+    "coordinates": [
+      608,
+      0,
+      796,
+      290
+    ],
+    "model": "Maverick Pickup",
+    "type": "PICKUPTRUCK"
+  }
+}

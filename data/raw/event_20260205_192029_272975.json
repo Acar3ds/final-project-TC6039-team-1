@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770319212321,
+  "carID": 80702,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 132016902",
+  "datetimezone": "20260205 192011845-0600",
+  "frame_timestamp": 1770319212321,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192012_43325lp_RH0133B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192012_43325.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192012_43325lp_RH0133B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RH0133B",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    1032,
+    99,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RH0133B",
+  "plateUnicode": "RH0133B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770319212321,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 335.5107116699219,
+    "coordinates": [
+      732,
+      0,
+      720,
+      306
+    ],
+    "model": "Captiva",
+    "type": "SUV"
+  }
+}

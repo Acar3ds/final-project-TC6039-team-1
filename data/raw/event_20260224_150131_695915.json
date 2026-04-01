@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771945271082,
+  "carID": 126629,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 090116001",
+  "datetimezone": "20260224 150110949-0600",
+  "frame_timestamp": 1771945271082,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224150111_193288lp_RSH950B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224150111_193288.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224150111_193288lp_RSH950B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSH950B",
+  "plateConfidence": 0.8772321343421936,
+  "plateCoordinates": [
+    1095,
+    126,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSH950B",
+  "plateUnicode": "RSH950B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771945271082,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9954482316970825,
+    "coordinates": [
+      756,
+      0,
+      788,
+      308
+    ],
+    "model": "Patriot",
+    "type": "SUV"
+  }
+}

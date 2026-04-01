@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770651083657,
+  "carID": 89221,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 093128397",
+  "datetimezone": "20260209 153123345-0600",
+  "frame_timestamp": 1770651083657,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209153123_613196lp_SXJ531A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209153123_613196.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209153123_613196lp_SXJ531A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXJ531A",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    906,
+    75,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXJ531A",
+  "plateUnicode": "SXJ531A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770651083657,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9867790937423706,
+    "coordinates": [
+      576,
+      0,
+      792,
+      308
+    ],
+    "model": "Outlander",
+    "type": "SUV"
+  }
+}

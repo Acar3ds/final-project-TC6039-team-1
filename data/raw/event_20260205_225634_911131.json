@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770332177530,
+  "carID": 81293,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 165622429",
+  "datetimezone": "20260205 225617366-0600",
+  "frame_timestamp": 1770332177530,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205225617_597890lp_SSK542A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205225617_597890.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205225617_597890lp_SSK542A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSK542A",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1356,
+    261,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSK542A",
+  "plateUnicode": "SSK542A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770332177530,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7539329528808594,
+    "coordinates": [
+      868,
+      0,
+      936,
+      404
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

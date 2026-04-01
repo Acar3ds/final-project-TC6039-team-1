@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771185875455,
+  "carID": 105024,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 140440181",
+  "datetimezone": "20260215 200435130-0600",
+  "frame_timestamp": 1771185875455,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215200435_344878lp_RSZ890C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215200435_344878.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215200435_344878lp_RSZ890C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSZ890C",
+  "plateConfidence": 0.8783482313156128,
+  "plateCoordinates": [
+    984,
+    117,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSZ890C",
+  "plateUnicode": "RSZ890C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771185875455,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5345044136047363,
+    "coordinates": [
+      692,
+      0,
+      692,
+      264
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

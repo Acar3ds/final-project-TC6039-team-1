@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772049458497,
+  "carID": 130146,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 135743423",
+  "datetimezone": "20260225 195738370-0600",
+  "frame_timestamp": 1772049458497,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225195738_640359lp_TGM516B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225195738_640359.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225195738_640359lp_TGM516B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGM516B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1026,
+    216,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGM516B",
+  "plateUnicode": "TGM516B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772049458497,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9993934631347656,
+    "coordinates": [
+      680,
+      0,
+      800,
+      398
+    ],
+    "model": "Prius",
+    "type": "CAR"
+  }
+}

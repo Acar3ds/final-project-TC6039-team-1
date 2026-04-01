@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770746961215,
+  "carID": 92174,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 120922619",
+  "datetimezone": "20260210 180917571-0600",
+  "frame_timestamp": 1770746961215,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210180917_844051lp_RL7163A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210180917_844051.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210180917_844051lp_RL7163A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RL7163A",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1104,
+    126,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RL7163A",
+  "plateUnicode": "RL7163A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770746961215,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 16.706045150756836,
+    "coordinates": [
+      776,
+      0,
+      764,
+      284
+    ],
+    "model": "Partner",
+    "type": "VAN"
+  }
+}

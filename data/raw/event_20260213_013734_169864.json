@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770946636085,
+  "carID": 98694,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 193720239",
+  "datetimezone": "20260213 013715184-0600",
+  "frame_timestamp": 1770946636085,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213012947_769639/20260213013715_429788lp_SLZ510A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213012947_769639/20260213013715_429788.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213012947_769639/20260213013715_429788lp_SLZ510A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLZ510A",
+  "plateConfidence": 0.6662946343421936,
+  "plateCoordinates": [
+    1101,
+    168,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLZ510A",
+  "plateUnicode": "SLZ510A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770946636085,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Bentley",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.627981662750244,
+    "coordinates": [
+      760,
+      0,
+      812,
+      338
+    ],
+    "model": "Continental GT",
+    "type": "CAR"
+  }
+}

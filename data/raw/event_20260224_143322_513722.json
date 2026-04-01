@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771943581546,
+  "carID": 126509,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 083306430",
+  "datetimezone": "20260224 143301381-0600",
+  "frame_timestamp": 1771943581546,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224143301_644123lp_RNF277B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224143301_644123.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224143301_644123lp_RNF277B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNF277B",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    1326,
+    273,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNF277B",
+  "plateUnicode": "RNF277B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771943581546,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5497528314590454,
+    "coordinates": [
+      924,
+      0,
+      884,
+      428
+    ],
+    "model": "Estima/Previa",
+    "type": "VAN"
+  }
+}

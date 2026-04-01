@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772137157978,
+  "carID": 132961,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 141922707",
+  "datetimezone": "20260226 201917654-0600",
+  "frame_timestamp": 1772137157978,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226201917_905977lp_RXS492A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226201917_905977.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226201917_905977lp_RXS492A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXS492A",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    993,
+    141,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXS492A",
+  "plateUnicode": "RXS492A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772137157978,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.872683525085449,
+    "coordinates": [
+      660,
+      0,
+      788,
+      332
+    ],
+    "model": "3/6/Atenza/Axela",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772021260621,
+  "carID": 128775,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 060745516",
+  "datetimezone": "20260225 120740467-0600",
+  "frame_timestamp": 1772021260621,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225111053_912392/20260225120740_734539lp_RTR6218.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225111053_912392/20260225120740_734539.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225111053_912392/20260225120740_734539lp_RTR6218.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTR621B",
+  "plateConfidence": 0.8158482313156128,
+  "plateCoordinates": [
+    1212,
+    123,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTR621B",
+  "plateUnicode": "RTR621B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772021260621,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Geely",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9917442798614502,
+    "coordinates": [
+      904,
+      2,
+      748,
+      394
+    ],
+    "model": "GC6/MK/MK Cross",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771880163547,
+  "carID": 125051,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 145608442",
+  "datetimezone": "20260223 205603394-0600",
+  "frame_timestamp": 1771880163547,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223205603_580098lp_SAN670C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223205603_580098.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223205603_580098lp_SAN670C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAN670C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1113,
+    183,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAN670C",
+  "plateUnicode": "SAN670C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771880163547,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "YELLOW",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9714393615722656,
+    "coordinates": [
+      784,
+      0,
+      780,
+      324
+    ],
+    "model": "Swift",
+    "type": "CAR"
+  }
+}

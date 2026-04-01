@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772055977562,
+  "carID": 130445,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 154621777",
+  "datetimezone": "20260225 214616718-0600",
+  "frame_timestamp": 1772055977562,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225214616_944174lp_SZV053A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225214616_944174.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225214616_944174lp_SZV053A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZV053A",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1038,
+    147,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZV053A",
+  "plateUnicode": "SZV053A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772055977562,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hummer",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5909061431884766,
+    "coordinates": [
+      744,
+      0,
+      728,
+      314
+    ],
+    "model": "H3/H2",
+    "type": "PICKUPTRUCK"
+  }
+}

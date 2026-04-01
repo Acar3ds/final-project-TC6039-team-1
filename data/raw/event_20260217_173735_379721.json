@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "PRT"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771349836620,
+  "carID": 109537,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 113720506",
+  "datetimezone": "20260217 173715440-0600",
+  "frame_timestamp": 1771349836620,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217173715_635034lp_STG3557.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217173715_635034.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217173715_635034lp_STG3557.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STG3557",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    897,
+    93,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "PRT",
+  "plateText": "STG3557",
+  "plateUnicode": "STG3557",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771349836620,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.432082176208496,
+    "coordinates": [
+      584,
+      0,
+      744,
+      246
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

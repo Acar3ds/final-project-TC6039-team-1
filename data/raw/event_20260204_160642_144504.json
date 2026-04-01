@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770221185970,
+  "carID": 77782,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 100630044",
+  "datetimezone": "20260204 160624985-0600",
+  "frame_timestamp": 1770221185970,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160625_315627lp_SJU270B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160625_315627.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160625_315627lp_SJU270B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJU270B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1101,
+    183,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJU270B",
+  "plateUnicode": "SJU270B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770221185970,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.902280807495117,
+    "coordinates": [
+      788,
+      0,
+      764,
+      324
+    ],
+    "model": "Jetta",
+    "type": "CAR"
+  }
+}

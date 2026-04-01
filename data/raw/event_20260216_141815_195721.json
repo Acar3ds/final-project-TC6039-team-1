@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771251475370,
+  "carID": 106318,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 081800430",
+  "datetimezone": "20260216 141755370-0600",
+  "frame_timestamp": 1771251475370,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216141440_554392/20260216141755_615973lp_TBP153A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216141440_554392/20260216141755_615973.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216141440_554392/20260216141755_615973lp_TBP153A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBP153A",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    921,
+    828,
+    183,
+    90
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    183,
+    90
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBP153A",
+  "plateUnicode": "TBP153A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771251475370,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "NONE",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9991854429244995,
+    "coordinates": [
+      480,
+      0,
+      1120,
+      1046
+    ],
+    "model": "NONE",
+    "type": "BIKE"
+  }
+}

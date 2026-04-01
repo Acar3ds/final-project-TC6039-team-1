@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772116765946,
+  "carID": 131948,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 083929955",
+  "datetimezone": "20260226 143924848-0600",
+  "frame_timestamp": 1772116765946,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226143925_129903lp_SHF308B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226143925_129903.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226143925_129903lp_SHF308B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHF308B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    912,
+    129,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHF308B",
+  "plateUnicode": "SHF308B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772116765946,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.421544075012207,
+    "coordinates": [
+      576,
+      0,
+      812,
+      296
+    ],
+    "model": "X-Trail",
+    "type": "SUV"
+  }
+}

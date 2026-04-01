@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771186987304,
+  "carID": 105052,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 142312220",
+  "datetimezone": "20260215 202307168-0600",
+  "frame_timestamp": 1771186987304,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215202307_451588lp_FER903B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215202307_451588.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215202307_451588lp_FER903B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FER903B",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    1194,
+    294,
+    150,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FER903B",
+  "plateUnicode": "FER903B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771186987304,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.999993324279785,
+    "coordinates": [
+      844,
+      0,
+      836,
+      446
+    ],
+    "model": "3 Series/3 Series GT/4 Series/5 Series GT/M3/M4",
+    "type": "CAR"
+  }
+}

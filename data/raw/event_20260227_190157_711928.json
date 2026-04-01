@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772218898408,
+  "carID": 135612,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 130141433",
+  "datetimezone": "20260227 190136385-0600",
+  "frame_timestamp": 1772218898408,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227190136_622827lp_RSM012C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227190136_622827.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227190136_622827lp_RSM012C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSM012C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1089,
+    147,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSM012C",
+  "plateUnicode": "RSM012C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772218898408,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.99859619140625,
+    "coordinates": [
+      744,
+      0,
+      808,
+      314
+    ],
+    "model": "ASX/Outlander/Eclipse Cross/RVR",
+    "type": "SUV"
+  }
+}

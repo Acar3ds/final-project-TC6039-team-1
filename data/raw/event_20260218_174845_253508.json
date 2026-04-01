@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771436905175,
+  "carID": 112205,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 114830072",
+  "datetimezone": "20260218 174825018-0600",
+  "frame_timestamp": 1771436905175,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218165218_623545/20260218174825_268423lp_SBZ313B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218165218_623545/20260218174825_268423.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218165218_623545/20260218174825_268423lp_SBZ313B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBZ313B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1011,
+    99,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBZ313B",
+  "plateUnicode": "SBZ313B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771436905175,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5817068815231323,
+    "coordinates": [
+      656,
+      0,
+      824,
+      314
+    ],
+    "model": "5008",
+    "type": "SUV"
+  }
+}

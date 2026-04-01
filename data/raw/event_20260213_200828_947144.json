@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771013290558,
+  "carID": 100643,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 140814507",
+  "datetimezone": "20260213 200809447-0600",
+  "frame_timestamp": 1771013290558,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213200246_222318/20260213200809_752670lp_PK9439B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213200246_222318/20260213200809_752670.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213200246_222318/20260213200809_752670lp_PK9439B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PK9439B",
+  "plateConfidence": 0.8203125,
+  "plateCoordinates": [
+    1062,
+    132,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PK9439B",
+  "plateUnicode": "PK9439B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771013290558,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.032703399658203,
+    "coordinates": [
+      696,
+      2,
+      852,
+      274
+    ],
+    "model": "bB",
+    "type": "VAN"
+  }
+}

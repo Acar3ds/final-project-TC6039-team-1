@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770998836849,
+  "carID": 99981,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 100720105",
+  "datetimezone": "20260213 160715054-0600",
+  "frame_timestamp": 1770998836849,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213160715_316428lp_TCE402A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213160715_316428.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213160715_316428lp_TCE402A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCE402A",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    843,
+    87,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCE402A",
+  "plateUnicode": "TCE402A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770998836849,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Acura",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.237877368927002,
+    "coordinates": [
+      532,
+      0,
+      748,
+      254
+    ],
+    "model": "RDX",
+    "type": "SUV"
+  }
+}

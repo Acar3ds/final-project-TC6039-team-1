@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771270636190,
+  "carID": 107218,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 133720628",
+  "datetimezone": "20260216 193715574-0600",
+  "frame_timestamp": 1771270636190,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216193715_858373lp_RWV998B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216193715_858373.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216193715_858373lp_RWV998B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWV998B",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1065,
+    180,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWV998B",
+  "plateUnicode": "RWV998B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771270636190,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.984896421432495,
+    "coordinates": [
+      752,
+      0,
+      732,
+      360
+    ],
+    "model": "Accent/Avante/Elantra",
+    "type": "CAR"
+  }
+}

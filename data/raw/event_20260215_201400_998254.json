@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771186421368,
+  "carID": 105041,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 141346275",
+  "datetimezone": "20260215 201341222-0600",
+  "frame_timestamp": 1771186421368,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215201341_450023lp_SKJ818A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215201341_450023.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215201341_450023lp_SKJ818A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKJ818A",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    789,
+    99,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKJ818A",
+  "plateUnicode": "SKJ818A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771186421368,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9184374809265137,
+    "coordinates": [
+      512,
+      0,
+      696,
+      264
+    ],
+    "model": "Mustang",
+    "type": "CAR"
+  }
+}

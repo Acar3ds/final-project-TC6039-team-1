@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770674107595,
+  "carID": 90237,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 155512510",
+  "datetimezone": "20260209 215507459-0600",
+  "frame_timestamp": 1770674107595,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209214259_909471/20260209215507_711394lp_SXJ500A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209214259_909471/20260209215507_711394.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209214259_909471/20260209215507_711394lp_SXJ500A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXJ500A",
+  "plateConfidence": 0.8113839030265808,
+  "plateCoordinates": [
+    1287,
+    207,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXJ500A",
+  "plateUnicode": "SXJ500A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770674107595,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4714479446411133,
+    "coordinates": [
+      868,
+      2,
+      864,
+      334
+    ],
+    "model": "Equinox",
+    "type": "SUV"
+  }
+}

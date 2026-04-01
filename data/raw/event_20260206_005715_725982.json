@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770339420504,
+  "carID": 81597,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 185703129",
+  "datetimezone": "20260206 005658072-0600",
+  "frame_timestamp": 1770339420504,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206004116_303051/20260206005658_332984lp_TEG035A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206004116_303051/20260206005658_332984.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206004116_303051/20260206005658_332984lp_TEG035A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEG035A",
+  "plateConfidence": 0.8169642686843872,
+  "plateCoordinates": [
+    987,
+    93,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEG035A",
+  "plateUnicode": "TEG035A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770339420504,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5211215019226074,
+    "coordinates": [
+      640,
+      0,
+      816,
+      312
+    ],
+    "model": "Camaro",
+    "type": "CAR"
+  }
+}

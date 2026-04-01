@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769102621048,
+  "carID": 226,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 112341372",
+  "datetimezone": "20260122 172341048-0600",
+  "frame_timestamp": 1769102621048,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122172341_263806lp_LG10045.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122172341_263806.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122172341_263806lp_LG10045.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "LG10045",
+  "plateConfidence": 0.8191964030265808,
+  "plateCoordinates": [
+    1027,
+    420,
+    214,
+    101
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    214,
+    101
+  ],
+  "plateCountry": "USA",
+  "plateText": "LG10045",
+  "plateUnicode": "LG10045",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769102621048,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9996621608734131,
+    "coordinates": [
+      584,
+      0,
+      1104,
+      576
+    ],
+    "model": "Alphard/Vellfire",
+    "type": "VAN"
+  }
+}

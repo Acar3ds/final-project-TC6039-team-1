@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771191131785,
+  "carID": 105163,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 153216691",
+  "datetimezone": "20260215 213211645-0600",
+  "frame_timestamp": 1771191131785,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215213211_930250lp_STP988A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215213211_930250.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215213211_930250lp_STP988A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STP988A",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    966,
+    126,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STP988A",
+  "plateUnicode": "STP988A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771191131785,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.8908913135528564,
+    "coordinates": [
+      672,
+      0,
+      740,
+      282
+    ],
+    "model": "Aygo/Yaris/Vitz",
+    "type": "CAR"
+  }
+}

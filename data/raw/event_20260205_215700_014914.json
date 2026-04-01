@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770328603140,
+  "carID": 81162,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 155647927",
+  "datetimezone": "20260205 215642874-0600",
+  "frame_timestamp": 1770328603140,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205215643_115367lp_SWU199A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205215643_115367.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205215643_115367lp_SWU199A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWU199A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1020,
+    138,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWU199A",
+  "plateUnicode": "SWU199A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770328603140,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9965540170669556,
+    "coordinates": [
+      740,
+      0,
+      696,
+      302
+    ],
+    "model": "Kwid",
+    "type": "CAR"
+  }
+}

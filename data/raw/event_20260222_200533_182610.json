@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771790713497,
+  "carID": 122619,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 140514258",
+  "datetimezone": "20260222 200509202-0600",
+  "frame_timestamp": 1771790713497,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222200509_377798lp_RP9177A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222200509_377798.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222200509_377798lp_RP9177A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RP9177A",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1062,
+    105,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RP9177A",
+  "plateUnicode": "RP9177A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771790713497,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SsangYong",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 18.190244674682617,
+    "coordinates": [
+      680,
+      0,
+      888,
+      278
+    ],
+    "model": "Rexton",
+    "type": "SUV"
+  }
+}

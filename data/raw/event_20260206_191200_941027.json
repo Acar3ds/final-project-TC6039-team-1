@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770405103832,
+  "carID": 83303,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 131148584",
+  "datetimezone": "20260206 191143530-0600",
+  "frame_timestamp": 1770405103832,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206191143_825970lp_RMT469C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206191143_825970.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206191143_825970lp_RMT469C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMT469C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    981,
+    117,
+    129,
+    39
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    39
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMT469C",
+  "plateUnicode": "RMT469C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770405103832,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.7597532272338867,
+    "coordinates": [
+      644,
+      0,
+      764,
+      272
+    ],
+    "model": "ID.UNYX",
+    "type": "SUV"
+  }
+}
