@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771095091050,
+  "carID": 102923,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 125135641",
+  "datetimezone": "20260214 185130585-0600",
+  "frame_timestamp": 1771095091050,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214185130_762595lp_RM4230B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214185130_762595.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214185130_762595lp_RM4230B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RM4230B",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    936,
+    138,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RM4230B",
+  "plateUnicode": "RM4230B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771095091050,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.925114393234253,
+    "coordinates": [
+      584,
+      0,
+      828,
+      356
+    ],
+    "model": "NV400",
+    "type": "VAN"
+  }
+}

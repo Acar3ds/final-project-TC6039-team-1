@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770662360688,
+  "carID": 89689,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 123924589",
+  "datetimezone": "20260209 183919537-0600",
+  "frame_timestamp": 1770662360688,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209183919_787161lp_TBK759B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209183919_787161.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209183919_787161lp_TBK759B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBK759B",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1128,
+    135,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBK759B",
+  "plateUnicode": "TBK759B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770662360688,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.066797256469727,
+    "coordinates": [
+      768,
+      0,
+      808,
+      356
+    ],
+    "model": "T-Cross/T-Roc/T-Roc R",
+    "type": "SUV"
+  }
+}

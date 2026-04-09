@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771358569464,
+  "carID": 109907,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 140253933",
+  "datetimezone": "20260217 200248880-0600",
+  "frame_timestamp": 1771358569464,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217200249_126147lp_RNY316B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217200249_126147.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217200249_126147lp_RNY316B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNY316B",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1056,
+    102,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNY316B",
+  "plateUnicode": "RNY316B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771358569464,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.909322261810303,
+    "coordinates": [
+      700,
+      2,
+      828,
+      318
+    ],
+    "model": "Q5/Q7/SQ5",
+    "type": "SUV"
+  }
+}

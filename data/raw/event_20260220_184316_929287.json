@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771612976924,
+  "carID": 118008,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 124301502",
+  "datetimezone": "20260220 184256459-0600",
+  "frame_timestamp": 1771612976924,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220184256_704301lp_RVS748A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220184256_704301.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220184256_704301lp_RVS748A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVS748A",
+  "plateConfidence": 0.7667410969734192,
+  "plateCoordinates": [
+    1179,
+    171,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RVS748A",
+  "plateUnicode": "RVS748A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771612976924,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1554558277130127,
+    "coordinates": [
+      684,
+      0,
+      816,
+      360
+    ],
+    "model": "F-150/F-150 Lightning/F-250/F-350/F-450/F-550/F-650/Ranger/Ranger Raptor/Raptor",
+    "type": "SUV"
+  }
+}

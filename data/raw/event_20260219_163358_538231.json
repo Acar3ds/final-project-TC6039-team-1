@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771518821002,
+  "carID": 114791,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 103343125",
+  "datetimezone": "20260219 163338076-0600",
+  "frame_timestamp": 1771518821002,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219154222_19253/20260219163338_332298lp_RC7290A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219154222_19253/20260219163338_332298.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219154222_19253/20260219163338_332298lp_RC7290A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RC7290A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    909,
+    93,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RC7290A",
+  "plateUnicode": "RC7290A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771518821002,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 20.62940788269043,
+    "coordinates": [
+      572,
+      0,
+      804,
+      290
+    ],
+    "model": "NV350 Caravan",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771120722327,
+  "carID": 103971,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 195846806",
+  "datetimezone": "20260215 015841752-0600",
+  "frame_timestamp": 1771120722327,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215015812_800109/20260215015842_11499lp_RPT112A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215015812_800109/20260215015842_11499.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215015812_800109/20260215015842_11499lp_RPT112A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPT112A",
+  "plateConfidence": 0.7924107313156128,
+  "plateCoordinates": [
+    1143,
+    120,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPT112A",
+  "plateUnicode": "RPT112A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771120722327,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8107728958129883,
+    "coordinates": [
+      768,
+      0,
+      808,
+      302
+    ],
+    "model": "Acadia/Terrain",
+    "type": "SUV"
+  }
+}

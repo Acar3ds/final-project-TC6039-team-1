@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770993874745,
+  "carID": 99708,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 084439507",
+  "datetimezone": "20260213 144434458-0600",
+  "frame_timestamp": 1770993874745,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213144434_705561lp_TFB943B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213144434_705561.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213144434_705561lp_TFB943B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFB943B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    942,
+    153,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFB943B",
+  "plateUnicode": "TFB943B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770993874745,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.480262279510498,
+    "coordinates": [
+      584,
+      0,
+      820,
+      338
+    ],
+    "model": "Q5/Q5 e-tron/Q5 Sportback/Q7/SQ5/SQ5 Sportback/SQ7/SQ8/SQ8 e-tron/SQ8 Sportback e-tron",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771778831531,
+  "carID": 122300,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 104715969",
+  "datetimezone": "20260222 164710914-0600",
+  "frame_timestamp": 1771778831531,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222164711_113390lp_PN5512B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222164711_113390.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222164711_113390lp_PN5512B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PN5512B",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1092,
+    129,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PN5512B",
+  "plateUnicode": "PN5512B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771778831531,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Isuzu",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9872944355010986,
+    "coordinates": [
+      792,
+      0,
+      724,
+      332
+    ],
+    "model": "Elf",
+    "type": "TRUCK"
+  }
+}

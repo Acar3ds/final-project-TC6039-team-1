@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771290455936,
+  "carID": 108070,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 190738664",
+  "datetimezone": "20260217 010733609-0600",
+  "frame_timestamp": 1771290455936,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217001645_80043/20260217010733_902473lp_TCF594A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217001645_80043/20260217010733_902473.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217001645_80043/20260217010733_902473lp_TCF594A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCE594A",
+  "plateConfidence": 0.8113839030265808,
+  "plateCoordinates": [
+    1335,
+    309,
+    147,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCE594A",
+  "plateUnicode": "TCE594A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771290455936,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.661345481872559,
+    "coordinates": [
+      928,
+      0,
+      876,
+      452
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

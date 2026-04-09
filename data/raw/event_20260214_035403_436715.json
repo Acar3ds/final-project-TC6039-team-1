@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771041224705,
+  "carID": 101918,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 215349032",
+  "datetimezone": "20260214 035343972-0600",
+  "frame_timestamp": 1771041224705,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214035344_213457lp_RVA202A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214035344_213457.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214035344_213457lp_RVA202A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVA202A",
+  "plateConfidence": 0.7455357313156128,
+  "plateCoordinates": [
+    921,
+    114,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVA202A",
+  "plateUnicode": "RVA202A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771041224705,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.254236221313477,
+    "coordinates": [
+      612,
+      0,
+      760,
+      368
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

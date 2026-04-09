@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771529328681,
+  "carID": 115258,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 132852988",
+  "datetimezone": "20260219 192847938-0600",
+  "frame_timestamp": 1771529328681,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219192848_172312lp_TEV952A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219192848_172312.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219192848_172312lp_TEV952A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEV952A",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    981,
+    114,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEV952A",
+  "plateUnicode": "TEV952A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771529328681,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.4185876846313477,
+    "coordinates": [
+      648,
+      2,
+      768,
+      256
+    ],
+    "model": "Arteon/Arteon R",
+    "type": "CAR"
+  }
+}

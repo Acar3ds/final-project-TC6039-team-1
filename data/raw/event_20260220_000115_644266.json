@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771545655883,
+  "carID": 115986,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 180100229",
+  "datetimezone": "20260220 000055174-0600",
+  "frame_timestamp": 1771545655883,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220000055_439635lp_RLP393C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220000055_439635.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220000055_439635lp_RLP393C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLP393C",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    1038,
+    141,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RLP393C",
+  "plateUnicode": "RLP393C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771545655883,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.47635817527771,
+    "coordinates": [
+      708,
+      0,
+      796,
+      338
+    ],
+    "model": "Arkana/Koleos/Megane/Megane RS",
+    "type": "CAR"
+  }
+}

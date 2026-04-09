@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770730075829,
+  "carID": 91323,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 072800563",
+  "datetimezone": "20260210 132755510-0600",
+  "frame_timestamp": 1770730075829,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210132755_768725lp_RRU979B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210132755_768725.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210132755_768725lp_RRU979B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRU979B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    1248,
+    216,
+    150,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRU979B",
+  "plateUnicode": "RRU979B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770730075829,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.997097969055176,
+    "coordinates": [
+      860,
+      0,
+      896,
+      440
+    ],
+    "model": "Grand Cherokee",
+    "type": "SUV"
+  }
+}

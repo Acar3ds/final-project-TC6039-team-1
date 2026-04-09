@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771439449731,
+  "carID": 112325,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 123054643",
+  "datetimezone": "20260218 183049592-0600",
+  "frame_timestamp": 1771439449731,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218183049_880630lp_RXN114A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218183049_880630.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218183049_880630lp_RXN114A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXN114A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    945,
+    165,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXN114A",
+  "plateUnicode": "RXN114A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771439449731,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5048489570617676,
+    "coordinates": [
+      624,
+      0,
+      748,
+      282
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

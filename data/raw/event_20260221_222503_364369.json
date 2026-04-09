@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771712685315,
+  "carID": 121120,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 162447620",
+  "datetimezone": "20260221 222442565-0600",
+  "frame_timestamp": 1771712685315,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221222442_812433lp_RKU404B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221222442_812433.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221222442_812433lp_RKU404B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "HKU404B",
+  "plateConfidence": 0.7879464030265808,
+  "plateCoordinates": [
+    1059,
+    225,
+    138,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    60
+  ],
+  "plateCountry": "NLD",
+  "plateText": "HKU404B",
+  "plateUnicode": "HKU404B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771712685315,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.120269775390625,
+    "coordinates": [
+      752,
+      0,
+      700,
+      302
+    ],
+    "model": "Kombi T2",
+    "type": "VAN"
+  }
+}

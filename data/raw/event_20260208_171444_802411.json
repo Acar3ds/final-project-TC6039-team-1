@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770570867972,
+  "carID": 87401,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 111432127",
+  "datetimezone": "20260208 171427082-0600",
+  "frame_timestamp": 1770570867972,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208171427_356024lp_XSU140C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208171427_356024.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208171427_356024lp_XSU140C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "XSU140C",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    930,
+    99,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "XSU140C",
+  "plateUnicode": "XSU140C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770570867972,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.3007328510284424,
+    "coordinates": [
+      636,
+      0,
+      728,
+      248
+    ],
+    "model": "911 GT2/911 GT3/911 GT4",
+    "type": "CAR"
+  }
+}

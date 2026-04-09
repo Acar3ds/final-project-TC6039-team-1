@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772115674423,
+  "carID": 131892,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 082119319",
+  "datetimezone": "20260226 142114267-0600",
+  "frame_timestamp": 1772115674423,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226142114_558293lp_SZJ502A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226142114_558293.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226142114_558293lp_SZJ502A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZJ502A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1122,
+    129,
+    135,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZJ502A",
+  "plateUnicode": "SZJ502A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772115674423,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6709775924682617,
+    "coordinates": [
+      804,
+      0,
+      752,
+      326
+    ],
+    "model": "i10",
+    "type": "CAR"
+  }
+}

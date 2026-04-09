@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772059750293,
+  "carID": 130590,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 164915032",
+  "datetimezone": "20260225 224909980-0600",
+  "frame_timestamp": 1772059750293,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225224910_248473lp_SSH078B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225224910_248473.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225224910_248473lp_SSH078B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSH078B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    972,
+    132,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSH078B",
+  "plateUnicode": "SSH078B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772059750293,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.158076286315918,
+    "coordinates": [
+      648,
+      0,
+      796,
+      282
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

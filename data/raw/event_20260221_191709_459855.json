@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771701409180,
+  "carID": 120618,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 131654072",
+  "datetimezone": "20260221 191649024-0600",
+  "frame_timestamp": 1771701409180,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221191649_264056lp_SEF135A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221191649_264056.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221191649_264056lp_SEF135A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEF135A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1326,
+    261,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEF135A",
+  "plateUnicode": "SEF135A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771701409180,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9998676776885986,
+    "coordinates": [
+      996,
+      0,
+      776,
+      408
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

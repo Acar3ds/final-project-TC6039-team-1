@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771866796577,
+  "carID": 124426,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 111318807",
+  "datetimezone": "20260223 171313745-0600",
+  "frame_timestamp": 1771866796577,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223171313_987332lp_WZB048D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223171313_987332.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223171313_987332lp_WZB048D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "WZB048D",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    1149,
+    390,
+    138,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "WZB048D",
+  "plateUnicode": "WZB048D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771866796577,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 16.75832748413086,
+    "coordinates": [
+      736,
+      0,
+      940,
+      674
+    ],
+    "model": "Levante",
+    "type": "SUV"
+  }
+}

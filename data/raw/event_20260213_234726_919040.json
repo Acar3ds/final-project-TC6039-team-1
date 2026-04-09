@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771026429636,
+  "carID": 101276,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 174712431",
+  "datetimezone": "20260213 234707378-0600",
+  "frame_timestamp": 1771026429636,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260213234707_644056lp_RK2515B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260213234707_644056.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260213234707_644056lp_RK2515B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RK2515B",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    1107,
+    216,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RK2515B",
+  "plateUnicode": "RK2515B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771026429636,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "DongFeng",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.522265434265137,
+    "coordinates": [
+      720,
+      2,
+      876,
+      412
+    ],
+    "model": "Sokon C35/Sokon C36/Sokon C37/Sokon K05/Sokon K05S/Sokon K07S",
+    "type": "VAN"
+  }
+}

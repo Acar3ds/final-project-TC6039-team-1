@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771103170178,
+  "carID": 103281,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 150615085",
+  "datetimezone": "20260214 210610028-0600",
+  "frame_timestamp": 1771103170178,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214210610_260664lp_EAE320A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214210610_260664.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214210610_260664lp_EAE320A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EAE320A",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1122,
+    183,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "EAE320A",
+  "plateUnicode": "EAE320A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771103170178,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.693873643875122,
+    "coordinates": [
+      804,
+      0,
+      768,
+      314
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

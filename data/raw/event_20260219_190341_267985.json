@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771527800979,
+  "carID": 115197,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 130325874",
+  "datetimezone": "20260219 190320826-0600",
+  "frame_timestamp": 1771527800979,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190321_74703lp_TFE934B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190321_74703.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190321_74703lp_TFE934B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFE934B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1017,
+    186,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFE934B",
+  "plateUnicode": "TFE934B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771527800979,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Acura",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7582859992980957,
+    "coordinates": [
+      664,
+      0,
+      816,
+      348
+    ],
+    "model": "TSX",
+    "type": "CAR"
+  }
+}

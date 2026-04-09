@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772146364494,
+  "carID": 133459,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 165249404",
+  "datetimezone": "20260226 225244346-0600",
+  "frame_timestamp": 1772146364494,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226225244_626932lp_RYN972B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226225244_626932.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226225244_626932lp_RYN972B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYN972B",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    1185,
+    330,
+    153,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    153,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYN972B",
+  "plateUnicode": "RYN972B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772146364494,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lincoln",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9994564056396484,
+    "coordinates": [
+      808,
+      0,
+      880,
+      458
+    ],
+    "model": "Continental/MKZ",
+    "type": "CAR"
+  }
+}

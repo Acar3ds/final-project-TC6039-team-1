@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770589916666,
+  "carID": 87942,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 163201582",
+  "datetimezone": "20260208 223156535-0600",
+  "frame_timestamp": 1770589916666,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208223156_779100lp_SYD838A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208223156_779100.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208223156_779100lp_SYD838A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYD838A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1095,
+    207,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYD838A",
+  "plateUnicode": "SYD838A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770589916666,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9989123344421387,
+    "coordinates": [
+      708,
+      2,
+      884,
+      388
+    ],
+    "model": "Highlander",
+    "type": "SUV"
+  }
+}

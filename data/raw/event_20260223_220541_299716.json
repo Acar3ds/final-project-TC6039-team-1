@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771884320907,
+  "carID": 125222,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 160525484",
+  "datetimezone": "20260223 220520427-0600",
+  "frame_timestamp": 1771884320907,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223205812_401136/20260223220520_677121lp_SSJ517B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223205812_401136/20260223220520_677121.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223205812_401136/20260223220520_677121lp_SSJ517B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSJ517B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1014,
+    120,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSJ517B",
+  "plateUnicode": "SSJ517B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771884320907,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.267982006072998,
+    "coordinates": [
+      684,
+      2,
+      788,
+      256
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

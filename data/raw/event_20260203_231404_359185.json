@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770160427959,
+  "carID": 76417,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 171352453",
+  "datetimezone": "20260203 231347398-0600",
+  "frame_timestamp": 1770160427959,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203231347_579944lp_SLN218B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203231347_579944.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203231347_579944lp_SLN218B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLN218B",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    960,
+    105,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLN218B",
+  "plateUnicode": "SLN218B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770160427959,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1125845909118652,
+    "coordinates": [
+      652,
+      0,
+      744,
+      252
+    ],
+    "model": "Sharan/Touran",
+    "type": "VAN"
+  }
+}

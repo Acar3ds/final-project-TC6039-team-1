@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771889051230,
+  "carID": 125436,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 172415490",
+  "datetimezone": "20260223 232410443-0600",
+  "frame_timestamp": 1771889051230,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260223232410_708381lp_UXH716D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260223232410_708381.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260223232410_708381lp_UXH716D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "UXH716D",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    870,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "UXH716D",
+  "plateUnicode": "UXH716D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771889051230,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5158655643463135,
+    "coordinates": [
+      540,
+      0,
+      816,
+      278
+    ],
+    "model": "Explorer Sport Trac",
+    "type": "PICKUPTRUCK"
+  }
+}

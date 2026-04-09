@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772218483424,
+  "carID": 135577,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 125448310",
+  "datetimezone": "20260227 185443257-0600",
+  "frame_timestamp": 1772218483424,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227185443_460966lp_TET538B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227185443_460966.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227185443_460966lp_TET538B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TET538B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1227,
+    129,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TET538B",
+  "plateUnicode": "TET538B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772218483424,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7520413398742676,
+    "coordinates": [
+      832,
+      0,
+      840,
+      344
+    ],
+    "model": "Creta",
+    "type": "SUV"
+  }
+}

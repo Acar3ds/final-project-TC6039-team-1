@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771599580791,
+  "carID": 117294,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 085945051",
+  "datetimezone": "20260220 145939996-0600",
+  "frame_timestamp": 1771599580791,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220145432_551207/20260220145940_332753lp_HUY926A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220145432_551207/20260220145940_332753.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220145432_551207/20260220145940_332753lp_HUY926A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "HUY926A",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    996,
+    129,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "HUY926A",
+  "plateUnicode": "HUY926A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771599580791,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9476494789123535,
+    "coordinates": [
+      684,
+      0,
+      744,
+      258
+    ],
+    "model": "Bolt EUV/Bolt EV",
+    "type": "CAR"
+  }
+}

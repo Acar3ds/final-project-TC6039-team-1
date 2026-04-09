@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770222308845,
+  "carID": 77831,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 102513773",
+  "datetimezone": "20260204 162508704-0600",
+  "frame_timestamp": 1770222308845,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204162508_923469lp_RTD781C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204162508_923469.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204162508_923469lp_RTD781C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTD781C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    882,
+    114,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTD781C",
+  "plateUnicode": "RTD781C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770222308845,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9963732957839966,
+    "coordinates": [
+      576,
+      0,
+      764,
+      252
+    ],
+    "model": "3/5/3 MPS/Axela/Premacy",
+    "type": "CAR"
+  }
+}

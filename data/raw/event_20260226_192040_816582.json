@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772133621019,
+  "carID": 132767,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 132024674",
+  "datetimezone": "20260226 192019629-0600",
+  "frame_timestamp": 1772133621019,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226192019_918689lp_RZC235B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226192019_918689.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226192019_918689lp_RZC235B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZC235B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    978,
+    120,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZC235B",
+  "plateUnicode": "RZC235B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772133621019,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 16.427898406982422,
+    "coordinates": [
+      576,
+      2,
+      872,
+      322
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

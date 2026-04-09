@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771448768373,
+  "carID": 112815,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 150613294",
+  "datetimezone": "20260218 210608236-0600",
+  "frame_timestamp": 1771448768373,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218210608_476448lp_RNY314B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218210608_476448.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218210608_476448lp_RNY314B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNY314B",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    1191,
+    252,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNY314B",
+  "plateUnicode": "RNY314B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771448768373,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9997878074645996,
+    "coordinates": [
+      832,
+      0,
+      836,
+      404
+    ],
+    "model": "TT/TT RS/TTS",
+    "type": "CAR"
+  }
+}

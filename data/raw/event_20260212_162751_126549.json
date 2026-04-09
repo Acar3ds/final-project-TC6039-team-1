@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770913653585,
+  "carID": 97246,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 102736812",
+  "datetimezone": "20260212 162731763-0600",
+  "frame_timestamp": 1770913653585,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212162731_988752lp_L3413C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212162731_988752.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212162731_988752lp_L3413C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "L3413C",
+  "plateConfidence": 0.8294270634651184,
+  "plateCoordinates": [
+    1122,
+    135,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "ESP",
+  "plateText": "L3413C",
+  "plateUnicode": "L3413C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770913653585,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.82630729675293,
+    "coordinates": [
+      708,
+      0,
+      928,
+      296
+    ],
+    "model": "Sierra/Canyon",
+    "type": "PICKUPTRUCK"
+  }
+}

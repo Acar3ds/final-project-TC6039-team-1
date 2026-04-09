@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771945175783,
+  "carID": 126619,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 085940723",
+  "datetimezone": "20260224 145935630-0600",
+  "frame_timestamp": 1771945175783,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224145935_915931lp_FGV205E.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224145935_915931.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224145935_915931lp_FGV205E.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FGV205B",
+  "plateConfidence": 0.7834821343421936,
+  "plateCoordinates": [
+    978,
+    102,
+    123,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FGV205B",
+  "plateUnicode": "FGV205B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771945175783,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9814037084579468,
+    "coordinates": [
+      676,
+      0,
+      716,
+      260
+    ],
+    "model": "Mirage/Mirage G4/Space Star",
+    "type": "CAR"
+  }
+}

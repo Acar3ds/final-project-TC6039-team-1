@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771423475861,
+  "carID": 111496,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 080440014",
+  "datetimezone": "20260218 140434948-0600",
+  "frame_timestamp": 1771423475861,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218135605_641076/20260218140435_244062lp_SYX741A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218135605_641076/20260218140435_244062.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218135605_641076/20260218140435_244062lp_SYX741A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYX741A",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    924,
+    138,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYX741A",
+  "plateUnicode": "SYX741A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771423475861,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1505165100097656,
+    "coordinates": [
+      624,
+      0,
+      732,
+      284
+    ],
+    "model": "Note",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771653514538,
+  "carID": 119714,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 235836752",
+  "datetimezone": "20260221 055831702-0600",
+  "frame_timestamp": 1771653514538,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221054601_696844/20260221055831_956630lp_TDV280B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221054601_696844/20260221055831_956630.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221054601_696844/20260221055831_956630lp_TDV280B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDV280B",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    981,
+    105,
+    126,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDV280B",
+  "plateUnicode": "TDV280B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771653514538,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.3377604484558105,
+    "coordinates": [
+      684,
+      0,
+      708,
+      288
+    ],
+    "model": "Magnum",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770243468331,
+  "carID": 78665,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 161752367",
+  "datetimezone": "20260204 221747315-0600",
+  "frame_timestamp": 1770243468331,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204221747_574523lp_RXG511C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204221747_574523.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204221747_574523lp_RXG511C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXG511C",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    966,
+    153,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXG511C",
+  "plateUnicode": "RXG511C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770243468331,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "LDV",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.750900745391846,
+    "coordinates": [
+      628,
+      0,
+      804,
+      276
+    ],
+    "model": "G20/G50",
+    "type": "VAN"
+  }
+}

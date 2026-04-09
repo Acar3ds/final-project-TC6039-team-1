@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771807076026,
+  "carID": 123092,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 183800915",
+  "datetimezone": "20260223 003755867-0600",
+  "frame_timestamp": 1771807076026,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223002523_139165/20260223003756_127289lp_DG792B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223002523_139165/20260223003756_127289.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223002523_139165/20260223003756_127289lp_DG792B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDG792B",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    1137,
+    144,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDG792B",
+  "plateUnicode": "TDG792B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771807076026,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9997789859771729,
+    "coordinates": [
+      816,
+      0,
+      760,
+      318
+    ],
+    "model": "Raize",
+    "type": "SUV"
+  }
+}

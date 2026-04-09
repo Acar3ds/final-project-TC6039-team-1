@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771202410600,
+  "carID": 105481,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 184013688",
+  "datetimezone": "20260216 004008633-0600",
+  "frame_timestamp": 1771202410600,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216004008_894339lp_TFG630B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216004008_894339.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216004008_894339lp_TFG630B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFG630B",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1554,
+    459,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFG630B",
+  "plateUnicode": "TFG630B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771202410600,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 25.892833709716797,
+    "coordinates": [
+      1280,
+      0,
+      636,
+      630
+    ],
+    "model": "Swift",
+    "type": "CAR"
+  }
+}

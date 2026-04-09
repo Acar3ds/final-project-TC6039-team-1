@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772144163343,
+  "carID": 133354,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 161607350",
+  "datetimezone": "20260226 221602291-0600",
+  "frame_timestamp": 1772144163343,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226213722_130496/20260226221602_654927lp_0PH1227C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226213722_130496/20260226221602_654927.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226213722_130496/20260226221602_654927lp_0PH1227C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PH1227C",
+  "plateConfidence": 0.8046875,
+  "plateCoordinates": [
+    984,
+    168,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "PH1227C",
+  "plateUnicode": "PH1227C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772144163343,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2745800018310547,
+    "coordinates": [
+      660,
+      0,
+      780,
+      330
+    ],
+    "model": "Fortuner/Hilux/SW4",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771686246617,
+  "carID": 120042,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 090410336",
+  "datetimezone": "20260221 150405280-0600",
+  "frame_timestamp": 1771686246617,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221150405_507621lp_PZ2719B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221150405_507621.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221150405_507621lp_PZ2719B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PZ2719B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1146,
+    144,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PZ2719B",
+  "plateUnicode": "PZ2719B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771686246617,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.339689254760742,
+    "coordinates": [
+      816,
+      2,
+      748,
+      324
+    ],
+    "model": "Palette",
+    "type": "VAN"
+  }
+}

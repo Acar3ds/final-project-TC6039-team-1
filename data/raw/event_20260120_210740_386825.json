@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768943249395,
+  "carID": 127026,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 150730492",
+  "datetimezone": "20260120 210729395-0600",
+  "frame_timestamp": 1768943249395,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120210730_311600/20260120210730_403072lp_STM637A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120210730_311600/20260120210730_403072.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120210730_311600/20260120210730_403072lp_STM637A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STM637A",
+  "plateConfidence": 0.7879464030265808,
+  "plateCoordinates": [
+    1966,
+    7,
+    113,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    113,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "STM637A",
+  "plateUnicode": "STM637A",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768943249395,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.3308364152908325,
+    "coordinates": [
+      1744,
+      6,
+      468,
+      114
+    ],
+    "model": "Laguna",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "PRT"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771085390755,
+  "carID": 102531,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 100954348",
+  "datetimezone": "20260214 160949288-0600",
+  "frame_timestamp": 1771085390755,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214160949_503873lp_SUF9923.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214160949_503873.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214160949_503873lp_SUF9923.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUF9923",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    921,
+    102,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "PRT",
+  "plateText": "SUF9923",
+  "plateUnicode": "SUF9923",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771085390755,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.103700160980225,
+    "coordinates": [
+      592,
+      0,
+      780,
+      278
+    ],
+    "model": "Crossover/SX4",
+    "type": "SUV"
+  }
+}

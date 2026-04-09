@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771368572940,
+  "carID": 110334,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 164933575",
+  "datetimezone": "20260217 224928519-0600",
+  "frame_timestamp": 1771368572940,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217223143_63771/20260217224928_771329lp_SUM643A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217223143_63771/20260217224928_771329.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217223143_63771/20260217224928_771329lp_SUM643A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUM643A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1080,
+    141,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUM643A",
+  "plateUnicode": "SUM643A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771368572940,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 44.1004638671875,
+    "coordinates": [
+      764,
+      0,
+      760,
+      288
+    ],
+    "model": "Megane/Megane RS",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770224817693,
+  "carID": 77910,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 110701299",
+  "datetimezone": "20260204 170656241-0600",
+  "frame_timestamp": 1770224817693,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204170656_477929lp_SMA716A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204170656_477929.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204170656_477929lp_SMA716A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMA716A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1098,
+    165,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMA716A",
+  "plateUnicode": "SMA716A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770224817693,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.133280754089355,
+    "coordinates": [
+      744,
+      6,
+      836,
+      324
+    ],
+    "model": "Maybach S-Class/S-Class/S-Class AMG",
+    "type": "CAR"
+  }
+}

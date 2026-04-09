@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770752323299,
+  "carID": 92438,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 133846732",
+  "datetimezone": "20260210 193841672-0600",
+  "frame_timestamp": 1770752323299,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193841_941255lp_RYB244C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193841_941255.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193841_941255lp_RYB244C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYB244C",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    996,
+    99,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYB244C",
+  "plateUnicode": "RYB244C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770752323299,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Isuzu",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.013258934020996,
+    "coordinates": [
+      664,
+      0,
+      792,
+      254
+    ],
+    "model": "Forward FTR",
+    "type": "TRUCK"
+  }
+}

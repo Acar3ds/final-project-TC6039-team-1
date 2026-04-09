@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770735861619,
+  "carID": 91690,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 090426537",
+  "datetimezone": "20260210 150421480-0600",
+  "frame_timestamp": 1770735861619,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210150421_749695lp_SCS314B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210150421_749695.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210150421_749695lp_SCS314B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCS314B",
+  "plateConfidence": 0.8058035969734192,
+  "plateCoordinates": [
+    1047,
+    141,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCS314B",
+  "plateUnicode": "SCS314B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770735861619,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.010225534439087,
+    "coordinates": [
+      740,
+      0,
+      744,
+      308
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769039518790,
+  "carID": 137456,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260121 175159357",
+  "datetimezone": "20260121 235158790-0600",
+  "frame_timestamp": 1769039518790,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121234733_529987/20260121235159_273574lp_RKC513B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121234733_529987/20260121235159_273574.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121234733_529987/20260121235159_273574lp_RKC513B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKC513B",
+  "plateConfidence": 0.7801339030265808,
+  "plateCoordinates": [
+    1671,
+    7,
+    120,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "RKC513B",
+  "plateUnicode": "RKC513B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769039518790,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "IVECO",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.8903011679649353,
+    "coordinates": [
+      1404,
+      0,
+      540,
+      126
+    ],
+    "model": "S-Way/Stralis/Trakker",
+    "type": "TRUCK"
+  }
+}

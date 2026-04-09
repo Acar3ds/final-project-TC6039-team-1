@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771341961068,
+  "carID": 109188,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 092605956",
+  "datetimezone": "20260217 152600899-0600",
+  "frame_timestamp": 1771341961068,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152601_108478lp_RMA545B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152601_108478.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152601_108478lp_RMA545B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMA545B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1170,
+    237,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMA545B",
+  "plateUnicode": "RMA545B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771341961068,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.7553000450134277,
+    "coordinates": [
+      852,
+      0,
+      780,
+      404
+    ],
+    "model": "Ertiga/Swift",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770765642318,
+  "carID": 93017,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 172047218",
+  "datetimezone": "20260210 232042162-0600",
+  "frame_timestamp": 1770765642318,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210232042_371671lp_RVJ428C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210232042_371671.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210232042_371671lp_RVJ428C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVJ428C",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    1044,
+    111,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVJ428C",
+  "plateUnicode": "RVJ428C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770765642318,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8857269287109375,
+    "coordinates": [
+      720,
+      0,
+      760,
+      284
+    ],
+    "model": "Alphard/Vellfire",
+    "type": "SUV"
+  }
+}

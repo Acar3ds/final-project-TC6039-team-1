@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772127084135,
+  "carID": 132471,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 113128700",
+  "datetimezone": "20260226 173123648-0600",
+  "frame_timestamp": 1772127084135,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226173123_876454lp_SCD112B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226173123_876454.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226173123_876454lp_SCD112B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCD112B",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    1125,
+    192,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCD112B",
+  "plateUnicode": "SCD112B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772127084135,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Acura",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.804785251617432,
+    "coordinates": [
+      724,
+      0,
+      920,
+      396
+    ],
+    "model": "MDX",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770414387110,
+  "carID": 83777,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 154631889",
+  "datetimezone": "20260206 214626832-0600",
+  "frame_timestamp": 1770414387110,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206214627_57926lp_TEE255A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206214627_57926.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206214627_57926lp_TEE255A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEE255A",
+  "plateConfidence": 0.8002232313156128,
+  "plateCoordinates": [
+    1236,
+    291,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEE255A",
+  "plateUnicode": "TEE255A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770414387110,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5185136795043945,
+    "coordinates": [
+      900,
+      0,
+      792,
+      404
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

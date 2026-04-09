@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771714890298,
+  "carID": 121203,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 170135209",
+  "datetimezone": "20260221 230130162-0600",
+  "frame_timestamp": 1771714890298,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230130_401273lp_RVS225C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230130_401273.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230130_401273lp_RVS225C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVS225C",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    867,
+    102,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVS225C",
+  "plateUnicode": "RVS225C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771714890298,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lancia",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.811959445476532,
+    "coordinates": [
+      552,
+      0,
+      768,
+      234
+    ],
+    "model": "Thesis",
+    "type": "CAR"
+  }
+}

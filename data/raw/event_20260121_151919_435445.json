@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769008749107,
+  "carID": 132230,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260121 091909780",
+  "datetimezone": "20260121 151909107-0600",
+  "frame_timestamp": 1769008749107,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121151851_912602/20260121151909_699721lp_SNC163.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121151851_912602/20260121151909_699721.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121151851_912602/20260121151909_699721lp_SNC163.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SNC163",
+  "plateConfidence": 0.7369791865348816,
+  "plateCoordinates": [
+    1960,
+    25,
+    165,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    165,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "SNC163",
+  "plateUnicode": "SNC163",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769008749107,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Citroen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.39009809494018555,
+    "coordinates": [
+      1776,
+      0,
+      496,
+      138
+    ],
+    "model": "C4 Grand Picasso/C4 Picasso",
+    "type": "VAN"
+  }
+}

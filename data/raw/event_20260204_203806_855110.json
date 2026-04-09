@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770237470757,
+  "carID": 78430,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 143754681",
+  "datetimezone": "20260204 203749632-0600",
+  "frame_timestamp": 1770237470757,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204203749_882190lp_GEZ489D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204203749_882190.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204203749_882190lp_GEZ489D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "GEZ489D",
+  "plateConfidence": 0.8794642686843872,
+  "plateCoordinates": [
+    1185,
+    720,
+    171,
+    87
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    171,
+    87
+  ],
+  "plateCountry": "FRA",
+  "plateText": "GEZ489D",
+  "plateUnicode": "GEZ489D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770237470757,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.235891342163086,
+    "coordinates": [
+      720,
+      0,
+      1088,
+      846
+    ],
+    "model": "X3",
+    "type": "SUV"
+  }
+}

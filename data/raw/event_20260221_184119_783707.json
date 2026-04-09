@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771699260540,
+  "carID": 120544,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 124104339",
+  "datetimezone": "20260221 184059283-0600",
+  "frame_timestamp": 1771699260540,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221184059_538580lp_RVK412C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221184059_538580.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221184059_538580lp_RVK412C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVK412C",
+  "plateConfidence": 0.8337053656578064,
+  "plateCoordinates": [
+    852,
+    84,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVK412C",
+  "plateUnicode": "RVK412C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771699260540,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.212090492248535,
+    "coordinates": [
+      528,
+      0,
+      796,
+      290
+    ],
+    "model": "Taos",
+    "type": "SUV"
+  }
+}

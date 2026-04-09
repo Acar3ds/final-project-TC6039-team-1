@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771175257342,
+  "carID": 104769,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 110742242",
+  "datetimezone": "20260215 170737184-0600",
+  "frame_timestamp": 1771175257342,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215154224_382114/20260215170737_478398lp_TAW053B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215154224_382114/20260215170737_478398.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215154224_382114/20260215170737_478398lp_TAW053B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAW053B",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1059,
+    204,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAW053B",
+  "plateUnicode": "TAW053B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771175257342,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "YELLOW",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5334200859069824,
+    "coordinates": [
+      700,
+      0,
+      864,
+      464
+    ],
+    "model": "Camaro",
+    "type": "CAR"
+  }
+}

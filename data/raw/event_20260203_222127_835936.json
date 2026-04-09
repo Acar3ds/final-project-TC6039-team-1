@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770157271521,
+  "carID": 76318,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 162115996",
+  "datetimezone": "20260203 222110946-0600",
+  "frame_timestamp": 1770157271521,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203222111_191087lp_SEC594A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203222111_191087.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203222111_191087lp_SEC594A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEC594A",
+  "plateConfidence": 0.8794642686843872,
+  "plateCoordinates": [
+    897,
+    78,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEC594A",
+  "plateUnicode": "SEC594A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770157271521,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.646685600280762,
+    "coordinates": [
+      612,
+      2,
+      688,
+      256
+    ],
+    "model": "Beat Premier",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771373977144,
+  "carID": 110571,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 181937409",
+  "datetimezone": "20260218 001932360-0600",
+  "frame_timestamp": 1771373977144,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260218001932_603190lp_SME999B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260218001932_603190.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260218001932_603190lp_SME999B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SME999B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1023,
+    99,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SME999B",
+  "plateUnicode": "SME999B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771373977144,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Skoda",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 36.3277587890625,
+    "coordinates": [
+      696,
+      0,
+      792,
+      266
+    ],
+    "model": "Octavia/Octavia RS",
+    "type": "CAR"
+  }
+}

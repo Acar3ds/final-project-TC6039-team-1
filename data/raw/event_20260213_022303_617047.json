@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770949364910,
+  "carID": 98816,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 202249648",
+  "datetimezone": "20260213 022244596-0600",
+  "frame_timestamp": 1770949364910,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213012947_769639/20260213022244_897305lp_TBH104B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213012947_769639/20260213022244_897305.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213012947_769639/20260213022244_897305lp_TBH104B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBH104B",
+  "plateConfidence": 0.7801339030265808,
+  "plateCoordinates": [
+    993,
+    117,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBH104B",
+  "plateUnicode": "TBH104B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770949364910,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9099526405334473,
+    "coordinates": [
+      684,
+      0,
+      744,
+      284
+    ],
+    "model": "Colt",
+    "type": "CAR"
+  }
+}

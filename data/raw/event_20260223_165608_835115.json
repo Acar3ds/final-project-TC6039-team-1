@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771865748557,
+  "carID": 124385,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 105553107",
+  "datetimezone": "20260223 165548047-0600",
+  "frame_timestamp": 1771865748557,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223165548_319775lp_RH4176B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223165548_319775.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223165548_319775lp_RH4176B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RH4176B",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    972,
+    171,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RH4176B",
+  "plateUnicode": "RH4176B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771865748557,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.903553009033203,
+    "coordinates": [
+      624,
+      0,
+      820,
+      462
+    ],
+    "model": "Pathfinder",
+    "type": "SUV"
+  }
+}

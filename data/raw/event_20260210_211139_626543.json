@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770757882121,
+  "carID": 92729,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 151126582",
+  "datetimezone": "20260210 211121520-0600",
+  "frame_timestamp": 1770757882121,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210211121_775390lp_RLN700C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210211121_775390.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210211121_775390lp_RLN700C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLN700C",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1191,
+    300,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLN700C",
+  "plateUnicode": "RLN700C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770757882121,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9380736351013184,
+    "coordinates": [
+      856,
+      0,
+      784,
+      444
+    ],
+    "model": "Ignis",
+    "type": "CAR"
+  }
+}

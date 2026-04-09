@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770823561043,
+  "carID": 94405,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 092606099",
+  "datetimezone": "20260211 152601043-0600",
+  "frame_timestamp": 1770823561043,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211144929_906259/20260211152601_325806lp_RUS396C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211144929_906259/20260211152601_325806.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211144929_906259/20260211152601_325806lp_RUS396C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUS396C",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    915,
+    870,
+    180,
+    87
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    180,
+    87
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUS396C",
+  "plateUnicode": "RUS396C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770823561043,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6470410823822021,
+    "coordinates": [
+      476,
+      0,
+      1072,
+      1026
+    ],
+    "model": "Estima/Previa",
+    "type": "VAN"
+  }
+}

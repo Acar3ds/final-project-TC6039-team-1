@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770596389958,
+  "carID": 88132,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 181954130",
+  "datetimezone": "20260209 001949080-0600",
+  "frame_timestamp": 1770596389958,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208235907_878368/20260209001949_306998lp_SBH219C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208235907_878368/20260209001949_306998.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208235907_878368/20260209001949_306998lp_SBH219C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBH219C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    957,
+    135,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBH219C",
+  "plateUnicode": "SBH219C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770596389958,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.068323135375977,
+    "coordinates": [
+      640,
+      0,
+      788,
+      248
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

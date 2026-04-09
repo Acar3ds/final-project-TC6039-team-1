@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771617057032,
+  "carID": 118283,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 135101747",
+  "datetimezone": "20260220 195056696-0600",
+  "frame_timestamp": 1771617057032,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220190822_798239/20260220195056_930906lp_SVR240.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220190822_798239/20260220195056_930906.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220190822_798239/20260220195056_930906lp_SVR240.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVR240A",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    819,
+    132,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVR240A",
+  "plateUnicode": "SVR240A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771617057032,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.487973690032959,
+    "coordinates": [
+      520,
+      0,
+      724,
+      314
+    ],
+    "model": "Jetta/Polo/Polo GTI",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770852781234,
+  "carID": 95740,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 173306018",
+  "datetimezone": "20260211 233300964-0600",
+  "frame_timestamp": 1770852781234,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211233301_207828lp_TAY272B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211233301_207828.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211233301_207828lp_TAY272B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAY272B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    957,
+    99,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAY272B",
+  "plateUnicode": "TAY272B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770852781234,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4538164138793945,
+    "coordinates": [
+      668,
+      0,
+      716,
+      240
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

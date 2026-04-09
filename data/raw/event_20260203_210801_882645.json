@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770152866186,
+  "carID": 76111,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 150749771",
+  "datetimezone": "20260203 210744717-0600",
+  "frame_timestamp": 1770152866186,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203210744_936968lp_RSD602C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203210744_936968.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203210744_936968lp_RSD602C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSD602C",
+  "plateConfidence": 0.875,
+  "plateCoordinates": [
+    795,
+    90,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSD602C",
+  "plateUnicode": "RSD602C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770152866186,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.74201774597168,
+    "coordinates": [
+      480,
+      0,
+      752,
+      264
+    ],
+    "model": "Eos",
+    "type": "CAR"
+  }
+}

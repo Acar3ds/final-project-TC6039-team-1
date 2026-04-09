@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770675149601,
+  "carID": 90276,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 161233625",
+  "datetimezone": "20260209 221228567-0600",
+  "frame_timestamp": 1770675149601,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209214259_909471/20260209221228_789183lp_SCM128C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209214259_909471/20260209221228_789183.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209214259_909471/20260209221228_789183lp_SCM128C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCM128C",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    975,
+    129,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCM128C",
+  "plateUnicode": "SCM128C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770675149601,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.999998092651367,
+    "coordinates": [
+      612,
+      0,
+      856,
+      344
+    ],
+    "model": "Sorento",
+    "type": "SUV"
+  }
+}

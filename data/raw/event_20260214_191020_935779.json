@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771096201396,
+  "carID": 102974,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 131006281",
+  "datetimezone": "20260214 191001234-0600",
+  "frame_timestamp": 1771096201396,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214191001_515435lp_TFM359B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214191001_515435.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214191001_515435lp_TFM359B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFM359B",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    960,
+    138,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFM359B",
+  "plateUnicode": "TFM359B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771096201396,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.991042375564575,
+    "coordinates": [
+      600,
+      0,
+      804,
+      312
+    ],
+    "model": "Yaris Ativ",
+    "type": "CAR"
+  }
+}

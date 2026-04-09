@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772200565779,
+  "carID": 134635,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 075610534",
+  "datetimezone": "20260227 135605478-0600",
+  "frame_timestamp": 1772200565779,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227133615_495332/20260227135605_755279lp_TFE604B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227133615_495332/20260227135605_755279.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227133615_495332/20260227135605_755279lp_TFE604B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFE604B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1056,
+    135,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFE604B",
+  "plateUnicode": "TFE604B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772200565779,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9876232147216797,
+    "coordinates": [
+      760,
+      2,
+      728,
+      298
+    ],
+    "model": "Attrage/Mirage/Mirage G4/Space Star",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771862443563,
+  "carID": 124270,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 100047950",
+  "datetimezone": "20260223 160042893-0600",
+  "frame_timestamp": 1771862443563,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223160043_177572lp_TBP153A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223160043_177572.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223160043_177572lp_TBP153A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBP153A",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    978,
+    141,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBP153A",
+  "plateUnicode": "TBP153A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771862443563,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.632401466369629,
+    "coordinates": [
+      640,
+      0,
+      812,
+      362
+    ],
+    "model": "Oroch/Duster/Alaskan",
+    "type": "PICKUPTRUCK"
+  }
+}

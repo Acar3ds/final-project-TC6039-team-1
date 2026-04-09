@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "CAN"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769043253019,
+  "carID": 137918,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260121 185413688",
+  "datetimezone": "20260122 005413019-0600",
+  "frame_timestamp": 1769043253019,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122004059_500644/20260122005413_595279lp_SWW361.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122004059_500644/20260122005413_595279.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122004059_500644/20260122005413_595279lp_SWW361.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWW361",
+  "plateConfidence": 0.5321614742279053,
+  "plateCoordinates": [
+    1170,
+    110,
+    143,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    143,
+    43
+  ],
+  "plateCountry": "CAN",
+  "plateText": "SWW361",
+  "plateUnicode": "SWW361",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769043253019,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Infiniti",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.8213102221488953,
+    "coordinates": [
+      1000,
+      0,
+      472,
+      168
+    ],
+    "model": "FX/FX37/FX50/QX70",
+    "type": "SUV"
+  }
+}

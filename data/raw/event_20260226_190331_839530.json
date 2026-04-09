@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772132590898,
+  "carID": 132726,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 130315620",
+  "datetimezone": "20260226 190310565-0600",
+  "frame_timestamp": 1772132590898,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226190310_835978lp_RVD518C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226190310_835978.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226190310_835978lp_RVD518C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVD518C",
+  "plateConfidence": 0.828125,
+  "plateCoordinates": [
+    987,
+    117,
+    126,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVD518C",
+  "plateUnicode": "RVD518C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772132590898,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.245415687561035,
+    "coordinates": [
+      588,
+      2,
+      852,
+      310
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

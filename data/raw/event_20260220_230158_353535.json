@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771628497766,
+  "carID": 118828,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 170142675",
+  "datetimezone": "20260220 230137617-0600",
+  "frame_timestamp": 1771628497766,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220230137_890201lp_TGX283A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220230137_890201.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220230137_890201lp_TGX283A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGX283A",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    1224,
+    207,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGX283A",
+  "plateUnicode": "TGX283A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771628497766,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9974453449249268,
+    "coordinates": [
+      900,
+      0,
+      760,
+      354
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771009301904,
+  "carID": 100446,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 130145144",
+  "datetimezone": "20260213 190140091-0600",
+  "frame_timestamp": 1771009301904,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213190123_274909/20260213190140_339700lp_RVX012A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213190123_274909/20260213190140_339700.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213190123_274909/20260213190140_339700lp_RVX012A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVX012A",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    1026,
+    183,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVX012A",
+  "plateUnicode": "RVX012A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771009301904,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7479045391082764,
+    "coordinates": [
+      716,
+      0,
+      748,
+      326
+    ],
+    "model": "R8",
+    "type": "CAR"
+  }
+}

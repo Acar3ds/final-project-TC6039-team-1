@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770247664602,
+  "carID": 78847,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 172748727",
+  "datetimezone": "20260204 232743677-0600",
+  "frame_timestamp": 1770247664602,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204232743_910713lp_RJ2323A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204232743_910713.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204232743_910713lp_RJ2323A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RJ2323A",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    882,
+    84,
+    138,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RJ2323A",
+  "plateUnicode": "RJ2323A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770247664602,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hino",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2513785362243652,
+    "coordinates": [
+      512,
+      2,
+      932,
+      280
+    ],
+    "model": "Ranger",
+    "type": "TRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771419421853,
+  "carID": 111280,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 065703957",
+  "datetimezone": "20260218 125658905-0600",
+  "frame_timestamp": 1771419421853,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218074909_602456/20260218125659_169693lp_RRH485A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218074909_602456/20260218125659_169693.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218074909_602456/20260218125659_169693lp_RRH485A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRH485A",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    870,
+    78,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRH485A",
+  "plateUnicode": "RRH485A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771419421853,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.665990352630615,
+    "coordinates": [
+      540,
+      0,
+      784,
+      248
+    ],
+    "model": "Odyssey",
+    "type": "VAN"
+  }
+}

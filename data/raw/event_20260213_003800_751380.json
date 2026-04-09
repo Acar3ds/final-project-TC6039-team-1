@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770943062516,
+  "carID": 98540,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 183746953",
+  "datetimezone": "20260213 003741904-0600",
+  "frame_timestamp": 1770943062516,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213003302_53484/20260213003742_119029lp_RTW388B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213003302_53484/20260213003742_119029.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213003302_53484/20260213003742_119029lp_RTW388B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTW388B",
+  "plateConfidence": 0.8147321343421936,
+  "plateCoordinates": [
+    882,
+    90,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTW388B",
+  "plateUnicode": "RTW388B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770943062516,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.191037178039551,
+    "coordinates": [
+      528,
+      0,
+      832,
+      308
+    ],
+    "model": "Range Rover Evoque",
+    "type": "SUV"
+  }
+}

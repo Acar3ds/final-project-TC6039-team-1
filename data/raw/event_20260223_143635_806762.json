@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771857375399,
+  "carID": 123979,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 083619841",
+  "datetimezone": "20260223 143614786-0600",
+  "frame_timestamp": 1771857375399,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223143615_11956lp_SJE817B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223143615_11956.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223143615_11956lp_SJE817B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJE817B",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    921,
+    168,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJE817B",
+  "plateUnicode": "SJE817B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771857375399,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.2904982566833496,
+    "coordinates": [
+      620,
+      0,
+      756,
+      296
+    ],
+    "model": "Civic",
+    "type": "CAR"
+  }
+}

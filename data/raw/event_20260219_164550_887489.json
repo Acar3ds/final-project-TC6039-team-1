@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771519532895,
+  "carID": 114836,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 104535697",
+  "datetimezone": "20260219 164530640-0600",
+  "frame_timestamp": 1771519532895,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219164530_945982lp_RUB519C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219164530_945982.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219164530_945982lp_RUB519C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUB519C",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1059,
+    126,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUB519C",
+  "plateUnicode": "RUB519C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771519532895,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.92348861694336,
+    "coordinates": [
+      708,
+      0,
+      800,
+      332
+    ],
+    "model": "Camry",
+    "type": "CAR"
+  }
+}

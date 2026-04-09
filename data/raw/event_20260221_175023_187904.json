@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771696202811,
+  "carID": 120433,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 115007731",
+  "datetimezone": "20260221 175002670-0600",
+  "frame_timestamp": 1771696202811,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221175002_916004lp_RUM549.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221175002_916004.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221175002_916004lp_RUM549.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUM549C",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1065,
+    147,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUM549C",
+  "plateUnicode": "RUM549C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771696202811,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volvo",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.999725103378296,
+    "coordinates": [
+      696,
+      2,
+      844,
+      316
+    ],
+    "model": "XC60",
+    "type": "SUV"
+  }
+}

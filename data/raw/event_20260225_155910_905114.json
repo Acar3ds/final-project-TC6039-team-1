@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772035130177,
+  "carID": 129474,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 095854818",
+  "datetimezone": "20260225 155849758-0600",
+  "frame_timestamp": 1772035130177,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225151116_595785/20260225155850_111187lp_5PY5442B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225151116_595785/20260225155850_111187.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225151116_595785/20260225155850_111187lp_5PY5442B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "5PY5442B",
+  "plateConfidence": 0.79296875,
+  "plateCoordinates": [
+    1017,
+    96,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "5PY5442B",
+  "plateUnicode": "5PY5442B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772035130177,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Isuzu",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 37.354530334472656,
+    "coordinates": [
+      708,
+      0,
+      732,
+      290
+    ],
+    "model": "MU-X/D-Max",
+    "type": "PICKUPTRUCK"
+  }
+}

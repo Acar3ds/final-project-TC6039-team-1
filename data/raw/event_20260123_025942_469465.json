@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769137172369,
+  "carID": 1183,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 205932687",
+  "datetimezone": "20260123 025932369-0600",
+  "frame_timestamp": 1769137172369,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123020702_624251/20260123025932_569053lp_TKD500A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123020702_624251/20260123025932_569053.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123020702_624251/20260123025932_569053lp_TKD500A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TKD500A",
+  "plateConfidence": 0.7544642686843872,
+  "plateCoordinates": [
+    913,
+    414,
+    210,
+    101
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    210,
+    101
+  ],
+  "plateCountry": "USA",
+  "plateText": "TKD500A",
+  "plateUnicode": "TKD500A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769137172369,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6005487442016602,
+    "coordinates": [
+      528,
+      0,
+      972,
+      620
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

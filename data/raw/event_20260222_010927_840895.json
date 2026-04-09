@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771722547176,
+  "carID": 121461,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 190912094",
+  "datetimezone": "20260222 010907038-0600",
+  "frame_timestamp": 1771722547176,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222010907_336764lp_SLK959B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222010907_336764.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222010907_336764lp_SLK959B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLK959B",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1029,
+    117,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLK959B",
+  "plateUnicode": "SLK959B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771722547176,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.885748863220215,
+    "coordinates": [
+      708,
+      0,
+      772,
+      314
+    ],
+    "model": "3 Series",
+    "type": "CAR"
+  }
+}

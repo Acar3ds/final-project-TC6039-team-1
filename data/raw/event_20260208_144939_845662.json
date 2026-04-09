@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770562163218,
+  "carID": 87239,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 084926963",
+  "datetimezone": "20260208 144921907-0600",
+  "frame_timestamp": 1770562163218,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208080221_874747/20260208144922_124107lp_RG5861B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208080221_874747/20260208144922_124107.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208080221_874747/20260208144922_124107lp_RG5861B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RG5861B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    858,
+    78,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RG5861B",
+  "plateUnicode": "RG5861B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770562163218,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Haval",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 27.618213653564453,
+    "coordinates": [
+      516,
+      0,
+      820,
+      330
+    ],
+    "model": "Dargo/H-Dog",
+    "type": "SUV"
+  }
+}

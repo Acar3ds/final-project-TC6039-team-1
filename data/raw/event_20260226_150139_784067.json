@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772118078591,
+  "carID": 132061,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 090123495",
+  "datetimezone": "20260226 150118431-0600",
+  "frame_timestamp": 1772118078591,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150118_710555lp_RMA777B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150118_710555.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150118_710555lp_RMA777B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMA777B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1260,
+    273,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMA777B",
+  "plateUnicode": "RMA777B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772118078591,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9943556785583496,
+    "coordinates": [
+      924,
+      0,
+      780,
+      404
+    ],
+    "model": "Grace",
+    "type": "CAR"
+  }
+}

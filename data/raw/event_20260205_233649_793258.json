@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770334592843,
+  "carID": 81394,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 173637551",
+  "datetimezone": "20260205 233632503-0600",
+  "frame_timestamp": 1770334592843,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205233632_742850lp_RMX885C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205233632_742850.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205224927_366269/20260205233632_742850lp_RMX885C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMX885C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    978,
+    183,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMX885C",
+  "plateUnicode": "RMX885C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770334592843,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6395058631896973,
+    "coordinates": [
+      648,
+      0,
+      780,
+      320
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

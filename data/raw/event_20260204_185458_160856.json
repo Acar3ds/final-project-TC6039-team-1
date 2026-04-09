@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770231282227,
+  "carID": 78145,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 125446039",
+  "datetimezone": "20260204 185440989-0600",
+  "frame_timestamp": 1770231282227,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204185441_245603lp_J7639B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204185441_245603.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204185441_245603lp_J7639B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "J7639B",
+  "plateConfidence": 0.8684895634651184,
+  "plateCoordinates": [
+    945,
+    87,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "J7639B",
+  "plateUnicode": "J7639B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770231282227,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.536759376525879,
+    "coordinates": [
+      588,
+      0,
+      840,
+      336
+    ],
+    "model": "Titan/Patrol/Armada",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771601264420,
+  "carID": 117412,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 092748835",
+  "datetimezone": "20260220 152743792-0600",
+  "frame_timestamp": 1771601264420,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220152744_47236lp_SXF182B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220152744_47236.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220152744_47236lp_SXF182B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXF182B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1044,
+    189,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXF182B",
+  "plateUnicode": "SXF182B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771601264420,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.2621910572052,
+    "coordinates": [
+      748,
+      0,
+      712,
+      308
+    ],
+    "model": "Astra/Astra OPC",
+    "type": "CAR"
+  }
+}

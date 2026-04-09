@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772118245369,
+  "carID": 132076,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 090410286",
+  "datetimezone": "20260226 150405211-0600",
+  "frame_timestamp": 1772118245369,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150405_442844lp_RXE765C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150405_442844.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150405_442844lp_RXE765C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXE765C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1053,
+    123,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXE765C",
+  "plateUnicode": "RXE765C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772118245369,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.975648045539856,
+    "coordinates": [
+      672,
+      0,
+      880,
+      332
+    ],
+    "model": "Nivus/Taos/Taigo",
+    "type": "SUV"
+  }
+}

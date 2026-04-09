@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770492333662,
+  "carID": 85731,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 132537687",
+  "datetimezone": "20260207 192532629-0600",
+  "frame_timestamp": 1770492333662,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207182833_989631/20260207192532_940690lp_SAE268C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207182833_989631/20260207192532_940690.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207182833_989631/20260207192532_940690lp_SAE268C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAE268C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    885,
+    114,
+    129,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAE268C",
+  "plateUnicode": "SAE268C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770492333662,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.835071563720703,
+    "coordinates": [
+      576,
+      2,
+      728,
+      270
+    ],
+    "model": "Note",
+    "type": "CAR"
+  }
+}

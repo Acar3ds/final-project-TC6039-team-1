@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772053447561,
+  "carID": 130320,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 150412282",
+  "datetimezone": "20260225 210407230-0600",
+  "frame_timestamp": 1772053447561,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225203010_402452/20260225210407_467702lp_RNT913C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225203010_402452/20260225210407_467702.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225203010_402452/20260225210407_467702lp_RNT913C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNT913C",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    984,
+    90,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNT913C",
+  "plateUnicode": "RNT913C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772053447561,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.976887583732605,
+    "coordinates": [
+      660,
+      2,
+      756,
+      250
+    ],
+    "model": "A1/A1 Citycarver",
+    "type": "CAR"
+  }
+}

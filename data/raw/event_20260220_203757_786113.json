@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771619858697,
+  "carID": 118425,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 143742620",
+  "datetimezone": "20260220 203737567-0600",
+  "frame_timestamp": 1771619858697,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220203737_840032lp_RRP817C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220203737_840032.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220203737_840032lp_RRP817C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRP817C",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    954,
+    108,
+    126,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRP817C",
+  "plateUnicode": "RRP817C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771619858697,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.750854015350342,
+    "coordinates": [
+      272,
+      0,
+      1104,
+      326
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

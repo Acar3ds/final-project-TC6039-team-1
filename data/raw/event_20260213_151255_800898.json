@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770995560909,
+  "carID": 99826,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 091241438",
+  "datetimezone": "20260213 151236374-0600",
+  "frame_timestamp": 1770995560909,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213151236_754144lp_A197MLE.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213151236_754144.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213151236_754144lp_A197MLE.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "5A197MLE",
+  "plateConfidence": 0.8017578125,
+  "plateCoordinates": [
+    768,
+    108,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "5A197MLE",
+  "plateUnicode": "5A197MLE",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770995560909,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 33.63698959350586,
+    "coordinates": [
+      468,
+      6,
+      720,
+      248
+    ],
+    "model": "Movano/Movano-e",
+    "type": "VAN"
+  }
+}

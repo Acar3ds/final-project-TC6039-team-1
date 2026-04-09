@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771424063538,
+  "carID": 111545,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 081427456",
+  "datetimezone": "20260218 141422406-0600",
+  "frame_timestamp": 1771424063538,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218135605_641076/20260218141422_584705lp_RN1908B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218135605_641076/20260218141422_584705.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218135605_641076/20260218141422_584705lp_RN1908B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RN1908B",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    930,
+    93,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RN1908B",
+  "plateUnicode": "RN1908B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771424063538,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1311888694763184,
+    "coordinates": [
+      592,
+      2,
+      812,
+      292
+    ],
+    "model": "Tourneo Courier",
+    "type": "VAN"
+  }
+}

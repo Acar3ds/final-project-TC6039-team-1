@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771030403435,
+  "carID": 101450,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 185327552",
+  "datetimezone": "20260214 005322504-0600",
+  "frame_timestamp": 1771030403435,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214005322_748261lp_TBZ251B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214005322_748261.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214005322_748261lp_TBZ251B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBZ251B",
+  "plateConfidence": 0.8080357313156128,
+  "plateCoordinates": [
+    930,
+    87,
+    129,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBZ251B",
+  "plateUnicode": "TBZ251B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771030403435,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Bentley",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.546532154083252,
+    "coordinates": [
+      628,
+      0,
+      720,
+      332
+    ],
+    "model": "Continental GT",
+    "type": "CAR"
+  }
+}

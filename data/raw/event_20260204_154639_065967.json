@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770219981999,
+  "carID": 77733,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 094626907",
+  "datetimezone": "20260204 154621854-0600",
+  "frame_timestamp": 1770219981999,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204154622_104410lp_RKC637B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204154622_104410.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204154622_104410lp_RKC637B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKC637B",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1389,
+    243,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKC637B",
+  "plateUnicode": "RKC637B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770219981999,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5503653287887573,
+    "coordinates": [
+      980,
+      0,
+      896,
+      438
+    ],
+    "model": "4Runner/Hilux Surf",
+    "type": "SUV"
+  }
+}

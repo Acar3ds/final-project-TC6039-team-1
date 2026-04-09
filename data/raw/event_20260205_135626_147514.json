@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770299768715,
+  "carID": 79777,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 075613626",
+  "datetimezone": "20260205 135608569-0600",
+  "frame_timestamp": 1770299768715,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205135608_852186lp_SCJ076A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205135608_852186.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205135608_852186lp_SCJ076A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCJ076A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1128,
+    159,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCJ076A",
+  "plateUnicode": "SCJ076A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770299768715,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8286436796188354,
+    "coordinates": [
+      816,
+      0,
+      752,
+      314
+    ],
+    "model": "Yaris Ativ",
+    "type": "CAR"
+  }
+}

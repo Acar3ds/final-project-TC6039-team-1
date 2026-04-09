@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770571790637,
+  "carID": 87426,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 112954409",
+  "datetimezone": "20260208 172949362-0600",
+  "frame_timestamp": 1770571790637,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208172949_686521lp_DAG897A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208172949_686521.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208172949_686521lp_DAG897A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DAG897A",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    1203,
+    219,
+    138,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    54
+  ],
+  "plateCountry": "FRA",
+  "plateText": "DAG897A",
+  "plateUnicode": "DAG897A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770571790637,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.999917984008789,
+    "coordinates": [
+      828,
+      0,
+      836,
+      374
+    ],
+    "model": "Ioniq 5",
+    "type": "CAR"
+  }
+}

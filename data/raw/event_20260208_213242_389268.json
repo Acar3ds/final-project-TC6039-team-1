@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770586344619,
+  "carID": 87827,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 153229521",
+  "datetimezone": "20260208 213224474-0600",
+  "frame_timestamp": 1770586344619,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208202942_789114/20260208213224_736541lp_SSG014B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208202942_789114/20260208213224_736541.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208202942_789114/20260208213224_736541lp_SSG014B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSG014B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1149,
+    117,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSG014B",
+  "plateUnicode": "SSG014B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770586344619,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8261425495147705,
+    "coordinates": [
+      744,
+      2,
+      916,
+      328
+    ],
+    "model": "Suburban/Tahoe",
+    "type": "SUV"
+  }
+}

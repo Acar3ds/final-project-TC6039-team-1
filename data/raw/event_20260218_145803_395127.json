@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771426664339,
+  "carID": 111717,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 085748052",
+  "datetimezone": "20260218 145742998-0600",
+  "frame_timestamp": 1771426664339,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218143111_917048/20260218145743_219284lp_RTM889B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218143111_917048/20260218145743_219284.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218143111_917048/20260218145743_219284lp_RTM889B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTM889B",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    954,
+    111,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTM889B",
+  "plateUnicode": "RTM889B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771426664339,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.838679790496826,
+    "coordinates": [
+      636,
+      0,
+      756,
+      264
+    ],
+    "model": "Rio/Rio5",
+    "type": "CAR"
+  }
+}

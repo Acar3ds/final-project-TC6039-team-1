@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770227506427,
+  "carID": 77984,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 115150582",
+  "datetimezone": "20260204 175145532-0600",
+  "frame_timestamp": 1770227506427,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204175145_801732lp_RTV1860.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204175145_801732.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204175145_801732lp_RTV1860.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTV1860",
+  "plateConfidence": 0.8013392686843872,
+  "plateCoordinates": [
+    972,
+    117,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTV1860",
+  "plateUnicode": "RTV1860",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770227506427,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "LDV",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.961889743804932,
+    "coordinates": [
+      640,
+      0,
+      796,
+      264
+    ],
+    "model": "G20/G50",
+    "type": "VAN"
+  }
+}

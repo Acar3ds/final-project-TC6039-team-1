@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771975811587,
+  "carID": 128040,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 173015930",
+  "datetimezone": "20260224 233010876-0600",
+  "frame_timestamp": 1771975811587,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224233011_160267lp_RNV811A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224233011_160267.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224233011_160267lp_RNV811A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNV811A",
+  "plateConfidence": 0.8080357313156128,
+  "plateCoordinates": [
+    1071,
+    105,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNV811A",
+  "plateUnicode": "RNV811A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771975811587,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6032369136810303,
+    "coordinates": [
+      736,
+      0,
+      804,
+      276
+    ],
+    "model": "SRX",
+    "type": "SUV"
+  }
+}

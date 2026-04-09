@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771428849503,
+  "carID": 111852,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 093413800",
+  "datetimezone": "20260218 153408752-0600",
+  "frame_timestamp": 1771428849503,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218150113_702404/20260218153409_38980lp_SWL369A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218150113_702404/20260218153409_38980.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218150113_702404/20260218153409_38980lp_SWL369A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWL369A",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1053,
+    108,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWL369A",
+  "plateUnicode": "SWL369A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771428849503,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.904141426086426,
+    "coordinates": [
+      712,
+      0,
+      804,
+      272
+    ],
+    "model": "ATS/ATS-V/CTS/CTS-V/BLS",
+    "type": "CAR"
+  }
+}

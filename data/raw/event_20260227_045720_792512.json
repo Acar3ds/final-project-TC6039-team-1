@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772168223462,
+  "carID": 134275,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 225704430",
+  "datetimezone": "20260227 045659383-0600",
+  "frame_timestamp": 1772168223462,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227032350_810366/20260227045659_660913lp_SDN902C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227032350_810366/20260227045659_660913.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227032350_810366/20260227045659_660913lp_SDN902C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDN902C",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1080,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDN902C",
+  "plateUnicode": "SDN902C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772168223462,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.260241508483887,
+    "coordinates": [
+      756,
+      0,
+      828,
+      350
+    ],
+    "model": "Windom",
+    "type": "CAR"
+  }
+}

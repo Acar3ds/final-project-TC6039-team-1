@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770577192244,
+  "carID": 87557,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 125956213",
+  "datetimezone": "20260208 185951150-0600",
+  "frame_timestamp": 1770577192244,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208185951_447703lp_RKY980C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208185951_447703.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208185951_447703lp_RKY980C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKY980C",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    942,
+    120,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKY980C",
+  "plateUnicode": "RKY980C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770577192244,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.637372016906738,
+    "coordinates": [
+      620,
+      2,
+      768,
+      246
+    ],
+    "model": "CT4/CT4-V/CT5/CT5-V",
+    "type": "CAR"
+  }
+}

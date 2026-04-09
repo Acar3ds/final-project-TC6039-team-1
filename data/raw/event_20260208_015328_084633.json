@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GBR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770515591397,
+  "carID": 86672,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 195315138",
+  "datetimezone": "20260208 015310091-0600",
+  "frame_timestamp": 1770515591397,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208012833_543857/20260208015310_336390lp_SYN1298.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208012833_543857/20260208015310_336390.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208012833_543857/20260208015310_336390lp_SYN1298.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "NVM126",
+  "plateConfidence": 0.59765625,
+  "plateCoordinates": [
+    981,
+    111,
+    135,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    75
+  ],
+  "plateCountry": "GBR",
+  "plateText": "NVM126",
+  "plateUnicode": "NVM126",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770515591397,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8822407722473145,
+    "coordinates": [
+      652,
+      0,
+      768,
+      308
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

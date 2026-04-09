@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771873087496,
+  "carID": 124670,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 125811904",
+  "datetimezone": "20260223 185806845-0600",
+  "frame_timestamp": 1771873087496,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223181111_605281/20260223185807_192090lp_RPF902B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223181111_605281/20260223185807_192090.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223181111_605281/20260223185807_192090lp_RPF902B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPF902B",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1020,
+    168,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPF902B",
+  "plateUnicode": "RPF902B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771873087496,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.156998157501221,
+    "coordinates": [
+      656,
+      2,
+      836,
+      300
+    ],
+    "model": "i800/Starex",
+    "type": "VAN"
+  }
+}

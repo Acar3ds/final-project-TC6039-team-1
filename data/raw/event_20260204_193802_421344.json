@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770233864986,
+  "carID": 78265,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 133749905",
+  "datetimezone": "20260204 193744845-0600",
+  "frame_timestamp": 1770233864986,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204193745_55732lp_RLT053A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204193745_55732.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204193745_55732lp_RLT053A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLT053A",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    888,
+    93,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLT053A",
+  "plateUnicode": "RLT053A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770233864986,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Acura",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9315929412841797,
+    "coordinates": [
+      556,
+      0,
+      792,
+      216
+    ],
+    "model": "TL",
+    "type": "CAR"
+  }
+}

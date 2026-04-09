@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771744742921,
+  "carID": 122037,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 011906100",
+  "datetimezone": "20260222 071901050-0600",
+  "frame_timestamp": 1771744742921,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222062313_866115/20260222071901_306557lp_SCV414C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222062313_866115/20260222071901_306557.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222062313_866115/20260222071901_306557lp_SCV414C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCV414C",
+  "plateConfidence": 0.8125,
+  "plateCoordinates": [
+    1059,
+    114,
+    126,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCV414C",
+  "plateUnicode": "SCV414C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771744742921,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.329326152801514,
+    "coordinates": [
+      720,
+      0,
+      768,
+      326
+    ],
+    "model": "Combo/Combo-e",
+    "type": "VAN"
+  }
+}

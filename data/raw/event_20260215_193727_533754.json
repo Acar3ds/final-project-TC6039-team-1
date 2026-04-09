@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771184229015,
+  "carID": 104981,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 133712696",
+  "datetimezone": "20260215 193707638-0600",
+  "frame_timestamp": 1771184229015,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215193707_876263lp_SDM997C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215193707_876263.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215193707_876263lp_SDM997C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDM997C",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    888,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDM997C",
+  "plateUnicode": "SDM997C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771184229015,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.2876615524292,
+    "coordinates": [
+      564,
+      0,
+      784,
+      318
+    ],
+    "model": "Captiva",
+    "type": "SUV"
+  }
+}

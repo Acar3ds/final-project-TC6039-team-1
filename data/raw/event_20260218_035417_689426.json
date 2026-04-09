@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771386838905,
+  "carID": 111009,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 215402564",
+  "datetimezone": "20260218 035357507-0600",
+  "frame_timestamp": 1771386838905,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218035158_593288/20260218035357_736357lp_SMT720A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218035158_593288/20260218035357_736357.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218035158_593288/20260218035357_736357lp_SMT720A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVT720A",
+  "plateConfidence": 0.8147321343421936,
+  "plateCoordinates": [
+    864,
+    87,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVT720A",
+  "plateUnicode": "SVT720A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771386838905,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.135228633880615,
+    "coordinates": [
+      556,
+      0,
+      780,
+      290
+    ],
+    "model": "CR-V",
+    "type": "SUV"
+  }
+}

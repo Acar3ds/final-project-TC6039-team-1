@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770593166200,
+  "carID": 88028,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 172610949",
+  "datetimezone": "20260208 232605879-0600",
+  "frame_timestamp": 1770593166200,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208232606_129882lp_SWF511B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208232606_129882.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208232606_129882lp_SWF511B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWF511B",
+  "plateConfidence": 0.7991071343421936,
+  "plateCoordinates": [
+    885,
+    153,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWF511B",
+  "plateUnicode": "SWF511B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770593166200,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5005797147750854,
+    "coordinates": [
+      588,
+      2,
+      736,
+      280
+    ],
+    "model": "Insignia/Insignia OPC",
+    "type": "CAR"
+  }
+}

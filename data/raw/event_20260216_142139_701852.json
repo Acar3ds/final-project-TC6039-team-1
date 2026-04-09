@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771251679959,
+  "carID": 106326,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 082124879",
+  "datetimezone": "20260216 142119827-0600",
+  "frame_timestamp": 1771251679959,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216141440_554392/20260216142120_140654lp_SSD595A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216141440_554392/20260216142120_140654.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216141440_554392/20260216142120_140654lp_SSD595A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSD595A",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1035,
+    186,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSD595A",
+  "plateUnicode": "SSD595A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771251679959,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9969054460525513,
+    "coordinates": [
+      708,
+      0,
+      772,
+      326
+    ],
+    "model": "Picanto",
+    "type": "CAR"
+  }
+}

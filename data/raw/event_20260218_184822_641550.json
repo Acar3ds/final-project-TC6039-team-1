@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771440482919,
+  "carID": 112372,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 124807532",
+  "datetimezone": "20260218 184802482-0600",
+  "frame_timestamp": 1771440482919,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218184747_933936/20260218184802_712506lp_SXJ867A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218184747_933936/20260218184802_712506.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218184747_933936/20260218184802_712506lp_SXJ867A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXJ867A",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1227,
+    222,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXJ867A",
+  "plateUnicode": "SXJ867A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771440482919,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.917663812637329,
+    "coordinates": [
+      840,
+      0,
+      864,
+      446
+    ],
+    "model": "ASX/Outlander/RVR",
+    "type": "SUV"
+  }
+}

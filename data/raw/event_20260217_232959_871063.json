@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771370981088,
+  "carID": 110449,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 172944985",
+  "datetimezone": "20260217 232939928-0600",
+  "frame_timestamp": 1771370981088,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217232940_195324lp_XCP074D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217232940_195324.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217232940_195324lp_XCP074D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "XCP074D",
+  "plateConfidence": 0.7756696343421936,
+  "plateCoordinates": [
+    1080,
+    201,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "XCP074D",
+  "plateUnicode": "XCP074D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771370981088,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.841504096984863,
+    "coordinates": [
+      708,
+      0,
+      848,
+      458
+    ],
+    "model": "Pajero Sport/Triton/L200",
+    "type": "PICKUPTRUCK"
+  }
+}

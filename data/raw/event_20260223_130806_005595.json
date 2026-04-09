@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771852065352,
+  "carID": 123674,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 070750255",
+  "datetimezone": "20260223 130745205-0600",
+  "frame_timestamp": 1771852065352,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223130745_513010lp_SSG215A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223130745_513010.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223130745_513010lp_SSG215A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSG215A",
+  "plateConfidence": 0.8158482313156128,
+  "plateCoordinates": [
+    1017,
+    168,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "SSG215A",
+  "plateUnicode": "SSG215A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771852065352,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MG",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.983505368232727,
+    "coordinates": [
+      680,
+      0,
+      800,
+      326
+    ],
+    "model": "ZS",
+    "type": "SUV"
+  }
+}

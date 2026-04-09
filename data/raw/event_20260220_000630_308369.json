@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771545970967,
+  "carID": 115994,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 180614925",
+  "datetimezone": "20260220 000609871-0600",
+  "frame_timestamp": 1771545970967,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220000610_131405lp_SLX587B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220000610_131405.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220000610_131405lp_SLX587B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLX587B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1263,
+    183,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLX587B",
+  "plateUnicode": "SLX587B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771545970967,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.062757968902588,
+    "coordinates": [
+      928,
+      0,
+      772,
+      336
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

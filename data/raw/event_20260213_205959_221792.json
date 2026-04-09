@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NOR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771016381525,
+  "carID": 100798,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 145944946",
+  "datetimezone": "20260213 205939891-0600",
+  "frame_timestamp": 1771016381525,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213200246_222318/20260213205940_128088lp_FB57329.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213200246_222318/20260213205940_128088.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213200246_222318/20260213205940_128088lp_FB57329.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FB57329",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1023,
+    111,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "NOR",
+  "plateText": "FB57329",
+  "plateUnicode": "FB57329",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771016381525,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.997266411781311,
+    "coordinates": [
+      692,
+      0,
+      788,
+      348
+    ],
+    "model": "Tourneo Connect",
+    "type": "VAN"
+  }
+}

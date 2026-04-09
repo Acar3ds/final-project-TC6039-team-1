@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771280888196,
+  "carID": 107686,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 162813091",
+  "datetimezone": "20260216 222808040-0600",
+  "frame_timestamp": 1771280888196,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222808_296417lp_SXM321A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222808_296417.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222808_296417lp_SXM321A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXM321A",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    999,
+    147,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXM321A",
+  "plateUnicode": "SXM321A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771280888196,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4665536880493164,
+    "coordinates": [
+      636,
+      0,
+      852,
+      344
+    ],
+    "model": "Q5/Q5 e-tron/Q5 Sportback/Q7/SQ5/SQ5 Sportback/SQ7/SQ8/SQ8 e-tron/SQ8 Sportback e-tron",
+    "type": "SUV"
+  }
+}

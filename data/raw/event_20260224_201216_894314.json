@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771963916853,
+  "carID": 127500,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 141200823",
+  "datetimezone": "20260224 201155768-0600",
+  "frame_timestamp": 1771963916853,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224201156_122806lp_3SZU874A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224201156_122806.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224201156_122806lp_3SZU874A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZU874A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    948,
+    84,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZU874A",
+  "plateUnicode": "SZU874A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771963916853,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.619811058044434,
+    "coordinates": [
+      608,
+      0,
+      804,
+      290
+    ],
+    "model": "A4/A6/A8/RS4/RS6/S4",
+    "type": "CAR"
+  }
+}

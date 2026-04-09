@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771427932907,
+  "carID": 111809,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 091857506",
+  "datetimezone": "20260218 151852459-0600",
+  "frame_timestamp": 1771427932907,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218150113_702404/20260218151852_695301lp_TBZ470A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218150113_702404/20260218151852_695301.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218150113_702404/20260218151852_695301lp_TBZ470A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBZ470A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1245,
+    246,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBZ470A",
+  "plateUnicode": "TBZ470A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771427932907,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.7077202796936035,
+    "coordinates": [
+      828,
+      0,
+      864,
+      378
+    ],
+    "model": "Civic",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771955718184,
+  "carID": 127099,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 115523078",
+  "datetimezone": "20260224 175518025-0600",
+  "frame_timestamp": 1771955718184,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224175518_287693lp_RNF060B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224175518_287693.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224175518_287693lp_RNF060B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNF060B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1146,
+    162,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNF060B",
+  "plateUnicode": "RNF060B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771955718184,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.2115750312805176,
+    "coordinates": [
+      788,
+      2,
+      800,
+      298
+    ],
+    "model": "Auris/Corolla/Avensis",
+    "type": "CAR"
+  }
+}

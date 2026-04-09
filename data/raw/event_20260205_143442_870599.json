@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770302066659,
+  "carID": 79909,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 083430629",
+  "datetimezone": "20260205 143425572-0600",
+  "frame_timestamp": 1770302066659,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205143425_867337lp_SUU743A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205143425_867337.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205143425_867337lp_SUU743A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUU743A",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    957,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUU743A",
+  "plateUnicode": "SUU743A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770302066659,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.38081169128418,
+    "coordinates": [
+      636,
+      0,
+      768,
+      264
+    ],
+    "model": "A3/RS3/S3",
+    "type": "CAR"
+  }
+}

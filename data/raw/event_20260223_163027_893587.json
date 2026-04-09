@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771864208076,
+  "carID": 124326,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 103011989",
+  "datetimezone": "20260223 163006941-0600",
+  "frame_timestamp": 1771864208076,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223163007_131198lp_RM7048B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223163007_131198.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223163007_131198lp_RM7048B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RM7048B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    978,
+    99,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RM7048B",
+  "plateUnicode": "RM7048B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771864208076,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.512931823730469,
+    "coordinates": [
+      532,
+      0,
+      948,
+      276
+    ],
+    "model": "F-550/F-450/F-350/F-250",
+    "type": "PICKUPTRUCK"
+  }
+}

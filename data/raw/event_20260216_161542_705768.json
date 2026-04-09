@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771258523097,
+  "carID": 106701,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 101527867",
+  "datetimezone": "20260216 161522818-0600",
+  "frame_timestamp": 1771258523097,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216161523_44062lp_RLJ622C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216161523_44062.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216161523_44062lp_RLJ622C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLJ622C",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    906,
+    93,
+    123,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    54
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLJ622C",
+  "plateUnicode": "RLJ622C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771258523097,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.0783467292785645,
+    "coordinates": [
+      576,
+      0,
+      744,
+      264
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

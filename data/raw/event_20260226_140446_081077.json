@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772114665279,
+  "carID": 131822,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 080430002",
+  "datetimezone": "20260226 140424947-0600",
+  "frame_timestamp": 1772114665279,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226133425_555546/20260226140425_250572lp_SJX758B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226133425_555546/20260226140425_250572.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226133425_555546/20260226140425_250572lp_SJX758B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJX758B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1098,
+    138,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJX758B",
+  "plateUnicode": "SJX758B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772114665279,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MG",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.867385745048523,
+    "coordinates": [
+      732,
+      0,
+      828,
+      326
+    ],
+    "model": "RX5/RX8",
+    "type": "SUV"
+  }
+}

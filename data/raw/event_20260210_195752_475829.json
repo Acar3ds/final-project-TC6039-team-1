@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770753454433,
+  "carID": 92499,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 135739196",
+  "datetimezone": "20260210 195734133-0600",
+  "frame_timestamp": 1770753454433,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210195734_439338lp_RVF827A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210195734_439338.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210195734_439338lp_RVF827A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVF827A",
+  "plateConfidence": 0.875,
+  "plateCoordinates": [
+    900,
+    123,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVF827A",
+  "plateUnicode": "RVF827A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770753454433,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4990620613098145,
+    "coordinates": [
+      624,
+      0,
+      700,
+      282
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

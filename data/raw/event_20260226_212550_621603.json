@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772141130423,
+  "carID": 133176,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 152534557",
+  "datetimezone": "20260226 212529503-0600",
+  "frame_timestamp": 1772141130423,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226203351_170299/20260226212529_718050lp_TGV493B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226203351_170299/20260226212529_718050.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226203351_170299/20260226212529_718050lp_TGV493B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGV493B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1122,
+    156,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGV493B",
+  "plateUnicode": "TGV493B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772141130423,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6298201084136963,
+    "coordinates": [
+      804,
+      2,
+      768,
+      310
+    ],
+    "model": "Rio/Rio5",
+    "type": "CAR"
+  }
+}

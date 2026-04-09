@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771862222171,
+  "carID": 124264,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 095705630",
+  "datetimezone": "20260223 155700579-0600",
+  "frame_timestamp": 1771862222171,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223155700_818613lp_SFP280C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223155700_818613.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223155700_818613lp_SFP280C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFP280C",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    909,
+    87,
+    126,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFP280C",
+  "plateUnicode": "SFP280C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771862222171,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "LDV",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.790012359619141,
+    "coordinates": [
+      588,
+      0,
+      764,
+      222
+    ],
+    "model": "G20/G50",
+    "type": "VAN"
+  }
+}

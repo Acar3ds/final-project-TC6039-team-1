@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771701311311,
+  "carID": 120613,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 131515016",
+  "datetimezone": "20260221 191509956-0600",
+  "frame_timestamp": 1771701311311,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221191510_270882lp_SLM528A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221191510_270882.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221191510_270882lp_SLM528A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLM528A",
+  "plateConfidence": 0.8805803656578064,
+  "plateCoordinates": [
+    1098,
+    168,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLM528A",
+  "plateUnicode": "SLM528A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771701311311,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.520545959472656,
+    "coordinates": [
+      760,
+      0,
+      828,
+      338
+    ],
+    "model": "Talisman",
+    "type": "CAR"
+  }
+}

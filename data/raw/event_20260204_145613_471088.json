@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770216957666,
+  "carID": 77577,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 085601319",
+  "datetimezone": "20260204 145556265-0600",
+  "frame_timestamp": 1770216957666,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204145556_486973lp_SDW825B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204145556_486973.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204145556_486973lp_SDW825B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDW825B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1191,
+    222,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDW825B",
+  "plateUnicode": "SDW825B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770216957666,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.01884937286377,
+    "coordinates": [
+      844,
+      0,
+      816,
+      312
+    ],
+    "model": "Maybach S-Class/S-Class/S-Class AMG",
+    "type": "CAR"
+  }
+}

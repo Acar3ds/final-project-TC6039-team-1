@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771262609386,
+  "carID": 106851,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 112332929",
+  "datetimezone": "20260216 172327880-0600",
+  "frame_timestamp": 1771262609386,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216172328_152447lp_TGM049A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216172328_152447.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216172328_152447lp_TGM049A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGM049A",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    987,
+    96,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGM049A",
+  "plateUnicode": "TGM049A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771262609386,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Pontiac",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.858452796936035,
+    "coordinates": [
+      684,
+      0,
+      744,
+      300
+    ],
+    "model": "Montana/Torrent",
+    "type": "SUV"
+  }
+}

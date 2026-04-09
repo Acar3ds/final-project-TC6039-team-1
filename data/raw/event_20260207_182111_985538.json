@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770488454789,
+  "carID": 85555,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 122059383",
+  "datetimezone": "20260207 182054335-0600",
+  "frame_timestamp": 1770488454789,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207182054_556123lp_SYK781A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207182054_556123.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207182054_556123lp_SYK781A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYK781A",
+  "plateConfidence": 0.8013392686843872,
+  "plateCoordinates": [
+    1059,
+    231,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYK781A",
+  "plateUnicode": "SYK781A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770488454789,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9716780185699463,
+    "coordinates": [
+      636,
+      2,
+      856,
+      466
+    ],
+    "model": "Tiida/Versa",
+    "type": "CAR"
+  }
+}

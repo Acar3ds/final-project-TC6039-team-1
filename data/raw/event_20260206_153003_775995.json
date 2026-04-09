@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770391786918,
+  "carID": 82681,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 092951252",
+  "datetimezone": "20260206 152946200-0600",
+  "frame_timestamp": 1770391786918,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206151833_514698/20260206152946_454272lp_RMB524B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206151833_514698/20260206152946_454272.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206151833_514698/20260206152946_454272lp_RMB524B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMB524B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1122,
+    186,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMB524B",
+  "plateUnicode": "RMB524B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770391786918,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.450474739074707,
+    "coordinates": [
+      796,
+      0,
+      780,
+      318
+    ],
+    "model": "Auris/Allex/Corolla/Corolla RunX/Corolla Spacio/Matrix",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771353873446,
+  "carID": 109703,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 124437294",
+  "datetimezone": "20260217 184432240-0600",
+  "frame_timestamp": 1771353873446,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217184432_440873lp_PZ8682A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217184432_440873.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217184432_440873lp_PZ8682A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PZ8682A",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1089,
+    153,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PZ8682A",
+  "plateUnicode": "PZ8682A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771353873446,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9326272010803223,
+    "coordinates": [
+      648,
+      0,
+      924,
+      432
+    ],
+    "model": "Yukon",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771963285747,
+  "carID": 127466,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 140130671",
+  "datetimezone": "20260224 200125606-0600",
+  "frame_timestamp": 1771963285747,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224200125_858838lp_RD8687B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224200125_858838.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224200125_858838lp_RD8687B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RD8687B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    825,
+    126,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RD8687B",
+  "plateUnicode": "RD8687B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771963285747,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0442047119140625,
+    "coordinates": [
+      480,
+      0,
+      820,
+      282
+    ],
+    "model": "Patrol",
+    "type": "SUV"
+  }
+}

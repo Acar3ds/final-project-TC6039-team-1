@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770407324032,
+  "carID": 83425,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 134848789",
+  "datetimezone": "20260206 194843737-0600",
+  "frame_timestamp": 1770407324032,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206194843_986175lp_SHF711B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206194843_986175.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206194843_986175lp_SHF711B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHF711B",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    1029,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHF711B",
+  "plateUnicode": "SHF711B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770407324032,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Subaru",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.304814338684082,
+    "coordinates": [
+      692,
+      0,
+      780,
+      276
+    ],
+    "model": "XV",
+    "type": "SUV"
+  }
+}

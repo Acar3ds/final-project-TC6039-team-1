@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771344285640,
+  "carID": 109311,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 100450544",
+  "datetimezone": "20260217 160445493-0600",
+  "frame_timestamp": 1771344285640,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217160445_800032lp_SLJ676B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217160445_800032.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217160445_800032lp_SLJ676B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLJ676B",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    1041,
+    177,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLJ676B",
+  "plateUnicode": "SLJ676B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771344285640,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MG",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.745788812637329,
+    "coordinates": [
+      640,
+      0,
+      852,
+      320
+    ],
+    "model": "5",
+    "type": "CAR"
+  }
+}

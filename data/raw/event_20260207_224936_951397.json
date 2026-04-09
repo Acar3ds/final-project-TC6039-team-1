@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "HRV"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770504559112,
+  "carID": 86251,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 164924165",
+  "datetimezone": "20260207 224919112-0600",
+  "frame_timestamp": 1770504559112,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207224919_308972lp_NPI11.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207224919_308972.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207224919_308972lp_NPI11.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "NPI11",
+  "plateConfidence": 0.390625,
+  "plateCoordinates": [
+    1278,
+    711,
+    126,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    54
+  ],
+  "plateCountry": "HRV",
+  "plateText": "NPI11",
+  "plateUnicode": "NPI11",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770504559112,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.37499237060546875,
+    "coordinates": [
+      644,
+      254,
+      1272,
+      826
+    ],
+    "model": "F-150/F-150 Lightning/F-250/F-350/F-450/F-550/F-650/Ranger/Ranger Raptor/Raptor",
+    "type": "SUV"
+  }
+}

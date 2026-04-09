@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772213121809,
+  "carID": 135342,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 112525230",
+  "datetimezone": "20260227 172520182-0600",
+  "frame_timestamp": 1772213121809,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227172520_341109lp_PR0935A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227172520_341109.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227172520_341109lp_PR0935A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PR0935A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1035,
+    147,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PR0935A",
+  "plateUnicode": "PR0935A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772213121809,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.496397018432617,
+    "coordinates": [
+      712,
+      0,
+      820,
+      464
+    ],
+    "model": "HiAce",
+    "type": "VAN"
+  }
+}

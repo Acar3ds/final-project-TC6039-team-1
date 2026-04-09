@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770245560850,
+  "carID": 78736,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 165245775",
+  "datetimezone": "20260204 225240724-0600",
+  "frame_timestamp": 1770245560850,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204225240_990552lp_XLJ723D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204225240_990552.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204225240_990552lp_XLJ723D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "XLJ723D",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    960,
+    111,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "XLJ723D",
+  "plateUnicode": "XLJ723D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770245560850,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9864507913589478,
+    "coordinates": [
+      620,
+      0,
+      848,
+      296
+    ],
+    "model": "Highlander",
+    "type": "SUV"
+  }
+}

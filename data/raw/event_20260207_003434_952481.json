@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770424458383,
+  "carID": 84173,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 183422180",
+  "datetimezone": "20260207 003417128-0600",
+  "frame_timestamp": 1770424458383,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207003417_343664lp_SLB692B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207003417_343664.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207003417_343664lp_SLB692B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLB692B",
+  "plateConfidence": 0.7823660969734192,
+  "plateCoordinates": [
+    1056,
+    108,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "SLB692B",
+  "plateUnicode": "SLB692B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770424458383,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.0291534662246704,
+    "coordinates": [
+      772,
+      0,
+      716,
+      282
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

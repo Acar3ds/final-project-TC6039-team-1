@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771425965480,
+  "carID": 111657,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 084610087",
+  "datetimezone": "20260218 144605027-0600",
+  "frame_timestamp": 1771425965480,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218143111_917048/20260218144605_309375lp_TAF365B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218143111_917048/20260218144605_309375.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218143111_917048/20260218144605_309375lp_TAF365B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAF365B",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1092,
+    171,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAF365B",
+  "plateUnicode": "TAF365B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771425965480,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.862302303314209,
+    "coordinates": [
+      780,
+      0,
+      748,
+      314
+    ],
+    "model": "Vios",
+    "type": "CAR"
+  }
+}

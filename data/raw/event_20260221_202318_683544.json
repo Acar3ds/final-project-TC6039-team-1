@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771705378903,
+  "carID": 120811,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 142303176",
+  "datetimezone": "20260221 202258115-0600",
+  "frame_timestamp": 1771705378903,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221202258_368485lp_TFZ594B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221202258_368485.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221202258_368485lp_TFZ594B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFZ594B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1125,
+    180,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFZ594B",
+  "plateUnicode": "TFZ594B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771705378903,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.557070255279541,
+    "coordinates": [
+      816,
+      0,
+      752,
+      314
+    ],
+    "model": "Camaro",
+    "type": "CAR"
+  }
+}

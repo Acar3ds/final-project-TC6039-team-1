@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771254788513,
+  "carID": 106549,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 091312640",
+  "datetimezone": "20260216 151307586-0600",
+  "frame_timestamp": 1771254788513,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216151307_812163lp_RYF813A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216151307_812163.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216151307_812163lp_RYF813A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYF813A",
+  "plateConfidence": 0.8258928656578064,
+  "plateCoordinates": [
+    1152,
+    156,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYF813A",
+  "plateUnicode": "RYF813A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771254788513,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8386539220809937,
+    "coordinates": [
+      820,
+      0,
+      768,
+      302
+    ],
+    "model": "301",
+    "type": "CAR"
+  }
+}

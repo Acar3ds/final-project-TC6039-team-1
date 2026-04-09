@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771943173122,
+  "carID": 126492,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 082618021",
+  "datetimezone": "20260224 142612969-0600",
+  "frame_timestamp": 1771943173122,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224142613_269775lp_TEA341A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224142613_269775.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224140601_441730/20260224142613_269775lp_TEA341A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEA341A",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    867,
+    147,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEA341A",
+  "plateUnicode": "TEA341A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771943173122,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5118508338928223,
+    "coordinates": [
+      556,
+      0,
+      756,
+      294
+    ],
+    "model": "Accent/Solaris",
+    "type": "CAR"
+  }
+}

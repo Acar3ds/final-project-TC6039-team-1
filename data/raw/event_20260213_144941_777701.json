@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770994163312,
+  "carID": 99730,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 084927329",
+  "datetimezone": "20260213 144922265-0600",
+  "frame_timestamp": 1770994163312,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213144922_519676lp_RXP114B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213144922_519676.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213144922_519676lp_RXP114B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXP114B",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1098,
+    144,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXP114B",
+  "plateUnicode": "RXP114B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770994163312,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.297865390777588,
+    "coordinates": [
+      756,
+      0,
+      812,
+      326
+    ],
+    "model": "Tiggo 4/Tiggo 3",
+    "type": "SUV"
+  }
+}

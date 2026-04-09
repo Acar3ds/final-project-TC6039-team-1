@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771175672749,
+  "carID": 104778,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 111437381",
+  "datetimezone": "20260215 171432334-0600",
+  "frame_timestamp": 1771175672749,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215154224_382114/20260215171432_571985lp_SZP286B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215154224_382114/20260215171432_571985.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215154224_382114/20260215171432_571985lp_SZP286B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZP286B",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1122,
+    168,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZP286B",
+  "plateUnicode": "SZP286B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771175672749,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.9452362060546875,
+    "coordinates": [
+      796,
+      0,
+      776,
+      410
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

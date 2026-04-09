@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770481567517,
+  "carID": 85238,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 102612425",
+  "datetimezone": "20260207 162607355-0600",
+  "frame_timestamp": 1770481567517,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207152819_706000/20260207162607_571011lp_RXG574C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207152819_706000/20260207162607_571011.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207152819_706000/20260207162607_571011lp_RXG574C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXG574C",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    948,
+    93,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RXG574C",
+  "plateUnicode": "RXG574C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770481567517,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8711888790130615,
+    "coordinates": [
+      632,
+      0,
+      780,
+      248
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

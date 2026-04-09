@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770426398016,
+  "carID": 84258,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 190642918",
+  "datetimezone": "20260207 010637868-0600",
+  "frame_timestamp": 1770426398016,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207010638_132321lp_SPR459B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207010638_132321.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207010638_132321lp_SPR459B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPR459B",
+  "plateConfidence": 0.8147321343421936,
+  "plateCoordinates": [
+    828,
+    96,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SPR459B",
+  "plateUnicode": "SPR459B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770426398016,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.808811068534851,
+    "coordinates": [
+      548,
+      0,
+      856,
+      236
+    ],
+    "model": "Duna",
+    "type": "CAR"
+  }
+}

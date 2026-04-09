@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770161307784,
+  "carID": 76447,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 172828111",
+  "datetimezone": "20260203 232823060-0600",
+  "frame_timestamp": 1770161307784,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203232823_283534lp_TEY323A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203232823_283534.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203232823_283534lp_TEY323A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEY323A",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    954,
+    105,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEY323A",
+  "plateUnicode": "TEY323A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770161307784,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.594306945800781,
+    "coordinates": [
+      640,
+      0,
+      760,
+      240
+    ],
+    "model": "R8",
+    "type": "CAR"
+  }
+}

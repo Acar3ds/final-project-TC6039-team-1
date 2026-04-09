@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771689809197,
+  "carID": 120170,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 100333937",
+  "datetimezone": "20260221 160328883-0600",
+  "frame_timestamp": 1771689809197,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221160329_155023lp_SRU017B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221160329_155023.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221160329_155023lp_SRU017B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRU017B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    918,
+    84,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRU017B",
+  "plateUnicode": "SRU017B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771689809197,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Citroen",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.594161033630371,
+    "coordinates": [
+      612,
+      0,
+      740,
+      242
+    ],
+    "model": "C3",
+    "type": "CAR"
+  }
+}

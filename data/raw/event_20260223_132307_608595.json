@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771852967758,
+  "carID": 123713,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 072252174",
+  "datetimezone": "20260223 132247116-0600",
+  "frame_timestamp": 1771852967758,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223132247_411151lp_RMJ858B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223132247_411151.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223132247_411151lp_RMJ858B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMJ858B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1080,
+    156,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMJ858B",
+  "plateUnicode": "RMJ858B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771852967758,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.187249183654785,
+    "coordinates": [
+      768,
+      0,
+      748,
+      338
+    ],
+    "model": "i10",
+    "type": "CAR"
+  }
+}

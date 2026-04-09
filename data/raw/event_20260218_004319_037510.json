@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771375379744,
+  "carID": 110631,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 184304013",
+  "datetimezone": "20260218 004258953-0600",
+  "frame_timestamp": 1771375379744,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218002710_951187/20260218004259_197156lp_ST712B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218002710_951187/20260218004259_197156.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218002710_951187/20260218004259_197156lp_ST712B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RST712B",
+  "plateConfidence": 0.7645089030265808,
+  "plateCoordinates": [
+    1032,
+    162,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RST712B",
+  "plateUnicode": "RST712B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771375379744,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.867034912109375,
+    "coordinates": [
+      716,
+      0,
+      752,
+      282
+    ],
+    "model": "Cobalt/Malibu",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771686153717,
+  "carID": 120039,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 090238485",
+  "datetimezone": "20260221 150233426-0600",
+  "frame_timestamp": 1771686153717,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221150233_689291lp_RVC641A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221150233_689291.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221150233_689291lp_RVC641A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVC641A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    969,
+    120,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVC641A",
+  "plateUnicode": "RVC641A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771686153717,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6113020181655884,
+    "coordinates": [
+      652,
+      2,
+      752,
+      268
+    ],
+    "model": "Rio/Pride",
+    "type": "CAR"
+  }
+}

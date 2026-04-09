@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771883547811,
+  "carID": 125186,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 155232250",
+  "datetimezone": "20260223 215227204-0600",
+  "frame_timestamp": 1771883547811,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223205812_401136/20260223215227_434604lp_SFU914B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223205812_401136/20260223215227_434604.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223205812_401136/20260223215227_434604lp_SFU914B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFU914B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    966,
+    99,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFU914B",
+  "plateUnicode": "SFU914B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771883547811,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.075695514678955,
+    "coordinates": [
+      636,
+      0,
+      796,
+      312
+    ],
+    "model": "ASX/Outlander/RVR",
+    "type": "SUV"
+  }
+}

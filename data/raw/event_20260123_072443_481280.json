@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "CAN"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769153073176,
+  "carID": 1327,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260123 012433498",
+  "datetimezone": "20260123 072433176-0600",
+  "frame_timestamp": 1769153073176,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123060748_697821/20260123072433_364154lp_A972NKW.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123060748_697821/20260123072433_364154.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123060748_697821/20260123072433_364154lp_A972NKW.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A972NKW",
+  "plateConfidence": 0.7723214030265808,
+  "plateCoordinates": [
+    734,
+    309,
+    206,
+    101
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    206,
+    101
+  ],
+  "plateCountry": "CAN",
+  "plateText": "A972NKW",
+  "plateUnicode": "A972NKW",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769153073176,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.669247567653656,
+    "coordinates": [
+      396,
+      0,
+      980,
+      632
+    ],
+    "model": "Ute/Crewman",
+    "type": "PICKUPTRUCK"
+  }
+}

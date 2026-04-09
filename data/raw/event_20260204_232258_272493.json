@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770247361028,
+  "carID": 78829,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 172245949",
+  "datetimezone": "20260204 232240899-0600",
+  "frame_timestamp": 1770247361028,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204232241_152642lp_FP444C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204232241_152642.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204232241_152642lp_FP444C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FP444C",
+  "plateConfidence": 0.7513020634651184,
+  "plateCoordinates": [
+    1164,
+    270,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "NLD",
+  "plateText": "FP444C",
+  "plateUnicode": "FP444C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770247361028,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8234819173812866,
+    "coordinates": [
+      812,
+      0,
+      820,
+      432
+    ],
+    "model": "A3/RS3/S3",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771776042486,
+  "carID": 122241,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 100046781",
+  "datetimezone": "20260222 160041733-0600",
+  "frame_timestamp": 1771776042486,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160041_980362lp_RLT827C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160041_980362.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160041_980362lp_RLT827C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLT827C",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    933,
+    111,
+    126,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLT827C",
+  "plateUnicode": "RLT827C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771776042486,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.520099639892578,
+    "coordinates": [
+      612,
+      0,
+      744,
+      264
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

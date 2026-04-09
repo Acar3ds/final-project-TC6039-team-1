@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771814097704,
+  "carID": 123303,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 203501519",
+  "datetimezone": "20260223 023456465-0600",
+  "frame_timestamp": 1771814097704,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223023456_754326lp_SJA531A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223023456_754326.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223023456_754326lp_SJA531A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJA531A",
+  "plateConfidence": 0.7857142686843872,
+  "plateCoordinates": [
+    1074,
+    141,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJA531A",
+  "plateUnicode": "SJA531A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771814097704,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Bentley",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.78358793258667,
+    "coordinates": [
+      768,
+      0,
+      776,
+      314
+    ],
+    "model": "Continental GT",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771598273693,
+  "carID": 117188,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 083758607",
+  "datetimezone": "20260220 143753560-0600",
+  "frame_timestamp": 1771598273693,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143753_816342lp_XPU512D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143753_816342.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143753_816342lp_XPU512D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "XPU512D",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1272,
+    282,
+    132,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    54
+  ],
+  "plateCountry": "GRC",
+  "plateText": "XPU512D",
+  "plateUnicode": "XPU512D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771598273693,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.393864154815674,
+    "coordinates": [
+      960,
+      0,
+      900,
+      362
+    ],
+    "model": "New Beetle",
+    "type": "CAR"
+  }
+}

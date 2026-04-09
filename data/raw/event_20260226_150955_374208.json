@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772118574767,
+  "carID": 132106,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 090939328",
+  "datetimezone": "20260226 150934274-0600",
+  "frame_timestamp": 1772118574767,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150934_572905lp_RKU476A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150934_572905.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150934_572905lp_RKU476A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKU476A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1041,
+    123,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RKU476A",
+  "plateUnicode": "RKU476A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772118574767,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3236889839172363,
+    "coordinates": [
+      716,
+      2,
+      764,
+      262
+    ],
+    "model": "Ciaz",
+    "type": "CAR"
+  }
+}

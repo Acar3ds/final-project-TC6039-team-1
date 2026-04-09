@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772218591378,
+  "carID": 135588,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 125636125",
+  "datetimezone": "20260227 185631071-0600",
+  "frame_timestamp": 1772218591378,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227185631_315768lp_RUL584C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227185631_315768.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227184605_833827/20260227185631_315768lp_RUL584C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUL584C",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1107,
+    201,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUL584C",
+  "plateUnicode": "RUL584C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772218591378,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.231092929840088,
+    "coordinates": [
+      720,
+      0,
+      876,
+      422
+    ],
+    "model": "3008",
+    "type": "SUV"
+  }
+}

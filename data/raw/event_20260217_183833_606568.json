@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771353493515,
+  "carID": 109681,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 123818433",
+  "datetimezone": "20260217 183813380-0600",
+  "frame_timestamp": 1771353493515,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217183813_604433lp_TAG430A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217183813_604433.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217183813_604433lp_TAG430A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAG430A",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1002,
+    120,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAG430A",
+  "plateUnicode": "TAG430A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771353493515,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lancia",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5469393730163574,
+    "coordinates": [
+      700,
+      0,
+      732,
+      252
+    ],
+    "model": "Ypsilon",
+    "type": "CAR"
+  }
+}

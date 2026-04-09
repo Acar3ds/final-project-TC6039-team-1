@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770748760883,
+  "carID": 92256,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 123924069",
+  "datetimezone": "20260210 183919020-0600",
+  "frame_timestamp": 1770748760883,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210183919_251586lp_J9501B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210183919_251586.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210183919_251586lp_J9501B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "J9501B",
+  "plateConfidence": 0.828125,
+  "plateCoordinates": [
+    1113,
+    141,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "J9501B",
+  "plateUnicode": "J9501B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770748760883,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.172964096069336,
+    "coordinates": [
+      784,
+      0,
+      772,
+      300
+    ],
+    "model": "Transit Courier",
+    "type": "VAN"
+  }
+}

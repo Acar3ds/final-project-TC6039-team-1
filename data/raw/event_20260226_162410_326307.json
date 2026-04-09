@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772123029362,
+  "carID": 132307,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 102353963",
+  "datetimezone": "20260226 162348907-0600",
+  "frame_timestamp": 1772123029362,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226162349_132908lp_SAU766B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226162349_132908.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226162349_132908lp_SAU766B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAU766B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1032,
+    141,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAU766B",
+  "plateUnicode": "SAU766B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772123029362,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.514363765716553,
+    "coordinates": [
+      592,
+      2,
+      892,
+      274
+    ],
+    "model": "911/911 GT3/718 Boxster",
+    "type": "CAR"
+  }
+}

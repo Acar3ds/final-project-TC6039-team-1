@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771339670167,
+  "carID": 109048,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 084754747",
+  "datetimezone": "20260217 144749701-0600",
+  "frame_timestamp": 1771339670167,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217143750_433699/20260217144749_940128lp_RUG429C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217143750_433699/20260217144749_940128.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217143750_433699/20260217144749_940128lp_RUG429C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUG429C",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1044,
+    174,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUG429C",
+  "plateUnicode": "RUG429C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771339670167,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9859869480133057,
+    "coordinates": [
+      696,
+      0,
+      828,
+      360
+    ],
+    "model": "RAV4",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770490691125,
+  "carID": 85649,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 125815624",
+  "datetimezone": "20260207 185810564-0600",
+  "frame_timestamp": 1770490691125,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207182833_989631/20260207185810_810022lp_RUB760C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207182833_989631/20260207185810_810022.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207182833_989631/20260207185810_810022lp_RUB760C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUB760C",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    966,
+    123,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUB760C",
+  "plateUnicode": "RUB760C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770490691125,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.344486236572266,
+    "coordinates": [
+      624,
+      0,
+      780,
+      306
+    ],
+    "model": "Tiggo 3X Plus",
+    "type": "SUV"
+  }
+}

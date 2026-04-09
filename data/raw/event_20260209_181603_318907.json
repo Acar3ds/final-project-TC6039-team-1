@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770660945527,
+  "carID": 89623,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 121550448",
+  "datetimezone": "20260209 181545400-0600",
+  "frame_timestamp": 1770660945527,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209181545_668625lp_RKR453C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209181545_668625.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209181545_668625lp_RKR453C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKR453C",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1332,
+    240,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKR453C",
+  "plateUnicode": "RKR453C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770660945527,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7834906578063965,
+    "coordinates": [
+      836,
+      0,
+      936,
+      398
+    ],
+    "model": "CT4/CT4-V/CT5/CT5-V",
+    "type": "CAR"
+  }
+}

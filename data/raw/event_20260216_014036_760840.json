@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771206021529,
+  "carID": 105599,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 194021831",
+  "datetimezone": "20260216 014016787-0600",
+  "frame_timestamp": 1771206021529,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216010023_615479/20260216014017_23856lp_SEM925A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216010023_615479/20260216014017_23856.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216010023_615479/20260216014017_23856lp_SEM925A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEM925A",
+  "plateConfidence": 0.8203125,
+  "plateCoordinates": [
+    1011,
+    93,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEM925A",
+  "plateUnicode": "SEM925A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771206021529,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 22.96687126159668,
+    "coordinates": [
+      712,
+      0,
+      744,
+      266
+    ],
+    "model": "Bipper/Expert",
+    "type": "VAN"
+  }
+}

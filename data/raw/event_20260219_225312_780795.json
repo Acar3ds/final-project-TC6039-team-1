@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771541572982,
+  "carID": 115812,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 165257542",
+  "datetimezone": "20260219 225252490-0600",
+  "frame_timestamp": 1771541572982,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219215311_334236/20260219225252_790093lp_TFP124A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219215311_334236/20260219225252_790093.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219215311_334236/20260219225252_790093lp_TFP124A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFP124A",
+  "plateConfidence": 0.8125,
+  "plateCoordinates": [
+    1050,
+    285,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFP124A",
+  "plateUnicode": "TFP124A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771541572982,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.947760820388794,
+    "coordinates": [
+      708,
+      0,
+      820,
+      398
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

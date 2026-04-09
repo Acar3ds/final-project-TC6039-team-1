@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770210365286,
+  "carID": 77205,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 070609534",
+  "datetimezone": "20260204 130604486-0600",
+  "frame_timestamp": 1770210365286,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204115607_959629/20260204130604_731569lp_TFR987B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204115607_959629/20260204130604_731569.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204115607_959629/20260204130604_731569lp_TFR987B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFR987B",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    1026,
+    102,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFR987B",
+  "plateUnicode": "TFR987B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770210365286,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Bentley",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.603126525878906,
+    "coordinates": [
+      676,
+      0,
+      816,
+      296
+    ],
+    "model": "Continental GT",
+    "type": "CAR"
+  }
+}

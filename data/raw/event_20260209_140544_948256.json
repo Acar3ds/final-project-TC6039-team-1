@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770645926829,
+  "carID": 88903,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 080531879",
+  "datetimezone": "20260209 140526829-0600",
+  "frame_timestamp": 1770645926829,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209140527_47559lp_TGG545B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209140527_47559.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209140527_47559lp_TGG545B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGG545B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1197,
+    144,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGG545B",
+  "plateUnicode": "TGG545B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770645926829,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.44413185119628906,
+    "coordinates": [
+      852,
+      0,
+      652,
+      288
+    ],
+    "model": "Azera/Sonata",
+    "type": "CAR"
+  }
+}

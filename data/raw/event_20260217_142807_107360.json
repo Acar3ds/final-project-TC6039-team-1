@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771338467939,
+  "carID": 108952,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 082752088",
+  "datetimezone": "20260217 142747030-0600",
+  "frame_timestamp": 1771338467939,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217135939_894647/20260217142747_265894lp_SXJ292A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217135939_894647/20260217142747_265894.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217135939_894647/20260217142747_265894lp_SXJ292A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXJ292A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1146,
+    228,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "SXJ292A",
+  "plateUnicode": "SXJ292A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771338467939,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3692402839660645,
+    "coordinates": [
+      816,
+      0,
+      792,
+      360
+    ],
+    "model": "Micra",
+    "type": "CAR"
+  }
+}

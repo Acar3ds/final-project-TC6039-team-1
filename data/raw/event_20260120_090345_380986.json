@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768899815290,
+  "carID": 121123,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 030335987",
+  "datetimezone": "20260120 090335290-0600",
+  "frame_timestamp": 1768899815290,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120061911_932433/20260120090335_906150lp_SAS798.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120061911_932433/20260120090335_906150.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120061911_932433/20260120090335_906150lp_SAS798.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAS798",
+  "plateConfidence": 0.7877604365348816,
+  "plateCoordinates": [
+    2121,
+    313,
+    120,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "SAS798",
+  "plateUnicode": "SAS798",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768899815290,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6291095018386841,
+    "coordinates": [
+      1824,
+      30,
+      636,
+      396
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

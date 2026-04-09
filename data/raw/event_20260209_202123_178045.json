@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770668465517,
+  "carID": 89985,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 142110112",
+  "datetimezone": "20260209 202105060-0600",
+  "frame_timestamp": 1770668465517,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209202105_306971lp_RPS935B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209202105_306971.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209202105_306971lp_RPS935B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPS935B",
+  "plateConfidence": 0.8772321343421936,
+  "plateCoordinates": [
+    864,
+    102,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPS935B",
+  "plateUnicode": "RPS935B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770668465517,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3862051963806152,
+    "coordinates": [
+      560,
+      0,
+      740,
+      288
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

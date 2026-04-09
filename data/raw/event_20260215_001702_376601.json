@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771114604271,
+  "carID": 103712,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 181647926",
+  "datetimezone": "20260215 001642869-0600",
+  "frame_timestamp": 1771114604271,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215001643_107591lp_RKV834A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215001643_107591.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215001643_107591lp_RKV834A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKV834A",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1050,
+    177,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKV834A",
+  "plateUnicode": "RKV834A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771114604271,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.289800643920898,
+    "coordinates": [
+      708,
+      0,
+      796,
+      336
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

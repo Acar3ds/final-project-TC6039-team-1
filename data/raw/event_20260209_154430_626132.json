@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770651853022,
+  "carID": 89255,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 094417577",
+  "datetimezone": "20260209 154412527-0600",
+  "frame_timestamp": 1770651853022,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209154412_813972lp_SAB223C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209154412_813972.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209154412_813972lp_SAB223C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAB223C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1023,
+    117,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAB223C",
+  "plateUnicode": "SAB223C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770651853022,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.9196271896362305,
+    "coordinates": [
+      704,
+      0,
+      776,
+      314
+    ],
+    "model": "Patriot",
+    "type": "SUV"
+  }
+}

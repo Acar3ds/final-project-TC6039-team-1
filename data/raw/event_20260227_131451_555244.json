@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772198070648,
+  "carID": 134518,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 071435143",
+  "datetimezone": "20260227 131430079-0600",
+  "frame_timestamp": 1772198070648,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227123752_499152/20260227131430_342271lp_RRK432A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227123752_499152/20260227131430_342271.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227123752_499152/20260227131430_342271lp_RRK432A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRK432A",
+  "plateConfidence": 0.8113839030265808,
+  "plateCoordinates": [
+    747,
+    666,
+    171,
+    87
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    171,
+    87
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRK432A",
+  "plateUnicode": "RRK432A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772198070648,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.226802825927734,
+    "coordinates": [
+      404,
+      0,
+      996,
+      824
+    ],
+    "model": "Fiesta/Fiesta ST",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770746117148,
+  "carID": 92148,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 115521048",
+  "datetimezone": "20260210 175516004-0600",
+  "frame_timestamp": 1770746117148,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210175516_248351lp_RNL858A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210175516_248351.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210175516_248351lp_RNL858A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNL858A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1365,
+    192,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNL858A",
+  "plateUnicode": "RNL858A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770746117148,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.354275703430176,
+    "coordinates": [
+      904,
+      0,
+      920,
+      360
+    ],
+    "model": "CR-V",
+    "type": "SUV"
+  }
+}

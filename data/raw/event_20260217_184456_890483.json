@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771353876840,
+  "carID": 109705,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 124441751",
+  "datetimezone": "20260217 184436691-0600",
+  "frame_timestamp": 1771353876840,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217184436_949310lp_SSP584B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217184436_949310.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217184436_949310lp_SSP584B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSP584B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1140,
+    144,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSP584B",
+  "plateUnicode": "SSP584B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771353876840,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9808822870254517,
+    "coordinates": [
+      744,
+      0,
+      832,
+      290
+    ],
+    "model": "CLA/CLA AMG",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771596170060,
+  "carID": 117049,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 080254133",
+  "datetimezone": "20260220 140249085-0600",
+  "frame_timestamp": 1771596170060,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220134925_413497/20260220140249_364416lp_SMU833A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220134925_413497/20260220140249_364416.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220134925_413497/20260220140249_364416lp_SMU833A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMU833A",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1002,
+    189,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMU833A",
+  "plateUnicode": "SMU833A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771596170060,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.404906272888184,
+    "coordinates": [
+      660,
+      0,
+      824,
+      324
+    ],
+    "model": "Mirai",
+    "type": "CAR"
+  }
+}

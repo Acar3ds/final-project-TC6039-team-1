@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "POL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772106969711,
+  "carID": 131496,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 055612157",
+  "datetimezone": "20260226 115607112-0600",
+  "frame_timestamp": 1772106969711,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226115607_426358lp_ACENTRKA.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226115607_426358.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226052728_784968/20260226115607_426358lp_ACENTRKA.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RACENTRKA",
+  "plateConfidence": 0.7465277910232544,
+  "plateCoordinates": [
+    1353,
+    762,
+    441,
+    87
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    441,
+    87
+  ],
+  "plateCountry": "POL",
+  "plateText": "RACENTRKA",
+  "plateUnicode": "RACENTRKA",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772106969711,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.852755546569824,
+    "coordinates": [
+      1008,
+      26,
+      908,
+      1038
+    ],
+    "model": "Alphard/Vellfire",
+    "type": "VAN"
+  }
+}

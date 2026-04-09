@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770486608857,
+  "carID": 85469,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 115013044",
+  "datetimezone": "20260207 175007980-0600",
+  "frame_timestamp": 1770486608857,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207175008_230526lp_FYX409D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207175008_230526.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207175008_230526lp_FYX409D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FYX409D",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    984,
+    90,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FYX409D",
+  "plateUnicode": "FYX409D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770486608857,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7359161376953125,
+    "coordinates": [
+      604,
+      0,
+      840,
+      288
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

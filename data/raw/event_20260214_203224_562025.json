@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GBR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771101125668,
+  "carID": 103194,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 143209874",
+  "datetimezone": "20260214 203204823-0600",
+  "frame_timestamp": 1771101125668,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214203205_124739lp_RWV147C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214203205_124739.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214203205_124739lp_RWV147C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWV147C",
+  "plateConfidence": 0.8024553656578064,
+  "plateCoordinates": [
+    900,
+    114,
+    135,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    54
+  ],
+  "plateCountry": "GBR",
+  "plateText": "RWV147C",
+  "plateUnicode": "RWV147C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771101125668,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.995823383331299,
+    "coordinates": [
+      564,
+      2,
+      800,
+      258
+    ],
+    "model": "ZR-V",
+    "type": "SUV"
+  }
+}

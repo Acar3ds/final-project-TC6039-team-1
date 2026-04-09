@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772149197260,
+  "carID": 133598,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 174002158",
+  "datetimezone": "20260226 233957110-0600",
+  "frame_timestamp": 1772149197260,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260226233957_376568lp_SRY185B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260226233957_376568.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260226233957_376568lp_SRY185B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRY185B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    1200,
+    246,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRY185B",
+  "plateUnicode": "SRY185B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772149197260,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9800562858581543,
+    "coordinates": [
+      876,
+      0,
+      780,
+      378
+    ],
+    "model": "Tiida/Versa",
+    "type": "CAR"
+  }
+}

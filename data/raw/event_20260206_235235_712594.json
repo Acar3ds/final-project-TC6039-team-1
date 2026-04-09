@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770421938251,
+  "carID": 84058,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 175223152",
+  "datetimezone": "20260206 235218095-0600",
+  "frame_timestamp": 1770421938251,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206235218_354410lp_RSL340C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206235218_354410.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206235218_354410lp_RSL340C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSL340C",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    930,
+    132,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSL340C",
+  "plateUnicode": "RSL340C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770421938251,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.994952440261841,
+    "coordinates": [
+      612,
+      0,
+      764,
+      294
+    ],
+    "model": "Tiggo 3X Plus",
+    "type": "SUV"
+  }
+}

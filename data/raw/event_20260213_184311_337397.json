@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771008172575,
+  "carID": 100370,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 124256927",
+  "datetimezone": "20260213 184251873-0600",
+  "frame_timestamp": 1771008172575,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213184252_129906lp_RTM9010.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213184252_129906.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213184252_129906lp_RTM9010.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTM901C",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    825,
+    162,
+    147,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTM901C",
+  "plateUnicode": "RTM901C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771008172575,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8389415740966797,
+    "coordinates": [
+      480,
+      0,
+      824,
+      384
+    ],
+    "model": "Volt",
+    "type": "CAR"
+  }
+}

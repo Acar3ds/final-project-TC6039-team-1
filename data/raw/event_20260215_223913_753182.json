@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771195134694,
+  "carID": 105263,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 163859589",
+  "datetimezone": "20260215 223854536-0600",
+  "frame_timestamp": 1771195134694,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215223854_791366lp_ICH121B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215223854_791366.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215223854_791366lp_ICH121B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "ICH121B",
+  "plateConfidence": 0.6227678656578064,
+  "plateCoordinates": [
+    1041,
+    207,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "ICH121B",
+  "plateUnicode": "ICH121B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771195134694,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4781131744384766,
+    "coordinates": [
+      684,
+      0,
+      828,
+      366
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770819567688,
+  "carID": 94157,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 081930997",
+  "datetimezone": "20260211 141925937-0600",
+  "frame_timestamp": 1770819567688,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211141926_177948lp_TCR554B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211141926_177948.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211141926_177948lp_TCR554B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCR554B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    915,
+    120,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCR554B",
+  "plateUnicode": "TCR554B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770819567688,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.227027416229248,
+    "coordinates": [
+      612,
+      0,
+      740,
+      254
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

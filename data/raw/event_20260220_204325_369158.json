@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771620186226,
+  "carID": 118443,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 144309952",
+  "datetimezone": "20260220 204304896-0600",
+  "frame_timestamp": 1771620186226,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220204305_138996lp_SCE426C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220204305_138996.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220204305_138996lp_SCE426C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCE426C",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1020,
+    99,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCE426C",
+  "plateUnicode": "SCE426C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771620186226,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1666126251220703,
+    "coordinates": [
+      684,
+      0,
+      796,
+      308
+    ],
+    "model": "Taos",
+    "type": "SUV"
+  }
+}

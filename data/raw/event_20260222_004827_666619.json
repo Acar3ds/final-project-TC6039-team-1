@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771721288151,
+  "carID": 121406,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 184811932",
+  "datetimezone": "20260222 004806876-0600",
+  "frame_timestamp": 1771721288151,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222004807_129104lp_RYA784C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222004807_129104.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222004807_129104lp_RYA784C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYA784C",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    1050,
+    120,
+    135,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYA784C",
+  "plateUnicode": "RYA784C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771721288151,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Bentley",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6865153312683105,
+    "coordinates": [
+      732,
+      0,
+      772,
+      342
+    ],
+    "model": "Continental GT",
+    "type": "CAR"
+  }
+}

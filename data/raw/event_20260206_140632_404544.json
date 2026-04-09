@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770386775276,
+  "carID": 82372,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 080620037",
+  "datetimezone": "20260206 140614982-0600",
+  "frame_timestamp": 1770386775276,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206140615_251326lp_TFM941A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206140615_251326.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206140615_251326lp_TFM941A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFM941A",
+  "plateConfidence": 0.8147321343421936,
+  "plateCoordinates": [
+    1143,
+    144,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFM941A",
+  "plateUnicode": "TFM941A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770386775276,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MG",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1660208702087402,
+    "coordinates": [
+      812,
+      2,
+      788,
+      292
+    ],
+    "model": "ZS",
+    "type": "SUV"
+  }
+}

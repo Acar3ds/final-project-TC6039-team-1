@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772211446298,
+  "carID": 135268,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 105730927",
+  "datetimezone": "20260227 165725882-0600",
+  "frame_timestamp": 1772211446298,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227165726_154064lp_RMX732C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227165726_154064.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227165726_154064lp_RMX732C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMX732C",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1521,
+    285,
+    135,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMX732C",
+  "plateUnicode": "RMX732C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772211446298,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.601384162902832,
+    "coordinates": [
+      944,
+      0,
+      972,
+      464
+    ],
+    "model": "Ioniq 5",
+    "type": "CAR"
+  }
+}

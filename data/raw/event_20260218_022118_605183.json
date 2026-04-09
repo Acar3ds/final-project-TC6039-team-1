@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771381259724,
+  "carID": 110851,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 202103519",
+  "datetimezone": "20260218 022058461-0600",
+  "frame_timestamp": 1771381259724,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218012314_216224/20260218022058_636096lp_321AM.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218012314_216224/20260218022058_636096.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218012314_216224/20260218022058_636096lp_321AM.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "32LAM",
+  "plateConfidence": 0.7640625238418579,
+  "plateCoordinates": [
+    1086,
+    141,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "32LAM",
+  "plateUnicode": "32LAM",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771381259724,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jaguar",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9138190746307373,
+    "coordinates": [
+      760,
+      0,
+      756,
+      290
+    ],
+    "model": "F-Type/XE/XE SV/XF/XFR/XJ",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769049228009,
+  "carID": 138528,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260121 203348652",
+  "datetimezone": "20260122 023348009-0600",
+  "frame_timestamp": 1769049228009,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122023304_286771/20260122023348_583520lp_TCH470B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122023304_286771/20260122023348_583520.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122023304_286771/20260122023348_583520lp_TCH470B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCH470B",
+  "plateConfidence": 0.5209821462631226,
+  "plateCoordinates": [
+    1269,
+    79,
+    120,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "TCH470B",
+  "plateUnicode": "TCH470B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769049228009,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6935029029846191,
+    "coordinates": [
+      1096,
+      0,
+      520,
+      198
+    ],
+    "model": "F-150",
+    "type": "PICKUPTRUCK"
+  }
+}

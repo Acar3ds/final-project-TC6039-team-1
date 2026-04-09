@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771854066748,
+  "carID": 123776,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 074110265",
+  "datetimezone": "20260223 134105211-0600",
+  "frame_timestamp": 1771854066748,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223134105_452749lp_SKE372B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223134105_452749.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223134105_452749lp_SKE372B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKE372B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1263,
+    156,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKE372B",
+  "plateUnicode": "SKE372B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771854066748,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.3447265625,
+    "coordinates": [
+      848,
+      0,
+      860,
+      330
+    ],
+    "model": "3",
+    "type": "CAR"
+  }
+}

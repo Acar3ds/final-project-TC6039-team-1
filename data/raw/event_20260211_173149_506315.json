@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770831091220,
+  "carID": 94770,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 113136122",
+  "datetimezone": "20260211 173131061-0600",
+  "frame_timestamp": 1770831091220,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211172937_336947/20260211173131_290728lp_RA0122A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211172937_336947/20260211173131_290728.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211172937_336947/20260211173131_290728lp_RA0122A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RA0122A",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1410,
+    210,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RA0122A",
+  "plateUnicode": "RA0122A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770831091220,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4675824642181396,
+    "coordinates": [
+      996,
+      0,
+      840,
+      416
+    ],
+    "model": "Terrain",
+    "type": "SUV"
+  }
+}

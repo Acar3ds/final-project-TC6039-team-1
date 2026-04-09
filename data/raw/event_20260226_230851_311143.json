@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772147310331,
+  "carID": 133511,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 170835082",
+  "datetimezone": "20260226 230830031-0600",
+  "frame_timestamp": 1772147310331,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226230830_234018lp_PZ9127B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226230830_234018.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226230830_234018lp_PZ9127B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PZ9127B",
+  "plateConfidence": 0.7957589030265808,
+  "plateCoordinates": [
+    1137,
+    198,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PZ9127B",
+  "plateUnicode": "PZ9127B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772147310331,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8272767066955566,
+    "coordinates": [
+      728,
+      2,
+      948,
+      430
+    ],
+    "model": "F-550/F-450/F-350/F-250",
+    "type": "PICKUPTRUCK"
+  }
+}

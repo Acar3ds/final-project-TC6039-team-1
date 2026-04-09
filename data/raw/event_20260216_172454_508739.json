@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771262676589,
+  "carID": 106853,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 112439717",
+  "datetimezone": "20260216 172434662-0600",
+  "frame_timestamp": 1771262676589,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216172434_897775lp_RKZ514A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216172434_897775.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216172434_897775lp_RKZ514A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKZ514A",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    1125,
+    195,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RKZ514A",
+  "plateUnicode": "RKZ514A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771262676589,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.894487380981445,
+    "coordinates": [
+      828,
+      0,
+      752,
+      354
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

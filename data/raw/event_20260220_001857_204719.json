@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771546717684,
+  "carID": 116030,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 181841984",
+  "datetimezone": "20260220 001836931-0600",
+  "frame_timestamp": 1771546717684,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220001837_184844lp_RXP445C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220001837_184844.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220000055_439635/20260220001837_184844lp_RXP445C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXP445C",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1005,
+    126,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXP445C",
+  "plateUnicode": "RXP445C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771546717684,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.206929683685303,
+    "coordinates": [
+      672,
+      0,
+      772,
+      308
+    ],
+    "model": "Ibiza/Leon/Leon Cupra R/Toledo",
+    "type": "CAR"
+  }
+}

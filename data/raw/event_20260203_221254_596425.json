@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770156757754,
+  "carID": 76296,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 161242653",
+  "datetimezone": "20260203 221237602-0600",
+  "frame_timestamp": 1770156757754,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203221237_870397lp_SYK240B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203221237_870397.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203221237_870397lp_SYK240B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYK240B",
+  "plateConfidence": 0.7276785969734192,
+  "plateCoordinates": [
+    1041,
+    264,
+    150,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYK240B",
+  "plateUnicode": "SYK240B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770156757754,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.999980926513672,
+    "coordinates": [
+      656,
+      0,
+      912,
+      498
+    ],
+    "model": "Grand Cherokee",
+    "type": "SUV"
+  }
+}

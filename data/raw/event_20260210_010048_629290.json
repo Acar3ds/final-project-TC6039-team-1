@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770685231051,
+  "carID": 90688,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 190035359",
+  "datetimezone": "20260210 010030302-0600",
+  "frame_timestamp": 1770685231051,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210004532_853111/20260210010030_668306lp_FJE380C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210004532_853111/20260210010030_668306.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210004532_853111/20260210010030_668306lp_FJE380C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FJL380C",
+  "plateConfidence": 0.6997767686843872,
+  "plateCoordinates": [
+    999,
+    135,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FJL380C",
+  "plateUnicode": "FJL380C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770685231051,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.806976795196533,
+    "coordinates": [
+      680,
+      0,
+      768,
+      432
+    ],
+    "model": "Patriot",
+    "type": "SUV"
+  }
+}

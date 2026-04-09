@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771807379341,
+  "carID": 123098,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 184304251",
+  "datetimezone": "20260223 004259197-0600",
+  "frame_timestamp": 1771807379341,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223002523_139165/20260223004259_457849lp_RWK381A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223002523_139165/20260223004259_457849.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223002523_139165/20260223004259_457849lp_RWK381A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWK381A",
+  "plateConfidence": 0.8191964030265808,
+  "plateCoordinates": [
+    1041,
+    114,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWK381A",
+  "plateUnicode": "RWK381A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771807379341,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9999104738235474,
+    "coordinates": [
+      708,
+      0,
+      800,
+      288
+    ],
+    "model": "Journey",
+    "type": "SUV"
+  }
+}

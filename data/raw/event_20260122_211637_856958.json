@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769116587672,
+  "carID": 644,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 151627989",
+  "datetimezone": "20260122 211627672-0600",
+  "frame_timestamp": 1769116587672,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122205415_117757/20260122211627_859608lp_SZF902A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122205415_117757/20260122211627_859608.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122205415_117757/20260122211627_859608lp_SZF902A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZF902A",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1000,
+    351,
+    214,
+    98
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    214,
+    98
+  ],
+  "plateCountry": "USA",
+  "plateText": "SZF902A",
+  "plateUnicode": "SZF902A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769116587672,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9300066828727722,
+    "coordinates": [
+      612,
+      0,
+      984,
+      534
+    ],
+    "model": "Escudo/Vitara/Ignis",
+    "type": "CAR"
+  }
+}

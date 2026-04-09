@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771282425141,
+  "carID": 107740,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 165349532",
+  "datetimezone": "20260216 225344479-0600",
+  "frame_timestamp": 1771282425141,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216225344_726019lp_RTX318B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216225344_726019.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216225344_726019lp_RTX318B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTX318B",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    816,
+    93,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTX318B",
+  "plateUnicode": "RTX318B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771282425141,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9635534286499023,
+    "coordinates": [
+      488,
+      0,
+      800,
+      270
+    ],
+    "model": "CR-V",
+    "type": "SUV"
+  }
+}

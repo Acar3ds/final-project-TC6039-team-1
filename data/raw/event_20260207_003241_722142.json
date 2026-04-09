@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "DEU"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770424345051,
+  "carID": 84164,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 183229060",
+  "datetimezone": "20260207 003224000-0600",
+  "frame_timestamp": 1770424345051,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207003224_246067lp_SPV463A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207003224_246067.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207002014_229111/20260207003224_246067lp_SPV463A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPV463A",
+  "plateConfidence": 0.7790178656578064,
+  "plateCoordinates": [
+    954,
+    102,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "DEU",
+  "plateText": "SPV463A",
+  "plateUnicode": "SPV463A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770424345051,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.456353187561035,
+    "coordinates": [
+      660,
+      0,
+      724,
+      270
+    ],
+    "model": "Jetta/Polo/Polo GTI",
+    "type": "CAR"
+  }
+}

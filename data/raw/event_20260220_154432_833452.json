@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771602254697,
+  "carID": 117460,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 094417588",
+  "datetimezone": "20260220 154412537-0600",
+  "frame_timestamp": 1771602254697,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220154412_803845lp_SAM050A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220154412_803845.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220154412_803845lp_SAM050A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAM050A",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    882,
+    120,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAM050A",
+  "plateUnicode": "SAM050A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771602254697,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.734198570251465,
+    "coordinates": [
+      572,
+      0,
+      744,
+      264
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

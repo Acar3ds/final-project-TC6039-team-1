@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771098747027,
+  "carID": 103087,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 135231935",
+  "datetimezone": "20260214 195226886-0600",
+  "frame_timestamp": 1771098747027,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214195227_133655lp_TFP051B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214195227_133655.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214195227_133655lp_TFP051B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFP051B",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    897,
+    123,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFP051B",
+  "plateUnicode": "TFP051B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771098747027,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8481502532958984,
+    "coordinates": [
+      564,
+      0,
+      788,
+      314
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

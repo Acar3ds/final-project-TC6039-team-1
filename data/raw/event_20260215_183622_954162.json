@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771180563757,
+  "carID": 104892,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 123608353",
+  "datetimezone": "20260215 183603299-0600",
+  "frame_timestamp": 1771180563757,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215183603_506662lp_PU2901A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215183603_506662.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215183603_506662lp_PU2901A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PU2901A",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    963,
+    192,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PU2901A",
+  "plateUnicode": "PU2901A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771180563757,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9682663679122925,
+    "coordinates": [
+      628,
+      0,
+      768,
+      372
+    ],
+    "model": "Corsa",
+    "type": "CAR"
+  }
+}

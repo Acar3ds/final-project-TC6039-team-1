@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770745819559,
+  "carID": 92132,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 115023651",
+  "datetimezone": "20260210 175018601-0600",
+  "frame_timestamp": 1770745819559,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210175018_818990lp_RVN189C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210175018_818990.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210175018_818990lp_RVN189C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVN189C",
+  "plateConfidence": 0.8191964030265808,
+  "plateCoordinates": [
+    1143,
+    159,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVN189C",
+  "plateUnicode": "RVN189C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770745819559,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.273854732513428,
+    "coordinates": [
+      768,
+      0,
+      844,
+      338
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

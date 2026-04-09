@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771618867731,
+  "carID": 118378,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 142112311",
+  "datetimezone": "20260220 202107251-0600",
+  "frame_timestamp": 1771618867731,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202107_515583lp_RPS629B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202107_515583.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202107_515583lp_RPS629B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPS629B",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1077,
+    168,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPS629B",
+  "plateUnicode": "RPS629B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771618867731,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.112187623977661,
+    "coordinates": [
+      740,
+      0,
+      808,
+      356
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

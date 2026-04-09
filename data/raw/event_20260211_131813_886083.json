@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770815876195,
+  "carID": 93918,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 071800367",
+  "datetimezone": "20260211 131755305-0600",
+  "frame_timestamp": 1770815876195,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211125249_270022/20260211131755_524823lp_RTY521A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211125249_270022/20260211131755_524823.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211125249_270022/20260211131755_524823lp_RTY521A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTY521A",
+  "plateConfidence": 0.7857142686843872,
+  "plateCoordinates": [
+    945,
+    183,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RTY521A",
+  "plateUnicode": "RTY521A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770815876195,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dacia",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7636348009109497,
+    "coordinates": [
+      644,
+      0,
+      744,
+      312
+    ],
+    "model": "Dokker/Dokker Stepway/Lodgy",
+    "type": "VAN"
+  }
+}

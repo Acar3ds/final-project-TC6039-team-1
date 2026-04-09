@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770389580393,
+  "carID": 82551,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 085305010",
+  "datetimezone": "20260206 145259962-0600",
+  "frame_timestamp": 1770389580393,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206145300_262833lp_ACP608C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206145300_262833.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206145300_262833lp_ACP608C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "ACP608C",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    1245,
+    234,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "ACP608C",
+  "plateUnicode": "ACP608C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770389580393,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.381287097930908,
+    "coordinates": [
+      888,
+      0,
+      804,
+      362
+    ],
+    "model": "Note",
+    "type": "CAR"
+  }
+}

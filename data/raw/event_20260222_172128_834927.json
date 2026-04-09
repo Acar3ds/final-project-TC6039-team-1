@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771780868956,
+  "carID": 122360,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 112112865",
+  "datetimezone": "20260222 172107806-0600",
+  "frame_timestamp": 1771780868956,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222172108_119855lp_RYP380B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222172108_119855.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222172108_119855lp_RYP380B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYP380B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1059,
+    114,
+    126,
+    45
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    45
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYP380B",
+  "plateUnicode": "RYP380B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771780868956,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.87617301940918,
+    "coordinates": [
+      752,
+      2,
+      720,
+      262
+    ],
+    "model": "Exeo/Ibiza",
+    "type": "CAR"
+  }
+}

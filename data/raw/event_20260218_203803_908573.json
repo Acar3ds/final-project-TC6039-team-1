@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771447063804,
+  "carID": 112724,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 143748673",
+  "datetimezone": "20260218 203743624-0600",
+  "frame_timestamp": 1771447063804,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218194856_502421/20260218203743_904369lp_PV8830A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218194856_502421/20260218203743_904369.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218194856_502421/20260218203743_904369lp_PV8830A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PV8830A",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1008,
+    201,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "PV8830A",
+  "plateUnicode": "PV8830A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771447063804,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9989194869995117,
+    "coordinates": [
+      628,
+      0,
+      892,
+      380
+    ],
+    "model": "F-150",
+    "type": "PICKUPTRUCK"
+  }
+}

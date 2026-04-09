@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771616846130,
+  "carID": 118265,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 134731025",
+  "datetimezone": "20260220 194725970-0600",
+  "frame_timestamp": 1771616846130,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220190822_798239/20260220194726_257299lp_FJP294D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220190822_798239/20260220194726_257299.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220190822_798239/20260220194726_257299lp_FJP294D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FJP294D",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1020,
+    204,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FJP294D",
+  "plateUnicode": "FJP294D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771616846130,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lincoln",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9997336864471436,
+    "coordinates": [
+      656,
+      0,
+      844,
+      372
+    ],
+    "model": "MKS",
+    "type": "CAR"
+  }
+}

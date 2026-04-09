@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772028279654,
+  "carID": 129058,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 080444399",
+  "datetimezone": "20260225 140439348-0600",
+  "frame_timestamp": 1772028279654,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225140439_592725lp_STE506A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225140439_592725.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225140439_592725lp_STE506A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STE506A",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    945,
+    153,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STE506A",
+  "plateUnicode": "STE506A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772028279654,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9988961219787598,
+    "coordinates": [
+      648,
+      0,
+      708,
+      308
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

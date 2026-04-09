@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770931093782,
+  "carID": 98013,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 151818703",
+  "datetimezone": "20260212 211813656-0600",
+  "frame_timestamp": 1770931093782,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212211813_869085lp_SMA500A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212211813_869085.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212211813_869085lp_SMA500A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMA500A",
+  "plateConfidence": 0.8828125,
+  "plateCoordinates": [
+    918,
+    138,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMA500A",
+  "plateUnicode": "SMA500A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770931093782,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9867444038391113,
+    "coordinates": [
+      568,
+      0,
+      832,
+      314
+    ],
+    "model": "XT4/XT5/XT6",
+    "type": "SUV"
+  }
+}

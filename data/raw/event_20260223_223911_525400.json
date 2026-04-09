@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771886330871,
+  "carID": 125302,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 163855610",
+  "datetimezone": "20260223 223850565-0600",
+  "frame_timestamp": 1771886330871,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223221037_252623/20260223223850_850692lp_SAL826C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223221037_252623/20260223223850_850692.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223221037_252623/20260223223850_850692lp_SAL826C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAL826C",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1050,
+    135,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAL826C",
+  "plateUnicode": "SAL826C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771886330871,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.955465316772461,
+    "coordinates": [
+      672,
+      0,
+      900,
+      372
+    ],
+    "model": "SQ8/SQ8 Sportback e-tron",
+    "type": "SUV"
+  }
+}

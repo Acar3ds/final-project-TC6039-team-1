@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771508277131,
+  "carID": 114227,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 073801626",
+  "datetimezone": "20260219 133756560-0600",
+  "frame_timestamp": 1771508277131,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219125934_511122/20260219133756_739595lp_NUG571.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219125934_511122/20260219133756_739595.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219125934_511122/20260219133756_739595lp_NUG571.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUG571E",
+  "plateConfidence": 0.7276785969734192,
+  "plateCoordinates": [
+    1464,
+    177,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RUG571E",
+  "plateUnicode": "RUG571E",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771508277131,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.9449310302734375,
+    "coordinates": [
+      1004,
+      2,
+      900,
+      400
+    ],
+    "model": "ASX/Outlander/RVR",
+    "type": "SUV"
+  }
+}

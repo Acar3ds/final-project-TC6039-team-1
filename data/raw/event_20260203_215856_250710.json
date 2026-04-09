@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770155919688,
+  "carID": 76244,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 155844454",
+  "datetimezone": "20260203 215839407-0600",
+  "frame_timestamp": 1770155919688,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203215839_671515lp_RTX567C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203215839_671515.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203215839_671515lp_RTX567C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTX567C",
+  "plateConfidence": 0.8013392686843872,
+  "plateCoordinates": [
+    1200,
+    252,
+    153,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    153,
+    81
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RTX567C",
+  "plateUnicode": "RTX567C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770155919688,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7211788892745972,
+    "coordinates": [
+      816,
+      0,
+      872,
+      486
+    ],
+    "model": "Aveo",
+    "type": "CAR"
+  }
+}

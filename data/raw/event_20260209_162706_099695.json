@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770654409462,
+  "carID": 89357,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 102653141",
+  "datetimezone": "20260209 162648095-0600",
+  "frame_timestamp": 1770654409462,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209162648_389105lp_TCC153B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209162648_389105.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209162648_389105lp_TCC153B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCC153B",
+  "plateConfidence": 0.8258928656578064,
+  "plateCoordinates": [
+    1110,
+    162,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCC153B",
+  "plateUnicode": "TCC153B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770654409462,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mahindra",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.407106876373291,
+    "coordinates": [
+      800,
+      0,
+      736,
+      288
+    ],
+    "model": "KUV100",
+    "type": "SUV"
+  }
+}

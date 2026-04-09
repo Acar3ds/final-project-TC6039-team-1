@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771417830372,
+  "carID": 111221,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 063035276",
+  "datetimezone": "20260218 123030225-0600",
+  "frame_timestamp": 1771417830372,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218074909_602456/20260218123030_508900lp_SUP074B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218074909_602456/20260218123030_508900.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218074909_602456/20260218123030_508900lp_SUP074B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUP074B",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    978,
+    93,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUP074B",
+  "plateUnicode": "SUP074B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771417830372,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Acura",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.66806697845459,
+    "coordinates": [
+      684,
+      2,
+      696,
+      256
+    ],
+    "model": "TL",
+    "type": "CAR"
+  }
+}

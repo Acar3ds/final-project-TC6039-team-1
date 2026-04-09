@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771019703254,
+  "carID": 100967,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 155507245",
+  "datetimezone": "20260213 215502194-0600",
+  "frame_timestamp": 1771019703254,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213215502_440372lp_RPM202A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213215502_440372.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213215502_440372lp_RPM202A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPM202A",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    966,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RPM202A",
+  "plateUnicode": "RPM202A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771019703254,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.835257530212402,
+    "coordinates": [
+      624,
+      0,
+      804,
+      242
+    ],
+    "model": "Santa Fe/Tucson",
+    "type": "SUV"
+  }
+}

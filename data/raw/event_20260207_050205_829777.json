@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770440510982,
+  "carID": 84766,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 230153375",
+  "datetimezone": "20260207 050148316-0600",
+  "frame_timestamp": 1770440510982,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207035343_430183/20260207050148_537254lp_RZX060A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207035343_430183/20260207050148_537254.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207035343_430183/20260207050148_537254lp_RZX060A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZX060A",
+  "plateConfidence": 0.7756696343421936,
+  "plateCoordinates": [
+    1128,
+    150,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZX060A",
+  "plateUnicode": "RZX060A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770440510982,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.0602216720581055,
+    "coordinates": [
+      748,
+      0,
+      1056,
+      476
+    ],
+    "model": "Vitz/Yaris",
+    "type": "CAR"
+  }
+}

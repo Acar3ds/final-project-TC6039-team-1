@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770830775286,
+  "carID": 94757,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 112618912",
+  "datetimezone": "20260211 172613860-0600",
+  "frame_timestamp": 1770830775286,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211172614_81209lp_UZA941C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211172614_81209.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211172614_81209lp_UZA941C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "UZA941C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1128,
+    150,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "UZA941C",
+  "plateUnicode": "UZA941C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770830775286,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Tesla",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.446693420410156,
+    "coordinates": [
+      780,
+      0,
+      812,
+      290
+    ],
+    "model": "Model 3/Model Y",
+    "type": "CAR"
+  }
+}

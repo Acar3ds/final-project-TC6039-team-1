@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770221600777,
+  "carID": 77801,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 101324592",
+  "datetimezone": "20260204 161319537-0600",
+  "frame_timestamp": 1770221600777,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204161319_755295lp_TFW103A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204161319_755295.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204161319_755295lp_TFW103A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFW103A",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    987,
+    105,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFW103A",
+  "plateUnicode": "TFW103A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770221600777,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.458646297454834,
+    "coordinates": [
+      636,
+      2,
+      828,
+      268
+    ],
+    "model": "Savana",
+    "type": "VAN"
+  }
+}

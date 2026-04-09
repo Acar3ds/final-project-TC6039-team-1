@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770419734193,
+  "carID": 83978,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 171537898",
+  "datetimezone": "20260206 231532846-0600",
+  "frame_timestamp": 1770419734193,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206231533_80512lp_RYK732C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206231533_80512.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206231533_80512lp_RYK732C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYK732C",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1011,
+    126,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYK732C",
+  "plateUnicode": "RYK732C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770419734193,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.3152546882629395,
+    "coordinates": [
+      648,
+      0,
+      828,
+      308
+    ],
+    "model": "Commander",
+    "type": "SUV"
+  }
+}

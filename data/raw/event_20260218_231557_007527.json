@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771456537202,
+  "carID": 113166,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 171541950",
+  "datetimezone": "20260218 231536898-0600",
+  "frame_timestamp": 1771456537202,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218224734_391695/20260218231537_208990lp_SJF133A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218224734_391695/20260218231537_208990.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218224734_391695/20260218231537_208990lp_SJF133A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJF133A",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1059,
+    117,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJF133A",
+  "plateUnicode": "SJF133A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771456537202,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5914840698242188,
+    "coordinates": [
+      720,
+      0,
+      784,
+      272
+    ],
+    "model": "C-HR",
+    "type": "SUV"
+  }
+}

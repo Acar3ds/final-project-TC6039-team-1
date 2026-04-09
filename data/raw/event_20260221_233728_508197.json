@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771717030247,
+  "carID": 121278,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 173712914",
+  "datetimezone": "20260221 233707856-0600",
+  "frame_timestamp": 1771717030247,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221233708_109685lp_RNA717C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221233708_109685.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221233708_109685lp_RNA717C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNA717C",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1101,
+    156,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RNA717C",
+  "plateUnicode": "RNA717C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771717030247,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 22.790029525756836,
+    "coordinates": [
+      744,
+      0,
+      828,
+      288
+    ],
+    "model": "A4/A5/A6/A7/A8/S5/S6/S7",
+    "type": "CAR"
+  }
+}

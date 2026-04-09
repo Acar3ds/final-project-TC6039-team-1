@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771793769213,
+  "carID": 122693,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 145614114",
+  "datetimezone": "20260222 205609059-0600",
+  "frame_timestamp": 1771793769213,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222205609_291604lp_A827MKX.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222205609_291604.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222205609_291604lp_A827MKX.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A827MKX",
+  "plateConfidence": 0.8247767686843872,
+  "plateCoordinates": [
+    1107,
+    453,
+    156,
+    84
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    156,
+    84
+  ],
+  "plateCountry": "FRA",
+  "plateText": "A827MKX",
+  "plateUnicode": "A827MKX",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771793769213,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9999966621398926,
+    "coordinates": [
+      728,
+      0,
+      916,
+      618
+    ],
+    "model": "Attrage",
+    "type": "CAR"
+  }
+}

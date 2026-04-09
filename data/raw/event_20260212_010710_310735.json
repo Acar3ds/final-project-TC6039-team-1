@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770858413603,
+  "carID": 95945,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 190657114",
+  "datetimezone": "20260212 010652064-0600",
+  "frame_timestamp": 1770858413603,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212005844_190564/20260212010652_306523lp_SCR341C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212005844_190564/20260212010652_306523.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212005844_190564/20260212010652_306523lp_SCR341C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCR341C",
+  "plateConfidence": 0.8258928656578064,
+  "plateCoordinates": [
+    894,
+    75,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCR341C",
+  "plateUnicode": "SCR341C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770858413603,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.175729751586914,
+    "coordinates": [
+      612,
+      0,
+      796,
+      308
+    ],
+    "model": "Patrol",
+    "type": "SUV"
+  }
+}

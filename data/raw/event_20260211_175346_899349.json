@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770832409265,
+  "carID": 94825,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 115333534",
+  "datetimezone": "20260211 175328486-0600",
+  "frame_timestamp": 1770832409265,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211172937_336947/20260211175328_730657lp_SGG741B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211172937_336947/20260211175328_730657.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211172937_336947/20260211175328_730657lp_SGG741B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGG741B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1095,
+    126,
+    123,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGG741B",
+  "plateUnicode": "SGG741B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770832409265,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3965084552764893,
+    "coordinates": [
+      760,
+      0,
+      752,
+      332
+    ],
+    "model": "Ibiza/Leon/Leon Cupra R/Toledo",
+    "type": "CAR"
+  }
+}

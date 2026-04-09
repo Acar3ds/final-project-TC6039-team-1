@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770406632505,
+  "carID": 83394,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 133717410",
+  "datetimezone": "20260206 193712359-0600",
+  "frame_timestamp": 1770406632505,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206193712_653054lp_STT300A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206193712_653054.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206193712_653054lp_STT300A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STT300A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1032,
+    114,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STT300A",
+  "plateUnicode": "STT300A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770406632505,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.648148536682129,
+    "coordinates": [
+      720,
+      0,
+      764,
+      314
+    ],
+    "model": "T-Cross/T-Roc/T-Roc R",
+    "type": "SUV"
+  }
+}

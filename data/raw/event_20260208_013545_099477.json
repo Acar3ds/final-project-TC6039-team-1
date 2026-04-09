@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770514528575,
+  "carID": 86628,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 193532455",
+  "datetimezone": "20260208 013527394-0600",
+  "frame_timestamp": 1770514528575,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208012833_543857/20260208013527_664078lp_H2097C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208012833_543857/20260208013527_664078.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208012833_543857/20260208013527_664078lp_H2097C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "H2097C",
+  "plateConfidence": 0.7356770634651184,
+  "plateCoordinates": [
+    1128,
+    153,
+    132,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    57
+  ],
+  "plateCountry": "ESP",
+  "plateText": "H2097C",
+  "plateUnicode": "H2097C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770514528575,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.464365243911743,
+    "coordinates": [
+      720,
+      0,
+      888,
+      368
+    ],
+    "model": "Suburban/Tahoe",
+    "type": "SUV"
+  }
+}

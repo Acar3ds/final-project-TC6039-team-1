@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769106233881,
+  "carID": 326,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 122354238",
+  "datetimezone": "20260122 182353881-0600",
+  "frame_timestamp": 1769106233881,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122181600_795935/20260122182354_99395lp_SBS720B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122181600_795935/20260122182354_99395.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122181600_795935/20260122182354_99395lp_SBS720B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBS720B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    942,
+    417,
+    218,
+    104
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    218,
+    104
+  ],
+  "plateCountry": "USA",
+  "plateText": "SBS720B",
+  "plateUnicode": "SBS720B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769106233881,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9999828338623047,
+    "coordinates": [
+      572,
+      0,
+      944,
+      578
+    ],
+    "model": "Tiida/Versa",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770315588686,
+  "carID": 80545,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 121953015",
+  "datetimezone": "20260205 181947956-0600",
+  "frame_timestamp": 1770315588686,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205181948_178477lp_RLW230C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205181948_178477.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205181948_178477lp_RLW230C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLW230C",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1068,
+    135,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLW230C",
+  "plateUnicode": "RLW230C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770315588686,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Buick",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.205413818359375,
+    "coordinates": [
+      680,
+      0,
+      864,
+      270
+    ],
+    "model": "Enclave/Encore GX/Envision",
+    "type": "SUV"
+  }
+}

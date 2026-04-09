@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771453480873,
+  "carID": 113021,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 162445784",
+  "datetimezone": "20260218 222440735-0600",
+  "frame_timestamp": 1771453480873,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218222440_974627lp_RNU100A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218222440_974627.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218222440_974627lp_RNU100A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNU100A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1011,
+    111,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNU100A",
+  "plateUnicode": "RNU100A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771453480873,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9981236457824707,
+    "coordinates": [
+      708,
+      0,
+      756,
+      266
+    ],
+    "model": "Accent/Solaris",
+    "type": "CAR"
+  }
+}

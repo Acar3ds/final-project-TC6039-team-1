@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771392181355,
+  "carID": 111102,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 232303882",
+  "datetimezone": "20260218 052258832-0600",
+  "frame_timestamp": 1771392181355,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218035158_593288/20260218052259_108987lp_RVN580B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218035158_593288/20260218052259_108987.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218035158_593288/20260218052259_108987lp_RVN580B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVN580B",
+  "plateConfidence": 0.8147321343421936,
+  "plateCoordinates": [
+    1002,
+    111,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVN580B",
+  "plateUnicode": "RVN580B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771392181355,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "IVECO",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 27.546785354614258,
+    "coordinates": [
+      676,
+      0,
+      888,
+      362
+    ],
+    "model": "S-Way/Stralis/Trakker",
+    "type": "TRUCK"
+  }
+}

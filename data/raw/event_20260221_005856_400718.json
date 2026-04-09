@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771635516201,
+  "carID": 119144,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 185841108",
+  "datetimezone": "20260221 005836049-0600",
+  "frame_timestamp": 1771635516201,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221004953_551654/20260221005836_299206lp_SWJ660A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221004953_551654/20260221005836_299206.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221004953_551654/20260221005836_299206lp_SWJ660A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWJ660A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    975,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWJ660A",
+  "plateUnicode": "SWJ660A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771635516201,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.095745801925659,
+    "coordinates": [
+      604,
+      0,
+      852,
+      362
+    ],
+    "model": "5008",
+    "type": "VAN"
+  }
+}

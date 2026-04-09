@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771432107823,
+  "carID": 111984,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 102832723",
+  "datetimezone": "20260218 162827669-0600",
+  "frame_timestamp": 1771432107823,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218154620_688407/20260218162827_960448lp_TEK839A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218154620_688407/20260218162827_960448.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218154620_688407/20260218162827_960448lp_TEK839A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEK839A",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1134,
+    177,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEK839A",
+  "plateUnicode": "TEK839A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771432107823,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9938693046569824,
+    "coordinates": [
+      788,
+      0,
+      816,
+      348
+    ],
+    "model": "K5/Optima",
+    "type": "CAR"
+  }
+}

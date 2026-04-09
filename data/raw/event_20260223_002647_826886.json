@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "IRL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771806390657,
+  "carID": 123069,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 182631976",
+  "datetimezone": "20260223 002626921-0600",
+  "frame_timestamp": 1771806390657,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223002523_139165/20260223002627_137569lp_07LAN.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223002523_139165/20260223002627_137569.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223002523_139165/20260223002627_137569lp_07LAN.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "07LAN",
+  "plateConfidence": 0.862500011920929,
+  "plateCoordinates": [
+    1041,
+    147,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "IRL",
+  "plateText": "07LAN",
+  "plateUnicode": "07LAN",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771806390657,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 51.83845138549805,
+    "coordinates": [
+      712,
+      0,
+      776,
+      276
+    ],
+    "model": "Prius",
+    "type": "CAR"
+  }
+}

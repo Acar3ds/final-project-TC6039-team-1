@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770579702698,
+  "carID": 87623,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 134147160",
+  "datetimezone": "20260208 194142104-0600",
+  "frame_timestamp": 1770579702698,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208194142_355697lp_TAM704B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208194142_355697.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208194142_355697lp_TAM704B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAM704B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1101,
+    201,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAM704B",
+  "plateUnicode": "TAM704B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770579702698,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.983405113220215,
+    "coordinates": [
+      768,
+      0,
+      756,
+      338
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

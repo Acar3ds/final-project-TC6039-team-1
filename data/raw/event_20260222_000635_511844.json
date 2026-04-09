@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771718775171,
+  "carID": 121338,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 180619972",
+  "datetimezone": "20260222 000614916-0600",
+  "frame_timestamp": 1771718775171,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222000615_284802lp_0SBY377C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222000615_284802.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221235216_652882/20260222000615_284802lp_0SBY377C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBY377C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1038,
+    123,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBY377C",
+  "plateUnicode": "SBY377C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771718775171,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9994412660598755,
+    "coordinates": [
+      756,
+      0,
+      704,
+      294
+    ],
+    "model": "Beat Premier",
+    "type": "CAR"
+  }
+}

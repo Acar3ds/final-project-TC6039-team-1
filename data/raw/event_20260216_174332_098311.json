@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771263793596,
+  "carID": 106897,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 114317287",
+  "datetimezone": "20260216 174312240-0600",
+  "frame_timestamp": 1771263793596,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216174312_513688lp_RMA667B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216174312_513688.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216174312_513688lp_RMA667B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMA667B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1134,
+    135,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMA667B",
+  "plateUnicode": "RMA667B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771263793596,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3083972930908203,
+    "coordinates": [
+      772,
+      2,
+      784,
+      364
+    ],
+    "model": "Passat",
+    "type": "CAR"
+  }
+}

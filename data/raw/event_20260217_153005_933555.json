@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771342186322,
+  "carID": 109209,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 092951033",
+  "datetimezone": "20260217 152945987-0600",
+  "frame_timestamp": 1771342186322,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152946_258518lp_TEV895A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152946_258518.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152946_258518lp_TEV895A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEV895A",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    996,
+    129,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEV895A",
+  "plateUnicode": "TEV895A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771342186322,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.864645481109619,
+    "coordinates": [
+      680,
+      0,
+      732,
+      264
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771595272033,
+  "carID": 116993,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 074756565",
+  "datetimezone": "20260220 134751521-0600",
+  "frame_timestamp": 1771595272033,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220130759_735457/20260220134751_761886lp_PR7271A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220130759_735457/20260220134751_761886.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220130759_735457/20260220134751_761886lp_PR7271A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "P7271A",
+  "plateConfidence": 0.8385416865348816,
+  "plateCoordinates": [
+    1062,
+    195,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "P7271A",
+  "plateUnicode": "P7271A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771595272033,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.663055896759033,
+    "coordinates": [
+      708,
+      0,
+      816,
+      366
+    ],
+    "model": "Oroch/Duster",
+    "type": "PICKUPTRUCK"
+  }
+}

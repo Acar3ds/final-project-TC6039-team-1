@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770500776715,
+  "carID": 86107,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 154621648",
+  "datetimezone": "20260207 214616579-0600",
+  "frame_timestamp": 1770500776715,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207214616_805413lp_SWL529B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207214616_805413.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207214616_805413lp_SWL529B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWL529B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1236,
+    237,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWL529B",
+  "plateUnicode": "SWL529B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770500776715,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.983593463897705,
+    "coordinates": [
+      916,
+      2,
+      756,
+      388
+    ],
+    "model": "Attrage",
+    "type": "CAR"
+  }
+}

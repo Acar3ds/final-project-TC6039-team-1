@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770851835967,
+  "carID": 95692,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 171720589",
+  "datetimezone": "20260211 231715535-0600",
+  "frame_timestamp": 1770851835967,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211231715_783704lp_SHY016B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211231715_783704.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211225608_30494/20260211231715_783704lp_SHY016B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHY016B",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    1344,
+    282,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHY016B",
+  "plateUnicode": "SHY016B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770851835967,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Scion",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1240925788879395,
+    "coordinates": [
+      1008,
+      0,
+      796,
+      434
+    ],
+    "model": "iA",
+    "type": "CAR"
+  }
+}

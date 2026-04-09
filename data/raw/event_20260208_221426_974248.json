@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770588848929,
+  "carID": 87908,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 161413807",
+  "datetimezone": "20260208 221408762-0600",
+  "frame_timestamp": 1770588848929,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208221408_998781lp_TEF181A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208221408_998781.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208221408_998781lp_TEF181A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEF181A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1116,
+    192,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEF181A",
+  "plateUnicode": "TEF181A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770588848929,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.782273769378662,
+    "coordinates": [
+      800,
+      0,
+      768,
+      326
+    ],
+    "model": "Freed/Odyssey",
+    "type": "VAN"
+  }
+}

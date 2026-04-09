@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770729666405,
+  "carID": 91299,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 072109676",
+  "datetimezone": "20260210 132104623-0600",
+  "frame_timestamp": 1770729666405,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210132104_852761lp_RNK970B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210132104_852761.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210132104_852761lp_RNK970B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNK970B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1119,
+    150,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNK970B",
+  "plateUnicode": "RNK970B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770729666405,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.781617164611816,
+    "coordinates": [
+      760,
+      0,
+      812,
+      296
+    ],
+    "model": "Outlander",
+    "type": "SUV"
+  }
+}

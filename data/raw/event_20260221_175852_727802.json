@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771696712311,
+  "carID": 120447,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 115837225",
+  "datetimezone": "20260221 175832169-0600",
+  "frame_timestamp": 1771696712311,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221175832_398718lp_SFD498C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221175832_398718.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221175832_398718lp_SFD498C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFD498C",
+  "plateConfidence": 0.8973214030265808,
+  "plateCoordinates": [
+    774,
+    669,
+    195,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    195,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFD498C",
+  "plateUnicode": "SFD498C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771696712311,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 23.019927978515625,
+    "coordinates": [
+      544,
+      158,
+      1292,
+      918
+    ],
+    "model": "Camry",
+    "type": "CAR"
+  }
+}

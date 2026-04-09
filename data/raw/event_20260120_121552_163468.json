@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768911341829,
+  "carID": 121291,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 061542506",
+  "datetimezone": "20260120 121541829-0600",
+  "frame_timestamp": 1768911341829,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120115741_520726/20260120121542_416584lp_SRG508B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120115741_520726/20260120121542_416584.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120115741_520726/20260120121542_416584lp_SRG508B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRG508B",
+  "plateConfidence": 0.6149553656578064,
+  "plateCoordinates": [
+    2235,
+    163,
+    120,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "SRG508B",
+  "plateUnicode": "SRG508B",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768911341829,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.8741302490234375,
+    "coordinates": [
+      2008,
+      0,
+      528,
+      258
+    ],
+    "model": "5008",
+    "type": "VAN"
+  }
+}

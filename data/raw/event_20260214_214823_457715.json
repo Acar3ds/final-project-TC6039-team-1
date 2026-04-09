@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771105685181,
+  "carID": 103392,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 154809011",
+  "datetimezone": "20260214 214803951-0600",
+  "frame_timestamp": 1771105685181,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214214804_180458lp_RZF605A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214214804_180458.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214214804_180458lp_RZF605A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZF605A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1077,
+    156,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZF605A",
+  "plateUnicode": "RZF605A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771105685181,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.732385635375977,
+    "coordinates": [
+      756,
+      0,
+      756,
+      306
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

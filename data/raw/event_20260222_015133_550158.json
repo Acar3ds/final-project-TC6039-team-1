@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771725075241,
+  "carID": 121581,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 195117839",
+  "datetimezone": "20260222 015112782-0600",
+  "frame_timestamp": 1771725075241,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222015113_25335lp_RNG688A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222015113_25335.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222015113_25335lp_RNG688A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNG688A",
+  "plateConfidence": 0.8136160969734192,
+  "plateCoordinates": [
+    900,
+    129,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNG688A",
+  "plateUnicode": "RNG688A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771725075241,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.8486368060112,
+    "coordinates": [
+      576,
+      0,
+      764,
+      302
+    ],
+    "model": "Grand Vitara",
+    "type": "SUV"
+  }
+}

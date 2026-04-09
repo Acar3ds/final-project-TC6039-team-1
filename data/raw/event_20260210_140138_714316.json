@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770732080743,
+  "carID": 91430,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 080125488",
+  "datetimezone": "20260210 140120440-0600",
+  "frame_timestamp": 1770732080743,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210140120_690855lp_RYT615C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210140120_690855.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210140120_690855lp_RYT615C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYT615C",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    846,
+    180,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYT615C",
+  "plateUnicode": "RYT615C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770732080743,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5913562774658203,
+    "coordinates": [
+      496,
+      0,
+      832,
+      344
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

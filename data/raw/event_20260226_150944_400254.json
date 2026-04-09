@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772118564621,
+  "carID": 132102,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 090928304",
+  "datetimezone": "20260226 150923260-0600",
+  "frame_timestamp": 1772118564621,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150923_459532lp_SLU953A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150923_459532.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150923_459532lp_SLU953A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLU953A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    966,
+    150,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLU953A",
+  "plateUnicode": "SLU953A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772118564621,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.495517730712891,
+    "coordinates": [
+      664,
+      0,
+      732,
+      278
+    ],
+    "model": "Clio/Clio RS/Clio V6/Symbol",
+    "type": "CAR"
+  }
+}

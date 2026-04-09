@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771889690625,
+  "carID": 125457,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 173452935",
+  "datetimezone": "20260223 233447876-0600",
+  "frame_timestamp": 1771889690625,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260223233448_144709lp_NCP156A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260223233448_144709.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223231209_580436/20260223233448_144709lp_NCP156A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "NCP156A",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    1020,
+    141,
+    135,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "NCP156A",
+  "plateUnicode": "NCP156A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771889690625,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6210224628448486,
+    "coordinates": [
+      704,
+      0,
+      772,
+      314
+    ],
+    "model": "R8",
+    "type": "CAR"
+  }
+}

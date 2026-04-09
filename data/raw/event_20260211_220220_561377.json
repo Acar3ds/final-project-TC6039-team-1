@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GBR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770847323746,
+  "carID": 95513,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 160207264",
+  "datetimezone": "20260211 220202212-0600",
+  "frame_timestamp": 1770847323746,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211215126_302553/20260211220202_462305lp_AVU207A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211215126_302553/20260211220202_462305.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211215126_302553/20260211220202_462305lp_AVU207A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "AVU207",
+  "plateConfidence": 0.8541666865348816,
+  "plateCoordinates": [
+    1020,
+    213,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "GBR",
+  "plateText": "AVU207",
+  "plateUnicode": "AVU207",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770847323746,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.805814743041992,
+    "coordinates": [
+      680,
+      0,
+      804,
+      336
+    ],
+    "model": "Arteon/Arteon R",
+    "type": "CAR"
+  }
+}

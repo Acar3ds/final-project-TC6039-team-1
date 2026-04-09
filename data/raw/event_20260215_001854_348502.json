@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771114714969,
+  "carID": 103719,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 181839882",
+  "datetimezone": "20260215 001834824-0600",
+  "frame_timestamp": 1771114714969,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215001835_81904lp_RTM421B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215001835_81904.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215001639_177005/20260215001835_81904lp_RTM421B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTM421B",
+  "plateConfidence": 0.8080357313156128,
+  "plateCoordinates": [
+    969,
+    156,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTM421B",
+  "plateUnicode": "RTM421B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771114714969,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4293935298919678,
+    "coordinates": [
+      664,
+      0,
+      744,
+      284
+    ],
+    "model": "Tiida/Versa",
+    "type": "CAR"
+  }
+}

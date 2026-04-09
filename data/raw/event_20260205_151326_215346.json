@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770304389013,
+  "carID": 80059,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 091313765",
+  "datetimezone": "20260205 151308709-0600",
+  "frame_timestamp": 1770304389013,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205144108_864629/20260205151308_939005lp_GFH252D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205144108_864629/20260205151308_939005.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205144108_864629/20260205151308_939005lp_GFH252D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "GFH252D",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    948,
+    129,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "GFH252D",
+  "plateUnicode": "GFH252D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770304389013,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9999099969863892,
+    "coordinates": [
+      600,
+      0,
+      812,
+      266
+    ],
+    "model": "Altima",
+    "type": "CAR"
+  }
+}

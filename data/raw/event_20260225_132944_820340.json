@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772026165038,
+  "carID": 128923,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 072928972",
+  "datetimezone": "20260225 132923918-0600",
+  "frame_timestamp": 1772026165038,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225130935_291479/20260225132924_176492lp_SEM457B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225130935_291479/20260225132924_176492.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225130935_291479/20260225132924_176492lp_SEM457B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEM457B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    900,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEM457B",
+  "plateUnicode": "SEM457B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772026165038,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.3213274478912354,
+    "coordinates": [
+      576,
+      0,
+      768,
+      218
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

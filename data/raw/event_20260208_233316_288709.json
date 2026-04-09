@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770593578445,
+  "carID": 88049,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 173303194",
+  "datetimezone": "20260208 233258145-0600",
+  "frame_timestamp": 1770593578445,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208233258_441492lp_SLJ978B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208233258_441492.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208233258_441492lp_SLJ978B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLJ978B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1032,
+    153,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLJ978B",
+  "plateUnicode": "SLJ978B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770593578445,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9976093769073486,
+    "coordinates": [
+      684,
+      2,
+      808,
+      286
+    ],
+    "model": "Fusion  USA /Fusion Energi/Mondeo",
+    "type": "CAR"
+  }
+}

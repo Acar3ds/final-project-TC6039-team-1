@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770831595330,
+  "carID": 94792,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 113959922",
+  "datetimezone": "20260211 173954866-0600",
+  "frame_timestamp": 1770831595330,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211172937_336947/20260211173955_118835lp_RPV510A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211172937_336947/20260211173955_118835.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211172937_336947/20260211173955_118835lp_RPV510A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPV510A",
+  "plateConfidence": 0.8258928656578064,
+  "plateCoordinates": [
+    972,
+    129,
+    132,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPV510A",
+  "plateUnicode": "RPV510A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770831595330,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9918580055236816,
+    "coordinates": [
+      644,
+      0,
+      780,
+      284
+    ],
+    "model": "Crossover/SX4",
+    "type": "SUV"
+  }
+}

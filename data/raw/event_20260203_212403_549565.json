@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770153827260,
+  "carID": 76164,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 152351408",
+  "datetimezone": "20260203 212346356-0600",
+  "frame_timestamp": 1770153827260,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203212346_582075lp_TDJ2308.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203212346_582075.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203212346_582075lp_TDJ2308.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDJ2308",
+  "plateConfidence": 0.7354910969734192,
+  "plateCoordinates": [
+    1194,
+    216,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "TDJ2308",
+  "plateUnicode": "TDJ2308",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770153827260,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.552333831787109,
+    "coordinates": [
+      840,
+      0,
+      792,
+      362
+    ],
+    "model": "Rio/Rio5",
+    "type": "CAR"
+  }
+}

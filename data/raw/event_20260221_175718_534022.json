@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771696618077,
+  "carID": 120445,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 115702982",
+  "datetimezone": "20260221 175657924-0600",
+  "frame_timestamp": 1771696618077,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221175658_179581lp_RYU208B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221175658_179581.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221174454_532416/20260221175658_179581lp_RYU208B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYU208B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    888,
+    141,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYU208B",
+  "plateUnicode": "RYU208B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771696618077,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9832683801651,
+    "coordinates": [
+      584,
+      0,
+      748,
+      284
+    ],
+    "model": "Tiida/Versa",
+    "type": "CAR"
+  }
+}

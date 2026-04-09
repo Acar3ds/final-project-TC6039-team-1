@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771605821375,
+  "carID": 117598,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 104346113",
+  "datetimezone": "20260220 164341063-0600",
+  "frame_timestamp": 1771605821375,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220164341_324623lp_SCS144B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220164341_324623.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220164341_324623lp_SCS144B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCS144B",
+  "plateConfidence": 0.8247767686843872,
+  "plateCoordinates": [
+    831,
+    99,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCS144B",
+  "plateUnicode": "SCS144B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771605821375,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.983606219291687,
+    "coordinates": [
+      544,
+      0,
+      704,
+      270
+    ],
+    "model": "i30/Veloster",
+    "type": "CAR"
+  }
+}

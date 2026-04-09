@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771705824317,
+  "carID": 120834,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 143028808",
+  "datetimezone": "20260221 203023753-0600",
+  "frame_timestamp": 1771705824317,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221203023_999838lp_RLG744C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221203023_999838.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221203023_999838lp_RLG744C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLG744C",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1518,
+    261,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLG744C",
+  "plateUnicode": "RLG744C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771705824317,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.058685302734375,
+    "coordinates": [
+      1044,
+      0,
+      872,
+      446
+    ],
+    "model": "i10",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772224374178,
+  "carID": 135883,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 143258420",
+  "datetimezone": "20260227 203253368-0600",
+  "frame_timestamp": 1772224374178,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227194549_246149/20260227203253_654447lp_SZR255A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227194549_246149/20260227203253_654447.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227194549_246149/20260227203253_654447lp_SZR255A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZR255A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    993,
+    99,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZR255A",
+  "plateUnicode": "SZR255A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772224374178,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.999622344970703,
+    "coordinates": [
+      624,
+      0,
+      864,
+      284
+    ],
+    "model": "Pacifica/Voyager",
+    "type": "VAN"
+  }
+}

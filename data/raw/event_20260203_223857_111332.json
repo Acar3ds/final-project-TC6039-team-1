@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770158320479,
+  "carID": 76351,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 163845096",
+  "datetimezone": "20260203 223840036-0600",
+  "frame_timestamp": 1770158320479,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203223840_293291lp_SWT489B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203223840_293291.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203223840_293291lp_SWT489B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWT489B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1062,
+    120,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWT489B",
+  "plateUnicode": "SWT489B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770158320479,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.773639678955078,
+    "coordinates": [
+      768,
+      2,
+      720,
+      276
+    ],
+    "model": "Fox",
+    "type": "CAR"
+  }
+}

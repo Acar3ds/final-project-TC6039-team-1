@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770502242435,
+  "carID": 86161,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 161046649",
+  "datetimezone": "20260207 221041599-0600",
+  "frame_timestamp": 1770502242435,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207221041_834605lp_SAF539B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207221041_834605.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207212604_956961/20260207221041_834605lp_SAF539B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAF539B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    975,
+    171,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAF539B",
+  "plateUnicode": "SAF539B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770502242435,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.360995292663574,
+    "coordinates": [
+      656,
+      0,
+      776,
+      302
+    ],
+    "model": "Civic",
+    "type": "CAR"
+  }
+}

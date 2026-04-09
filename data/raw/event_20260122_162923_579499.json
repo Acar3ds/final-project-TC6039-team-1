@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769099352936,
+  "carID": 123,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 102913665",
+  "datetimezone": "20260122 162912936-0600",
+  "frame_timestamp": 1769099352936,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122161715_380690/20260122162913_395492lp_RVJ521C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122161715_380690/20260122162913_395492.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122161715_380690/20260122162913_395492lp_RVJ521C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVJ521C",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    3401,
+    505,
+    405,
+    195
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    405,
+    195
+  ],
+  "plateCountry": "USA",
+  "plateText": "RVJ521C",
+  "plateUnicode": "RVJ521C",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769099352936,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.625567615032196,
+    "coordinates": [
+      2404,
+      0,
+      1428,
+      876
+    ],
+    "model": "Juke",
+    "type": "SUV"
+  }
+}

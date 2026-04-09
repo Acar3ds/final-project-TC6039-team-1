@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769102066894,
+  "carID": 213,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 111427258",
+  "datetimezone": "20260122 171426894-0600",
+  "frame_timestamp": 1769102066894,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122171427_125684lp_RNY231B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122171427_125684.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122171427_125684lp_RNY231B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNY231B",
+  "plateConfidence": 0.8169642686843872,
+  "plateCoordinates": [
+    1089,
+    479,
+    225,
+    112
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    225,
+    112
+  ],
+  "plateCountry": "USA",
+  "plateText": "RNY231B",
+  "plateUnicode": "RNY231B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769102066894,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9765439033508301,
+    "coordinates": [
+      696,
+      0,
+      1064,
+      680
+    ],
+    "model": "Auris/Corolla/Avensis",
+    "type": "CAR"
+  }
+}

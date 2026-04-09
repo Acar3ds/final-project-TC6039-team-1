@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771968411787,
+  "carID": 127721,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 152656677",
+  "datetimezone": "20260224 212651621-0600",
+  "frame_timestamp": 1771968411787,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224212651_890638lp_STM756A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224212651_890638.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224212651_890638lp_STM756A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STM756A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    978,
+    132,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STM756A",
+  "plateUnicode": "STM756A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771968411787,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.723563551902771,
+    "coordinates": [
+      672,
+      0,
+      740,
+      290
+    ],
+    "model": "Murano/Rogue",
+    "type": "SUV"
+  }
+}

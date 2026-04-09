@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772038330103,
+  "carID": 129589,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 105215020",
+  "datetimezone": "20260225 165209971-0600",
+  "frame_timestamp": 1772038330103,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225165210_155033lp_SLZ835A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225165210_155033.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225165210_155033lp_SLZ835A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLZ835A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1071,
+    126,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLZ835A",
+  "plateUnicode": "SLZ835A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772038330103,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9879777431488037,
+    "coordinates": [
+      744,
+      0,
+      840,
+      386
+    ],
+    "model": "Prius",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770250184952,
+  "carID": 78965,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 180948096",
+  "datetimezone": "20260205 000943038-0600",
+  "frame_timestamp": 1770250184952,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205000943_273815lp_RUE765C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205000943_273815.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205000943_273815lp_RUE765C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUE765C",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1035,
+    201,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RUE765C",
+  "plateUnicode": "RUE765C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770250184952,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.316852569580078,
+    "coordinates": [
+      732,
+      0,
+      744,
+      342
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

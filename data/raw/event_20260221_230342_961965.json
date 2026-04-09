@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771715003119,
+  "carID": 121206,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 170327523",
+  "datetimezone": "20260221 230322478-0600",
+  "frame_timestamp": 1771715003119,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230322_722585lp_RPL197A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230322_722585.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230322_722585lp_RPL197A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "HML197A",
+  "plateConfidence": 0.6361607313156128,
+  "plateCoordinates": [
+    1008,
+    156,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "ITA",
+  "plateText": "HML197A",
+  "plateUnicode": "HML197A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771715003119,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9994070529937744,
+    "coordinates": [
+      692,
+      0,
+      768,
+      324
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

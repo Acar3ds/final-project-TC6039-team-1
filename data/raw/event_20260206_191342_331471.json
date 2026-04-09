@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770405205845,
+  "carID": 83307,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 131329935",
+  "datetimezone": "20260206 191324880-0600",
+  "frame_timestamp": 1770405205845,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206191325_143680lp_PX7077A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206191325_143680.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206191325_143680lp_PX7077A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PX7077A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1035,
+    132,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PX7077A",
+  "plateUnicode": "PX7077A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770405205845,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.520659446716309,
+    "coordinates": [
+      684,
+      0,
+      760,
+      338
+    ],
+    "model": "Edge",
+    "type": "SUV"
+  }
+}

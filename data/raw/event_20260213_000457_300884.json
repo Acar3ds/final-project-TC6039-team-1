@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770941078861,
+  "carID": 98451,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 180443438",
+  "datetimezone": "20260213 000438394-0600",
+  "frame_timestamp": 1770941078861,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213000438_616654lp_TAC843B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213000438_616654.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213000438_616654lp_TAC843B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAC843B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    1242,
+    195,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAC843B",
+  "plateUnicode": "TAC843B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770941078861,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.457570552825928,
+    "coordinates": [
+      900,
+      0,
+      828,
+      374
+    ],
+    "model": "Corolla Cross",
+    "type": "SUV"
+  }
+}

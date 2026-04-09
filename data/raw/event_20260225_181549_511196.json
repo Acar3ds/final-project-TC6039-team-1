@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772043330643,
+  "carID": 129791,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 121533519",
+  "datetimezone": "20260225 181528406-0600",
+  "frame_timestamp": 1772043330643,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225181528_679645lp_RXB488C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225181528_679645.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225181528_679645lp_RXB488C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXB488C",
+  "plateConfidence": 0.875,
+  "plateCoordinates": [
+    816,
+    93,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RXB488C",
+  "plateUnicode": "RXB488C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772043330643,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Haval",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.415396690368652,
+    "coordinates": [
+      432,
+      0,
+      840,
+      306
+    ],
+    "model": "F7/F7x/Jolion",
+    "type": "SUV"
+  }
+}

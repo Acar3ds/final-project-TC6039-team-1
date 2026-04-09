@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771769957310,
+  "carID": 122159,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 081922208",
+  "datetimezone": "20260222 141917156-0600",
+  "frame_timestamp": 1771769957310,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222141917_438228lp_RKH168C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222141917_438228.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222141917_438228lp_RKH168C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKH168C",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    927,
+    126,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKH168C",
+  "plateUnicode": "RKH168C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771769957310,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7954254150390625,
+    "coordinates": [
+      616,
+      2,
+      732,
+      262
+    ],
+    "model": "Camaro",
+    "type": "CAR"
+  }
+}

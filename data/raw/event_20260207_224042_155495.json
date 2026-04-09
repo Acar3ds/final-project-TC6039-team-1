@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770504025401,
+  "carID": 86238,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 164029507",
+  "datetimezone": "20260207 224024454-0600",
+  "frame_timestamp": 1770504025401,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207224024_682308lp_TEV543A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207224024_682308.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207224024_682308lp_TEV543A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEV543A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    789,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEV543A",
+  "plateUnicode": "TEV543A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770504025401,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7618894577026367,
+    "coordinates": [
+      480,
+      2,
+      756,
+      268
+    ],
+    "model": "Bolt/Bolt EV",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770942333493,
+  "carID": 98505,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 182537410",
+  "datetimezone": "20260213 002532356-0600",
+  "frame_timestamp": 1770942333493,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213002532_598128lp_RYT362C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213002532_598128.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213002532_598128lp_RYT362C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYT362C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1101,
+    117,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYT362C",
+  "plateUnicode": "RYT362C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770942333493,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.290291786193848,
+    "coordinates": [
+      720,
+      0,
+      864,
+      288
+    ],
+    "model": "Sienna",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772073814525,
+  "carID": 131205,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 204339412",
+  "datetimezone": "20260226 024334359-0600",
+  "frame_timestamp": 1772073814525,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226015110_570211/20260226024334_635707lp_SLK157B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226015110_570211/20260226024334_635707.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226015110_570211/20260226024334_635707lp_SLK157B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLK157B",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    864,
+    81,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLK157B",
+  "plateUnicode": "SLK157B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772073814525,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lancia",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 29.7540340423584,
+    "coordinates": [
+      568,
+      0,
+      712,
+      252
+    ],
+    "model": "Thesis",
+    "type": "CAR"
+  }
+}

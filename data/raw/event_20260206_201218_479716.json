@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770408721665,
+  "carID": 83492,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 141205993",
+  "datetimezone": "20260206 201200934-0600",
+  "frame_timestamp": 1770408721665,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206201201_189066lp_TAU572B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206201201_189066.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206201201_189066lp_TAU572B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAU572B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    981,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAU572B",
+  "plateUnicode": "TAU572B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770408721665,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.25533390045166,
+    "coordinates": [
+      672,
+      0,
+      736,
+      290
+    ],
+    "model": "Ertiga/Swift",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771514209343,
+  "carID": 114602,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 091653766",
+  "datetimezone": "20260219 151648712-0600",
+  "frame_timestamp": 1771514209343,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219150102_868676/20260219151648_922389lp_PL6479B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219150102_868676/20260219151648_922389.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219150102_868676/20260219151648_922389lp_PL6479B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PL6479B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1404,
+    240,
+    144,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PL6479B",
+  "plateUnicode": "PL6479B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771514209343,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Freightliner",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4841268062591553,
+    "coordinates": [
+      948,
+      0,
+      928,
+      452
+    ],
+    "model": "Columbia",
+    "type": "TRUCK"
+  }
+}

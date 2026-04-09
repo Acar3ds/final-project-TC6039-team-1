@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771372021374,
+  "carID": 110486,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 174706287",
+  "datetimezone": "20260217 234701235-0600",
+  "frame_timestamp": 1771372021374,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217234701_454483lp_SDF820B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217234701_454483.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260217234701_454483lp_SDF820B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDF820B",
+  "plateConfidence": 0.796875,
+  "plateCoordinates": [
+    1023,
+    102,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDF820B",
+  "plateUnicode": "SDF820B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771372021374,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9856326580047607,
+    "coordinates": [
+      684,
+      0,
+      796,
+      290
+    ],
+    "model": "e-Rifter/Rifter",
+    "type": "VAN"
+  }
+}

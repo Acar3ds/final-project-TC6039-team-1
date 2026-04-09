@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770389870912,
+  "carID": 82572,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 085754794",
+  "datetimezone": "20260206 145749736-0600",
+  "frame_timestamp": 1770389870912,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206145749_977917lp_RNC370B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206145749_977917.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206145749_977917lp_RNC370B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNC370B",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    1020,
+    123,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNC370B",
+  "plateUnicode": "RNC370B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770389870912,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.846907615661621,
+    "coordinates": [
+      716,
+      0,
+      732,
+      284
+    ],
+    "model": "Sharan/Touran",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771098341414,
+  "carID": 103074,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 134545370",
+  "datetimezone": "20260214 194540313-0600",
+  "frame_timestamp": 1771098341414,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214194540_556555lp_SXN367B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214194540_556555.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214194540_556555lp_SXN367B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXN367B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1056,
+    114,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXN367B",
+  "plateUnicode": "SXN367B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771098341414,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lancia",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 330.35302734375,
+    "coordinates": [
+      740,
+      0,
+      748,
+      300
+    ],
+    "model": "Musa",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771456008904,
+  "carID": 113136,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 170652229",
+  "datetimezone": "20260218 230647176-0600",
+  "frame_timestamp": 1771456008904,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218224734_391695/20260218230647_398211lp_RD5935B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218224734_391695/20260218230647_398211.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218224734_391695/20260218230647_398211lp_RD5935B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RD5935B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1554,
+    186,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RD5935B",
+  "plateUnicode": "RD5935B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771456008904,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ram",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.842310905456543,
+    "coordinates": [
+      1008,
+      0,
+      904,
+      386
+    ],
+    "model": "Dakota/Chassis Cab/1500 Classic/4500/3500/2500/1500",
+    "type": "PICKUPTRUCK"
+  }
+}

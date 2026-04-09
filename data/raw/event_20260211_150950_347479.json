@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770822572064,
+  "carID": 94350,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 090936955",
+  "datetimezone": "20260211 150931901-0600",
+  "frame_timestamp": 1770822572064,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211144929_906259/20260211150932_132521lp_RXF513C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211144929_906259/20260211150932_132521.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211144929_906259/20260211150932_132521lp_RXF513C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXF513C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1173,
+    174,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXF513C",
+  "plateUnicode": "RXF513C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770822572064,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5960946083068848,
+    "coordinates": [
+      804,
+      2,
+      856,
+      364
+    ],
+    "model": "Highlander",
+    "type": "SUV"
+  }
+}

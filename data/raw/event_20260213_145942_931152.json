@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770994764390,
+  "carID": 99782,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 085928724",
+  "datetimezone": "20260213 145923672-0600",
+  "frame_timestamp": 1770994764390,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213145923_914397lp_SGH251A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213145923_914397.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213145923_914397lp_SGH251A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGH251A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    789,
+    138,
+    135,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGH251A",
+  "plateUnicode": "SGH251A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770994764390,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.989803671836853,
+    "coordinates": [
+      500,
+      2,
+      728,
+      244
+    ],
+    "model": "Sebring",
+    "type": "CAR"
+  }
+}

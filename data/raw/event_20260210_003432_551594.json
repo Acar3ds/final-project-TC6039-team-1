@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770683654761,
+  "carID": 90625,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 183419481",
+  "datetimezone": "20260210 003414435-0600",
+  "frame_timestamp": 1770683654761,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210003414_699050lp_SZF654A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210003414_699050.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210003414_699050lp_SZF654A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZF654A",
+  "plateConfidence": 0.8136160969734192,
+  "plateCoordinates": [
+    963,
+    150,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZF654A",
+  "plateUnicode": "SZF654A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770683654761,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.404305458068848,
+    "coordinates": [
+      660,
+      0,
+      768,
+      324
+    ],
+    "model": "208",
+    "type": "CAR"
+  }
+}

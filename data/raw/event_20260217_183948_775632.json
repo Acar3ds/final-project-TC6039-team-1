@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771353568696,
+  "carID": 109684,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 123933566",
+  "datetimezone": "20260217 183928515-0600",
+  "frame_timestamp": 1771353568696,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217183928_759892lp_RZP160C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217183928_759892.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217183928_759892lp_RZP160C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZP160C",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1188,
+    228,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZP160C",
+  "plateUnicode": "RZP160C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771353568696,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4402953386306763,
+    "coordinates": [
+      744,
+      0,
+      896,
+      416
+    ],
+    "model": "A3/RS3/S3",
+    "type": "CAR"
+  }
+}

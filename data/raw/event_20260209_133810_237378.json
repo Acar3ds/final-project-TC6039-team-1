@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770644274109,
+  "carID": 88806,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 073757170",
+  "datetimezone": "20260209 133752125-0600",
+  "frame_timestamp": 1770644274109,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209133752_396712lp_RXK275A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209133752_396712.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209133752_396712lp_RXK275A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXK275A",
+  "plateConfidence": 0.7388392686843872,
+  "plateCoordinates": [
+    1032,
+    135,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RXK275A",
+  "plateUnicode": "RXK275A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770644274109,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.754820823669434,
+    "coordinates": [
+      720,
+      2,
+      736,
+      262
+    ],
+    "model": "Golf",
+    "type": "CAR"
+  }
+}

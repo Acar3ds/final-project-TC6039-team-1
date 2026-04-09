@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771689985906,
+  "carID": 120177,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 100630625",
+  "datetimezone": "20260221 160625574-0600",
+  "frame_timestamp": 1771689985906,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221160625_792250lp_TOY0TA.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221160625_792250.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221160625_792250lp_TOY0TA.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFT848A",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    657,
+    303,
+    141,
+    33
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    33
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFT848A",
+  "plateUnicode": "TFT848A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771689985906,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9997634887695312,
+    "coordinates": [
+      216,
+      0,
+      1012,
+      426
+    ],
+    "model": "FJ Cruiser",
+    "type": "SUV"
+  }
+}

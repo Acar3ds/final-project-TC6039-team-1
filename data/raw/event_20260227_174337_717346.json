@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772214197353,
+  "carID": 135391,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 114321496",
+  "datetimezone": "20260227 174316447-0600",
+  "frame_timestamp": 1772214197353,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227172936_569836/20260227174316_719163lp_SAC203C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227172936_569836/20260227174316_719163.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227172936_569836/20260227174316_719163lp_SAC203C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAC203C",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    966,
+    216,
+    150,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAC203C",
+  "plateUnicode": "SAC203C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772214197353,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4899539947509766,
+    "coordinates": [
+      596,
+      0,
+      872,
+      536
+    ],
+    "model": "Kona EV",
+    "type": "SUV"
+  }
+}

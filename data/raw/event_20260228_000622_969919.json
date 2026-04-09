@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772237161792,
+  "carID": 136476,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 180606557",
+  "datetimezone": "20260228 000601484-0600",
+  "frame_timestamp": 1772237161792,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228000601_738354lp_RTY804C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228000601_738354.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228000601_738354lp_RTY804C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTY804C",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    1023,
+    102,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTY804C",
+  "plateUnicode": "RTY804C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772237161792,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.639674663543701,
+    "coordinates": [
+      696,
+      0,
+      800,
+      260
+    ],
+    "model": "Camry",
+    "type": "CAR"
+  }
+}

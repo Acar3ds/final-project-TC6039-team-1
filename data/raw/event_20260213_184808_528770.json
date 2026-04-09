@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771008470857,
+  "carID": 100393,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 124754163",
+  "datetimezone": "20260213 184749116-0600",
+  "frame_timestamp": 1771008470857,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213184749_365001lp_RZK487B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213184749_365001.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213184749_365001lp_RZK487B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZK487B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    954,
+    120,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZK487B",
+  "plateUnicode": "RZK487B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771008470857,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.045311450958252,
+    "coordinates": [
+      672,
+      0,
+      676,
+      234
+    ],
+    "model": "Corsa",
+    "type": "CAR"
+  }
+}

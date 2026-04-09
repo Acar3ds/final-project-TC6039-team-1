@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771946753102,
+  "carID": 126727,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 092557543",
+  "datetimezone": "20260224 152552486-0600",
+  "frame_timestamp": 1771946753102,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224152552_735042lp_GAH721E.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224152552_735042.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224152552_735042lp_GAH721E.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "GAH721E",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    855,
+    108,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "GAH721E",
+  "plateUnicode": "GAH721E",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771946753102,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.941659927368164,
+    "coordinates": [
+      524,
+      0,
+      800,
+      242
+    ],
+    "model": "Equinox",
+    "type": "SUV"
+  }
+}

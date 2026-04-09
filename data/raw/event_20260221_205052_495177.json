@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771707033298,
+  "carID": 120884,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 145036844",
+  "datetimezone": "20260221 205031790-0600",
+  "frame_timestamp": 1771707033298,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221205032_24472lp_PP3986B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221205032_24472.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221205032_24472lp_PP3986B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PP3986B",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    1035,
+    108,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PP3986B",
+  "plateUnicode": "PP3986B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771707033298,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.968082427978516,
+    "coordinates": [
+      680,
+      2,
+      852,
+      264
+    ],
+    "model": "F-150",
+    "type": "SUV"
+  }
+}

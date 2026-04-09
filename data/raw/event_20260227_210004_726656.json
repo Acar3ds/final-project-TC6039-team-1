@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772225984226,
+  "carID": 135978,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 145948485",
+  "datetimezone": "20260227 205943433-0600",
+  "frame_timestamp": 1772225984226,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227205213_287537/20260227205943_686284lp_PHS129C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227205213_287537/20260227205943_686284.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227205213_287537/20260227205943_686284lp_PHS129C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PHS129C",
+  "plateConfidence": 0.5792410969734192,
+  "plateCoordinates": [
+    1074,
+    705,
+    165,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    165,
+    78
+  ],
+  "plateCountry": "NLD",
+  "plateText": "PHS129C",
+  "plateUnicode": "PHS129C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772225984226,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.79128885269165,
+    "coordinates": [
+      604,
+      0,
+      1072,
+      854
+    ],
+    "model": "Arkana/Koleos/Megane/Megane RS",
+    "type": "CAR"
+  }
+}

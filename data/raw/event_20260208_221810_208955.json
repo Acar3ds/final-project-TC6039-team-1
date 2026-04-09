@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770589073458,
+  "carID": 87917,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 161757214",
+  "datetimezone": "20260208 221752154-0600",
+  "frame_timestamp": 1770589073458,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208221752_375157lp_RTS794C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208221752_375157.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208221752_375157lp_RTS794C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTS794C",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1017,
+    189,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RTS794C",
+  "plateUnicode": "RTS794C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770589073458,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.962274551391602,
+    "coordinates": [
+      668,
+      0,
+      816,
+      378
+    ],
+    "model": "Seltos/Sonet",
+    "type": "SUV"
+  }
+}

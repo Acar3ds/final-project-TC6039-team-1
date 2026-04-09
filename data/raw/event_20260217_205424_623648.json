@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771361644706,
+  "carID": 110063,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 145409322",
+  "datetimezone": "20260217 205404259-0600",
+  "frame_timestamp": 1771361644706,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217205404_525476lp_RWY944A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217205404_525476.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217205404_525476lp_RWY944A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWY944A",
+  "plateConfidence": 0.875,
+  "plateCoordinates": [
+    915,
+    117,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWY944A",
+  "plateUnicode": "RWY944A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771361644706,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9948618412017822,
+    "coordinates": [
+      612,
+      0,
+      740,
+      234
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

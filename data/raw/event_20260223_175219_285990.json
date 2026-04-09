@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771869118583,
+  "carID": 124504,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 115203346",
+  "datetimezone": "20260223 175158289-0600",
+  "frame_timestamp": 1771869118583,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223175158_551400lp_RWS285C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223175158_551400.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223175158_551400lp_RWS285C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWS285C",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    855,
+    243,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWS285C",
+  "plateUnicode": "RWS285C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771869118583,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9944815635681152,
+    "coordinates": [
+      516,
+      0,
+      828,
+      348
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

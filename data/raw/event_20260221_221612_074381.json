@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771712151671,
+  "carID": 121103,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 161556584",
+  "datetimezone": "20260221 221551531-0600",
+  "frame_timestamp": 1771712151671,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221221551_796183lp_RUP070C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221221551_796183.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221221551_796183lp_RUP070C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUP070C",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    891,
+    87,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUP070C",
+  "plateUnicode": "RUP070C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771712151671,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6738461256027222,
+    "coordinates": [
+      612,
+      0,
+      712,
+      228
+    ],
+    "model": "Exeo/Ibiza",
+    "type": "CAR"
+  }
+}

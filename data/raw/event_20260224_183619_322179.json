@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771958159484,
+  "carID": 127200,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 123603614",
+  "datetimezone": "20260224 183558563-0600",
+  "frame_timestamp": 1771958159484,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224183558_842021lp_RWS225A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224183558_842021.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224183558_842021lp_RWS225A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWS225A",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    987,
+    180,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWS225A",
+  "plateUnicode": "RWS225A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771958159484,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.473201274871826,
+    "coordinates": [
+      608,
+      0,
+      852,
+      320
+    ],
+    "model": "Vito",
+    "type": "VAN"
+  }
+}

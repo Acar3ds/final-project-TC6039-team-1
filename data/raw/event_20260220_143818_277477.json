@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771598278188,
+  "carID": 117189,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 083802914",
+  "datetimezone": "20260220 143757861-0600",
+  "frame_timestamp": 1771598278188,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143758_134548lp_TBK918B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143758_134548.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143758_134548lp_TBK918B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBK918B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1212,
+    162,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBK918B",
+  "plateUnicode": "TBK918B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771598278188,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.486823081970215,
+    "coordinates": [
+      816,
+      2,
+      896,
+      354
+    ],
+    "model": "Atlas/Atlas Cross Sport",
+    "type": "SUV"
+  }
+}

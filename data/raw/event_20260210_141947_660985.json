@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770733170569,
+  "carID": 91500,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 081934459",
+  "datetimezone": "20260210 141929406-0600",
+  "frame_timestamp": 1770733170569,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210141929_659333lp_TEE642A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210141929_659333.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210141929_659333lp_TEE642A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEE642A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1056,
+    123,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEE642A",
+  "plateUnicode": "TEE642A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770733170569,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.8552350997924805,
+    "coordinates": [
+      760,
+      0,
+      732,
+      300
+    ],
+    "model": "i10",
+    "type": "CAR"
+  }
+}

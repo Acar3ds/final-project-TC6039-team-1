@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770309519705,
+  "carID": 80273,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 103843441",
+  "datetimezone": "20260205 163838392-0600",
+  "frame_timestamp": 1770309519705,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205163156_307473/20260205163838_635182lp_RVZ400A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205163156_307473/20260205163838_635182.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205163156_307473/20260205163838_635182lp_RVZ400A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVZ400A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1137,
+    141,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RVZ400A",
+  "plateUnicode": "RVZ400A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770309519705,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.990406036376953,
+    "coordinates": [
+      820,
+      0,
+      736,
+      308
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770942432860,
+  "carID": 98512,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 182717745",
+  "datetimezone": "20260213 002712694-0600",
+  "frame_timestamp": 1770942432860,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213002712_924046lp_RNJ781C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213002712_924046.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213002712_924046lp_RNJ781C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNJ781C",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    885,
+    132,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNJ781C",
+  "plateUnicode": "RNJ781C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770942432860,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7219196557998657,
+    "coordinates": [
+      608,
+      0,
+      708,
+      300
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

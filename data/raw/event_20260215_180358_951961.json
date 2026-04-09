@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771178619500,
+  "carID": 104861,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 120344238",
+  "datetimezone": "20260215 180339176-0600",
+  "frame_timestamp": 1771178619500,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215180339_467373lp_TFR531B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215180339_467373.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215180339_467373lp_TFR531B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFR531B",
+  "plateConfidence": 0.828125,
+  "plateCoordinates": [
+    897,
+    105,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFR531B",
+  "plateUnicode": "TFR531B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771178619500,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8672189712524414,
+    "coordinates": [
+      540,
+      0,
+      796,
+      242
+    ],
+    "model": "Focus/Focus RS/Focus ST",
+    "type": "CAR"
+  }
+}

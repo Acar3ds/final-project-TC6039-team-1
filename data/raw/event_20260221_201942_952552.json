@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771705162487,
+  "carID": 120800,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 141927406",
+  "datetimezone": "20260221 201922352-0600",
+  "frame_timestamp": 1771705162487,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221201922_612023lp_TDK287A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221201922_612023.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221201922_612023lp_TDK287A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDK287A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1044,
+    228,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDK287A",
+  "plateUnicode": "TDK287A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771705162487,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.997480869293213,
+    "coordinates": [
+      676,
+      0,
+      864,
+      410
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

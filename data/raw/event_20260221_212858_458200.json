@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771709320057,
+  "carID": 120969,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 152842856",
+  "datetimezone": "20260221 212837790-0600",
+  "frame_timestamp": 1771709320057,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221212837_988051lp_SRJ522A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221212837_988051.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221212837_988051lp_SRJ522A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRJ522A",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    885,
+    108,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRJ522A",
+  "plateUnicode": "SRJ522A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771709320057,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lamborghini",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.551079511642456,
+    "coordinates": [
+      600,
+      2,
+      692,
+      268
+    ],
+    "model": "Murcielago",
+    "type": "CAR"
+  }
+}

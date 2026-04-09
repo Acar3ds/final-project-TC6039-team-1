@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771356375753,
+  "carID": 109820,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 132620476",
+  "datetimezone": "20260217 192615427-0600",
+  "frame_timestamp": 1771356375753,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217192615_686600lp_TDB654B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217192615_686600.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217192615_686600lp_TDB654B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDB654B",
+  "plateConfidence": 0.828125,
+  "plateCoordinates": [
+    732,
+    111,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDB654B",
+  "plateUnicode": "TDB654B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771356375753,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1367526054382324,
+    "coordinates": [
+      456,
+      2,
+      720,
+      280
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

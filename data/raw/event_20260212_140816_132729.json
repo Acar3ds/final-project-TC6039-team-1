@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770905277134,
+  "carID": 96778,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 080801907",
+  "datetimezone": "20260212 140756844-0600",
+  "frame_timestamp": 1770905277134,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212134431_668313/20260212140757_111010lp_SYF453B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212134431_668313/20260212140757_111010.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212134431_668313/20260212140757_111010lp_SYF453B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYF453B",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    954,
+    162,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYF453B",
+  "plateUnicode": "SYF453B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770905277134,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.457035541534424,
+    "coordinates": [
+      632,
+      0,
+      780,
+      320
+    ],
+    "model": "Accent/Avante/Elantra/i25/i35/i40/Solaris",
+    "type": "CAR"
+  }
+}

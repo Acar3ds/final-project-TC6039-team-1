@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770731186369,
+  "carID": 91371,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 074631126",
+  "datetimezone": "20260210 134626075-0600",
+  "frame_timestamp": 1770731186369,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134626_339151lp_MZ198B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134626_339151.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134626_339151lp_MZ198B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "MZ198B",
+  "plateConfidence": 0.796875,
+  "plateCoordinates": [
+    933,
+    186,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "NLD",
+  "plateText": "MZ198B",
+  "plateUnicode": "MZ198B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770731186369,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9946792125701904,
+    "coordinates": [
+      616,
+      0,
+      756,
+      324
+    ],
+    "model": "Quanlima/Rio",
+    "type": "CAR"
+  }
+}

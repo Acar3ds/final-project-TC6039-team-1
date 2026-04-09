@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771693866983,
+  "carID": 120345,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 111111904",
+  "datetimezone": "20260221 171106847-0600",
+  "frame_timestamp": 1771693866983,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221171107_91726lp_RXP449C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221171107_91726.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221171107_91726lp_RXP449C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXP449C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1047,
+    147,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXP449C",
+  "plateUnicode": "RXP449C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771693866983,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MG",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.0,
+    "coordinates": [
+      684,
+      0,
+      804,
+      314
+    ],
+    "model": "5",
+    "type": "CAR"
+  }
+}

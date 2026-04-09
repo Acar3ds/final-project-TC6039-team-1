@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771633630725,
+  "carID": 119059,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 182715638",
+  "datetimezone": "20260221 002710591-0600",
+  "frame_timestamp": 1771633630725,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260221002710_855312lp_SDP168A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260221002710_855312.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260221002710_855312lp_SDP168A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDP168A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1233,
+    237,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDP168A",
+  "plateUnicode": "SDP168A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771633630725,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9984264373779297,
+    "coordinates": [
+      876,
+      0,
+      816,
+      374
+    ],
+    "model": "Camry",
+    "type": "CAR"
+  }
+}

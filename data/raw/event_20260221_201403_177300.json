@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771704823720,
+  "carID": 120787,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 141347876",
+  "datetimezone": "20260221 201342810-0600",
+  "frame_timestamp": 1771704823720,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221201343_43394lp_RXV910B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221201343_43394.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221201343_43394lp_RXV910B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXV910B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    870,
+    111,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXV910B",
+  "plateUnicode": "RXV910B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771704823720,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.128578186035156,
+    "coordinates": [
+      560,
+      0,
+      768,
+      246
+    ],
+    "model": "C-Class/C-Class AMG",
+    "type": "CAR"
+  }
+}

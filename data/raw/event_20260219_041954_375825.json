@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771474774427,
+  "carID": 113862,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 221939179",
+  "datetimezone": "20260219 041934116-0600",
+  "frame_timestamp": 1771474774427,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219035710_404/20260219041934_384972lp_DLG133J.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219035710_404/20260219041934_384972.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219035710_404/20260219041934_384972lp_DLG133J.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DLG133J",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    981,
+    141,
+    132,
+    36
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    36
+  ],
+  "plateCountry": "FRA",
+  "plateText": "DLG133J",
+  "plateUnicode": "DLG133J",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771474774427,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9899307489395142,
+    "coordinates": [
+      696,
+      0,
+      756,
+      296
+    ],
+    "model": "Mirage/Mirage G4/Space Star",
+    "type": "CAR"
+  }
+}

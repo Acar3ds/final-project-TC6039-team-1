@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771437212653,
+  "carID": 112224,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 115337446",
+  "datetimezone": "20260218 175332392-0600",
+  "frame_timestamp": 1771437212653,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218175332_769673lp_3RJ5512B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218175332_769673.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218175332_769673lp_3RJ5512B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RJ5512B",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    1077,
+    192,
+    141,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RJ5512B",
+  "plateUnicode": "RJ5512B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771437212653,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8936994075775146,
+    "coordinates": [
+      632,
+      0,
+      936,
+      494
+    ],
+    "model": "Traverse",
+    "type": "SUV"
+  }
+}

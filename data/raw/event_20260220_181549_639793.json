@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771611330372,
+  "carID": 117922,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 121533996",
+  "datetimezone": "20260220 181528945-0600",
+  "frame_timestamp": 1771611330372,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220173301_686549/20260220181529_196126lp_SUN822B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220173301_686549/20260220181529_196126.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220173301_686549/20260220181529_196126lp_SUN822B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUN822B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    819,
+    96,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUN822B",
+  "plateUnicode": "SUN822B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771611330372,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.100940227508545,
+    "coordinates": [
+      508,
+      2,
+      732,
+      246
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

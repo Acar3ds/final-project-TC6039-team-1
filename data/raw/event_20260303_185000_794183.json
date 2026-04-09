@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772563778076,
+  "carID": 144929,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260303 124943000",
+  "datetimezone": "20260303 184937929-0600",
+  "frame_timestamp": 1772563778076,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303184938_192717lp_RXP527C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303184938_192717.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303184938_192717lp_RXP527C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXP527C",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    933,
+    156,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXP527C",
+  "plateUnicode": "RXP527C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772563778076,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7335169315338135,
+    "coordinates": [
+      616,
+      0,
+      744,
+      302
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

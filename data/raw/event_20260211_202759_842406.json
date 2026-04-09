@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770841662137,
+  "carID": 95245,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 142746595",
+  "datetimezone": "20260211 202741548-0600",
+  "frame_timestamp": 1770841662137,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211194915_799091/20260211202741_793617lp_TFM576B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211194915_799091/20260211202741_793617.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211194915_799091/20260211202741_793617lp_TFM576B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFM576B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1020,
+    114,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFM576B",
+  "plateUnicode": "TFM576B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770841662137,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1467535495758057,
+    "coordinates": [
+      728,
+      2,
+      712,
+      270
+    ],
+    "model": "Commodore",
+    "type": "CAR"
+  }
+}

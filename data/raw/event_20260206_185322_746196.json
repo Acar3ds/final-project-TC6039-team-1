@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770403985739,
+  "carID": 83222,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 125310477",
+  "datetimezone": "20260206 185305428-0600",
+  "frame_timestamp": 1770403985739,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206185305_670240lp_SEL578C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206185305_670240.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206185305_670240lp_SEL578C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEL578C",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    957,
+    120,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEL578C",
+  "plateUnicode": "SEL578C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770403985739,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8457386493682861,
+    "coordinates": [
+      480,
+      0,
+      904,
+      366
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

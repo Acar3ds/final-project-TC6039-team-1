@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770595672023,
+  "carID": 88114,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 180756111",
+  "datetimezone": "20260209 000751069-0600",
+  "frame_timestamp": 1770595672023,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208235907_878368/20260209000751_347514lp_RZP631B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208235907_878368/20260209000751_347514.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208235907_878368/20260209000751_347514lp_RZP631B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZP631B",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1095,
+    108,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZP631B",
+  "plateUnicode": "RZP631B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770595672023,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.381633758544922,
+    "coordinates": [
+      724,
+      0,
+      820,
+      314
+    ],
+    "model": "Outlander",
+    "type": "SUV"
+  }
+}

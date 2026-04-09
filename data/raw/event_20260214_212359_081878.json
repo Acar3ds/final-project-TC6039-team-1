@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771104219460,
+  "carID": 103337,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 152344371",
+  "datetimezone": "20260214 212339321-0600",
+  "frame_timestamp": 1771104219460,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212339_566251lp_HHV440E.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212339_566251.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214212339_566251lp_HHV440E.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "HHV440E",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    1428,
+    285,
+    150,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "HHV440E",
+  "plateUnicode": "HHV440E",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771104219460,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9935057163238525,
+    "coordinates": [
+      976,
+      0,
+      936,
+      462
+    ],
+    "model": "RAV4",
+    "type": "SUV"
+  }
+}

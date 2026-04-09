@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772121653220,
+  "carID": 132258,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 100057145",
+  "datetimezone": "20260226 160052090-0600",
+  "frame_timestamp": 1772121653220,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226160052_501454lp_5SMK369B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226160052_501454.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226160052_501454lp_5SMK369B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMK369B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    975,
+    186,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMK369B",
+  "plateUnicode": "SMK369B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772121653220,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.041463851928711,
+    "coordinates": [
+      648,
+      0,
+      796,
+      344
+    ],
+    "model": "5 Series/M5",
+    "type": "CAR"
+  }
+}

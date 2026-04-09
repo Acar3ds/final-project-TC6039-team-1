@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770575315237,
+  "carID": 87503,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 122840164",
+  "datetimezone": "20260208 182835101-0600",
+  "frame_timestamp": 1770575315237,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208182835_316941lp_TGM078B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208182835_316941.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208182835_316941lp_TGM078B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGM078B",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1026,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGM078B",
+  "plateUnicode": "TGM078B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770575315237,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lexus",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9338262677192688,
+    "coordinates": [
+      684,
+      0,
+      800,
+      258
+    ],
+    "model": "RC/RC F",
+    "type": "CAR"
+  }
+}

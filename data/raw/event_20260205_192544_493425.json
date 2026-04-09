@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770319527179,
+  "carID": 80718,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 132532094",
+  "datetimezone": "20260205 192527040-0600",
+  "frame_timestamp": 1770319527179,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192527_269414lp_SMH943B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192527_269414.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205183929_812344/20260205192527_269414lp_SMH943B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMH943B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1062,
+    186,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMH943B",
+  "plateUnicode": "SMH943B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770319527179,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4351680278778076,
+    "coordinates": [
+      636,
+      0,
+      852,
+      416
+    ],
+    "model": "New Beetle",
+    "type": "CAR"
+  }
+}

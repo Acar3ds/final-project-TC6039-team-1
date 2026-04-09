@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771788316698,
+  "carID": 122558,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 132520151",
+  "datetimezone": "20260222 192515094-0600",
+  "frame_timestamp": 1771788316698,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222183233_839955/20260222192515_342365lp_TBW913B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222183233_839955/20260222192515_342365.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222183233_839955/20260222192515_342365lp_TBW913B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBW913B",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    1077,
+    147,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBW913B",
+  "plateUnicode": "TBW913B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771788316698,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.6635847091674805,
+    "coordinates": [
+      744,
+      2,
+      776,
+      286
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

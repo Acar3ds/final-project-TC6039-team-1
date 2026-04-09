@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "DEU"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771003786494,
+  "carID": 100198,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 112950761",
+  "datetimezone": "20260213 172945714-0600",
+  "frame_timestamp": 1771003786494,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213172945_927767lp_RUC5590.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213172945_927767.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213172945_927767lp_RUC5590.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUC5590",
+  "plateConfidence": 0.7935267686843872,
+  "plateCoordinates": [
+    867,
+    102,
+    126,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    60
+  ],
+  "plateCountry": "DEU",
+  "plateText": "RUC5590",
+  "plateUnicode": "RUC5590",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771003786494,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "LDV",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.875327110290527,
+    "coordinates": [
+      540,
+      0,
+      780,
+      248
+    ],
+    "model": "G20/G50",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771359664373,
+  "carID": 109965,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 142109270",
+  "datetimezone": "20260217 202104219-0600",
+  "frame_timestamp": 1771359664373,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217202104_482840lp_PX3978B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217202104_482840.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217202104_482840lp_PX3978B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "P3978B",
+  "plateConfidence": 0.8411458134651184,
+  "plateCoordinates": [
+    1368,
+    528,
+    219,
+    93
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    219,
+    93
+  ],
+  "plateCountry": "ESP",
+  "plateText": "P3978B",
+  "plateUnicode": "P3978B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771359664373,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Scania",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.14282512664795,
+    "coordinates": [
+      48,
+      8,
+      1868,
+      1072
+    ],
+    "model": "PRT-range",
+    "type": "TRUCK"
+  }
+}

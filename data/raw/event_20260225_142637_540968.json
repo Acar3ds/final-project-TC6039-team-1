@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772029576522,
+  "carID": 129152,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 082621443",
+  "datetimezone": "20260225 142616383-0600",
+  "frame_timestamp": 1772029576522,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225142616_632919lp_RKD846C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225142616_632919.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225142616_632919lp_RKD846C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKD846C",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1155,
+    228,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKD846C",
+  "plateUnicode": "RKD846C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772029576522,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.950817584991455,
+    "coordinates": [
+      784,
+      0,
+      868,
+      410
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

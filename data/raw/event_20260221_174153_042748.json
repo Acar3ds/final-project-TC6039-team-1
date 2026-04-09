@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771695692521,
+  "carID": 120405,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 114137413",
+  "datetimezone": "20260221 174132363-0600",
+  "frame_timestamp": 1771695692521,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221174132_614295lp_SFY602A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221174132_614295.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221174132_614295lp_SFY602A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFY602A",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    939,
+    99,
+    126,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFY602A",
+  "plateUnicode": "SFY602A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771695692521,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9999773502349854,
+    "coordinates": [
+      608,
+      0,
+      772,
+      258
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

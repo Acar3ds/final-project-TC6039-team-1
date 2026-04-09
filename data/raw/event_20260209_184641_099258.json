@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770662783451,
+  "carID": 89709,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 124627907",
+  "datetimezone": "20260209 184622853-0600",
+  "frame_timestamp": 1770662783451,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209184623_132830lp_SJC500A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209184623_132830.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209184623_132830lp_SJC500A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJC500A",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    936,
+    96,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJC500A",
+  "plateUnicode": "SJC500A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770662783451,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7984578609466553,
+    "coordinates": [
+      660,
+      2,
+      680,
+      238
+    ],
+    "model": "Corsa",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771019385699,
+  "carID": 100944,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 154950595",
+  "datetimezone": "20260213 214945542-0600",
+  "frame_timestamp": 1771019385699,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213214945_770042lp_RRB631C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213214945_770042.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213214945_770042lp_RRB631C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRB631C",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1176,
+    207,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRB631C",
+  "plateUnicode": "RRB631C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771019385699,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.701176404953003,
+    "coordinates": [
+      840,
+      0,
+      804,
+      368
+    ],
+    "model": "K5",
+    "type": "CAR"
+  }
+}

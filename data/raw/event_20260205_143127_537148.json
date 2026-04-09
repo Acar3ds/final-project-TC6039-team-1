@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770301871418,
+  "carID": 79900,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 083115173",
+  "datetimezone": "20260205 143110127-0600",
+  "frame_timestamp": 1770301871418,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205143110_390425lp_RTC387C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205143110_390425.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205143110_390425lp_RTC387C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTC387C",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    942,
+    84,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTC387C",
+  "plateUnicode": "RTC387C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770301871418,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lamborghini",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.747406482696533,
+    "coordinates": [
+      600,
+      0,
+      812,
+      258
+    ],
+    "model": "Urus",
+    "type": "SUV"
+  }
+}

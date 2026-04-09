@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771019175208,
+  "carID": 100935,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 154619203",
+  "datetimezone": "20260213 214614158-0600",
+  "frame_timestamp": 1771019175208,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213214614_464408lp_RKL235C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213214614_464408.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213214614_464408lp_RKL235C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKL235C",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    909,
+    93,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKL235C",
+  "plateUnicode": "RKL235C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771019175208,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.755711555480957,
+    "coordinates": [
+      608,
+      0,
+      736,
+      248
+    ],
+    "model": "Malibu",
+    "type": "CAR"
+  }
+}

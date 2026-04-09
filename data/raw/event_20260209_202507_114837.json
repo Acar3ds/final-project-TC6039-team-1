@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770668689181,
+  "carID": 90001,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 142454089",
+  "datetimezone": "20260209 202449042-0600",
+  "frame_timestamp": 1770668689181,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209202449_263446lp_PXC944B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209202449_263446.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209202449_263446lp_PXC944B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PXC944B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    951,
+    87,
+    126,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PXC944B",
+  "plateUnicode": "PXC944B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770668689181,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9993964433670044,
+    "coordinates": [
+      624,
+      2,
+      764,
+      250
+    ],
+    "model": "Golf R",
+    "type": "CAR"
+  }
+}

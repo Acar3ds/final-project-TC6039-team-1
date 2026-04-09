@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770730367536,
+  "carID": 91331,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 073252434",
+  "datetimezone": "20260210 133247385-0600",
+  "frame_timestamp": 1770730367536,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210133247_629245lp_SDT202B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210133247_629245.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210133247_629245lp_SDT202B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDT202B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    912,
+    135,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDT202B",
+  "plateUnicode": "SDT202B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770730367536,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9970594644546509,
+    "coordinates": [
+      580,
+      2,
+      792,
+      262
+    ],
+    "model": "Aurion/Camry",
+    "type": "CAR"
+  }
+}

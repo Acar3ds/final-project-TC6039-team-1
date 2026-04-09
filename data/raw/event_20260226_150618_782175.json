@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772118358364,
+  "carID": 132085,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 090602672",
+  "datetimezone": "20260226 150557612-0600",
+  "frame_timestamp": 1772118358364,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150557_891648lp_TEE642A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150557_891648.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226150557_891648lp_TEE642A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEE642A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1281,
+    177,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEE642A",
+  "plateUnicode": "TEE642A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772118358364,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.8785015940666199,
+    "coordinates": [
+      912,
+      0,
+      804,
+      356
+    ],
+    "model": "i800/Starex",
+    "type": "VAN"
+  }
+}

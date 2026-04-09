@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771247173800,
+  "carID": 106100,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 070617476",
+  "datetimezone": "20260216 130612424-0600",
+  "frame_timestamp": 1771247173800,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216125249_971410/20260216130612_706642lp_RLR203C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216125249_971410/20260216130612_706642.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216125249_971410/20260216130612_706642lp_RLR203C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLR203C",
+  "plateConfidence": 0.7488839030265808,
+  "plateCoordinates": [
+    1008,
+    168,
+    141,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    78
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RLR203C",
+  "plateUnicode": "RLR203C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771247173800,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.66377067565918,
+    "coordinates": [
+      620,
+      0,
+      900,
+      368
+    ],
+    "model": "Traverse",
+    "type": "SUV"
+  }
+}

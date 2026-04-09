@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771865438364,
+  "carID": 124371,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 105042781",
+  "datetimezone": "20260223 165037720-0600",
+  "frame_timestamp": 1771865438364,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223165038_12008lp_SEM918B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223165038_12008.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223165038_12008lp_SEM918B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEM918B",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    963,
+    96,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEM918B",
+  "plateUnicode": "SEM918B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771865438364,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.3875532150268555,
+    "coordinates": [
+      668,
+      2,
+      772,
+      250
+    ],
+    "model": "Signum/Vectra/Vectra OPC",
+    "type": "CAR"
+  }
+}

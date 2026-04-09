@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771544163434,
+  "carID": 115924,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 173607835",
+  "datetimezone": "20260219 233602781-0600",
+  "frame_timestamp": 1771544163434,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219233603_72463lp_RPW104B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219233603_72463.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219233603_72463lp_RPW104B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPW104B",
+  "plateConfidence": 0.8337053656578064,
+  "plateCoordinates": [
+    1011,
+    141,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPW104B",
+  "plateUnicode": "RPW104B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771544163434,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2914156913757324,
+    "coordinates": [
+      744,
+      0,
+      988,
+      308
+    ],
+    "model": "Escudo/Vitara/Ignis",
+    "type": "CAR"
+  }
+}

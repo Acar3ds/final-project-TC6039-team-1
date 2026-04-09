@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771618973667,
+  "carID": 118381,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 142256543",
+  "datetimezone": "20260220 202251492-0600",
+  "frame_timestamp": 1771618973667,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202251_721624lp_SHR428A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202251_721624.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202251_721624lp_SHR428A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHR428A",
+  "plateConfidence": 0.8783482313156128,
+  "plateCoordinates": [
+    1050,
+    126,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHR428A",
+  "plateUnicode": "SHR428A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771618973667,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.953708171844482,
+    "coordinates": [
+      780,
+      0,
+      676,
+      288
+    ],
+    "model": "Kombi T2",
+    "type": "VAN"
+  }
+}

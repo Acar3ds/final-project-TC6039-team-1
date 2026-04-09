@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771814091013,
+  "carID": 123301,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 203455625",
+  "datetimezone": "20260223 023450564-0600",
+  "frame_timestamp": 1771814091013,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223023450_749166lp_SSP951.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223023450_749166.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223023450_749166lp_SSP951.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSP951A",
+  "plateConfidence": 0.7198660969734192,
+  "plateCoordinates": [
+    945,
+    114,
+    123,
+    45
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    45
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSP951A",
+  "plateUnicode": "SSP951A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771814091013,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lexus",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 29.991497039794922,
+    "coordinates": [
+      640,
+      0,
+      712,
+      296
+    ],
+    "model": "LC",
+    "type": "CAR"
+  }
+}

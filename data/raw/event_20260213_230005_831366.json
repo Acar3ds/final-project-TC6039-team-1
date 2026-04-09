@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771023586314,
+  "carID": 101151,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 165951228",
+  "datetimezone": "20260213 225946176-0600",
+  "frame_timestamp": 1771023586314,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213225946_436772lp_RSJ931B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213225946_436772.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213225946_436772lp_RSJ931B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSJ931B",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    1089,
+    189,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSJ931B",
+  "plateUnicode": "RSJ931B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771023586314,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8509831428527832,
+    "coordinates": [
+      768,
+      0,
+      768,
+      338
+    ],
+    "model": "Fiesta/Fiesta ST",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771254341528,
+  "carID": 106513,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 090545790",
+  "datetimezone": "20260216 150540736-0600",
+  "frame_timestamp": 1771254341528,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216150540_980393lp_SCZ951C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216150540_980393.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216150540_980393lp_SCZ951C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCZ951C",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    990,
+    147,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCZ951C",
+  "plateUnicode": "SCZ951C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771254341528,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BYD",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.929060459136963,
+    "coordinates": [
+      640,
+      0,
+      840,
+      332
+    ],
+    "model": "Qin Plus/Qin Pro DM",
+    "type": "CAR"
+  }
+}

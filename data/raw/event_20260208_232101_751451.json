@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770592843931,
+  "carID": 88013,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 172048679",
+  "datetimezone": "20260208 232043627-0600",
+  "frame_timestamp": 1770592843931,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208232043_848993lp_TGY107A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208232043_848993.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208232043_848993lp_TGY107A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGY107A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1221,
+    204,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGY107A",
+  "plateUnicode": "TGY107A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770592843931,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.771895408630371,
+    "coordinates": [
+      900,
+      2,
+      768,
+      358
+    ],
+    "model": "Fit",
+    "type": "CAR"
+  }
+}

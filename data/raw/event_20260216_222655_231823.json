@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771280795252,
+  "carID": 107685,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 162640170",
+  "datetimezone": "20260216 222635120-0600",
+  "frame_timestamp": 1771280795252,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222635_368034lp_RXA270C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222635_368034.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222635_368034lp_RXA270C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXA270C",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    999,
+    195,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXA270C",
+  "plateUnicode": "RXA270C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771280795252,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.999819278717041,
+    "coordinates": [
+      624,
+      0,
+      868,
+      392
+    ],
+    "model": "Sportage",
+    "type": "SUV"
+  }
+}

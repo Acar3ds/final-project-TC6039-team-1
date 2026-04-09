@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772561218864,
+  "carID": 144812,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260303 120702033",
+  "datetimezone": "20260303 180656982-0600",
+  "frame_timestamp": 1772561218864,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303180657_225485lp_RF8559B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303180657_225485.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303180657_225485lp_RF8559B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RF8559B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    858,
+    108,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RF8559B",
+  "plateUnicode": "RF8559B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772561218864,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.087209701538086,
+    "coordinates": [
+      500,
+      0,
+      828,
+      302
+    ],
+    "model": "Fortuner/Hilux/SW4",
+    "type": "PICKUPTRUCK"
+  }
+}

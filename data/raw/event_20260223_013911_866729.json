@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771810732188,
+  "carID": 123193,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 193855908",
+  "datetimezone": "20260223 013850859-0600",
+  "frame_timestamp": 1771810732188,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223013851_158421lp_SDU596B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223013851_158421.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223013851_158421lp_SDU596B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDU596B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1191,
+    126,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDU596B",
+  "plateUnicode": "SDU596B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771810732188,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.7601704597473145,
+    "coordinates": [
+      820,
+      0,
+      828,
+      404
+    ],
+    "model": "Terrain",
+    "type": "SUV"
+  }
+}

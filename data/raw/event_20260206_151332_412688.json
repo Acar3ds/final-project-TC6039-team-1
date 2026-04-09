@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770390795983,
+  "carID": 82630,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 091320253",
+  "datetimezone": "20260206 151315213-0600",
+  "frame_timestamp": 1770390795983,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206151315_405810lp_PZ3414B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206151315_405810.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206151315_405810lp_PZ3414B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PZ3414B",
+  "plateConfidence": 0.8247767686843872,
+  "plateCoordinates": [
+    837,
+    138,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PZ3414B",
+  "plateUnicode": "PZ3414B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770390795983,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.879545211791992,
+    "coordinates": [
+      492,
+      2,
+      792,
+      348
+    ],
+    "model": "S-10",
+    "type": "SUV"
+  }
+}

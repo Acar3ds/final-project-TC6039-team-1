@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770844168946,
+  "carID": 95362,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 150933708",
+  "datetimezone": "20260211 210928661-0600",
+  "frame_timestamp": 1770844168946,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211205558_763843/20260211210928_904037lp_FMS220B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211205558_763843/20260211210928_904037.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211205558_763843/20260211210928_904037lp_FMS220B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FMS220B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1062,
+    135,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FMS220B",
+  "plateUnicode": "FMS220B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770844168946,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.605407238006592,
+    "coordinates": [
+      708,
+      0,
+      828,
+      314
+    ],
+    "model": "3008",
+    "type": "SUV"
+  }
+}

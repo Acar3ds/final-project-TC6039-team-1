@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GBR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771701520259,
+  "carID": 120625,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 131844280",
+  "datetimezone": "20260221 191839229-0600",
+  "frame_timestamp": 1771701520259,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221191839_553482lp_RKL584.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221191839_553482.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221191839_553482lp_RKL584.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKL584",
+  "plateConfidence": 0.8736979365348816,
+  "plateCoordinates": [
+    1110,
+    150,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "GBR",
+  "plateText": "RKL584",
+  "plateUnicode": "RKL584",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771701520259,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.506227493286133,
+    "coordinates": [
+      744,
+      0,
+      836,
+      320
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

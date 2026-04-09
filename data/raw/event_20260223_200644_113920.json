@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771877183878,
+  "carID": 124886,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 140628272",
+  "datetimezone": "20260223 200623212-0600",
+  "frame_timestamp": 1771877183878,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223200623_484246lp_SBD256C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223200623_484246.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223200623_484246lp_SBD256C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBD256C",
+  "plateConfidence": 0.8816964030265808,
+  "plateCoordinates": [
+    948,
+    108,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBD256C",
+  "plateUnicode": "SBD256C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771877183878,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.356503963470459,
+    "coordinates": [
+      620,
+      2,
+      784,
+      252
+    ],
+    "model": "Passat",
+    "type": "CAR"
+  }
+}

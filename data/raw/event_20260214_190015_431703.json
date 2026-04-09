@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771095596331,
+  "carID": 102948,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 130000917",
+  "datetimezone": "20260214 185955867-0600",
+  "frame_timestamp": 1771095596331,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214185956_98829lp_RLW280C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214185956_98829.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214185956_98829lp_RLW280C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLW280C",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1290,
+    219,
+    150,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLW280C",
+  "plateUnicode": "RLW280C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771095596331,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3841323852539062,
+    "coordinates": [
+      880,
+      0,
+      888,
+      444
+    ],
+    "model": "Compass",
+    "type": "SUV"
+  }
+}

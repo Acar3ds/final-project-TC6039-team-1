@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770934145267,
+  "carID": 98152,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 160908617",
+  "datetimezone": "20260212 220903565-0600",
+  "frame_timestamp": 1770934145267,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212220903_837694lp_0PT1603B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212220903_837694.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212220903_837694lp_0PT1603B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PT1603B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    960,
+    153,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PT1603B",
+  "plateUnicode": "PT1603B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770934145267,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8076202869415283,
+    "coordinates": [
+      608,
+      0,
+      852,
+      278
+    ],
+    "model": "Twizy",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771598884225,
+  "carID": 117234,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 084808776",
+  "datetimezone": "20260220 144803715-0600",
+  "frame_timestamp": 1771598884225,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220144803_958472lp_TCP789A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220144803_958472.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220144803_958472lp_TCP789A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCP789A",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    1227,
+    189,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCP789A",
+  "plateUnicode": "TCP789A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771598884225,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9591610431671143,
+    "coordinates": [
+      868,
+      0,
+      828,
+      360
+    ],
+    "model": "RAV4",
+    "type": "SUV"
+  }
+}

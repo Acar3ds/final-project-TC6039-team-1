@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772561331456,
+  "carID": 144817,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260303 120856359",
+  "datetimezone": "20260303 180851308-0600",
+  "frame_timestamp": 1772561331456,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303180851_575195lp_SFA720B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303180851_575195.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303180851_575195lp_SFA720B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFA720B",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1278,
+    234,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFA720B",
+  "plateUnicode": "SFA720B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772561331456,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9999988079071045,
+    "coordinates": [
+      912,
+      0,
+      816,
+      386
+    ],
+    "model": "Caliber/Caravan",
+    "type": "CAR"
+  }
+}

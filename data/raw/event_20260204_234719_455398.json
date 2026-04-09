@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770248822781,
+  "carID": 78900,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 174707247",
+  "datetimezone": "20260204 234702203-0600",
+  "frame_timestamp": 1770248822781,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204234702_459256lp_SAN520B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204234702_459256.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204230834_6981/20260204234702_459256lp_SAN520B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAN520B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    861,
+    159,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAN520B",
+  "plateUnicode": "SAN520B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770248822781,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.976910591125488,
+    "coordinates": [
+      560,
+      0,
+      744,
+      318
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

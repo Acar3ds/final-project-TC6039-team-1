@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770819166299,
+  "carID": 94127,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 081250472",
+  "datetimezone": "20260211 141245423-0600",
+  "frame_timestamp": 1770819166299,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211141245_635666lp_TFG496A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211141245_635666.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211134258_633184/20260211141245_635666lp_TFG496A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFG496A",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1383,
+    216,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFG496A",
+  "plateUnicode": "TFG496A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770819166299,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.903421401977539,
+    "coordinates": [
+      1020,
+      0,
+      792,
+      404
+    ],
+    "model": "Fox",
+    "type": "CAR"
+  }
+}

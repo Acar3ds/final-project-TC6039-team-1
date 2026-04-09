@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772130756081,
+  "carID": 132638,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 123239819",
+  "datetimezone": "20260226 183234775-0600",
+  "frame_timestamp": 1772130756081,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226183235_61052lp_FDR472D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226183235_61052.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226173118_942551/20260226183235_61052lp_FDR472D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FDR472D",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1041,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FDR472D",
+  "plateUnicode": "FDR472D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772130756081,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9770753383636475,
+    "coordinates": [
+      664,
+      0,
+      820,
+      350
+    ],
+    "model": "Golf/Golf Alltrack/Golf GTI/Golf R",
+    "type": "CAR"
+  }
+}

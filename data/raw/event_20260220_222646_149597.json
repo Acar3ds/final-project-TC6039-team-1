@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771626386873,
+  "carID": 118722,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 162630720",
+  "datetimezone": "20260220 222625667-0600",
+  "frame_timestamp": 1771626386873,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220222625_940335lp_SBT160C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220222625_940335.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220222625_940335lp_SBT160C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBT160C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    939,
+    84,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBT160C",
+  "plateUnicode": "SBT160C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771626386873,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.84129810333252,
+    "coordinates": [
+      608,
+      0,
+      788,
+      230
+    ],
+    "model": "Equinox/Traverse",
+    "type": "SUV"
+  }
+}

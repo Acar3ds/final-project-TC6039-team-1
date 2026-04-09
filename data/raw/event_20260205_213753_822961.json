@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770327456636,
+  "carID": 81117,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 153741150",
+  "datetimezone": "20260205 213736095-0600",
+  "frame_timestamp": 1770327456636,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205213736_374093lp_TGS980A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205213736_374093.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205213736_374093lp_TGS980A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGS980A",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    897,
+    126,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGS980A",
+  "plateUnicode": "TGS980A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770327456636,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Freightliner",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8358814716339111,
+    "coordinates": [
+      580,
+      0,
+      780,
+      290
+    ],
+    "model": "Columbia",
+    "type": "TRUCK"
+  }
+}

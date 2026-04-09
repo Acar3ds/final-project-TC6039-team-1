@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770314021749,
+  "carID": 80481,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 115346483",
+  "datetimezone": "20260205 175341429-0600",
+  "frame_timestamp": 1770314021749,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205175341_756933lp_SZP317A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205175341_756933.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205175341_756933lp_SZP317A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZP317A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    855,
+    183,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZP317A",
+  "plateUnicode": "SZP317A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770314021749,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9158282279968262,
+    "coordinates": [
+      516,
+      0,
+      800,
+      296
+    ],
+    "model": "Aveo/Kalos",
+    "type": "CAR"
+  }
+}

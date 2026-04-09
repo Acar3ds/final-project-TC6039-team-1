@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772133615203,
+  "carID": 132765,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 132019656",
+  "datetimezone": "20260226 192014590-0600",
+  "frame_timestamp": 1772133615203,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226192014_808528lp_PR9218B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226192014_808528.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226183557_405765/20260226192014_808528lp_PR9218B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PR9218B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    648,
+    159,
+    156,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    156,
+    81
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PR9218B",
+  "plateUnicode": "PR9218B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772133615203,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Kenworth",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.81033992767334,
+    "coordinates": [
+      276,
+      0,
+      1196,
+      680
+    ],
+    "model": "T800",
+    "type": "TRUCK"
+  }
+}

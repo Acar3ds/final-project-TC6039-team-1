@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771280895911,
+  "carID": 107688,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 162819491",
+  "datetimezone": "20260216 222814432-0600",
+  "frame_timestamp": 1771280895911,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222814_683243lp_TBW723B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222814_683243.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216222814_683243lp_TBW723B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBW723B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    951,
+    135,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBW723B",
+  "plateUnicode": "TBW723B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771280895911,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.946846961975098,
+    "coordinates": [
+      648,
+      0,
+      732,
+      276
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

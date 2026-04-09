@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771192291875,
+  "carID": 105197,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 155135624",
+  "datetimezone": "20260215 215130569-0600",
+  "frame_timestamp": 1771192291875,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215215130_765252lp_PBX2308.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215215130_765252.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215215130_765252lp_PBX2308.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PBX2308",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1056,
+    165,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "NLD",
+  "plateText": "PBX2308",
+  "plateUnicode": "PBX2308",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771192291875,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.545979499816895,
+    "coordinates": [
+      728,
+      0,
+      772,
+      326
+    ],
+    "model": "Ibiza/Leon/Leon Cupra R/Toledo",
+    "type": "CAR"
+  }
+}

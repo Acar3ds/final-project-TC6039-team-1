@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768935529363,
+  "carID": 125511,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 125850564",
+  "datetimezone": "20260120 185849363-0600",
+  "frame_timestamp": 1768935529363,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120185227_609819/20260120185850_488562lp_RTW284C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120185227_609819/20260120185850_488562.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120185227_609819/20260120185850_488562lp_RTW284C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTW284C",
+  "plateConfidence": 0.7712053656578064,
+  "plateCoordinates": [
+    1243,
+    91,
+    188,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    188,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "RTW284C",
+  "plateUnicode": "RTW284C",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768935529363,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Daihatsu",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.33493366837501526,
+    "coordinates": [
+      1140,
+      6,
+      400,
+      138
+    ],
+    "model": "Terios/Be-go",
+    "type": "SUV"
+  }
+}

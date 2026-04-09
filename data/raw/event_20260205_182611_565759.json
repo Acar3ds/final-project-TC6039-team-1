@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770315954895,
+  "carID": 80568,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 122559370",
+  "datetimezone": "20260205 182554310-0600",
+  "frame_timestamp": 1770315954895,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205182554_577950lp_J0031A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205182554_577950.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205182554_577950lp_J0031A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "J0031A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1263,
+    171,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "J0031A",
+  "plateUnicode": "J0031A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770315954895,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7961877584457397,
+    "coordinates": [
+      744,
+      0,
+      1000,
+      482
+    ],
+    "model": "HiAce",
+    "type": "VAN"
+  }
+}

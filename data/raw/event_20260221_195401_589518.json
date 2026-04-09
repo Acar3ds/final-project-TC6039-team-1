@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771703623543,
+  "carID": 120721,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 135346258",
+  "datetimezone": "20260221 195341206-0600",
+  "frame_timestamp": 1771703623543,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221195341_468094lp_RK0111B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221195341_468094.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221194859_277173/20260221195341_468094lp_RK0111B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RK0111B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1014,
+    93,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RK0111B",
+  "plateUnicode": "RK0111B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771703623543,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.43406867980957,
+    "coordinates": [
+      660,
+      0,
+      816,
+      294
+    ],
+    "model": "Titan/Patrol/Armada",
+    "type": "PICKUPTRUCK"
+  }
+}

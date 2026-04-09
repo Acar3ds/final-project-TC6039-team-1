@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772160215946,
+  "carID": 134071,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 204340846",
+  "datetimezone": "20260227 024335791-0600",
+  "frame_timestamp": 1772160215946,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227021210_895527/20260227024335_988257lp_SFT872A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227021210_895527/20260227024335_988257.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227021210_895527/20260227024335_988257lp_SFT872A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFT872A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    852,
+    105,
+    126,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFT872A",
+  "plateUnicode": "SFT872A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772160215946,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Scion",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 61.985252380371094,
+    "coordinates": [
+      528,
+      0,
+      752,
+      344
+    ],
+    "model": "tC",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771009089832,
+  "carID": 100429,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 125814415",
+  "datetimezone": "20260213 185809362-0600",
+  "frame_timestamp": 1771009089832,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213185809_611956lp_TEY384A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213185809_611956.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213185809_611956lp_TEY384A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEY384A",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1014,
+    147,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEY384A",
+  "plateUnicode": "TEY384A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771009089832,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8744044303894043,
+    "coordinates": [
+      648,
+      0,
+      840,
+      350
+    ],
+    "model": "Sorento",
+    "type": "SUV"
+  }
+}

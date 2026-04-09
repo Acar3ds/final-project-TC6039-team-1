@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771558787034,
+  "carID": 116505,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 213950795",
+  "datetimezone": "20260220 033945744-0600",
+  "frame_timestamp": 1771558787034,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220025938_626616/20260220033946_15367lp_TAR850B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220025938_626616/20260220033946_15367.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220025938_626616/20260220033946_15367lp_TAR850B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAR850B",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    1242,
+    141,
+    126,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAR850B",
+  "plateUnicode": "TAR850B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771558787034,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.256951332092285,
+    "coordinates": [
+      920,
+      0,
+      844,
+      368
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "CZE"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770825908068,
+  "carID": 94518,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 100511930",
+  "datetimezone": "20260211 160506880-0600",
+  "frame_timestamp": 1770825908068,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211152756_932096/20260211160507_70628lp_STV1240.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211152756_932096/20260211160507_70628.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211152756_932096/20260211160507_70628lp_STV1240.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STV1240",
+  "plateConfidence": 0.8180803656578064,
+  "plateCoordinates": [
+    1116,
+    126,
+    129,
+    42
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    42
+  ],
+  "plateCountry": "CZE",
+  "plateText": "STV1240",
+  "plateUnicode": "STV1240",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770825908068,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.485595464706421,
+    "coordinates": [
+      784,
+      0,
+      744,
+      290
+    ],
+    "model": "Fiesta/Fiesta ST",
+    "type": "CAR"
+  }
+}

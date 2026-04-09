@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772065629625,
+  "carID": 130867,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 182711752",
+  "datetimezone": "20260226 002706690-0600",
+  "frame_timestamp": 1772065629625,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226002706_996816lp_RTJ218C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226002706_996816.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226002706_996816lp_RTJ218C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTJ218C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    903,
+    105,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTJ218C",
+  "plateUnicode": "RTJ218C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772065629625,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "LDV",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.6229887008667,
+    "coordinates": [
+      576,
+      2,
+      780,
+      226
+    ],
+    "model": "G20/G50",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770593583143,
+  "carID": 88050,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 173308057",
+  "datetimezone": "20260208 233303006-0600",
+  "frame_timestamp": 1770593583143,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208233303_286675lp_RUV202C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208233303_286675.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208233303_286675lp_RUV202C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUV202C",
+  "plateConfidence": 0.8113839030265808,
+  "plateCoordinates": [
+    1032,
+    180,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUV202C",
+  "plateUnicode": "RUV202C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770593583143,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7753090858459473,
+    "coordinates": [
+      696,
+      0,
+      788,
+      332
+    ],
+    "model": "Kicks",
+    "type": "SUV"
+  }
+}

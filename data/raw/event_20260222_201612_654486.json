@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771791352199,
+  "carID": 122636,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 141557107",
+  "datetimezone": "20260222 201552057-0600",
+  "frame_timestamp": 1771791352199,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222201552_300586lp_SWC337B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222201552_300586.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222201552_300586lp_SWC337B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWC337B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1521,
+    459,
+    156,
+    84
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    156,
+    84
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWC337B",
+  "plateUnicode": "SWC337B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771791352199,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9971675872802734,
+    "coordinates": [
+      1100,
+      2,
+      816,
+      610
+    ],
+    "model": "Tiida/Versa",
+    "type": "CAR"
+  }
+}

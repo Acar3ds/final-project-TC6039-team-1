@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770480997622,
+  "carID": 85216,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 101641768",
+  "datetimezone": "20260207 161636713-0600",
+  "frame_timestamp": 1770480997622,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207152819_706000/20260207161636_936382lp_PW9344B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207152819_706000/20260207161636_936382.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207152819_706000/20260207161636_936382lp_PW9344B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PW9344B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    837,
+    96,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PW9344B",
+  "plateUnicode": "PW9344B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770480997622,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.009294509887695,
+    "coordinates": [
+      564,
+      0,
+      692,
+      258
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

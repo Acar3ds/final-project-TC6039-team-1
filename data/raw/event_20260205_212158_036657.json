@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770326502001,
+  "carID": 81070,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 152145712",
+  "datetimezone": "20260205 212140659-0600",
+  "frame_timestamp": 1770326502001,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205212140_932930lp_SAD800A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205212140_932930.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205212140_932930lp_SAD800A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAD800A",
+  "plateConfidence": 0.8828125,
+  "plateCoordinates": [
+    1050,
+    168,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAD800A",
+  "plateUnicode": "SAD800A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770326502001,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.845481872558594,
+    "coordinates": [
+      720,
+      0,
+      792,
+      272
+    ],
+    "model": "CLA/CLA AMG",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771255790466,
+  "carID": 106601,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 092955059",
+  "datetimezone": "20260216 152949998-0600",
+  "frame_timestamp": 1771255790466,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216152950_224064lp_RKY738C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216152950_224064.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216152950_224064lp_RKY738C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKY738C",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    846,
+    162,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKY738C",
+  "plateUnicode": "RKY738C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771255790466,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8887451887130737,
+    "coordinates": [
+      544,
+      0,
+      740,
+      296
+    ],
+    "model": "Volt",
+    "type": "CAR"
+  }
+}

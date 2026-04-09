@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770648574543,
+  "carID": 89055,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 084938704",
+  "datetimezone": "20260209 144933658-0600",
+  "frame_timestamp": 1770648574543,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209140923_857817/20260209144933_895226lp_RTT579B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209140923_857817/20260209144933_895226.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209140923_857817/20260209144933_895226lp_RTT579B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTT579B",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    867,
+    108,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTT579B",
+  "plateUnicode": "RTT579B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770648574543,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.402417182922363,
+    "coordinates": [
+      560,
+      0,
+      768,
+      222
+    ],
+    "model": "Town   Country/Voyager",
+    "type": "VAN"
+  }
+}

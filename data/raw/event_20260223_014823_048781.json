@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771811283678,
+  "carID": 123214,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 194807266",
+  "datetimezone": "20260223 014802209-0600",
+  "frame_timestamp": 1771811283678,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223014802_452356lp_SRM321A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223014802_452356.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223014802_452356lp_SRM321A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRM321A",
+  "plateConfidence": 0.8180803656578064,
+  "plateCoordinates": [
+    1023,
+    132,
+    129,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    54
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRM321A",
+  "plateUnicode": "SRM321A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771811283678,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Bentley",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.658308506011963,
+    "coordinates": [
+      704,
+      0,
+      772,
+      290
+    ],
+    "model": "Continental GT",
+    "type": "CAR"
+  }
+}

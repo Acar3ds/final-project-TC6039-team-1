@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770990875208,
+  "carID": 99506,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 075439378",
+  "datetimezone": "20260213 135434329-0600",
+  "frame_timestamp": 1770990875208,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213135434_541679lp_TAH036A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213135434_541679.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213135434_541679lp_TAH036A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAH036A",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1101,
+    159,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAH036A",
+  "plateUnicode": "TAH036A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770990875208,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.75643789768219,
+    "coordinates": [
+      780,
+      0,
+      768,
+      320
+    ],
+    "model": "Caddy",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770312387623,
+  "carID": 80406,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 112631404",
+  "datetimezone": "20260205 172626350-0600",
+  "frame_timestamp": 1770312387623,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205163156_307473/20260205172626_635846lp_RWX909C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205163156_307473/20260205172626_635846.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205163156_307473/20260205172626_635846lp_RWX909C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWX909C",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    882,
+    84,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWX909C",
+  "plateUnicode": "RWX909C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770312387623,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.001147747039795,
+    "coordinates": [
+      588,
+      0,
+      732,
+      234
+    ],
+    "model": "Volt",
+    "type": "CAR"
+  }
+}

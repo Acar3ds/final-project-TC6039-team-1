@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771270938669,
+  "carID": 107236,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 134223408",
+  "datetimezone": "20260216 194218357-0600",
+  "frame_timestamp": 1771270938669,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216194218_600756lp_SKY341A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216194218_600756.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216194218_600756lp_SKY341A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKY341A",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1005,
+    114,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKY341A",
+  "plateUnicode": "SKY341A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771270938669,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.693075180053711,
+    "coordinates": [
+      680,
+      0,
+      792,
+      282
+    ],
+    "model": "Tacoma",
+    "type": "PICKUPTRUCK"
+  }
+}

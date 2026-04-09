@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770771526891,
+  "carID": 93250,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 185850924",
+  "datetimezone": "20260211 005845875-0600",
+  "frame_timestamp": 1770771526891,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211005846_167733lp_CM210A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211005846_167733.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211005846_167733lp_CM210A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "CM710A",
+  "plateConfidence": 0.5729166865348816,
+  "plateCoordinates": [
+    1026,
+    117,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "CM710A",
+  "plateUnicode": "CM710A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770771526891,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.377490043640137,
+    "coordinates": [
+      712,
+      0,
+      760,
+      296
+    ],
+    "model": "Grand Voyager/Town   Country/Pacifica",
+    "type": "VAN"
+  }
+}

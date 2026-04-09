@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770273037689,
+  "carID": 79519,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 003040420",
+  "datetimezone": "20260205 063035371-0600",
+  "frame_timestamp": 1770273037689,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205034127_987603/20260205063035_636381lp_SSD839B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205034127_987603/20260205063035_636381.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205034127_987603/20260205063035_636381lp_SSD839B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSD839B",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    984,
+    96,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSD839B",
+  "plateUnicode": "SSD839B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770273037689,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3197507858276367,
+    "coordinates": [
+      676,
+      0,
+      836,
+      320
+    ],
+    "model": "350Z/370Z/Fairlady Z",
+    "type": "CAR"
+  }
+}

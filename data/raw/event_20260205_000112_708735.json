@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770249656454,
+  "carID": 78935,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 180100629",
+  "datetimezone": "20260205 000055579-0600",
+  "frame_timestamp": 1770249656454,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205000055_807220lp_HM0932B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205000055_807220.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205000055_807220lp_HM0932B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RM0932B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    945,
+    105,
+    135,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    51
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RM0932B",
+  "plateUnicode": "RM0932B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770249656454,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Subaru",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.76542067527771,
+    "coordinates": [
+      608,
+      0,
+      812,
+      306
+    ],
+    "model": "Forester",
+    "type": "SUV"
+  }
+}

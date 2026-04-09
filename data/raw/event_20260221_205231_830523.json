@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771707131955,
+  "carID": 120885,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 145216243",
+  "datetimezone": "20260221 205211184-0600",
+  "frame_timestamp": 1771707131955,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221205211_443074lp_TAD854B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221205211_443074.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221205211_443074lp_TAD854B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAD854B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1017,
+    117,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAD854B",
+  "plateUnicode": "TAD854B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771707131955,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.532695293426514,
+    "coordinates": [
+      696,
+      2,
+      744,
+      286
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

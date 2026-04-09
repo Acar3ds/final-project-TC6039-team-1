@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769124783518,
+  "carID": 869,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 173303888",
+  "datetimezone": "20260122 233303518-0600",
+  "frame_timestamp": 1769124783518,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122225956_631421/20260122233303_733045lp_SHP509B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122225956_631421/20260122233303_733045.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122225956_631421/20260122233303_733045lp_SHP509B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHP509B",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    777,
+    438,
+    221,
+    108
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    221,
+    108
+  ],
+  "plateCountry": "USA",
+  "plateText": "SHP509B",
+  "plateUnicode": "SHP509B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769124783518,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7909389138221741,
+    "coordinates": [
+      396,
+      0,
+      1016,
+      630
+    ],
+    "model": "Malibu",
+    "type": "CAR"
+  }
+}

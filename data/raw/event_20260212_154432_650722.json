@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770911054288,
+  "carID": 97121,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 094418349",
+  "datetimezone": "20260212 154413301-0600",
+  "frame_timestamp": 1770911054288,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212154413_548773lp_WK5507B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212154413_548773.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212154044_140353/20260212154413_548773lp_WK5507B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "WK5507B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    831,
+    108,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "WK5507B",
+  "plateUnicode": "WK5507B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770911054288,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Skoda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8684961795806885,
+    "coordinates": [
+      464,
+      0,
+      884,
+      314
+    ],
+    "model": "Fabia/Fabia RS",
+    "type": "CAR"
+  }
+}

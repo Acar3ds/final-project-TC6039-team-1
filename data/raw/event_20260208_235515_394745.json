@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770594897735,
+  "carID": 88087,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 175502633",
+  "datetimezone": "20260208 235457585-0600",
+  "frame_timestamp": 1770594897735,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235457_811159lp_RWE112C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235457_811159.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235457_811159lp_RWE112C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWE112C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1113,
+    159,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWE112C",
+  "plateUnicode": "RWE112C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770594897735,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.936231851577759,
+    "coordinates": [
+      776,
+      0,
+      792,
+      290
+    ],
+    "model": "3 Series/3 Series GT/4 Series/5 Series GT/M3/M4",
+    "type": "CAR"
+  }
+}

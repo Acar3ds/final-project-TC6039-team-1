@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771470961055,
+  "carID": 113752,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 211605409",
+  "datetimezone": "20260219 031600352-0600",
+  "frame_timestamp": 1771470961055,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219023820_842624/20260219031600_605464lp_SMP306A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219023820_842624/20260219031600_605464.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219023820_842624/20260219031600_605464lp_SMP306A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMP306A",
+  "plateConfidence": 0.8125,
+  "plateCoordinates": [
+    1080,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMP306A",
+  "plateUnicode": "SMP306A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771470961055,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jaguar",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.611309766769409,
+    "coordinates": [
+      720,
+      0,
+      796,
+      326
+    ],
+    "model": "F-Type/XE/XE SV/XF/XFR/XJ",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770767217889,
+  "carID": 93084,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 174702799",
+  "datetimezone": "20260210 234657739-0600",
+  "frame_timestamp": 1770767217889,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210234657_995535lp_RUL325A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210234657_995535.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210234657_995535lp_RUL325A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUL325A",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    996,
+    156,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUL325A",
+  "plateUnicode": "RUL325A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770767217889,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6160078048706055,
+    "coordinates": [
+      692,
+      0,
+      756,
+      306
+    ],
+    "model": "Stepwgn",
+    "type": "VAN"
+  }
+}

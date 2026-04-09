@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770571863801,
+  "carID": 87431,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 113106054",
+  "datetimezone": "20260208 173101007-0600",
+  "frame_timestamp": 1770571863801,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208173101_194591lp_RG1623B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208173101_194591.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208173101_194591lp_RG1623B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RG1623B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    792,
+    102,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RG1623B",
+  "plateUnicode": "RG1623B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770571863801,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8127458095550537,
+    "coordinates": [
+      508,
+      0,
+      696,
+      252
+    ],
+    "model": "Ka",
+    "type": "CAR"
+  }
+}

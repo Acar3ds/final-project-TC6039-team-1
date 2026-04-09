@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772236955586,
+  "carID": 136467,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 180240504",
+  "datetimezone": "20260228 000235443-0600",
+  "frame_timestamp": 1772236955586,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228000235_687755lp_RMP210C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228000235_687755.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228000235_687755lp_RMP210C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMP210C",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1044,
+    132,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMP210C",
+  "plateUnicode": "RMP210C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772236955586,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.930466651916504,
+    "coordinates": [
+      720,
+      2,
+      756,
+      280
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

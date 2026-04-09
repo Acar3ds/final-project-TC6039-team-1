@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771032823308,
+  "carID": 101567,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 193347160",
+  "datetimezone": "20260214 013342110-0600",
+  "frame_timestamp": 1771032823308,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214013008_145380/20260214013342_372874lp_SBS847C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214013008_145380/20260214013342_372874.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214013008_145380/20260214013342_372874lp_SBS847C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBS847C",
+  "plateConfidence": 0.7924107313156128,
+  "plateCoordinates": [
+    1218,
+    213,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBS847C",
+  "plateUnicode": "SBS847C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771032823308,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.581593036651611,
+    "coordinates": [
+      852,
+      0,
+      820,
+      374
+    ],
+    "model": "Levante",
+    "type": "SUV"
+  }
+}

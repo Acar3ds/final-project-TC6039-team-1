@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770495781726,
+  "carID": 85894,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 142306633",
+  "datetimezone": "20260207 202301575-0600",
+  "frame_timestamp": 1770495781726,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207202301_862935lp_RMC654B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207202301_862935.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207202301_862935lp_RMC654B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMC654B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    960,
+    96,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMC654B",
+  "plateUnicode": "RMC654B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770495781726,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.0298643112182617,
+    "coordinates": [
+      600,
+      0,
+      816,
+      284
+    ],
+    "model": "X4/X4 M",
+    "type": "SUV"
+  }
+}

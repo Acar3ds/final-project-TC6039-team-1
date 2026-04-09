@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770827321550,
+  "carID": 94589,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 102845827",
+  "datetimezone": "20260211 162840785-0600",
+  "frame_timestamp": 1770827321550,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211162841_30845lp_SYA143A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211162841_30845.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211162841_30845lp_SYA143A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYA143A",
+  "plateConfidence": 0.828125,
+  "plateCoordinates": [
+    795,
+    123,
+    123,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYA143A",
+  "plateUnicode": "SYA143A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770827321550,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9349119663238525,
+    "coordinates": [
+      488,
+      0,
+      744,
+      264
+    ],
+    "model": "Qashqai",
+    "type": "SUV"
+  }
+}

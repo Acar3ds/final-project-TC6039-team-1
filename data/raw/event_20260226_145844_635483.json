@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772117907575,
+  "carID": 132041,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 085828380",
+  "datetimezone": "20260226 145823329-0600",
+  "frame_timestamp": 1772117907575,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145823_562579lp_SHJ263A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145823_562579.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145823_562579lp_SHJ263A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHJ263A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1029,
+    153,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHJ263A",
+  "plateUnicode": "SHJ263A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772117907575,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.961482048034668,
+    "coordinates": [
+      716,
+      0,
+      744,
+      272
+    ],
+    "model": "Ka",
+    "type": "CAR"
+  }
+}

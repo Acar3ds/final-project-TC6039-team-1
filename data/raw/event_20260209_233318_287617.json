@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770679980471,
+  "carID": 90487,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 173305366",
+  "datetimezone": "20260209 233300311-0600",
+  "frame_timestamp": 1770679980471,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209224516_893810/20260209233300_564887lp_TEW805B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209224516_893810/20260209233300_564887.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209224516_893810/20260209233300_564887lp_TEW805B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEW805B",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1299,
+    450,
+    156,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    156,
+    81
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEW805B",
+  "plateUnicode": "TEW805B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770679980471,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.934473991394043,
+    "coordinates": [
+      900,
+      0,
+      912,
+      572
+    ],
+    "model": "3/6/Atenza/Axela",
+    "type": "CAR"
+  }
+}

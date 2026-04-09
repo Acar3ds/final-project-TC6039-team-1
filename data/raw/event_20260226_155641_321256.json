@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772121380328,
+  "carID": 132248,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 095625068",
+  "datetimezone": "20260226 155620011-0600",
+  "frame_timestamp": 1772121380328,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226155620_278609lp_SHF391A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226155620_278609.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226155620_278609lp_SHF391A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHF391A",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    987,
+    90,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHF391A",
+  "plateUnicode": "SHF391A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772121380328,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.506427764892578,
+    "coordinates": [
+      640,
+      0,
+      808,
+      264
+    ],
+    "model": "Rio/Rio5",
+    "type": "CAR"
+  }
+}

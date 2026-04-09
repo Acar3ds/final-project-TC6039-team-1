@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770325015685,
+  "carID": 80996,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 145659152",
+  "datetimezone": "20260205 205654106-0600",
+  "frame_timestamp": 1770325015685,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205205654_339817lp_SFP445A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205205654_339817.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205205654_339817lp_SFP445A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFP445A",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1005,
+    129,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFP445A",
+  "plateUnicode": "SFP445A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770325015685,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.233532905578613,
+    "coordinates": [
+      708,
+      0,
+      720,
+      258
+    ],
+    "model": "Probox/Succeed",
+    "type": "CAR"
+  }
+}

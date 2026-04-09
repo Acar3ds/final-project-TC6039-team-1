@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770828111953,
+  "carID": 94630,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 104155077",
+  "datetimezone": "20260211 164150018-0600",
+  "frame_timestamp": 1770828111953,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211164150_290373lp_RZB858A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211164150_290373.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211164150_290373lp_RZB858A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZB858A",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1044,
+    171,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RZB858A",
+  "plateUnicode": "RZB858A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770828111953,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.752446174621582,
+    "coordinates": [
+      732,
+      0,
+      748,
+      290
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

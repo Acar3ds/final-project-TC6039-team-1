@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771680470577,
+  "carID": 119916,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 072755486",
+  "datetimezone": "20260221 132750431-0600",
+  "frame_timestamp": 1771680470577,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221113728_882501/20260221132750_683635lp_RXP312B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221113728_882501/20260221132750_683635.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221113728_882501/20260221132750_683635lp_RXP312B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXP312B",
+  "plateConfidence": 0.8102678656578064,
+  "plateCoordinates": [
+    1443,
+    261,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXP312B",
+  "plateUnicode": "RXP312B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771680470577,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9933383464813232,
+    "coordinates": [
+      968,
+      0,
+      920,
+      398
+    ],
+    "model": "Azera/Sonata",
+    "type": "CAR"
+  }
+}

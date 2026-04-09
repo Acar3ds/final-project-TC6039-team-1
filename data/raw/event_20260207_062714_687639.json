@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770445618089,
+  "carID": 84812,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 002702224",
+  "datetimezone": "20260207 062657175-0600",
+  "frame_timestamp": 1770445618089,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207055836_273885/20260207062657_410611lp_RPM430C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207055836_273885/20260207062657_410611.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207055836_273885/20260207062657_410611lp_RPM430C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPM430C",
+  "plateConfidence": 0.6986607313156128,
+  "plateCoordinates": [
+    930,
+    144,
+    123,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    57
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RPM430C",
+  "plateUnicode": "RPM430C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770445618089,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.65913462638855,
+    "coordinates": [
+      600,
+      0,
+      772,
+      356
+    ],
+    "model": "Range Rover Velar",
+    "type": "SUV"
+  }
+}

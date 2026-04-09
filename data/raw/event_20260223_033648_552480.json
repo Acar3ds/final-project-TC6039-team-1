@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771817789604,
+  "carID": 123400,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 213632635",
+  "datetimezone": "20260223 033627588-0600",
+  "frame_timestamp": 1771817789604,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223033627_844271lp_SCZ500B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223033627_844271.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223033627_844271lp_SCZ500B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "VCZ500B",
+  "plateConfidence": 0.7254464030265808,
+  "plateCoordinates": [
+    1125,
+    177,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "ITA",
+  "plateText": "VCZ500B",
+  "plateUnicode": "VCZ500B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771817789604,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.324005126953125,
+    "coordinates": [
+      836,
+      0,
+      740,
+      414
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

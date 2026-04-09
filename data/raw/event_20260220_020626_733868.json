@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771553164140,
+  "carID": 116312,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 200607900",
+  "datetimezone": "20260220 020602849-0600",
+  "frame_timestamp": 1771553164140,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220020603_110909lp_TEM102A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220020603_110909.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220020603_110909lp_TEM102A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEM102A",
+  "plateConfidence": 0.8069196343421936,
+  "plateCoordinates": [
+    1245,
+    150,
+    135,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    54
+  ],
+  "plateCountry": "ITA",
+  "plateText": "TEM102A",
+  "plateUnicode": "TEM102A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771553164140,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.286892890930176,
+    "coordinates": [
+      896,
+      0,
+      792,
+      366
+    ],
+    "model": "Camry Solara",
+    "type": "CAR"
+  }
+}

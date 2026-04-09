@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772036702676,
+  "carID": 129527,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 102505700",
+  "datetimezone": "20260225 162500650-0600",
+  "frame_timestamp": 1772036702676,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225162500_895712lp_SAW431A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225162500_895712.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225162500_895712lp_SAW431A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAW431A",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    1194,
+    204,
+    129,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAW431A",
+  "plateUnicode": "SAW431A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772036702676,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.686605453491211,
+    "coordinates": [
+      816,
+      0,
+      808,
+      312
+    ],
+    "model": "CT6",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771866865378,
+  "carID": 124429,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 111428962",
+  "datetimezone": "20260223 171423904-0600",
+  "frame_timestamp": 1771866865378,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223171424_175575lp_RYH346C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223171424_175575.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223171424_175575lp_RYH346C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYH346C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    837,
+    117,
+    132,
+    36
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    36
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYH346C",
+  "plateUnicode": "RYH346C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771866865378,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.03831672668457,
+    "coordinates": [
+      528,
+      0,
+      756,
+      254
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771966776352,
+  "carID": 127652,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 145941267",
+  "datetimezone": "20260224 205936211-0600",
+  "frame_timestamp": 1771966776352,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224205936_452580lp_TFJ837B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224205936_452580.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224205936_452580lp_TFJ837B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFJ837B",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1062,
+    180,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFJ837B",
+  "plateUnicode": "TFJ837B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771966776352,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9045964479446411,
+    "coordinates": [
+      748,
+      0,
+      752,
+      296
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

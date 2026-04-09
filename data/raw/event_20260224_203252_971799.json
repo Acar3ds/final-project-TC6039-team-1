@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771965154961,
+  "carID": 127564,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 143236914",
+  "datetimezone": "20260224 203231855-0600",
+  "frame_timestamp": 1771965154961,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224203232_113920lp_P9445B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224203232_113920.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224203232_113920lp_P9445B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "P9445B",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1062,
+    123,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "ESP",
+  "plateText": "P9445B",
+  "plateUnicode": "P9445B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771965154961,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dacia",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.415482521057129,
+    "coordinates": [
+      768,
+      0,
+      712,
+      302
+    ],
+    "model": "Sandero/Sandero Stepway",
+    "type": "CAR"
+  }
+}

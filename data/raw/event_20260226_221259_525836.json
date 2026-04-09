@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772143958943,
+  "carID": 133343,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 161243108",
+  "datetimezone": "20260226 221238054-0600",
+  "frame_timestamp": 1772143958943,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226213722_130496/20260226221238_340877lp_RUE905C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226213722_130496/20260226221238_340877.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226213722_130496/20260226221238_340877lp_RUE905C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUE905C",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    1002,
+    162,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUE905C",
+  "plateUnicode": "RUE905C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772143958943,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.981830358505249,
+    "coordinates": [
+      684,
+      0,
+      768,
+      326
+    ],
+    "model": "MX-5",
+    "type": "CAR"
+  }
+}

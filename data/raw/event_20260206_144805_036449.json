@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770389268886,
+  "carID": 82522,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 084752477",
+  "datetimezone": "20260206 144747388-0600",
+  "frame_timestamp": 1770389268886,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206144747_646011lp_SVN164A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206144747_646011.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206144747_646011lp_SVN164A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVN164A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    789,
+    93,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVN164A",
+  "plateUnicode": "SVN164A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770389268886,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lincoln",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.620183944702148,
+    "coordinates": [
+      408,
+      0,
+      888,
+      282
+    ],
+    "model": "Aviator/Corsair/MKC/Nautilus",
+    "type": "SUV"
+  }
+}

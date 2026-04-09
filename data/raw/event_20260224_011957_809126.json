@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771895979236,
+  "carID": 125721,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 191942037",
+  "datetimezone": "20260224 011936985-0600",
+  "frame_timestamp": 1771895979236,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224011108_696469/20260224011937_258414lp_SFG158A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224011108_696469/20260224011937_258414.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224011108_696469/20260224011937_258414lp_SFG158A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFG158",
+  "plateConfidence": 0.7278645634651184,
+  "plateCoordinates": [
+    888,
+    117,
+    123,
+    45
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    45
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFG158",
+  "plateUnicode": "SFG158",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771895979236,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.098078727722168,
+    "coordinates": [
+      576,
+      0,
+      764,
+      272
+    ],
+    "model": "Exeo/Ibiza",
+    "type": "CAR"
+  }
+}

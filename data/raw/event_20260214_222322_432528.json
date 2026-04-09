@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771107782755,
+  "carID": 103476,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 162307678",
+  "datetimezone": "20260214 222302613-0600",
+  "frame_timestamp": 1771107782755,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214222302_828197lp_RNH660C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214222302_828197.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214222302_828197lp_RNH660C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNH660C",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1080,
+    180,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RNH660C",
+  "plateUnicode": "RNH660C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771107782755,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Buick",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8169341087341309,
+    "coordinates": [
+      744,
+      0,
+      796,
+      362
+    ],
+    "model": "Enclave/Encore GX/Envision",
+    "type": "SUV"
+  }
+}

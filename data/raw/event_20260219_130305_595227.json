@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771506166068,
+  "carID": 114127,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 070250353",
+  "datetimezone": "20260219 130245306-0600",
+  "frame_timestamp": 1771506166068,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219125934_511122/20260219130245_535286lp_MCY724A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219125934_511122/20260219130245_535286.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219125934_511122/20260219130245_535286lp_MCY724A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "MCY724A",
+  "plateConfidence": 0.7633928656578064,
+  "plateCoordinates": [
+    867,
+    138,
+    126,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    63
+  ],
+  "plateCountry": "ITA",
+  "plateText": "MCY724A",
+  "plateUnicode": "MCY724A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771506166068,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7895431518554688,
+    "coordinates": [
+      536,
+      2,
+      764,
+      262
+    ],
+    "model": "Nivus/Taos/Taigo",
+    "type": "SUV"
+  }
+}

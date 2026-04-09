@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771761153072,
+  "carID": 122107,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 055237797",
+  "datetimezone": "20260222 115232745-0600",
+  "frame_timestamp": 1771761153072,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222062313_866115/20260222115233_28875lp_RTZ230C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222062313_866115/20260222115233_28875.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222062313_866115/20260222115233_28875lp_RTZ230C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTZ230C",
+  "plateConfidence": 0.6796875,
+  "plateCoordinates": [
+    1140,
+    177,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RTZ230C",
+  "plateUnicode": "RTZ230C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771761153072,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9894065856933594,
+    "coordinates": [
+      800,
+      0,
+      884,
+      446
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

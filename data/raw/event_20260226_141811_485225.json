@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772115470229,
+  "carID": 131874,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 081755131",
+  "datetimezone": "20260226 141750085-0600",
+  "frame_timestamp": 1772115470229,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226141750_356599lp_SPY619B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226141750_356599.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226141105_969941/20260226141750_356599lp_SPY619B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPY619B",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1002,
+    168,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SPY619B",
+  "plateUnicode": "SPY619B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772115470229,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5881004333496094,
+    "coordinates": [
+      704,
+      0,
+      740,
+      272
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

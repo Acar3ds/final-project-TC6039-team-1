@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770819466040,
+  "carID": 94153,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 081750935",
+  "datetimezone": "20260211 141745876-0600",
+  "frame_timestamp": 1770819466040,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211141746_196346lp_RTD477B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211141746_196346.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211141746_196346lp_RTD477B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTD477B",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    1209,
+    267,
+    141,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    54
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTD477B",
+  "plateUnicode": "RTD477B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770819466040,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7470781803131104,
+    "coordinates": [
+      880,
+      0,
+      788,
+      372
+    ],
+    "model": "Figo",
+    "type": "CAR"
+  }
+}

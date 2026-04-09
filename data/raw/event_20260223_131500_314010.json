@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771852480327,
+  "carID": 123696,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 071444799",
+  "datetimezone": "20260223 131439743-0600",
+  "frame_timestamp": 1771852480327,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223131439_991520lp_SCY700C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223131439_991520.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223131439_991520lp_SCY700C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCY700C",
+  "plateConfidence": 0.7477678656578064,
+  "plateCoordinates": [
+    885,
+    270,
+    144,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    78
+  ],
+  "plateCountry": "ITA",
+  "plateText": "SCY700C",
+  "plateUnicode": "SCY700C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771852480327,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3738183975219727,
+    "coordinates": [
+      552,
+      0,
+      812,
+      404
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

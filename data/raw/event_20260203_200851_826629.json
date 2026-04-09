@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770149315894,
+  "carID": 75959,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 140839652",
+  "datetimezone": "20260203 200834600-0600",
+  "frame_timestamp": 1770149315894,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203195559_87411/20260203200834_772969lp_RN8148B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203195559_87411/20260203200834_772969.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203195559_87411/20260203200834_772969lp_RN8148B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RN8148B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1380,
+    222,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RN8148B",
+  "plateUnicode": "RN8148B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770149315894,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.968427658081055,
+    "coordinates": [
+      968,
+      0,
+      924,
+      396
+    ],
+    "model": "F-150",
+    "type": "PICKUPTRUCK"
+  }
+}

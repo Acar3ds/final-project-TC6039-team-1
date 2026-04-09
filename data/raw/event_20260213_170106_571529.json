@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771002047057,
+  "carID": 100116,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 110052112",
+  "datetimezone": "20260213 170047057-0600",
+  "frame_timestamp": 1771002047057,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213170047_279706lp_8886JJ9.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213170047_279706.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213170047_279706lp_8886JJ9.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "8886JJ9",
+  "plateConfidence": 0.5904017686843872,
+  "plateCoordinates": [
+    1146,
+    753,
+    96,
+    42
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    96,
+    42
+  ],
+  "plateCountry": "FRA",
+  "plateText": "8886JJ9",
+  "plateUnicode": "8886JJ9",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771002047057,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9194602966308594,
+    "coordinates": [
+      920,
+      504,
+      516,
+      462
+    ],
+    "model": "Montero/Pajero",
+    "type": "SUV"
+  }
+}

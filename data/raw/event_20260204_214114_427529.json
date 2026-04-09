@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770241257282,
+  "carID": 78582,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 154102094",
+  "datetimezone": "20260204 214057045-0600",
+  "frame_timestamp": 1770241257282,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204214057_459192lp_ARLY995B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204214057_459192.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204214057_459192lp_ARLY995B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLY995B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1089,
+    174,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLY995B",
+  "plateUnicode": "RLY995B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770241257282,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9964966773986816,
+    "coordinates": [
+      764,
+      0,
+      764,
+      320
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

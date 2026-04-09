@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771016754575,
+  "carID": 100813,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 150559162",
+  "datetimezone": "20260213 210554104-0600",
+  "frame_timestamp": 1771016754575,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213210554_328659lp_TEH313B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213210554_328659.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213210554_328659lp_TEH313B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEH313B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    966,
+    138,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEH313B",
+  "plateUnicode": "TEH313B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771016754575,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.959836483001709,
+    "coordinates": [
+      628,
+      0,
+      816,
+      326
+    ],
+    "model": "Corolla Cross",
+    "type": "SUV"
+  }
+}

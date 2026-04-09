@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768897188512,
+  "carID": 121107,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 021948929",
+  "datetimezone": "20260120 081948512-0600",
+  "frame_timestamp": 1768897188512,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120061911_932433/20260120081948_850581lp_SGX197B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120061911_932433/20260120081948_850581.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120061911_932433/20260120081948_850581lp_SGX197B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGX197B",
+  "plateConfidence": 0.5162946581840515,
+  "plateCoordinates": [
+    1292,
+    80,
+    128,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    128,
+    43
+  ],
+  "plateCountry": "USA",
+  "plateText": "SGX197B",
+  "plateUnicode": "SGX197B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768897188512,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MINI",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7201347947120667,
+    "coordinates": [
+      1116,
+      0,
+      516,
+      174
+    ],
+    "model": "Hatch",
+    "type": "CAR"
+  }
+}

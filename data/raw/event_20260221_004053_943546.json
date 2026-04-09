@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771634435086,
+  "carID": 119091,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 184038593",
+  "datetimezone": "20260221 004033514-0600",
+  "frame_timestamp": 1771634435086,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260221004033_754764lp_TAC042A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260221004033_754764.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260221004033_754764lp_TAC042A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAC042A",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    864,
+    84,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAC042A",
+  "plateUnicode": "TAC042A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771634435086,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.011850833892822,
+    "coordinates": [
+      564,
+      0,
+      696,
+      234
+    ],
+    "model": "Delica D 2",
+    "type": "VAN"
+  }
+}

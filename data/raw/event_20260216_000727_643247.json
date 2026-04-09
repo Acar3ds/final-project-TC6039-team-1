@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771200429459,
+  "carID": 105418,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 180712805",
+  "datetimezone": "20260216 000707751-0600",
+  "frame_timestamp": 1771200429459,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216000708_16448lp_SGM420A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216000708_16448.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215234509_969611/20260216000708_16448lp_SGM420A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGM420A",
+  "plateConfidence": 0.8839285969734192,
+  "plateCoordinates": [
+    918,
+    93,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGM420A",
+  "plateUnicode": "SGM420A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771200429459,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.041987419128418,
+    "coordinates": [
+      572,
+      0,
+      828,
+      276
+    ],
+    "model": "Ridgeline",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770647869370,
+  "carID": 89000,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 083753671",
+  "datetimezone": "20260209 143748620-0600",
+  "frame_timestamp": 1770647869370,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209140923_857817/20260209143748_918502lp_SAB511A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209140923_857817/20260209143748_918502.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209140923_857817/20260209143748_918502lp_SAB511A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAB511A",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    1161,
+    168,
+    129,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAB511A",
+  "plateUnicode": "SAB511A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770647869370,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.808992385864258,
+    "coordinates": [
+      816,
+      0,
+      800,
+      302
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

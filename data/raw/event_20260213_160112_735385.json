@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770998453858,
+  "carID": 99968,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 100058450",
+  "datetimezone": "20260213 160053385-0600",
+  "frame_timestamp": 1770998453858,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213160053_647518lp_RUM627B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213160053_647518.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213160053_647518lp_RUM627B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUM627B",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    993,
+    123,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUM627B",
+  "plateUnicode": "RUM627B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770998453858,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.999074935913086,
+    "coordinates": [
+      656,
+      2,
+      792,
+      334
+    ],
+    "model": "CR-V",
+    "type": "SUV"
+  }
+}

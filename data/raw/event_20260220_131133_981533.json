@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771593073653,
+  "carID": 116870,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 071118549",
+  "datetimezone": "20260220 131113504-0600",
+  "frame_timestamp": 1771593073653,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220130759_735457/20260220131113_789775lp_TFT434A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220130759_735457/20260220131113_789775.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220130759_735457/20260220131113_789775lp_TFT434A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFT434A",
+  "plateConfidence": 0.7544642686843872,
+  "plateCoordinates": [
+    999,
+    147,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFT434A",
+  "plateUnicode": "TFT434A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771593073653,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.960092306137085,
+    "coordinates": [
+      688,
+      0,
+      744,
+      278
+    ],
+    "model": "Civic/Civic Ferio/Civic Type R",
+    "type": "CAR"
+  }
+}

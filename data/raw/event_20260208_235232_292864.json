@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770594735037,
+  "carID": 88084,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 175219544",
+  "datetimezone": "20260208 235214489-0600",
+  "frame_timestamp": 1770594735037,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235214_721509lp_RCW677B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235214_721509.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208224727_920843/20260208235214_721509lp_RCW677B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RCW677B",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    897,
+    102,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RCW677B",
+  "plateUnicode": "RCW677B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770594735037,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2112667560577393,
+    "coordinates": [
+      572,
+      2,
+      784,
+      220
+    ],
+    "model": "Fusion  USA /Fusion Energi/Mondeo",
+    "type": "CAR"
+  }
+}

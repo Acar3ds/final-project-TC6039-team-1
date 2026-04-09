@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770218768045,
+  "carID": 77680,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 092610965",
+  "datetimezone": "20260204 152605909-0600",
+  "frame_timestamp": 1770218768045,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204152606_128678lp_SBV744A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204152606_128678.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204152606_128678lp_SBV744A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBV744A",
+  "plateConfidence": 0.8772321343421936,
+  "plateCoordinates": [
+    756,
+    153,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBV744A",
+  "plateUnicode": "SBV744A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770218768045,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.400203704833984,
+    "coordinates": [
+      480,
+      0,
+      708,
+      296
+    ],
+    "model": "Corsa",
+    "type": "CAR"
+  }
+}

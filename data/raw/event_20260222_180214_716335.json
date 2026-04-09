@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771783314485,
+  "carID": 122417,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 120158958",
+  "datetimezone": "20260222 180153909-0600",
+  "frame_timestamp": 1771783314485,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222180154_199053lp_RL7815B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222180154_199053.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222164025_199393/20260222180154_199053lp_RL7815B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RL7815B",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1041,
+    156,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RL7815B",
+  "plateUnicode": "RL7815B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771783314485,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.455801010131836,
+    "coordinates": [
+      636,
+      0,
+      912,
+      498
+    ],
+    "model": "Tacoma",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772025375508,
+  "carID": 128899,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 071619425",
+  "datetimezone": "20260225 131614381-0600",
+  "frame_timestamp": 1772025375508,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225130935_291479/20260225131614_653008lp_TCG104B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225130935_291479/20260225131614_653008.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225130935_291479/20260225131614_653008lp_TCG104B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCG104B",
+  "plateConfidence": 0.7622767686843872,
+  "plateCoordinates": [
+    1050,
+    144,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "TCG104B",
+  "plateUnicode": "TCG104B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772025375508,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.950438022613525,
+    "coordinates": [
+      748,
+      0,
+      720,
+      270
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

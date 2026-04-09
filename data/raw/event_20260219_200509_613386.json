@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771531488968,
+  "carID": 115382,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 140453211",
+  "datetimezone": "20260219 200448161-0600",
+  "frame_timestamp": 1771531488968,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219200448_386141lp_RN3984B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219200448_386141.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219200448_386141lp_RN3984B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RN3984B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1209,
+    201,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RN3984B",
+  "plateUnicode": "RN3984B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771531488968,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.8017802238464355,
+    "coordinates": [
+      816,
+      0,
+      896,
+      338
+    ],
+    "model": "Sprinter",
+    "type": "VAN"
+  }
+}

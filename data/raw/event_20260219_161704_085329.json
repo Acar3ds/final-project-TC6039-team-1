@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771517804991,
+  "carID": 114760,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 101648881",
+  "datetimezone": "20260219 161643816-0600",
+  "frame_timestamp": 1771517804991,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219154222_19253/20260219161644_64602lp_SGX126B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219154222_19253/20260219161644_64602.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219154222_19253/20260219161644_64602lp_SGX126B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGX126B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1050,
+    261,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGX126B",
+  "plateUnicode": "SGX126B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771517804991,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.887965679168701,
+    "coordinates": [
+      680,
+      0,
+      852,
+      428
+    ],
+    "model": "Captiva",
+    "type": "SUV"
+  }
+}

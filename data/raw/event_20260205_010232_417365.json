@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770253336557,
+  "carID": 79073,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 190220301",
+  "datetimezone": "20260205 010215242-0600",
+  "frame_timestamp": 1770253336557,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205010215_479026lp_FPN204C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205010215_479026.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205000055_807220/20260205010215_479026lp_FPN204C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FPN204C",
+  "plateConfidence": 0.7901785969734192,
+  "plateCoordinates": [
+    954,
+    177,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FPN204C",
+  "plateUnicode": "FPN204C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770253336557,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9996992349624634,
+    "coordinates": [
+      668,
+      0,
+      708,
+      278
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

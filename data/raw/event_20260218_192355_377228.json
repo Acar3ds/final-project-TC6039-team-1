@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771442615191,
+  "carID": 112485,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 132340112",
+  "datetimezone": "20260218 192335060-0600",
+  "frame_timestamp": 1771442615191,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218184747_933936/20260218192335_264341lp_RM8682A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218184747_933936/20260218192335_264341.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218184747_933936/20260218192335_264341lp_RM8682A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RM8682A",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1038,
+    153,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RM8682A",
+  "plateUnicode": "RM8682A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771442615191,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.575429916381836,
+    "coordinates": [
+      660,
+      0,
+      876,
+      440
+    ],
+    "model": "Tacoma",
+    "type": "PICKUPTRUCK"
+  }
+}
