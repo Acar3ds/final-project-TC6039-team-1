@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770330208119,
+  "carID": 81219,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 162331671",
+  "datetimezone": "20260205 222326615-0600",
+  "frame_timestamp": 1770330208119,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205222326_844734lp_RSV126B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205222326_844734.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205222326_844734lp_RSV126B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSV126B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    912,
+    120,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSV126B",
+  "plateUnicode": "RSV126B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770330208119,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.580064296722412,
+    "coordinates": [
+      648,
+      0,
+      808,
+      264
+    ],
+    "model": "Aurion/Camry",
+    "type": "CAR"
+  }
+}

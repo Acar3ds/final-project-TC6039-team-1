@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770405868741,
+  "carID": 83349,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 132430119",
+  "datetimezone": "20260206 192425072-0600",
+  "frame_timestamp": 1770405868741,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192425_278329lp_PS8066B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192425_278329.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192425_278329lp_PS8066B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PS8066B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    954,
+    108,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PS8066B",
+  "plateUnicode": "PS8066B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770405868741,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 16.593860626220703,
+    "coordinates": [
+      672,
+      2,
+      704,
+      304
+    ],
+    "model": "Alhambra",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771596073361,
+  "carID": 117045,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 080117291",
+  "datetimezone": "20260220 140112234-0600",
+  "frame_timestamp": 1771596073361,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220134925_413497/20260220140112_489065lp_RKA520C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220134925_413497/20260220140112_489065.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220134925_413497/20260220140112_489065lp_RKA520C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKA520C",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    993,
+    123,
+    144,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKA520C",
+  "plateUnicode": "RKA520C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771596073361,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.021048069000244,
+    "coordinates": [
+      672,
+      0,
+      764,
+      258
+    ],
+    "model": "Avensis/Corolla",
+    "type": "CAR"
+  }
+}

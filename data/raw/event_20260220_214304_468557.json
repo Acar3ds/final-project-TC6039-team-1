@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771623764820,
+  "carID": 118607,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 154248979",
+  "datetimezone": "20260220 214243931-0600",
+  "frame_timestamp": 1771623764820,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220214244_186127lp_SHC170B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220214244_186127.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220214244_186127lp_SHC170B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHC170B",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    915,
+    135,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHC170B",
+  "plateUnicode": "SHC170B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771623764820,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.296442985534668,
+    "coordinates": [
+      588,
+      2,
+      804,
+      306
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

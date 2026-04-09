@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770679869823,
+  "carID": 90484,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 173114405",
+  "datetimezone": "20260209 233109350-0600",
+  "frame_timestamp": 1770679869823,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209224516_893810/20260209233109_585040lp_RLV470C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209224516_893810/20260209233109_585040.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209224516_893810/20260209233109_585040lp_RLV470C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLV470C",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    972,
+    123,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLV470C",
+  "plateUnicode": "RLV470C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770679869823,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.997303009033203,
+    "coordinates": [
+      624,
+      0,
+      824,
+      296
+    ],
+    "model": "Sportage",
+    "type": "SUV"
+  }
+}

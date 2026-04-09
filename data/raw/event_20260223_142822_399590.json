@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GBR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771856882200,
+  "carID": 123947,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 082806639",
+  "datetimezone": "20260223 142801581-0600",
+  "frame_timestamp": 1771856882200,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142801_833749lp_RWY944A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142801_833749.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142801_833749lp_RWY944A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWY944",
+  "plateConfidence": 0.8723958134651184,
+  "plateCoordinates": [
+    1080,
+    285,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "GBR",
+  "plateText": "RWY944",
+  "plateUnicode": "RWY944",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771856882200,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.314223289489746,
+    "coordinates": [
+      752,
+      0,
+      780,
+      392
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771969368192,
+  "carID": 127774,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 154252220",
+  "datetimezone": "20260224 214247162-0600",
+  "frame_timestamp": 1771969368192,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224213921_407631/20260224214247_326503lp_HX7710A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224213921_407631/20260224214247_326503.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224213921_407631/20260224214247_326503lp_HX7710A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "HX7710A",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    993,
+    174,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "HX7710A",
+  "plateUnicode": "HX7710A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771969368192,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.30374526977539,
+    "coordinates": [
+      616,
+      0,
+      888,
+      392
+    ],
+    "model": "HiAce",
+    "type": "VAN"
+  }
+}

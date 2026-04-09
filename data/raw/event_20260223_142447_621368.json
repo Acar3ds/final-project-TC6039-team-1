@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771856667628,
+  "carID": 123935,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 082431891",
+  "datetimezone": "20260223 142426837-0600",
+  "frame_timestamp": 1771856667628,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142427_100622lp_SEH828C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142427_100622.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142427_100622lp_SEH828C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEH828C",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1101,
+    222,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEH828C",
+  "plateUnicode": "SEH828C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771856667628,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.658096313476562,
+    "coordinates": [
+      768,
+      0,
+      800,
+      338
+    ],
+    "model": "CT4/CT4-V/CT5/CT5-V",
+    "type": "CAR"
+  }
+}

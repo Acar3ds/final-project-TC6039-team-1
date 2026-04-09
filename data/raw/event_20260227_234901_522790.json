@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772236120208,
+  "carID": 136434,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 174845058",
+  "datetimezone": "20260227 234840006-0600",
+  "frame_timestamp": 1772236120208,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227225759_34672/20260227234840_235008lp_SJK093A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227225759_34672/20260227234840_235008.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227225759_34672/20260227234840_235008lp_SJK093A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJK093A",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    1191,
+    180,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJK093A",
+  "plateUnicode": "SJK093A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772236120208,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.765228748321533,
+    "coordinates": [
+      860,
+      0,
+      788,
+      362
+    ],
+    "model": "Alhambra/Arona",
+    "type": "SUV"
+  }
+}

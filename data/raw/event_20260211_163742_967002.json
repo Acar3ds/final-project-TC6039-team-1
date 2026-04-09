@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770827845180,
+  "carID": 94616,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 103729663",
+  "datetimezone": "20260211 163724607-0600",
+  "frame_timestamp": 1770827845180,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211163724_868883lp_SCE697C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211163724_868883.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211162444_603090/20260211163724_868883lp_SCE697C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCE697C",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1095,
+    108,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCE697C",
+  "plateUnicode": "SCE697C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770827845180,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8638739585876465,
+    "coordinates": [
+      768,
+      0,
+      768,
+      284
+    ],
+    "model": "A7/RS7/S7",
+    "type": "CAR"
+  }
+}

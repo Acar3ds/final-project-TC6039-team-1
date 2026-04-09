@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770992081320,
+  "carID": 99591,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 081446216",
+  "datetimezone": "20260213 141441162-0600",
+  "frame_timestamp": 1770992081320,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213140748_742363/20260213141441_384539lp_XPL294C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213140748_742363/20260213141441_384539.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213140748_742363/20260213141441_384539lp_XPL294C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "XPL294C",
+  "plateConfidence": 0.8002232313156128,
+  "plateCoordinates": [
+    849,
+    168,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "XPL294C",
+  "plateUnicode": "XPL294C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770992081320,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9999802112579346,
+    "coordinates": [
+      528,
+      2,
+      772,
+      304
+    ],
+    "model": "Cruze/Onix/Malibu",
+    "type": "CAR"
+  }
+}

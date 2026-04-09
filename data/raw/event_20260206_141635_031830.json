@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770387377779,
+  "carID": 82417,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 081622399",
+  "datetimezone": "20260206 141617334-0600",
+  "frame_timestamp": 1770387377779,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206141617_547527lp_RVR984C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206141617_547527.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206141617_547527lp_RVR984C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVR984C",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1017,
+    102,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVR984C",
+  "plateUnicode": "RVR984C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770387377779,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9961785078048706,
+    "coordinates": [
+      684,
+      0,
+      796,
+      290
+    ],
+    "model": "Range Rover Evoque",
+    "type": "SUV"
+  }
+}

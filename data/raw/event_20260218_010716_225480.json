@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771376820821,
+  "carID": 110678,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 190701122",
+  "datetimezone": "20260218 010656072-0600",
+  "frame_timestamp": 1771376820821,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218002710_951187/20260218010656_369385lp_SZJ156A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218002710_951187/20260218010656_369385.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218002710_951187/20260218010656_369385lp_SZJ156A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZJ156A",
+  "plateConfidence": 0.8180803656578064,
+  "plateCoordinates": [
+    1065,
+    111,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZJ156A",
+  "plateUnicode": "SZJ156A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771376820821,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jaguar",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.839048862457275,
+    "coordinates": [
+      780,
+      0,
+      724,
+      282
+    ],
+    "model": "F-Type",
+    "type": "CAR"
+  }
+}

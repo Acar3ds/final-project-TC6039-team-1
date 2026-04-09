@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771526881108,
+  "carID": 115142,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 124805437",
+  "datetimezone": "20260219 184800378-0600",
+  "frame_timestamp": 1771526881108,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219175830_625279/20260219184800_676977lp_RPJ044B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219175830_625279/20260219184800_676977.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219175830_625279/20260219184800_676977lp_RPJ044B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPJ044B",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    708,
+    201,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPJ044B",
+  "plateUnicode": "RPJ044B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771526881108,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9950451850891113,
+    "coordinates": [
+      368,
+      0,
+      800,
+      342
+    ],
+    "model": "EQA/EQB",
+    "type": "SUV"
+  }
+}

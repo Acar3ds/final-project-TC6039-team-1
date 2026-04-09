@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "CAN"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768915857778,
+  "carID": 121939,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 073058647",
+  "datetimezone": "20260120 133057778-0600",
+  "frame_timestamp": 1768915857778,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120132934_159769/20260120133058_560948lp_EK159A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120132934_159769/20260120133058_560948.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120132934_159769/20260120133058_560948lp_EK159A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EK159A",
+  "plateConfidence": 0.7643229365348816,
+  "plateCoordinates": [
+    2190,
+    206,
+    150,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    43
+  ],
+  "plateCountry": "CAN",
+  "plateText": "EK159A",
+  "plateUnicode": "EK159A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768915857778,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6658423542976379,
+    "coordinates": [
+      1924,
+      0,
+      556,
+      312
+    ],
+    "model": "Cruze/Onix/Malibu",
+    "type": "CAR"
+  }
+}

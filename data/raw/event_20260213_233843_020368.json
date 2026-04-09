@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771025903722,
+  "carID": 101251,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 173828621",
+  "datetimezone": "20260213 233823563-0600",
+  "frame_timestamp": 1771025903722,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213233823_785296lp_RSJ591B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213233823_785296.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213233823_785296lp_RSJ591B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSJ591B",
+  "plateConfidence": 0.8024553656578064,
+  "plateCoordinates": [
+    1074,
+    204,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSJ591B",
+  "plateUnicode": "RSJ591B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771025903722,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volvo",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9964509010314941,
+    "coordinates": [
+      728,
+      0,
+      816,
+      326
+    ],
+    "model": "S60/S60 Cross Country/V60/V60 Cross Country",
+    "type": "CAR"
+  }
+}

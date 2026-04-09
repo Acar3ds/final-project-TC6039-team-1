@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770379364972,
+  "carID": 82121,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 060248802",
+  "datetimezone": "20260206 120243752-0600",
+  "frame_timestamp": 1770379364972,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206071516_516359/20260206120244_63419lp_3PH1196C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206071516_516359/20260206120244_63419.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206071516_516359/20260206120244_63419lp_3PH1196C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PH1196C",
+  "plateConfidence": 0.7901785969734192,
+  "plateCoordinates": [
+    972,
+    96,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "PH1196C",
+  "plateUnicode": "PH1196C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770379364972,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Great Wall",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 37.63344955444336,
+    "coordinates": [
+      636,
+      0,
+      832,
+      308
+    ],
+    "model": "Wingle/Steed/Socool/Sailor",
+    "type": "PICKUPTRUCK"
+  }
+}

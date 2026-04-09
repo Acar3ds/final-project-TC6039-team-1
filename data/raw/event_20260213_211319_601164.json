@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771017180210,
+  "carID": 100827,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 151305125",
+  "datetimezone": "20260213 211300073-0600",
+  "frame_timestamp": 1771017180210,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213211300_296157lp_RPS820B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213211300_296157.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213211300_296157lp_RPS820B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPS820B",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    948,
+    195,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPS820B",
+  "plateUnicode": "RPS820B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771017180210,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.998795509338379,
+    "coordinates": [
+      644,
+      0,
+      740,
+      336
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771625134982,
+  "carID": 118665,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 160539550",
+  "datetimezone": "20260220 220534494-0600",
+  "frame_timestamp": 1771625134982,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220220534_770069lp_SES421A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220220534_770069.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220220534_770069lp_SES421A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SES421A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1059,
+    177,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SES421A",
+  "plateUnicode": "SES421A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771625134982,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7091212272644043,
+    "coordinates": [
+      724,
+      0,
+      800,
+      278
+    ],
+    "model": "CLA/CLA AMG",
+    "type": "CAR"
+  }
+}

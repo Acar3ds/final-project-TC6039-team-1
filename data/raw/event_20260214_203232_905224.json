@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771101133461,
+  "carID": 103198,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 143218192",
+  "datetimezone": "20260214 203213145-0600",
+  "frame_timestamp": 1771101133461,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214203213_449028lp_SDU345B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214203213_449028.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214203213_449028lp_SDU345B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDU345B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    924,
+    141,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDU345B",
+  "plateUnicode": "SDU345B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771101133461,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9999232292175293,
+    "coordinates": [
+      612,
+      2,
+      756,
+      292
+    ],
+    "model": "Swift",
+    "type": "CAR"
+  }
+}

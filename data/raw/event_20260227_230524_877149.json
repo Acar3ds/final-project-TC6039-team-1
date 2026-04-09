@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772233503970,
+  "carID": 136325,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 170508555",
+  "datetimezone": "20260227 230503504-0600",
+  "frame_timestamp": 1772233503970,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227225759_34672/20260227230503_753442lp_RPL577C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227225759_34672/20260227230503_753442.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227225759_34672/20260227230503_753442lp_RPL577C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPL577C",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1182,
+    189,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPL577C",
+  "plateUnicode": "RPL577C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772233503970,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5653738975524902,
+    "coordinates": [
+      864,
+      0,
+      748,
+      350
+    ],
+    "model": "Fox/Golf/Golf Alltrack/Golf GTI/Golf Plus/Golf Sportsvan/e-Golf",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771111777169,
+  "carID": 103618,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 172941369",
+  "datetimezone": "20260214 232936321-0600",
+  "frame_timestamp": 1771111777169,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214230841_668248/20260214232936_563730lp_T1277B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214230841_668248/20260214232936_563730.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214230841_668248/20260214232936_563730lp_T1277B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "T1277B",
+  "plateConfidence": 0.8463541865348816,
+  "plateCoordinates": [
+    1149,
+    189,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "ESP",
+  "plateText": "T1277B",
+  "plateUnicode": "T1277B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771111777169,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4101004600524902,
+    "coordinates": [
+      740,
+      0,
+      832,
+      380
+    ],
+    "model": "Caravelle/California/Multivan/Transporter",
+    "type": "VAN"
+  }
+}

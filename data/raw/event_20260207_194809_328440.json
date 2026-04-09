@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770493672121,
+  "carID": 85802,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 134756552",
+  "datetimezone": "20260207 194751501-0600",
+  "frame_timestamp": 1770493672121,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207194751_765460lp_SJY909B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207194751_765460.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207194751_765460lp_SJY909B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJY909B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    1005,
+    111,
+    126,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJY909B",
+  "plateUnicode": "SJY909B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770493672121,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1508359909057617,
+    "coordinates": [
+      680,
+      0,
+      756,
+      278
+    ],
+    "model": "Kicks",
+    "type": "SUV"
+  }
+}

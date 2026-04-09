@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771024582054,
+  "carID": 101189,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 171624066",
+  "datetimezone": "20260213 231618991-0600",
+  "frame_timestamp": 1771024582054,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213231619_242843lp_SHV144A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213231619_242843.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213231619_242843lp_SHV144A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHV144A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    990,
+    96,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHV144A",
+  "plateUnicode": "SHV144A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771024582054,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 23.042491912841797,
+    "coordinates": [
+      640,
+      0,
+      872,
+      266
+    ],
+    "model": "911 GT2/911 GT3/911 GT4",
+    "type": "CAR"
+  }
+}

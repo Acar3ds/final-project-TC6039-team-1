@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771958468021,
+  "carID": 127226,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 124112926",
+  "datetimezone": "20260224 184107877-0600",
+  "frame_timestamp": 1771958468021,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224184108_104181lp_TEV561A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224184108_104181.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224184108_104181lp_TEV561A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEV561A",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    1275,
+    198,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEV561A",
+  "plateUnicode": "TEV561A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771958468021,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1670637130737305,
+    "coordinates": [
+      852,
+      0,
+      848,
+      354
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

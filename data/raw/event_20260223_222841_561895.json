@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771885701724,
+  "carID": 125282,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 162825914",
+  "datetimezone": "20260223 222820861-0600",
+  "frame_timestamp": 1771885701724,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223221037_252623/20260223222821_104040lp_RNM015C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223221037_252623/20260223222821_104040.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223221037_252623/20260223222821_104040lp_RNM015C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNM015C",
+  "plateConfidence": 0.8180803656578064,
+  "plateCoordinates": [
+    948,
+    234,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RNM015C",
+  "plateUnicode": "RNM015C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771885701724,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.948707103729248,
+    "coordinates": [
+      608,
+      2,
+      828,
+      394
+    ],
+    "model": "3/6/Atenza/Axela",
+    "type": "CAR"
+  }
+}

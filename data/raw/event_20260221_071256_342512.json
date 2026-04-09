@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771657960198,
+  "carID": 119765,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 011240998",
+  "datetimezone": "20260221 071235953-0600",
+  "frame_timestamp": 1771657960198,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221054601_696844/20260221071236_173510lp_SFB318B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221054601_696844/20260221071236_173510.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221054601_696844/20260221071236_173510lp_SFB318B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFB318B",
+  "plateConfidence": 0.8069196343421936,
+  "plateCoordinates": [
+    1002,
+    93,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFB318B",
+  "plateUnicode": "SFB318B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771657960198,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6981310844421387,
+    "coordinates": [
+      676,
+      0,
+      788,
+      272
+    ],
+    "model": "Corsa/Corsa-e",
+    "type": "CAR"
+  }
+}

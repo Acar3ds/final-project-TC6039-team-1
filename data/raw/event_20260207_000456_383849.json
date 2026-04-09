@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770422679322,
+  "carID": 84081,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 180444050",
+  "datetimezone": "20260207 000438993-0600",
+  "frame_timestamp": 1770422679322,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260207000439_283573lp_RE1672B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260207000439_283573.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260207000439_283573lp_RE1672B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RE1672B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    960,
+    387,
+    144,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    78
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RE1672B",
+  "plateUnicode": "RE1672B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770422679322,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.99337899684906,
+    "coordinates": [
+      624,
+      0,
+      844,
+      518
+    ],
+    "model": "Celerio",
+    "type": "CAR"
+  }
+}

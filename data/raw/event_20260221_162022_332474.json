@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771690803560,
+  "carID": 120214,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 102006789",
+  "datetimezone": "20260221 162001733-0600",
+  "frame_timestamp": 1771690803560,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221162002_25958lp_RKF885C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221162002_25958.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221162002_25958lp_RKF885C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKF885C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1038,
+    177,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKF885C",
+  "plateUnicode": "RKF885C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771690803560,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.469367980957031,
+    "coordinates": [
+      724,
+      0,
+      768,
+      326
+    ],
+    "model": "Aygo/Yaris/Vitz",
+    "type": "CAR"
+  }
+}

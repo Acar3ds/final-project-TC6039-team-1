@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771545030006,
+  "carID": 115957,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 175034895",
+  "datetimezone": "20260219 235029843-0600",
+  "frame_timestamp": 1771545030006,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219235030_127867lp_BGP326A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219235030_127867.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219235030_127867lp_BGP326A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "BGP326A",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1005,
+    204,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "BGP326A",
+  "plateUnicode": "BGP326A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771545030006,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.996303677558899,
+    "coordinates": [
+      664,
+      0,
+      804,
+      302
+    ],
+    "model": "A4/A5/RS4/RS5/S4/S5",
+    "type": "CAR"
+  }
+}

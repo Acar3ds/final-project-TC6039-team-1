@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770649877207,
+  "carID": 89148,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 091121256",
+  "datetimezone": "20260209 151116190-0600",
+  "frame_timestamp": 1770649877207,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209145246_406533/20260209151116_454161lp_SGM700B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209145246_406533/20260209151116_454161.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209145246_406533/20260209151116_454161lp_SGM700B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGM700B",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1017,
+    114,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGM700B",
+  "plateUnicode": "SGM700B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770649877207,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.917685508728027,
+    "coordinates": [
+      708,
+      0,
+      736,
+      260
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771450654333,
+  "carID": 112900,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 153737041",
+  "datetimezone": "20260218 213731990-0600",
+  "frame_timestamp": 1771450654333,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218213732_235676lp_SXZ078A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218213732_235676.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218213732_235676lp_SXZ078A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXZ078A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    960,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXZ078A",
+  "plateUnicode": "SXZ078A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771450654333,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 16.66196632385254,
+    "coordinates": [
+      648,
+      0,
+      748,
+      252
+    ],
+    "model": "Ciaz",
+    "type": "CAR"
+  }
+}

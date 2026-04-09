@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771341965808,
+  "carID": 109189,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 092610411",
+  "datetimezone": "20260217 152605355-0600",
+  "frame_timestamp": 1771341965808,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152605_615515lp_SEF446A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152605_615515.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152605_615515lp_SEF446A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEF446A",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    906,
+    159,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEF446A",
+  "plateUnicode": "SEF446A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771341965808,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.930555820465088,
+    "coordinates": [
+      612,
+      0,
+      732,
+      276
+    ],
+    "model": "Kombi T2",
+    "type": "VAN"
+  }
+}

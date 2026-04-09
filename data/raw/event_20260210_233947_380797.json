@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770766769762,
+  "carID": 93065,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 173934337",
+  "datetimezone": "20260210 233929282-0600",
+  "frame_timestamp": 1770766769762,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210233929_544589lp_SZC407A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210233929_544589.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210224353_925999/20260210233929_544589lp_SZC407A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZC407A",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1068,
+    132,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZC407A",
+  "plateUnicode": "SZC407A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770766769762,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9193403720855713,
+    "coordinates": [
+      816,
+      0,
+      812,
+      312
+    ],
+    "model": "Puma",
+    "type": "SUV"
+  }
+}

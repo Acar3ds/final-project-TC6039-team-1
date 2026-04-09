@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771509677636,
+  "carID": 114316,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 080121425",
+  "datetimezone": "20260219 140116375-0600",
+  "frame_timestamp": 1771509677636,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140116_604353lp_SX945B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140116_604353.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140116_604353lp_SX945B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SX945B",
+  "plateConfidence": 0.8255208134651184,
+  "plateCoordinates": [
+    915,
+    132,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "SX945B",
+  "plateUnicode": "SX945B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771509677636,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8028039932250977,
+    "coordinates": [
+      608,
+      0,
+      740,
+      300
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

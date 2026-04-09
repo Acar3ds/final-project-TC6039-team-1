@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771244467874,
+  "carID": 106028,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 062112473",
+  "datetimezone": "20260216 122107421-0600",
+  "frame_timestamp": 1771244467874,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216052006_774787/20260216122107_664410lp_NM548L.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216052006_774787/20260216122107_664410.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216052006_774787/20260216122107_664410lp_NM548L.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNM548C",
+  "plateConfidence": 0.7566964030265808,
+  "plateCoordinates": [
+    867,
+    126,
+    126,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    60
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RNM548C",
+  "plateUnicode": "RNM548C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771244467874,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Pontiac",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.990816354751587,
+    "coordinates": [
+      552,
+      0,
+      740,
+      368
+    ],
+    "model": "G4/G5/G6",
+    "type": "CAR"
+  }
+}

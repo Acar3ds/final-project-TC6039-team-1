@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770940125370,
+  "carID": 98411,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 174849805",
+  "datetimezone": "20260212 234844753-0600",
+  "frame_timestamp": 1770940125370,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212234845_47015lp_PL4545B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212234845_47015.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212234845_47015lp_PL4545B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PL4545B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1191,
+    144,
+    144,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    66
+  ],
+  "plateCountry": "ITA",
+  "plateText": "PL4545B",
+  "plateUnicode": "PL4545B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770940125370,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.657060146331787,
+    "coordinates": [
+      856,
+      6,
+      812,
+      398
+    ],
+    "model": "Pajero Sport/Triton/L200/Challenger",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770321364805,
+  "carID": 80812,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 135608805",
+  "datetimezone": "20260205 195603745-0600",
+  "frame_timestamp": 1770321364805,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205195603_998161lp_RLP456C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205195603_998161.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205195603_998161lp_RLP456C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLP456C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1011,
+    129,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLP456C",
+  "plateUnicode": "RLP456C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770321364805,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BYD",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.993561744689941,
+    "coordinates": [
+      672,
+      2,
+      812,
+      322
+    ],
+    "model": "Qin Plus/Qin Pro DM",
+    "type": "CAR"
+  }
+}

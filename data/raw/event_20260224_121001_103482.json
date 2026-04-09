@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "POL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771934979902,
+  "carID": 126123,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 060944958",
+  "datetimezone": "20260224 120939902-0600",
+  "frame_timestamp": 1771934979902,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224044406_718868/20260224120940_182437lp_RIACENTRK.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224044406_718868/20260224120940_182437.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224044406_718868/20260224120940_182437lp_RIACENTRK.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RIACENTRK",
+  "plateConfidence": 0.7552083134651184,
+  "plateCoordinates": [
+    1167,
+    738,
+    375,
+    87
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    375,
+    87
+  ],
+  "plateCountry": "POL",
+  "plateText": "RIACENTRK",
+  "plateUnicode": "RIACENTRK",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771934979902,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.435364842414856,
+    "coordinates": [
+      8,
+      26,
+      1740,
+      1050
+    ],
+    "model": "Range Rover Evoque/Range Rover Velar",
+    "type": "SUV"
+  }
+}

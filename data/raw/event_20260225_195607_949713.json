@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772049348589,
+  "carID": 130142,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 135551959",
+  "datetimezone": "20260225 195546901-0600",
+  "frame_timestamp": 1772049348589,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225195547_165959lp_TEN909A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225195547_165959.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225192659_648818/20260225195547_165959lp_TEN909A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEN909A",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    972,
+    96,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEN909A",
+  "plateUnicode": "TEN909A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772049348589,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2776079177856445,
+    "coordinates": [
+      636,
+      0,
+      768,
+      282
+    ],
+    "model": "F-150",
+    "type": "SUV"
+  }
+}

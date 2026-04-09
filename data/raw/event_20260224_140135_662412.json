@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771941676644,
+  "carID": 126393,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 080119700",
+  "datetimezone": "20260224 140114647-0600",
+  "frame_timestamp": 1771941676644,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224140114_960115lp_RWS124C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224140114_960115.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224140114_960115lp_RWS124C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWS124C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    981,
+    138,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWS124C",
+  "plateUnicode": "RWS124C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771941676644,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.332491874694824,
+    "coordinates": [
+      636,
+      0,
+      828,
+      302
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

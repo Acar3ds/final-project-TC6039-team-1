@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771555735809,
+  "carID": 116407,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 204900348",
+  "datetimezone": "20260220 024855300-0600",
+  "frame_timestamp": 1771555735809,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220024855_518556lp_TGF552A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220024855_518556.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220024855_518556lp_TGF552A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGF552A",
+  "plateConfidence": 0.8136160969734192,
+  "plateCoordinates": [
+    1134,
+    114,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGF552A",
+  "plateUnicode": "TGF552A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771555735809,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5274393558502197,
+    "coordinates": [
+      772,
+      0,
+      812,
+      308
+    ],
+    "model": "Crown/Crown Majesta",
+    "type": "CAR"
+  }
+}

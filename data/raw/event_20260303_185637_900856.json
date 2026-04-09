@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772564175310,
+  "carID": 144955,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260303 125620045",
+  "datetimezone": "20260303 185614988-0600",
+  "frame_timestamp": 1772564175310,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303185615_257854lp_RVD075C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303185615_257854.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303185615_257854lp_RVD075C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVD075C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1086,
+    144,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVD075C",
+  "plateUnicode": "RVD075C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772564175310,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7621175050735474,
+    "coordinates": [
+      732,
+      0,
+      804,
+      296
+    ],
+    "model": "New Beetle",
+    "type": "CAR"
+  }
+}

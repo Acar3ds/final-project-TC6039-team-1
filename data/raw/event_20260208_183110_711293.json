@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770575455097,
+  "carID": 87508,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 123057990",
+  "datetimezone": "20260208 183052939-0600",
+  "frame_timestamp": 1770575455097,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208183053_183569lp_RUT650C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208183053_183569.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208172435_427312/20260208183053_183569lp_RUT650C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUT650C",
+  "plateConfidence": 0.828125,
+  "plateCoordinates": [
+    993,
+    123,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUT650C",
+  "plateUnicode": "RUT650C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770575455097,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.922615051269531,
+    "coordinates": [
+      624,
+      0,
+      864,
+      362
+    ],
+    "model": "Grand Cherokee",
+    "type": "SUV"
+  }
+}

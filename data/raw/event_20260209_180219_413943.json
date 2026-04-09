@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770660122308,
+  "carID": 89589,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 120206446",
+  "datetimezone": "20260209 180201385-0600",
+  "frame_timestamp": 1770660122308,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209180201_633102lp_RMX865C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209180201_633102.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209180201_633102lp_RMX865C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMX865C",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    894,
+    126,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMX865C",
+  "plateUnicode": "RMX865C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770660122308,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.814549446105957,
+    "coordinates": [
+      564,
+      0,
+      776,
+      306
+    ],
+    "model": "Auris/Corolla",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771086508632,
+  "carID": 102568,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 102833250",
+  "datetimezone": "20260214 162828192-0600",
+  "frame_timestamp": 1771086508632,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214162828_463784lp_RMT081B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214162828_463784.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214162828_463784lp_RMT081B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMT081B",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    852,
+    90,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMT081B",
+  "plateUnicode": "RMT081B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771086508632,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5981868505477905,
+    "coordinates": [
+      524,
+      0,
+      808,
+      278
+    ],
+    "model": "Freed/Odyssey",
+    "type": "VAN"
+  }
+}

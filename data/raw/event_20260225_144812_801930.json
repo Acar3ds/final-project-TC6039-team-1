@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772030873664,
+  "carID": 129236,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 084756610",
+  "datetimezone": "20260225 144751547-0600",
+  "frame_timestamp": 1772030873664,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225144751_769512lp_TDL901B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225144751_769512.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225144751_769512lp_TDL901B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDL901B",
+  "plateConfidence": 0.7544642686843872,
+  "plateCoordinates": [
+    957,
+    114,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDL901B",
+  "plateUnicode": "TDL901B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772030873664,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.123911738395691,
+    "coordinates": [
+      660,
+      0,
+      728,
+      248
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

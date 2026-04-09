@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770493334568,
+  "carID": 85781,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 134219370",
+  "datetimezone": "20260207 194214270-0600",
+  "frame_timestamp": 1770493334568,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207194214_518577lp_RYD811B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207194214_518577.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207194214_518577lp_RYD811B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYD811B",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    1161,
+    117,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYD811B",
+  "plateUnicode": "RYD811B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770493334568,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8368397951126099,
+    "coordinates": [
+      820,
+      0,
+      772,
+      320
+    ],
+    "model": "EcoSport",
+    "type": "SUV"
+  }
+}

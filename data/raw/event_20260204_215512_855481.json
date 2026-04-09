@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770242096593,
+  "carID": 78611,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 155500559",
+  "datetimezone": "20260204 215455515-0600",
+  "frame_timestamp": 1770242096593,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204215455_766289lp_SNM541A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204215455_766289.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204215455_766289lp_SNM541A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SNM541A",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    942,
+    123,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SNM541A",
+  "plateUnicode": "SNM541A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770242096593,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4260332584381104,
+    "coordinates": [
+      624,
+      2,
+      764,
+      264
+    ],
+    "model": "NV400",
+    "type": "VAN"
+  }
+}

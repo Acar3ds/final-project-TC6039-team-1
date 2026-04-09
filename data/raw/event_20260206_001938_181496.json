@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770337162959,
+  "carID": 81513,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 181925997",
+  "datetimezone": "20260206 001920939-0600",
+  "frame_timestamp": 1770337162959,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206001921_213259lp_SAC285C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206001921_213259.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206001921_213259lp_SAC285C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAC285C",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1158,
+    144,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAC285C",
+  "plateUnicode": "SAC285C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770337162959,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.824316024780273,
+    "coordinates": [
+      804,
+      0,
+      828,
+      320
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

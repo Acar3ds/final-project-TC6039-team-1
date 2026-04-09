@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771679775191,
+  "carID": 119906,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 071620107",
+  "datetimezone": "20260221 131615045-0600",
+  "frame_timestamp": 1771679775191,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221113728_882501/20260221131615_263111lp_RZC770C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221113728_882501/20260221131615_263111.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221113728_882501/20260221131615_263111lp_RZC770C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZC770C",
+  "plateConfidence": 0.7600446343421936,
+  "plateCoordinates": [
+    1431,
+    180,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RZC770C",
+  "plateUnicode": "RZC770C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771679775191,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7844624519348145,
+    "coordinates": [
+      1068,
+      0,
+      832,
+      396
+    ],
+    "model": "Escudo/Grand Vitara",
+    "type": "SUV"
+  }
+}

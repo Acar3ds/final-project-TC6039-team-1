@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771524324410,
+  "carID": 115023,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 120527385",
+  "datetimezone": "20260219 180522340-0600",
+  "frame_timestamp": 1771524324410,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219175830_625279/20260219180522_610847lp_SFW673A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219175830_625279/20260219180522_610847.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219175830_625279/20260219180522_610847lp_SFW673A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFW673A",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    855,
+    84,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFW673A",
+  "plateUnicode": "SFW673A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771524324410,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.343604564666748,
+    "coordinates": [
+      512,
+      0,
+      816,
+      296
+    ],
+    "model": "A7/A8",
+    "type": "CAR"
+  }
+}

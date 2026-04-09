@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771700699767,
+  "carID": 120590,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 130503521",
+  "datetimezone": "20260221 190458471-0600",
+  "frame_timestamp": 1771700699767,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221190458_694985lp_SBE699C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221190458_694985.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221184934_699130/20260221190458_694985lp_SBE699C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBE699C",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1086,
+    213,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBE699C",
+  "plateUnicode": "SBE699C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771700699767,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.4145755767822266,
+    "coordinates": [
+      768,
+      2,
+      752,
+      342
+    ],
+    "model": "Hornet",
+    "type": "SUV"
+  }
+}

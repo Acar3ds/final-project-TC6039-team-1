@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771597964076,
+  "carID": 117168,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 083249005",
+  "datetimezone": "20260220 143243945-0600",
+  "frame_timestamp": 1771597964076,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143244_188896lp_SCM082C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143244_188896.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143244_188896lp_SCM082C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCM082C",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1170,
+    186,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCM082C",
+  "plateUnicode": "SCM082C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771597964076,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "LDV",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9991307258605957,
+    "coordinates": [
+      812,
+      0,
+      820,
+      314
+    ],
+    "model": "G20/G50",
+    "type": "VAN"
+  }
+}

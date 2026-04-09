@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771510067264,
+  "carID": 114338,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 080751689",
+  "datetimezone": "20260219 140746642-0600",
+  "frame_timestamp": 1771510067264,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140746_888379lp_RZL399C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140746_888379.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219134602_665653/20260219140746_888379lp_RZL399C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZL399C",
+  "plateConfidence": 0.8772321343421936,
+  "plateCoordinates": [
+    1035,
+    171,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZL399C",
+  "plateUnicode": "RZL399C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771510067264,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9420344829559326,
+    "coordinates": [
+      708,
+      0,
+      788,
+      320
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

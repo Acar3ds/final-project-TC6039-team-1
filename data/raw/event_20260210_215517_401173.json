@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770760499512,
+  "carID": 92835,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 155504263",
+  "datetimezone": "20260210 215459205-0600",
+  "frame_timestamp": 1770760499512,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210213354_978965/20260210215459_438029lp_SMZ036B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210213354_978965/20260210215459_438029.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210213354_978965/20260210215459_438029lp_SMZ036B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMZ036B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    972,
+    144,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMZ036B",
+  "plateUnicode": "SMZ036B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770760499512,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.991239070892334,
+    "coordinates": [
+      608,
+      2,
+      856,
+      358
+    ],
+    "model": "Highlander/Kluger",
+    "type": "SUV"
+  }
+}

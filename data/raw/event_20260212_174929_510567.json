@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770918552849,
+  "carID": 97403,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 114916153",
+  "datetimezone": "20260212 174911098-0600",
+  "frame_timestamp": 1770918552849,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212174911_285390lp_PZ0837B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212174911_285390.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212174911_285390lp_PZ0837B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PZ0837B",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    987,
+    93,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PZ0837B",
+  "plateUnicode": "PZ0837B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770918552849,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.394314765930176,
+    "coordinates": [
+      656,
+      0,
+      780,
+      270
+    ],
+    "model": "Alphard/Vellfire",
+    "type": "VAN"
+  }
+}

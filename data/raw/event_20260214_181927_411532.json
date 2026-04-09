@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771093148276,
+  "carID": 102844,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 121912734",
+  "datetimezone": "20260214 181907674-0600",
+  "frame_timestamp": 1771093148276,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214181908_2706lp_SWS383B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214181908_2706.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214181908_2706lp_SWS383B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWS383B",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    921,
+    498,
+    159,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    159,
+    81
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWS383B",
+  "plateUnicode": "SWS383B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771093148276,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.637301445007324,
+    "coordinates": [
+      512,
+      0,
+      972,
+      584
+    ],
+    "model": "Estima/Previa",
+    "type": "VAN"
+  }
+}

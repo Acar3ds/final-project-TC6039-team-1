@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772206182140,
+  "carID": 135011,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 092946698",
+  "datetimezone": "20260227 152941647-0600",
+  "frame_timestamp": 1772206182140,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227152941_911162lp_SWK121A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227152941_911162.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227152941_911162lp_SWK121A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWK121A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1227,
+    285,
+    147,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWK121A",
+  "plateUnicode": "SWK121A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772206182140,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.897061824798584,
+    "coordinates": [
+      856,
+      0,
+      840,
+      404
+    ],
+    "model": "Cadenza/K7",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770847332326,
+  "carID": 95515,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 160217223",
+  "datetimezone": "20260211 220212179-0600",
+  "frame_timestamp": 1770847332326,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211215126_302553/20260211220212_429775lp_RYL548C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211215126_302553/20260211220212_429775.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211215126_302553/20260211220212_429775lp_RYL548C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYL548C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1407,
+    276,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYL548C",
+  "plateUnicode": "RYL548C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770847332326,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MINI",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.367359161376953,
+    "coordinates": [
+      996,
+      0,
+      860,
+      450
+    ],
+    "model": "One/Hatch/Clubman/Cabrio",
+    "type": "CAR"
+  }
+}

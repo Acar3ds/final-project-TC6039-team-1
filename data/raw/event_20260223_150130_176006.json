@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771858871264,
+  "carID": 124098,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 090114229",
+  "datetimezone": "20260223 150109179-0600",
+  "frame_timestamp": 1771858871264,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223145104_682464/20260223150109_436024lp_51S431.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223145104_682464/20260223150109_436024.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223145104_682464/20260223150109_436024lp_51S431.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "51S431",
+  "plateConfidence": 0.8450520634651184,
+  "plateCoordinates": [
+    816,
+    138,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "51S431",
+  "plateUnicode": "51S431",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771858871264,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.135003089904785,
+    "coordinates": [
+      508,
+      2,
+      752,
+      304
+    ],
+    "model": "Ioniq 5 N/Ioniq 5",
+    "type": "CAR"
+  }
+}

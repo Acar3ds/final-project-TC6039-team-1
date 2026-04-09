@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770328769780,
+  "carID": 81167,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 155934682",
+  "datetimezone": "20260205 215929633-0600",
+  "frame_timestamp": 1770328769780,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205215929_878523lp_EYA728D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205215929_878523.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205214246_577046/20260205215929_878523lp_EYA728D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EYA728D",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1284,
+    234,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "EYA728D",
+  "plateUnicode": "EYA728D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770328769780,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.506988286972046,
+    "coordinates": [
+      932,
+      2,
+      820,
+      346
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

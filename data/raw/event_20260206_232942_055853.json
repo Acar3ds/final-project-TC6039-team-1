@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770420564832,
+  "carID": 84012,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 172929603",
+  "datetimezone": "20260206 232924554-0600",
+  "frame_timestamp": 1770420564832,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206232924_775894lp_RXP613C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206232924_775894.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206232924_775894lp_RXP613C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXP613C",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1011,
+    150,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXP613C",
+  "plateUnicode": "RXP613C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770420564832,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9948341846466064,
+    "coordinates": [
+      668,
+      0,
+      812,
+      276
+    ],
+    "model": "Fusion  USA /Fusion Energi/Mondeo",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771941669844,
+  "carID": 126390,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 080112739",
+  "datetimezone": "20260224 140107692-0600",
+  "frame_timestamp": 1771941669844,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224140107_964095lp_SDY319C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224140107_964095.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224140107_964095lp_SDY319C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDY319C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1194,
+    141,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDY319C",
+  "plateUnicode": "SDY319C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771941669844,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lamborghini",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.764397382736206,
+    "coordinates": [
+      824,
+      0,
+      804,
+      302
+    ],
+    "model": "Murcielago",
+    "type": "CAR"
+  }
+}

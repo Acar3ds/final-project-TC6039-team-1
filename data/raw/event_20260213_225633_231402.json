@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771023373805,
+  "carID": 101138,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 165618729",
+  "datetimezone": "20260213 225613678-0600",
+  "frame_timestamp": 1771023373805,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213225613_938953lp_SRU578B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213225613_938953.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213224725_413863/20260213225613_938953lp_SRU578B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRU578B",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    1005,
+    105,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRU578B",
+  "plateUnicode": "SRU578B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771023373805,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5410988330841064,
+    "coordinates": [
+      708,
+      0,
+      732,
+      300
+    ],
+    "model": "i10",
+    "type": "CAR"
+  }
+}

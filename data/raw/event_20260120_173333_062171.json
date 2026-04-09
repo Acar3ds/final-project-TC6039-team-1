@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768930402463,
+  "carID": 124610,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 113323269",
+  "datetimezone": "20260120 173322463-0600",
+  "frame_timestamp": 1768930402463,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120172242_251118/20260120173323_188542lp_SNK562A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120172242_251118/20260120173323_188542.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120172242_251118/20260120173323_188542lp_SNK562A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SNK562A",
+  "plateConfidence": 0.8024553656578064,
+  "plateCoordinates": [
+    2001,
+    26,
+    120,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    43
+  ],
+  "plateCountry": "USA",
+  "plateText": "SNK562A",
+  "plateUnicode": "SNK562A",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768930402463,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.5525528788566589,
+    "coordinates": [
+      1788,
+      0,
+      480,
+      132
+    ],
+    "model": "Maybach S-Class/S-Class/S-Class AMG",
+    "type": "CAR"
+  }
+}

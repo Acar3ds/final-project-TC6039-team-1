@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771813150886,
+  "carID": 123276,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 201914418",
+  "datetimezone": "20260223 021909370-0600",
+  "frame_timestamp": 1771813150886,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223021909_689814lp_L6400B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223021909_689814.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223021909_689814lp_L6400B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "L6400B",
+  "plateConfidence": 0.8177083134651184,
+  "plateCoordinates": [
+    1071,
+    123,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "L6400B",
+  "plateUnicode": "L6400B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771813150886,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ram",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.651200294494629,
+    "coordinates": [
+      684,
+      0,
+      880,
+      272
+    ],
+    "model": "1500 TRX",
+    "type": "PICKUPTRUCK"
+  }
+}

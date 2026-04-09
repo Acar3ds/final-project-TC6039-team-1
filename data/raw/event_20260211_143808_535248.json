@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770820670178,
+  "carID": 94226,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 083755101",
+  "datetimezone": "20260211 143750041-0600",
+  "frame_timestamp": 1770820670178,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211143750_263789lp_SWV807A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211143750_263789.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211143750_263789lp_SWV807A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWV807A",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1023,
+    168,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWV807A",
+  "plateUnicode": "SWV807A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770820670178,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8369989395141602,
+    "coordinates": [
+      708,
+      0,
+      764,
+      314
+    ],
+    "model": "2",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771527817682,
+  "carID": 115200,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 130341674",
+  "datetimezone": "20260219 190336618-0600",
+  "frame_timestamp": 1771527817682,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190336_847128lp_SDD391C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190336_847128.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190336_847128lp_SDD391C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDD391C",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1044,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDD391C",
+  "plateUnicode": "SDD391C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771527817682,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.3690989017486572,
+    "coordinates": [
+      572,
+      0,
+      924,
+      312
+    ],
+    "model": "Amarok",
+    "type": "SUV"
+  }
+}

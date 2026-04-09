@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771268286304,
+  "carID": 107092,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 125811027",
+  "datetimezone": "20260216 185805964-0600",
+  "frame_timestamp": 1771268286304,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216185806_327237lp_RYH021B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216185806_327237.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216185806_327237lp_RYH021B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYH021B",
+  "plateConfidence": 0.8158482313156128,
+  "plateCoordinates": [
+    897,
+    258,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYH021B",
+  "plateUnicode": "RYH021B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771268286304,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.864320993423462,
+    "coordinates": [
+      596,
+      0,
+      728,
+      402
+    ],
+    "model": "Astra/Astra OPC",
+    "type": "CAR"
+  }
+}

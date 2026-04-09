@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770843587240,
+  "carID": 95330,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 145952141",
+  "datetimezone": "20260211 205947086-0600",
+  "frame_timestamp": 1770843587240,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211205558_763843/20260211205947_329842lp_RTT214A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211205558_763843/20260211205947_329842.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211205558_763843/20260211205947_329842lp_RTT214A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTT214A",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1329,
+    246,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTT214A",
+  "plateUnicode": "RTT214A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770843587240,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.923616409301758,
+    "coordinates": [
+      1000,
+      0,
+      776,
+      378
+    ],
+    "model": "Ignis",
+    "type": "CAR"
+  }
+}

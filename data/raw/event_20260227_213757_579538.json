@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772228256203,
+  "carID": 136091,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 153741082",
+  "datetimezone": "20260227 213736029-0600",
+  "frame_timestamp": 1772228256203,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227205213_287537/20260227213736_260014lp_SRL828A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227205213_287537/20260227213736_260014.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227205213_287537/20260227213736_260014lp_SRL828A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRL828A",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1008,
+    189,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRL828A",
+  "plateUnicode": "SRL828A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772228256203,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.0593098402023315,
+    "coordinates": [
+      684,
+      0,
+      800,
+      390
+    ],
+    "model": "T-Cross/T-Roc/T-Roc R",
+    "type": "SUV"
+  }
+}

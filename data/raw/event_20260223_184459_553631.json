@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771872280425,
+  "carID": 124621,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 124443771",
+  "datetimezone": "20260223 184438716-0600",
+  "frame_timestamp": 1771872280425,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223181111_605281/20260223184438_977413lp_SGW090A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223181111_605281/20260223184438_977413.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223181111_605281/20260223184438_977413lp_SGW090A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGW090A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1050,
+    150,
+    129,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGW090A",
+  "plateUnicode": "SGW090A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771872280425,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.753544807434082,
+    "coordinates": [
+      688,
+      0,
+      796,
+      344
+    ],
+    "model": "Logan/Logan MCV",
+    "type": "CAR"
+  }
+}

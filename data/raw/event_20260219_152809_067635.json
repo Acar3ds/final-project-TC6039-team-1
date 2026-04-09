@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771514869577,
+  "carID": 114631,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 092753694",
+  "datetimezone": "20260219 152748648-0600",
+  "frame_timestamp": 1771514869577,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219150102_868676/20260219152748_895693lp_SMF294B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219150102_868676/20260219152748_895693.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219150102_868676/20260219152748_895693lp_SMF294B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMF294B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    945,
+    96,
+    129,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMF294B",
+  "plateUnicode": "SMF294B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771514869577,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.085541725158691,
+    "coordinates": [
+      644,
+      0,
+      716,
+      252
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771022746911,
+  "carID": 101103,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 164551528",
+  "datetimezone": "20260213 224546461-0600",
+  "frame_timestamp": 1771022746911,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213224546_720829lp_TAU540B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213224546_720829.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213224546_720829lp_TAU540B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAU540B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1236,
+    177,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAU540B",
+  "plateUnicode": "TAU540B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771022746911,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.997127532958984,
+    "coordinates": [
+      864,
+      0,
+      844,
+      336
+    ],
+    "model": "RAV4",
+    "type": "SUV"
+  }
+}

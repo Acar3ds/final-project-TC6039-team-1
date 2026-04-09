@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771796718541,
+  "carID": 122781,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 154521911",
+  "datetimezone": "20260222 214516860-0600",
+  "frame_timestamp": 1771796718541,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222213723_785837/20260222214517_102570lp_FJG645D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222213723_785837/20260222214517_102570.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222213723_785837/20260222214517_102570lp_FJG645D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FJG645D",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1083,
+    120,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FJG645D",
+  "plateUnicode": "FJG645D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771796718541,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Buick",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 19.99191665649414,
+    "coordinates": [
+      752,
+      0,
+      804,
+      318
+    ],
+    "model": "Encore GX/Envision",
+    "type": "SUV"
+  }
+}

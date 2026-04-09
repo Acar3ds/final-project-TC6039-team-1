@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770940760232,
+  "carID": 98436,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 175924977",
+  "datetimezone": "20260212 235919923-0600",
+  "frame_timestamp": 1770940760232,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212235920_221783lp_TFV151B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212235920_221783.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212235920_221783lp_TFV151B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFV151B",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    1095,
+    153,
+    138,
+    45
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    45
+  ],
+  "plateCountry": "ESP",
+  "plateText": "TFV151B",
+  "plateUnicode": "TFV151B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770940760232,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.999992370605469,
+    "coordinates": [
+      764,
+      0,
+      788,
+      296
+    ],
+    "model": "Prius/Prius Plug-In",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770926149916,
+  "carID": 97750,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 135554501",
+  "datetimezone": "20260212 195549452-0600",
+  "frame_timestamp": 1770926149916,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212195549_691608lp_SNL214B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212195549_691608.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212195549_691608lp_SNL214B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SNL214B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    858,
+    90,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SNL214B",
+  "plateUnicode": "SNL214B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770926149916,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2945704460144043,
+    "coordinates": [
+      528,
+      0,
+      804,
+      318
+    ],
+    "model": "Escape",
+    "type": "SUV"
+  }
+}

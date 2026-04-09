@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769103525262,
+  "carID": 247,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 113845649",
+  "datetimezone": "20260122 173845262-0600",
+  "frame_timestamp": 1769103525262,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122173845_517833lp_RVD910B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122173845_517833.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122173845_517833lp_RVD910B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVD910B",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    991,
+    273,
+    214,
+    104
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    214,
+    104
+  ],
+  "plateCountry": "USA",
+  "plateText": "RVD910B",
+  "plateUnicode": "RVD910B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769103525262,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9974194765090942,
+    "coordinates": [
+      576,
+      2,
+      1024,
+      520
+    ],
+    "model": "Commander",
+    "type": "SUV"
+  }
+}

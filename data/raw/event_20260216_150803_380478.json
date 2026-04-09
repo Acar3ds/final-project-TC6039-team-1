@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771254464109,
+  "carID": 106524,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 090748236",
+  "datetimezone": "20260216 150743184-0600",
+  "frame_timestamp": 1771254464109,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216150743_440364lp_SAL050B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216150743_440364.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216150743_440364lp_SAL050B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAL050B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    945,
+    96,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAL050B",
+  "plateUnicode": "SAL050B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771254464109,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8910722732543945,
+    "coordinates": [
+      624,
+      0,
+      776,
+      270
+    ],
+    "model": "2",
+    "type": "CAR"
+  }
+}

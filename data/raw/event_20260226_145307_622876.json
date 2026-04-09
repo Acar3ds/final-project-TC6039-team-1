@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772117566598,
+  "carID": 132014,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 085251314",
+  "datetimezone": "20260226 145246262-0600",
+  "frame_timestamp": 1772117566598,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145246_562804lp_RPE965C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145246_562804.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145246_562804lp_RPE965C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPE965C",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1014,
+    129,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPE965C",
+  "plateUnicode": "RPE965C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772117566598,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9669833183288574,
+    "coordinates": [
+      732,
+      0,
+      704,
+      300
+    ],
+    "model": "Kwid",
+    "type": "CAR"
+  }
+}

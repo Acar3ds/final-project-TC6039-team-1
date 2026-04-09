@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771941873188,
+  "carID": 126410,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 080438103",
+  "datetimezone": "20260224 140433030-0600",
+  "frame_timestamp": 1771941873188,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224140433_324492lp_RRY995B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224140433_324492.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224140433_324492lp_RRY995B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRY995B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1299,
+    207,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRY995B",
+  "plateUnicode": "RRY995B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771941873188,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7453694343566895,
+    "coordinates": [
+      916,
+      0,
+      868,
+      368
+    ],
+    "model": "Town   Country/Voyager",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770486503198,
+  "carID": 85465,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 114826823",
+  "datetimezone": "20260207 174821772-0600",
+  "frame_timestamp": 1770486503198,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207174822_70469lp_RZM322B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207174822_70469.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207173312_754158/20260207174822_70469lp_RZM322B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZM322B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    915,
+    90,
+    129,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZM322B",
+  "plateUnicode": "RZM322B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770486503198,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.101556777954102,
+    "coordinates": [
+      528,
+      0,
+      828,
+      380
+    ],
+    "model": "Kicks",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770850367439,
+  "carID": 95630,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 165251754",
+  "datetimezone": "20260211 225246701-0600",
+  "frame_timestamp": 1770850367439,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211215126_302553/20260211225246_987009lp_SXG742A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211215126_302553/20260211225246_987009.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211215126_302553/20260211225246_987009lp_SXG742A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXG742A",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1458,
+    228,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "SXG742A",
+  "plateUnicode": "SXG742A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770850367439,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.998931884765625,
+    "coordinates": [
+      1008,
+      0,
+      876,
+      402
+    ],
+    "model": "Jimny",
+    "type": "SUV"
+  }
+}

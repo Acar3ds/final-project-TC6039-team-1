@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771597764947,
+  "carID": 117149,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 082929045",
+  "datetimezone": "20260220 142923991-0600",
+  "frame_timestamp": 1771597764947,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220142924_311898lp_RRH485A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220142924_311898.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220142924_311898lp_RRH485A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRH485A",
+  "plateConfidence": 0.875,
+  "plateCoordinates": [
+    1029,
+    153,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRH485A",
+  "plateUnicode": "RRH485A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771597764947,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Buick",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.996764183044434,
+    "coordinates": [
+      684,
+      2,
+      816,
+      336
+    ],
+    "model": "Enclave/Encore/Envision",
+    "type": "SUV"
+  }
+}

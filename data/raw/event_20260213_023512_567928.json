@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770950095090,
+  "carID": 98852,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 203458493",
+  "datetimezone": "20260213 023453451-0600",
+  "frame_timestamp": 1770950095090,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213022308_217396/20260213023453_703066lp_SMS092B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213022308_217396/20260213023453_703066.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213022308_217396/20260213023453_703066lp_SMS092B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMS092B",
+  "plateConfidence": 0.8002232313156128,
+  "plateCoordinates": [
+    1002,
+    102,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMS092B",
+  "plateUnicode": "SMS092B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770950095090,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 33.425296783447266,
+    "coordinates": [
+      676,
+      0,
+      800,
+      372
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

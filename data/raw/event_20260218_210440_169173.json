@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771448660188,
+  "carID": 112811,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 150425079",
+  "datetimezone": "20260218 210420030-0600",
+  "frame_timestamp": 1771448660188,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218210420_263963lp_RLU655C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218210420_263963.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218204455_519035/20260218210420_263963lp_RLU655C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLU655C",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    924,
+    93,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLU655C",
+  "plateUnicode": "RLU655C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771448660188,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9999467134475708,
+    "coordinates": [
+      608,
+      0,
+      768,
+      246
+    ],
+    "model": "Focus/Focus RS",
+    "type": "CAR"
+  }
+}

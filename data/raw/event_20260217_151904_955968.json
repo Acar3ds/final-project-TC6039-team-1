@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771341525193,
+  "carID": 109162,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 091849935",
+  "datetimezone": "20260217 151844888-0600",
+  "frame_timestamp": 1771341525193,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217151845_121428lp_EWJ394D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217151845_121428.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217151845_121428lp_EWJ394D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EWJ394D",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    1083,
+    159,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "EWJ394D",
+  "plateUnicode": "EWJ394D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771341525193,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9759392738342285,
+    "coordinates": [
+      768,
+      0,
+      736,
+      306
+    ],
+    "model": "Attrage",
+    "type": "CAR"
+  }
+}

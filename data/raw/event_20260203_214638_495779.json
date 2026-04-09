@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770155181525,
+  "carID": 76219,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 154626448",
+  "datetimezone": "20260203 214621385-0600",
+  "frame_timestamp": 1770155181525,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203214621_641154lp_SAW894C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203214621_641154.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203214621_641154lp_SAW894C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAW894C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1380,
+    315,
+    150,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAW894C",
+  "plateUnicode": "SAW894C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770155181525,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4753494262695312,
+    "coordinates": [
+      1008,
+      0,
+      824,
+      492
+    ],
+    "model": "Aqua",
+    "type": "CAR"
+  }
+}

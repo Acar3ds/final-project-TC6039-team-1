@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771105569820,
+  "carID": 103385,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 154612948",
+  "datetimezone": "20260214 214607895-0600",
+  "frame_timestamp": 1771105569820,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214214608_89440lp_WL8599C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214214608_89440.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214214608_89440lp_WL8599C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "WL8599C",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1029,
+    111,
+    141,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    66
+  ],
+  "plateCountry": "ITA",
+  "plateText": "WL8599C",
+  "plateUnicode": "WL8599C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771105569820,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.459356307983398,
+    "coordinates": [
+      700,
+      0,
+      780,
+      330
+    ],
+    "model": "Ranger",
+    "type": "PICKUPTRUCK"
+  }
+}

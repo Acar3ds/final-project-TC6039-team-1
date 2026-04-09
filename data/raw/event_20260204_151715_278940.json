@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770218219167,
+  "carID": 77659,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 091703078",
+  "datetimezone": "20260204 151658024-0600",
+  "frame_timestamp": 1770218219167,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204151658_248930lp_TDH965B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204151658_248930.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204151658_248930lp_TDH965B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDH965B",
+  "plateConfidence": 0.8258928656578064,
+  "plateCoordinates": [
+    960,
+    180,
+    141,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDH965B",
+  "plateUnicode": "TDH965B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770218219167,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.282437801361084,
+    "coordinates": [
+      612,
+      2,
+      816,
+      370
+    ],
+    "model": "Carnival/Sedona",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770386071889,
+  "carID": 82324,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 075436157",
+  "datetimezone": "20260206 135431106-0600",
+  "frame_timestamp": 1770386071889,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206131604_165290/20260206135431_405258lp_RTD701B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206131604_165290/20260206135431_405258.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206131604_165290/20260206135431_405258lp_RTD701B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTD701B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    861,
+    102,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTD701B",
+  "plateUnicode": "RTD701B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770386071889,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.958939552307129,
+    "coordinates": [
+      556,
+      0,
+      744,
+      272
+    ],
+    "model": "Malibu",
+    "type": "CAR"
+  }
+}

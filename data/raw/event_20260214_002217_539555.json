@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771028518371,
+  "carID": 101377,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 182202999",
+  "datetimezone": "20260214 002157941-0600",
+  "frame_timestamp": 1771028518371,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002158_226412lp_TGR575B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002158_226412.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002158_226412lp_TGR575B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGR575B",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    870,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGR575B",
+  "plateUnicode": "TGR575B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771028518371,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9042811393737793,
+    "coordinates": [
+      540,
+      0,
+      800,
+      228
+    ],
+    "model": "Fusion  USA /Fusion Energi/Mondeo",
+    "type": "CAR"
+  }
+}

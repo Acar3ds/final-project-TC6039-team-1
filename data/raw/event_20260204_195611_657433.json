@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770234955881,
+  "carID": 78310,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 135559109",
+  "datetimezone": "20260204 195554059-0600",
+  "frame_timestamp": 1770234955881,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204195554_337155lp_SPP311B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204195554_337155.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204195554_337155lp_SPP311B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPP311B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    960,
+    120,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SPP311B",
+  "plateUnicode": "SPP311B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770234955881,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "JAC",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.239501953125,
+    "coordinates": [
+      632,
+      2,
+      780,
+      258
+    ],
+    "model": "J7",
+    "type": "CAR"
+  }
+}

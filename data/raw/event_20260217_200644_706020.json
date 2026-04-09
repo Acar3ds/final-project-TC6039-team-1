@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "PRT"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771358785452,
+  "carID": 109914,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 140629702",
+  "datetimezone": "20260217 200624654-0600",
+  "frame_timestamp": 1771358785452,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217200624_844675lp_STA6160.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217200624_844675.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217200624_844675lp_STA6160.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STA6160",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    786,
+    138,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "PRT",
+  "plateText": "STA6160",
+  "plateUnicode": "STA6160",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771358785452,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.455249309539795,
+    "coordinates": [
+      468,
+      0,
+      760,
+      276
+    ],
+    "model": "Cruze/Onix/Malibu",
+    "type": "CAR"
+  }
+}

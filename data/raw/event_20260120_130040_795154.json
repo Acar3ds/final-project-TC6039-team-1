@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768914030640,
+  "carID": 121570,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 070031104",
+  "datetimezone": "20260120 130030640-0600",
+  "frame_timestamp": 1768914030640,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120125552_530581/20260120130031_29354lp_BYR876C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120125552_530581/20260120130031_29354.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120125552_530581/20260120130031_29354lp_BYR876C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "BYR876C",
+  "plateConfidence": 0.7165178656578064,
+  "plateCoordinates": [
+    2132,
+    145,
+    128,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    128,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "BYR876C",
+  "plateUnicode": "BYR876C",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768914030640,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9993399977684021,
+    "coordinates": [
+      1896,
+      0,
+      532,
+      252
+    ],
+    "model": "5008",
+    "type": "VAN"
+  }
+}

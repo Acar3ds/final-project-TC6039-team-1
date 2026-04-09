@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771099970439,
+  "carID": 103142,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 141250753",
+  "datetimezone": "20260214 201245711-0600",
+  "frame_timestamp": 1771099970439,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214201245_997092lp_RRK527C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214201245_997092.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214201245_997092lp_RRK527C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRK527C",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    987,
+    105,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRK527C",
+  "plateUnicode": "RRK527C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771099970439,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 37.58184051513672,
+    "coordinates": [
+      672,
+      0,
+      752,
+      248
+    ],
+    "model": "Grandeur",
+    "type": "CAR"
+  }
+}

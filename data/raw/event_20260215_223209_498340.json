@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771194711939,
+  "carID": 105247,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 163155328",
+  "datetimezone": "20260215 223150271-0600",
+  "frame_timestamp": 1771194711939,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215223150_552275lp_SCV219A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215223150_552275.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215205212_569282/20260215223150_552275lp_SCV219A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCV219A",
+  "plateConfidence": 0.7845982313156128,
+  "plateCoordinates": [
+    1482,
+    366,
+    150,
+    84
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    84
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCV219A",
+  "plateUnicode": "SCV219A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771194711939,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.852815628051758,
+    "coordinates": [
+      1212,
+      0,
+      704,
+      548
+    ],
+    "model": "Kwid",
+    "type": "CAR"
+  }
+}

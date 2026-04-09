@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771519535439,
+  "carID": 114837,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 104540343",
+  "datetimezone": "20260219 164535289-0600",
+  "frame_timestamp": 1771519535439,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219164535_605172lp_SDM752C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219164535_605172.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219164535_605172lp_SDM752C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDM752C",
+  "plateConfidence": 0.875,
+  "plateCoordinates": [
+    1032,
+    132,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDM752C",
+  "plateUnicode": "SDM752C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771519535439,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.2636677026748657,
+    "coordinates": [
+      716,
+      0,
+      780,
+      270
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

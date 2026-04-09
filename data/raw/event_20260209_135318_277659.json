@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770645182004,
+  "carID": 88858,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 075305484",
+  "datetimezone": "20260209 135300423-0600",
+  "frame_timestamp": 1770645182004,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209135300_591060lp_ML915F.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209135300_591060.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209135300_591060lp_ML915F.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "GML9151",
+  "plateConfidence": 0.6339285969734192,
+  "plateCoordinates": [
+    1008,
+    192,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "GML9151",
+  "plateUnicode": "GML9151",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770645182004,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.746129989624023,
+    "coordinates": [
+      660,
+      0,
+      816,
+      362
+    ],
+    "model": "e-Rifter/Rifter",
+    "type": "VAN"
+  }
+}

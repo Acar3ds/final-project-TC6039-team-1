@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768802508034,
+  "carID": 111183,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260119 000148552",
+  "datetimezone": "20260119 060148034-0600",
+  "frame_timestamp": 1768802508034,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260119052556_146429/20260119060148_451493lp_PP1871A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260119052556_146429/20260119060148_451493.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260119052556_146429/20260119060148_451493lp_PP1871A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PP1871A",
+  "plateConfidence": 0.7154017686843872,
+  "plateCoordinates": [
+    2150,
+    175,
+    128,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    128,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "PP1871A",
+  "plateUnicode": "PP1871A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768802508034,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9790425300598145,
+    "coordinates": [
+      1872,
+      0,
+      628,
+      288
+    ],
+    "model": "5008",
+    "type": "VAN"
+  }
+}

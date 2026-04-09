@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771009190060,
+  "carID": 100437,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 125954957",
+  "datetimezone": "20260213 185949898-0600",
+  "frame_timestamp": 1771009190060,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213185950_130119lp_SLE5864.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213185950_130119.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213185950_130119lp_SLE5864.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLE5864",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1122,
+    210,
+    138,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    54
+  ],
+  "plateCountry": "NLD",
+  "plateText": "SLE5864",
+  "plateUnicode": "SLE5864",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771009190060,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7109158039093018,
+    "coordinates": [
+      792,
+      0,
+      744,
+      338
+    ],
+    "model": "Clio/Clio RS/Clio V6/Symbol",
+    "type": "CAR"
+  }
+}

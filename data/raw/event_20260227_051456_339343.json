@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772169277111,
+  "carID": 134288,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 231440192",
+  "datetimezone": "20260227 051435135-0600",
+  "frame_timestamp": 1772169277111,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227032350_810366/20260227051435_421010lp_PH3150B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227032350_810366/20260227051435_421010.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227032350_810366/20260227051435_421010lp_PH3150B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "H3150B",
+  "plateConfidence": 0.8177083134651184,
+  "plateCoordinates": [
+    1086,
+    144,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "H3150B",
+  "plateUnicode": "H3150B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772169277111,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.479766845703125,
+    "coordinates": [
+      772,
+      0,
+      828,
+      290
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

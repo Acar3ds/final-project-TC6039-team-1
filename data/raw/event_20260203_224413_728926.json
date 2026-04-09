@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770158637456,
+  "carID": 76364,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 164401595",
+  "datetimezone": "20260203 224356542-0600",
+  "frame_timestamp": 1770158637456,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203224356_755589lp_RVD477C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203224356_755589.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203224356_755589lp_RVD477C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVD477C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1113,
+    174,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVD477C",
+  "plateUnicode": "RVD477C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770158637456,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.99994945526123,
+    "coordinates": [
+      812,
+      0,
+      764,
+      324
+    ],
+    "model": "PT Cruiser",
+    "type": "CAR"
+  }
+}

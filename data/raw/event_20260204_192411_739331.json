@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770233038915,
+  "carID": 78228,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 132359553",
+  "datetimezone": "20260204 192354494-0600",
+  "frame_timestamp": 1770233038915,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204192354_721263lp_A300MKE.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204192354_721263.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204184948_320655/20260204192354_721263lp_A300MKE.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A300MKE",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    957,
+    114,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "A300MKE",
+  "plateUnicode": "A300MKE",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770233038915,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 50.2416877746582,
+    "coordinates": [
+      652,
+      0,
+      732,
+      240
+    ],
+    "model": "911 GT2/911 GT3/911 GT4",
+    "type": "CAR"
+  }
+}

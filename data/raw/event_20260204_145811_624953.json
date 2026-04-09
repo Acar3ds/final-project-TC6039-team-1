@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770217076259,
+  "carID": 77588,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 085759618",
+  "datetimezone": "20260204 145754571-0600",
+  "frame_timestamp": 1770217076259,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204145754_811072lp_RKP149C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204145754_811072.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204144756_665265/20260204145754_811072lp_RKP149C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKP149C",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    1425,
+    267,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RKP149C",
+  "plateUnicode": "RKP149C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770217076259,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.358549118041992,
+    "coordinates": [
+      1048,
+      0,
+      864,
+      420
+    ],
+    "model": "A4/A5/RS4/RS5/S4/S5",
+    "type": "CAR"
+  }
+}

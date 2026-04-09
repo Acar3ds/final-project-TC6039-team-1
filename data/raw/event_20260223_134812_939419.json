@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771854473151,
+  "carID": 123796,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 074757372",
+  "datetimezone": "20260223 134752318-0600",
+  "frame_timestamp": 1771854473151,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223134752_517176lp_STS6100.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223134752_517176.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223134752_517176lp_STS6100.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STS6100",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1401,
+    243,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "NLD",
+  "plateText": "STS6100",
+  "plateUnicode": "STS6100",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771854473151,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.129612922668457,
+    "coordinates": [
+      1032,
+      0,
+      832,
+      402
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

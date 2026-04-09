@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770388485813,
+  "carID": 82485,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 083450732",
+  "datetimezone": "20260206 143445684-0600",
+  "frame_timestamp": 1770388485813,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206143445_928778lp_RWK310C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206143445_928778.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206143445_928778lp_RWK310C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWK310C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1080,
+    183,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWK310C",
+  "plateUnicode": "RWK310C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770388485813,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4943628311157227,
+    "coordinates": [
+      732,
+      2,
+      796,
+      340
+    ],
+    "model": "K5",
+    "type": "CAR"
+  }
+}

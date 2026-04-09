@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769103398039,
+  "carID": 243,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 113638418",
+  "datetimezone": "20260122 173638039-0600",
+  "frame_timestamp": 1769103398039,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122173638_280499lp_RLE452B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122173638_280499.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122173638_280499lp_RLE452B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLE452B",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1078,
+    366,
+    214,
+    108
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    214,
+    108
+  ],
+  "plateCountry": "USA",
+  "plateText": "RLE452B",
+  "plateUnicode": "RLE452B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769103398039,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.3291844129562378,
+    "coordinates": [
+      684,
+      0,
+      1000,
+      594
+    ],
+    "model": "A4/A5/A6/A7/A8/S5/S6/S7",
+    "type": "CAR"
+  }
+}

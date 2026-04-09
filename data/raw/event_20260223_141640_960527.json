@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771856180545,
+  "carID": 123910,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 081625447",
+  "datetimezone": "20260223 141620391-0600",
+  "frame_timestamp": 1771856180545,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223141620_670199lp_SPD771B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223141620_670199.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223141620_670199lp_SPD771B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPD771B",
+  "plateConfidence": 0.7734375,
+  "plateCoordinates": [
+    1113,
+    147,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SPD771B",
+  "plateUnicode": "SPD771B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771856180545,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.992987632751465,
+    "coordinates": [
+      752,
+      0,
+      840,
+      348
+    ],
+    "model": "Sportage",
+    "type": "SUV"
+  }
+}

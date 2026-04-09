@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "DEU"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770938453491,
+  "carID": 98337,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 172058103",
+  "datetimezone": "20260212 232053040-0600",
+  "frame_timestamp": 1770938453491,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212232053_315362lp_BYX072A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212232053_315362.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212232053_315362lp_BYX072A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "BYX072A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    912,
+    150,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "DEU",
+  "plateText": "BYX072A",
+  "plateUnicode": "BYX072A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770938453491,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.974395751953125,
+    "coordinates": [
+      628,
+      0,
+      704,
+      330
+    ],
+    "model": "Kwid",
+    "type": "CAR"
+  }
+}

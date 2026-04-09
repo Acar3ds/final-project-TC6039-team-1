@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772563877294,
+  "carID": 144935,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260303 125122188",
+  "datetimezone": "20260303 185117139-0600",
+  "frame_timestamp": 1772563877294,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303185117_446617lp_RRW164A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303185117_446617.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303185117_446617lp_RRW164A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRW164A",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    819,
+    138,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRW164A",
+  "plateUnicode": "RRW164A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772563877294,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4378234148025513,
+    "coordinates": [
+      488,
+      2,
+      808,
+      346
+    ],
+    "model": "Oroch/Duster",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771041762220,
+  "carID": 101936,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 220246009",
+  "datetimezone": "20260214 040240944-0600",
+  "frame_timestamp": 1771041762220,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214040241_249068lp_SYU938A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214040241_249068.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214040241_249068lp_SYU938A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYU938A",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    879,
+    84,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYU938A",
+  "plateUnicode": "SYU938A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771041762220,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.26400089263916,
+    "coordinates": [
+      588,
+      0,
+      732,
+      296
+    ],
+    "model": "Altea",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770228939789,
+  "carID": 78042,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 121544163",
+  "datetimezone": "20260204 181539117-0600",
+  "frame_timestamp": 1770228939789,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204181539_331307lp_SVL491A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204181539_331307.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204181539_331307lp_SVL491A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVL491A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    960,
+    195,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVL491A",
+  "plateUnicode": "SVL491A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770228939789,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.973756790161133,
+    "coordinates": [
+      664,
+      0,
+      728,
+      276
+    ],
+    "model": "308/307/207/206",
+    "type": "CAR"
+  }
+}

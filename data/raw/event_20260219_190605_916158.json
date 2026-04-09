@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771527945660,
+  "carID": 115205,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 130550577",
+  "datetimezone": "20260219 190545517-0600",
+  "frame_timestamp": 1771527945660,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190545_769852lp_SRT413B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190545_769852.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190545_769852lp_SRT413B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRT413B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1062,
+    123,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRT413B",
+  "plateUnicode": "SRT413B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771527945660,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.34919810295105,
+    "coordinates": [
+      744,
+      0,
+      736,
+      270
+    ],
+    "model": "911 GT3/911 GT6/911 R",
+    "type": "CAR"
+  }
+}

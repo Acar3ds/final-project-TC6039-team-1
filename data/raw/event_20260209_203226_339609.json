@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770669129315,
+  "carID": 90025,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 143213496",
+  "datetimezone": "20260209 203208441-0600",
+  "frame_timestamp": 1770669129315,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209203208_662000lp_STM812B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209203208_662000.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209203208_662000lp_STM812B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STM812B",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    981,
+    111,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STM812B",
+  "plateUnicode": "STM812B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770669129315,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.332144737243652,
+    "coordinates": [
+      652,
+      0,
+      784,
+      284
+    ],
+    "model": "Noah",
+    "type": "VAN"
+  }
+}

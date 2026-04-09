@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770751829050,
+  "carID": 92414,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 133030864",
+  "datetimezone": "20260210 193025806-0600",
+  "frame_timestamp": 1770751829050,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193026_39861lp_5PK3216B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193026_39861.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193026_39861lp_5PK3216B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PK3216B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1017,
+    108,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PK3216B",
+  "plateUnicode": "PK3216B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770751829050,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Daihatsu",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8659167289733887,
+    "coordinates": [
+      684,
+      0,
+      792,
+      360
+    ],
+    "model": "Move",
+    "type": "VAN"
+  }
+}

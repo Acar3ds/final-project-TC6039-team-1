@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770155185755,
+  "carID": 76221,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 154630217",
+  "datetimezone": "20260203 214625163-0600",
+  "frame_timestamp": 1770155185755,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203214625_334648lp_RC6113B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203214625_334648.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203205934_831106/20260203214625_334648lp_RC6113B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RC6113B",
+  "plateConfidence": 0.8102678656578064,
+  "plateCoordinates": [
+    1401,
+    222,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RC6113B",
+  "plateUnicode": "RC6113B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770155185755,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8898396492004395,
+    "coordinates": [
+      956,
+      0,
+      864,
+      392
+    ],
+    "model": "500/500c/500e/595",
+    "type": "CAR"
+  }
+}

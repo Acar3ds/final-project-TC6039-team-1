@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "IRL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771715097891,
+  "carID": 121210,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 170502365",
+  "datetimezone": "20260221 230457312-0600",
+  "frame_timestamp": 1771715097891,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230457_564019lp_SZA031A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230457_564019.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230457_564019lp_SZA031A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZA031A",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    1029,
+    135,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "IRL",
+  "plateText": "SZA031A",
+  "plateUnicode": "SZA031A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771715097891,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.256097793579102,
+    "coordinates": [
+      672,
+      0,
+      828,
+      300
+    ],
+    "model": "RAV4",
+    "type": "SUV"
+  }
+}

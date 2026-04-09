@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771531476205,
+  "carID": 115380,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 140440274",
+  "datetimezone": "20260219 200435229-0600",
+  "frame_timestamp": 1771531476205,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219200435_476201lp_TDV103B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219200435_476201.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219195056_569336/20260219200435_476201lp_TDV103B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDV103B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    948,
+    84,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDV103B",
+  "plateUnicode": "TDV103B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771531476205,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.909517288208008,
+    "coordinates": [
+      628,
+      2,
+      752,
+      232
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771284357047,
+  "carID": 107829,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 172601961",
+  "datetimezone": "20260216 232556903-0600",
+  "frame_timestamp": 1771284357047,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216225938_484875/20260216232557_142759lp_SRW204A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216225938_484875/20260216232557_142759.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216225938_484875/20260216232557_142759lp_SRW204A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRW204A",
+  "plateConfidence": 0.8337053656578064,
+  "plateCoordinates": [
+    1047,
+    165,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRW204A",
+  "plateUnicode": "SRW204A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771284357047,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9949402809143066,
+    "coordinates": [
+      672,
+      0,
+      864,
+      392
+    ],
+    "model": "Range Rover Evoque",
+    "type": "SUV"
+  }
+}

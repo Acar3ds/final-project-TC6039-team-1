@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770409043654,
+  "carID": 83520,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 141727784",
+  "datetimezone": "20260206 201722723-0600",
+  "frame_timestamp": 1770409043654,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206201722_967153lp_SRK805B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206201722_967153.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206201722_967153lp_SRK805B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRK805B",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    981,
+    90,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRK805B",
+  "plateUnicode": "SRK805B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770409043654,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.132534980773926,
+    "coordinates": [
+      672,
+      0,
+      740,
+      272
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

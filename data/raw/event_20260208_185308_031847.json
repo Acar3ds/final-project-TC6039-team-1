@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770576770778,
+  "carID": 87543,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 125255091",
+  "datetimezone": "20260208 185250025-0600",
+  "frame_timestamp": 1770576770778,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208185250_248035lp_TGW492A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208185250_248035.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208185250_248035lp_TGW492A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGW492A",
+  "plateConfidence": 0.8091517686843872,
+  "plateCoordinates": [
+    969,
+    120,
+    120,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGW492A",
+  "plateUnicode": "TGW492A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770576770778,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.432515621185303,
+    "coordinates": [
+      632,
+      2,
+      748,
+      268
+    ],
+    "model": "Lacetti/Nubira/Optra/Sail/Viva",
+    "type": "CAR"
+  }
+}

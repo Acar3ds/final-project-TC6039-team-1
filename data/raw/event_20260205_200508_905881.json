@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770321892472,
+  "carID": 80857,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 140456618",
+  "datetimezone": "20260205 200451565-0600",
+  "frame_timestamp": 1770321892472,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205200451_799887lp_TCS527A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205200451_799887.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205193534_562187/20260205200451_799887lp_TCS527A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCS527A",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    1197,
+    213,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCS527A",
+  "plateUnicode": "TCS527A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770321892472,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.846644401550293,
+    "coordinates": [
+      856,
+      0,
+      784,
+      368
+    ],
+    "model": "Accent/Solaris",
+    "type": "CAR"
+  }
+}

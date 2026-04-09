@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771688079185,
+  "carID": 120102,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 093442967",
+  "datetimezone": "20260221 153437915-0600",
+  "frame_timestamp": 1771688079185,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221153438_144543lp_SSC825B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221153438_144543.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221153438_144543lp_SSC825B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSC825B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    975,
+    114,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSC825B",
+  "plateUnicode": "SSC825B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771688079185,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6657785177230835,
+    "coordinates": [
+      660,
+      0,
+      756,
+      242
+    ],
+    "model": "R8",
+    "type": "CAR"
+  }
+}

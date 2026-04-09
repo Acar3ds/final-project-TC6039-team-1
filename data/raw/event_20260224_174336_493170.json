@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771954995976,
+  "carID": 127068,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 114320795",
+  "datetimezone": "20260224 174315746-0600",
+  "frame_timestamp": 1771954995976,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224174316_96798lp_3A851MKZ.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224174316_96798.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224174316_96798lp_3A851MKZ.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A851MKZ",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    903,
+    96,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "A851MKZ",
+  "plateUnicode": "A851MKZ",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771954995976,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9963067770004272,
+    "coordinates": [
+      604,
+      0,
+      736,
+      236
+    ],
+    "model": "Picanto",
+    "type": "CAR"
+  }
+}

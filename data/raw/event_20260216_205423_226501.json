@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771275243414,
+  "carID": 107451,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 145408314",
+  "datetimezone": "20260216 205403258-0600",
+  "frame_timestamp": 1771275243414,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216195600_369558/20260216205403_486100lp_SFG602C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216195600_369558/20260216205403_486100.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216195600_369558/20260216205403_486100lp_SFG602C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFG602C",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    807,
+    138,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFG602C",
+  "plateUnicode": "SFG602C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771275243414,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Geely",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9998416900634766,
+    "coordinates": [
+      492,
+      2,
+      768,
+      268
+    ],
+    "model": "Emgrand 7/Emgrand GT/Emgrand EC7/GC9",
+    "type": "CAR"
+  }
+}

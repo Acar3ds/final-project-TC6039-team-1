@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772063422935,
+  "carID": 130768,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 175027820",
+  "datetimezone": "20260225 235022770-0600",
+  "frame_timestamp": 1772063422935,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225225941_901892/20260225235023_3110lp_TAD838A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225225941_901892/20260225235023_3110.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225225941_901892/20260225235023_3110lp_TAD838A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAD838A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    975,
+    129,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAD838A",
+  "plateUnicode": "TAD838A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772063422935,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1481528282165527,
+    "coordinates": [
+      632,
+      2,
+      840,
+      318
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

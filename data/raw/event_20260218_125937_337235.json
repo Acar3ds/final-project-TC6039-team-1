@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771419560631,
+  "carID": 111283,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 065922116",
+  "datetimezone": "20260218 125917064-0600",
+  "frame_timestamp": 1771419560631,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218074909_602456/20260218125917_326882lp_RWX084C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218074909_602456/20260218125917_326882.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218074909_602456/20260218125917_326882lp_RWX084C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWX084C",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1068,
+    105,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWX084C",
+  "plateUnicode": "RWX084C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771419560631,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.25558853149414,
+    "coordinates": [
+      732,
+      0,
+      772,
+      272
+    ],
+    "model": "Commodore",
+    "type": "CAR"
+  }
+}

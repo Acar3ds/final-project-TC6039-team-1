@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771512471318,
+  "carID": 114485,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 084754782",
+  "datetimezone": "20260219 144749723-0600",
+  "frame_timestamp": 1771512471318,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219142259_457820/20260219144750_24261lp_VKG178D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219142259_457820/20260219144750_24261.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219142259_457820/20260219144750_24261lp_VKG178D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "VKG178D",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1008,
+    162,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "VKG178D",
+  "plateUnicode": "VKG178D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771512471318,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.571269989013672,
+    "coordinates": [
+      680,
+      0,
+      800,
+      338
+    ],
+    "model": "2008",
+    "type": "CAR"
+  }
+}

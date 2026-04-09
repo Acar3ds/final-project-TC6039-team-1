@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770925035286,
+  "carID": 97698,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 133720023",
+  "datetimezone": "20260212 193714977-0600",
+  "frame_timestamp": 1770925035286,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212184949_609714/20260212193715_229634lp_RF1095B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212184949_609714/20260212193715_229634.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212184949_609714/20260212193715_229634lp_RF1095B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RF1095B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1038,
+    183,
+    141,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RF1095B",
+  "plateUnicode": "RF1095B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770925035286,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6415656805038452,
+    "coordinates": [
+      732,
+      2,
+      740,
+      334
+    ],
+    "model": "Accent/Verna",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771724283689,
+  "carID": 121539,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 193807721",
+  "datetimezone": "20260222 013802678-0600",
+  "frame_timestamp": 1771724283689,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222013802_852309lp_RWM197.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222013802_852309.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222013802_852309lp_RWM197.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWM197C",
+  "plateConfidence": 0.7254464030265808,
+  "plateCoordinates": [
+    1008,
+    141,
+    120,
+    45
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    45
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RWM197C",
+  "plateUnicode": "RWM197C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771724283689,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.567753314971924,
+    "coordinates": [
+      668,
+      0,
+      776,
+      260
+    ],
+    "model": "Camaro",
+    "type": "CAR"
+  }
+}

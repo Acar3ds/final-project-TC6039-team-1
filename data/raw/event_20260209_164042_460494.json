@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770655224861,
+  "carID": 89387,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 104029444",
+  "datetimezone": "20260209 164024395-0600",
+  "frame_timestamp": 1770655224861,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209163521_658853/20260209164024_620353lp_STU575A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209163521_658853/20260209164024_620353.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209163521_658853/20260209164024_620353lp_STU575A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STU575A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    780,
+    126,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STU575A",
+  "plateUnicode": "STU575A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770655224861,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.172772169113159,
+    "coordinates": [
+      396,
+      0,
+      868,
+      308
+    ],
+    "model": "3008",
+    "type": "SUV"
+  }
+}

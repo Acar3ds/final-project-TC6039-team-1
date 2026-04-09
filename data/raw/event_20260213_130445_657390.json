@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770987866723,
+  "carID": 99354,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 070431152",
+  "datetimezone": "20260213 130426105-0600",
+  "frame_timestamp": 1770987866723,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213123616_549529/20260213130426_366953lp_RKT819C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213123616_549529/20260213130426_366953.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213123616_549529/20260213130426_366953lp_RKT819C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKT819C",
+  "plateConfidence": 0.6506696343421936,
+  "plateCoordinates": [
+    879,
+    150,
+    129,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    54
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RKT819C",
+  "plateUnicode": "RKT819C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770987866723,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.858177661895752,
+    "coordinates": [
+      552,
+      0,
+      772,
+      366
+    ],
+    "model": "Ute/Crewman",
+    "type": "PICKUPTRUCK"
+  }
+}

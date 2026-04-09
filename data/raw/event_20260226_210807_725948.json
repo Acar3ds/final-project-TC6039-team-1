@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772140066484,
+  "carID": 133118,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 150751374",
+  "datetimezone": "20260226 210746321-0600",
+  "frame_timestamp": 1772140066484,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226203351_170299/20260226210746_617776lp_PJM817D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226203351_170299/20260226210746_617776.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226203351_170299/20260226210746_617776lp_PJM817D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PJM817D",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1068,
+    111,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PJM817D",
+  "plateUnicode": "PJM817D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772140066484,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9617657661437988,
+    "coordinates": [
+      716,
+      0,
+      820,
+      302
+    ],
+    "model": "X4/X4 M",
+    "type": "SUV"
+  }
+}

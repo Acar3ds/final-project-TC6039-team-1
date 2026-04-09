@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771028829270,
+  "carID": 101388,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 182713050",
+  "datetimezone": "20260214 002707988-0600",
+  "frame_timestamp": 1771028829270,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002708_290029lp_SZ1800.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002708_290029.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002708_290029lp_SZ1800.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZ1800",
+  "plateConfidence": 0.8541666865348816,
+  "plateCoordinates": [
+    921,
+    81,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "SZ1800",
+  "plateUnicode": "SZ1800",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771028829270,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.225208282470703,
+    "coordinates": [
+      616,
+      0,
+      756,
+      236
+    ],
+    "model": "Captiva/Tracker/Trax",
+    "type": "SUV"
+  }
+}

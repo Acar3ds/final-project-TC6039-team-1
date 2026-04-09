@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771447055892,
+  "carID": 112722,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 143740004",
+  "datetimezone": "20260218 203734956-0600",
+  "frame_timestamp": 1771447055892,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218194856_502421/20260218203735_200549lp_SBX950C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218194856_502421/20260218203735_200549.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218194856_502421/20260218203735_200549lp_SBX950C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBX950C",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    873,
+    153,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBX950C",
+  "plateUnicode": "SBX950C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771447055892,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.99560832977295,
+    "coordinates": [
+      548,
+      0,
+      796,
+      276
+    ],
+    "model": "Fusion  USA /Fusion Energi/Mondeo",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771088700325,
+  "carID": 102653,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 110503387",
+  "datetimezone": "20260214 170458335-0600",
+  "frame_timestamp": 1771088700325,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214170458_543013lp_TBY524B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214170458_543013.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214170458_543013lp_TBY524B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBY524B",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    867,
+    96,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBY524B",
+  "plateUnicode": "TBY524B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771088700325,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.949248790740967,
+    "coordinates": [
+      564,
+      0,
+      768,
+      222
+    ],
+    "model": "Barina",
+    "type": "CAR"
+  }
+}

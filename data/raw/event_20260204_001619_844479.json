@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770164163643,
+  "carID": 76565,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 181607568",
+  "datetimezone": "20260204 001602505-0600",
+  "frame_timestamp": 1770164163643,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204001313_67770/20260204001602_758494lp_RVK395C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204001313_67770/20260204001602_758494.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204001313_67770/20260204001602_758494lp_RVK395C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVK395C",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1065,
+    117,
+    150,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVK395C",
+  "plateUnicode": "RVK395C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770164163643,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.098783016204834,
+    "coordinates": [
+      768,
+      0,
+      876,
+      308
+    ],
+    "model": "Golf",
+    "type": "CAR"
+  }
+}

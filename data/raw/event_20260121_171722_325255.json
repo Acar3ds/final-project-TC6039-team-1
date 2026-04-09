@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769015831670,
+  "carID": 133343,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260121 111712594",
+  "datetimezone": "20260121 171711670-0600",
+  "frame_timestamp": 1769015831670,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121171434_88481/20260121171712_493885lp_SB561.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121171434_88481/20260121171712_493885.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260121171434_88481/20260121171712_493885lp_SB561.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SB561",
+  "plateConfidence": 0.6421874761581421,
+  "plateCoordinates": [
+    1907,
+    1,
+    203,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    203,
+    57
+  ],
+  "plateCountry": "USA",
+  "plateText": "SB561",
+  "plateUnicode": "SB561",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769015831670,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.8866863250732422,
+    "coordinates": [
+      1752,
+      0,
+      504,
+      126
+    ],
+    "model": "EQE SUV/EQE SUV AMG/EQS SUV",
+    "type": "SUV"
+  }
+}

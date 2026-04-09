@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771141434684,
+  "carID": 104492,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 014358479",
+  "datetimezone": "20260215 074353415-0600",
+  "frame_timestamp": 1771141434684,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215074353_645736lp_MLA853A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215074353_645736.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215074353_645736lp_MLA853A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "MLA853A",
+  "plateConfidence": 0.8080357313156128,
+  "plateCoordinates": [
+    957,
+    96,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "MLA853A",
+  "plateUnicode": "MLA853A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771141434684,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.892245292663574,
+    "coordinates": [
+      640,
+      0,
+      780,
+      260
+    ],
+    "model": "C-Class/C-Class AMG/E-Class/E-Class AMG",
+    "type": "CAR"
+  }
+}

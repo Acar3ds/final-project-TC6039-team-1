@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771816618670,
+  "carID": 123358,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 211703549",
+  "datetimezone": "20260223 031658493-0600",
+  "frame_timestamp": 1771816618670,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223031658_783015lp_RVG460U.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223031658_783015.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223031658_783015lp_RVG460U.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVG460U",
+  "plateConfidence": 0.7511160969734192,
+  "plateCoordinates": [
+    927,
+    513,
+    153,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    153,
+    81
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RVG460U",
+  "plateUnicode": "RVG460U",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771816618670,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7311618328094482,
+    "coordinates": [
+      548,
+      0,
+      920,
+      668
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772203567978,
+  "carID": 134813,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 084612731",
+  "datetimezone": "20260227 144607669-0600",
+  "frame_timestamp": 1772203567978,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227141927_285182/20260227144607_992100lp_TFL287A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227141927_285182/20260227144607_992100.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227141927_285182/20260227144607_992100lp_TFL287A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFL287A",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    1338,
+    195,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFL287A",
+  "plateUnicode": "TFL287A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772203567978,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.796120524406433,
+    "coordinates": [
+      828,
+      0,
+      948,
+      374
+    ],
+    "model": "X-Trail",
+    "type": "SUV"
+  }
+}

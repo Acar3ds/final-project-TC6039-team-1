@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771136966895,
+  "carID": 104442,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 002929008",
+  "datetimezone": "20260215 062923948-0600",
+  "frame_timestamp": 1771136966895,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215062924_246036lp_NN8557B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215062924_246036.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215062924_246036lp_NN8557B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "WN8557B",
+  "plateConfidence": 0.7745535969734192,
+  "plateCoordinates": [
+    1038,
+    126,
+    138,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    57
+  ],
+  "plateCountry": "ESP",
+  "plateText": "WN8557B",
+  "plateUnicode": "WN8557B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771136966895,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.034638404846191,
+    "coordinates": [
+      648,
+      0,
+      912,
+      434
+    ],
+    "model": "Captiva/Tracker/Trax",
+    "type": "SUV"
+  }
+}

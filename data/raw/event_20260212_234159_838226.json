@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "IRL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770939702007,
+  "carID": 98393,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 174145945",
+  "datetimezone": "20260212 234140889-0600",
+  "frame_timestamp": 1770939702007,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212234141_139840lp_EVZ425C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212234141_139840.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260212234141_139840lp_EVZ425C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EVZ425C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    945,
+    123,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "IRL",
+  "plateText": "EVZ425C",
+  "plateUnicode": "EVZ425C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770939702007,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.354047775268555,
+    "coordinates": [
+      616,
+      0,
+      804,
+      272
+    ],
+    "model": "Equinox",
+    "type": "SUV"
+  }
+}

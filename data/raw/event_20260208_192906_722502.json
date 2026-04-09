@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770578929635,
+  "carID": 87602,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 132853744",
+  "datetimezone": "20260208 192848680-0600",
+  "frame_timestamp": 1770578929635,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208192848_904498lp_VM668D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208192848_904498.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208192848_904498lp_VM668D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EVM668D",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1155,
+    171,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "EVM668D",
+  "plateUnicode": "EVM668D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770578929635,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6927003860473633,
+    "coordinates": [
+      792,
+      0,
+      828,
+      324
+    ],
+    "model": "Freed/Odyssey",
+    "type": "VAN"
+  }
+}

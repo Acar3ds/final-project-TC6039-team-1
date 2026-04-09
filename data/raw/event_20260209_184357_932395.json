@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770662624308,
+  "carID": 89701,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 124344762",
+  "datetimezone": "20260209 184339710-0600",
+  "frame_timestamp": 1770662624308,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209184339_944949lp_TGH337B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209184339_944949.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209184339_944949lp_TGH337B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGH337B",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1014,
+    99,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGH337B",
+  "plateUnicode": "TGH337B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770662624308,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 57.304813385009766,
+    "coordinates": [
+      656,
+      2,
+      796,
+      246
+    ],
+    "model": "bB",
+    "type": "VAN"
+  }
+}

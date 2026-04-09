@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771100692726,
+  "carID": 103174,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 142457470",
+  "datetimezone": "20260214 202452417-0600",
+  "frame_timestamp": 1771100692726,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214202452_686725lp_TES965A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214202452_686725.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214202452_686725lp_TES965A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TES965A",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    858,
+    141,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TES965A",
+  "plateUnicode": "TES965A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771100692726,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.996954083442688,
+    "coordinates": [
+      520,
+      0,
+      804,
+      354
+    ],
+    "model": "Oroch/Duster",
+    "type": "PICKUPTRUCK"
+  }
+}

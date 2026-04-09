@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770826598893,
+  "carID": 94561,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 101643821",
+  "datetimezone": "20260211 161638762-0600",
+  "frame_timestamp": 1770826598893,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211152756_932096/20260211161638_972239lp_RL2797A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211152756_932096/20260211161638_972239.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211152756_932096/20260211161638_972239lp_RL2797A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RL2797A",
+  "plateConfidence": 0.8191964030265808,
+  "plateCoordinates": [
+    1110,
+    111,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RL2797A",
+  "plateUnicode": "RL2797A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770826598893,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8802976608276367,
+    "coordinates": [
+      668,
+      0,
+      996,
+      386
+    ],
+    "model": "F-550/F-450/F-350/F-250",
+    "type": "PICKUPTRUCK"
+  }
+}

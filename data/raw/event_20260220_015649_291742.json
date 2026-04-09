@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771552590119,
+  "carID": 116293,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 195633817",
+  "datetimezone": "20260220 015628765-0600",
+  "frame_timestamp": 1771552590119,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220015629_57080lp_TBW465B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220015629_57080.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220015629_57080lp_TBW465B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBW465B",
+  "plateConfidence": 0.8136160969734192,
+  "plateCoordinates": [
+    1260,
+    192,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBW465B",
+  "plateUnicode": "TBW465B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771552590119,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.33198356628418,
+    "coordinates": [
+      908,
+      0,
+      804,
+      366
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

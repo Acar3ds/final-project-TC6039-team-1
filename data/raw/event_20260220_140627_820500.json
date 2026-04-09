@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771596368197,
+  "carID": 117056,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 080612468",
+  "datetimezone": "20260220 140607422-0600",
+  "frame_timestamp": 1771596368197,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220134925_413497/20260220140607_696518lp_SW5388.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220134925_413497/20260220140607_696518.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220134925_413497/20260220140607_696518lp_SW5388.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SW5388",
+  "plateConfidence": 0.8489583134651184,
+  "plateCoordinates": [
+    1017,
+    123,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "SW5388",
+  "plateUnicode": "SW5388",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771596368197,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.06353759765625,
+    "coordinates": [
+      676,
+      0,
+      804,
+      270
+    ],
+    "model": "Aurion/Camry",
+    "type": "CAR"
+  }
+}

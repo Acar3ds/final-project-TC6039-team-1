@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771032404470,
+  "carID": 101550,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 192648431",
+  "datetimezone": "20260214 012643375-0600",
+  "frame_timestamp": 1771032404470,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214012643_642071lp_NHV812E.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214012643_642071.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214012643_642071lp_NHV812E.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "NHV812B",
+  "plateConfidence": 0.7287946343421936,
+  "plateCoordinates": [
+    1029,
+    129,
+    126,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    54
+  ],
+  "plateCountry": "FRA",
+  "plateText": "NHV812B",
+  "plateUnicode": "NHV812B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771032404470,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.617557525634766,
+    "coordinates": [
+      708,
+      0,
+      764,
+      290
+    ],
+    "model": "CLA/CLA AMG",
+    "type": "CAR"
+  }
+}

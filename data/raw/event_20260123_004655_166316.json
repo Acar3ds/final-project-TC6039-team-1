@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769129204866,
+  "carID": 977,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 184645242",
+  "datetimezone": "20260123 004644866-0600",
+  "frame_timestamp": 1769129204866,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123004645_95975lp_YWNMH.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123004645_95975.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123004645_95975lp_YWNMH.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "YWNMH",
+  "plateConfidence": 0.47343748807907104,
+  "plateCoordinates": [
+    1298,
+    493,
+    229,
+    129
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    229,
+    129
+  ],
+  "plateCountry": "USA",
+  "plateText": "YWNMH",
+  "plateUnicode": "YWNMH",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769129204866,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Pontiac",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9963510036468506,
+    "coordinates": [
+      892,
+      0,
+      1020,
+      828
+    ],
+    "model": "G4/G5/G6",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771104731274,
+  "carID": 103354,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 153215699",
+  "datetimezone": "20260214 213210644-0600",
+  "frame_timestamp": 1771104731274,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214213210_862177lp_SFY422B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214213210_862177.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214211107_757836/20260214213210_862177lp_SFY422B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFY422B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1050,
+    126,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFY422B",
+  "plateUnicode": "SFY422B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771104731274,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.940891742706299,
+    "coordinates": [
+      708,
+      0,
+      816,
+      312
+    ],
+    "model": "Freed/Odyssey",
+    "type": "VAN"
+  }
+}

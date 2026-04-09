@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "BEL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772205072420,
+  "carID": 134924,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 091117467",
+  "datetimezone": "20260227 151112420-0600",
+  "frame_timestamp": 1772205072420,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227151112_570795lp_6020H.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227151112_570795.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227151112_570795lp_6020H.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "6020H",
+  "plateConfidence": 0.854687511920929,
+  "plateCoordinates": [
+    816,
+    867,
+    114,
+    42
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    114,
+    42
+  ],
+  "plateCountry": "BEL",
+  "plateText": "6020H",
+  "plateUnicode": "6020H",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772205072420,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "YELLOW",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6202207207679749,
+    "coordinates": [
+      316,
+      476,
+      1096,
+      600
+    ],
+    "model": "Monaro/Senator  VX /Senator  VZ ",
+    "type": "CAR"
+  }
+}

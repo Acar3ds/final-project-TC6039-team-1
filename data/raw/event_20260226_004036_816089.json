@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772066419425,
+  "carID": 130908,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 184020615",
+  "datetimezone": "20260226 004015567-0600",
+  "frame_timestamp": 1772066419425,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226004015_843189lp_RK3019B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226004015_843189.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226004015_843189lp_RK3019B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RK3019B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    879,
+    78,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RK3019B",
+  "plateUnicode": "RK3019B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772066419425,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.608492851257324,
+    "coordinates": [
+      588,
+      2,
+      700,
+      250
+    ],
+    "model": "Freelander",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771107250658,
+  "carID": 103453,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 161414995",
+  "datetimezone": "20260214 221409938-0600",
+  "frame_timestamp": 1771107250658,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214221410_179804lp_TCF744B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214221410_179804.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214221410_179804lp_TCF744B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCF744B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1020,
+    171,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCF744B",
+  "plateUnicode": "TCF744B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771107250658,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.924884796142578,
+    "coordinates": [
+      696,
+      0,
+      784,
+      314
+    ],
+    "model": "Auris/Corolla",
+    "type": "CAR"
+  }
+}

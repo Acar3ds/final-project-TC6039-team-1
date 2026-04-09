@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770745409078,
+  "carID": 92116,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 114333992",
+  "datetimezone": "20260210 174328940-0600",
+  "frame_timestamp": 1770745409078,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210174329_178957lp_TEE976A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210174329_178957.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210174329_178957lp_TEE976A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEE976A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1218,
+    192,
+    138,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEE976A",
+  "plateUnicode": "TEE976A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770745409078,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6007847785949707,
+    "coordinates": [
+      876,
+      0,
+      852,
+      374
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

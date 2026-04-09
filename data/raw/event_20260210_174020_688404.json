@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770745203747,
+  "carID": 92099,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 114007695",
+  "datetimezone": "20260210 174002645-0600",
+  "frame_timestamp": 1770745203747,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210164022_781858/20260210174002_896259lp_RWX710B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210164022_781858/20260210174002_896259.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210164022_781858/20260210174002_896259lp_RWX710B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWX710B",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1347,
+    183,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWX710B",
+  "plateUnicode": "RWX710B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770745203747,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.3886218070983887,
+    "coordinates": [
+      936,
+      2,
+      824,
+      346
+    ],
+    "model": "Odyssey  USA ",
+    "type": "VAN"
+  }
+}

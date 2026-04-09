@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770905966469,
+  "carID": 96839,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 081929128",
+  "datetimezone": "20260212 141924072-0600",
+  "frame_timestamp": 1770905966469,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212141614_596345/20260212141924_352023lp_SRX448A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212141614_596345/20260212141924_352023.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212141614_596345/20260212141924_352023lp_SRX448A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRX448A",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1149,
+    147,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRX448A",
+  "plateUnicode": "SRX448A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770905966469,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.785270690917969,
+    "coordinates": [
+      824,
+      0,
+      760,
+      330
+    ],
+    "model": "Malibu",
+    "type": "CAR"
+  }
+}

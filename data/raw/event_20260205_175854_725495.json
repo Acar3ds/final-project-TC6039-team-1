@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770314317721,
+  "carID": 80491,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 115842474",
+  "datetimezone": "20260205 175837411-0600",
+  "frame_timestamp": 1770314317721,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205175837_651700lp_WAU978A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205175837_651700.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205174007_410880/20260205175837_651700lp_WAU978A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "WAU978A",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    981,
+    141,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "WAU978A",
+  "plateUnicode": "WAU978A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770314317721,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5164800882339478,
+    "coordinates": [
+      620,
+      0,
+      824,
+      300
+    ],
+    "model": "Avalon/Camry",
+    "type": "CAR"
+  }
+}

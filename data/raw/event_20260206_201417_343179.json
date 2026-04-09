@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770408841921,
+  "carID": 83505,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 141404909",
+  "datetimezone": "20260206 201359860-0600",
+  "frame_timestamp": 1770408841921,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206201400_98097lp_STN838A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206201400_98097.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206201400_98097lp_STN838A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STN838A",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    1032,
+    129,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STN838A",
+  "plateUnicode": "STN838A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770408841921,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 20.751270294189453,
+    "coordinates": [
+      676,
+      0,
+      804,
+      272
+    ],
+    "model": "Caravelle/California/Multivan/Transporter",
+    "type": "VAN"
+  }
+}

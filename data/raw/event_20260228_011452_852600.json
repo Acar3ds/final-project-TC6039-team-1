@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772241273133,
+  "carID": 136723,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 191436669",
+  "datetimezone": "20260228 011431626-0600",
+  "frame_timestamp": 1772241273133,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228003556_872333/20260228011431_932823lp_SGW915B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228003556_872333/20260228011431_932823.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228003556_872333/20260228011431_932823lp_SGW915B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGW915B",
+  "plateConfidence": 0.7723214030265808,
+  "plateCoordinates": [
+    1080,
+    120,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGW915B",
+  "plateUnicode": "SGW915B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772241273133,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Pontiac",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.416003704071045,
+    "coordinates": [
+      768,
+      0,
+      760,
+      278
+    ],
+    "model": "G4/G5/G6",
+    "type": "CAR"
+  }
+}

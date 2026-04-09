@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771255331282,
+  "carID": 106579,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 092216191",
+  "datetimezone": "20260216 152211142-0600",
+  "frame_timestamp": 1771255331282,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216152211_422065lp_RN4190.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216152211_422065.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216145442_31027/20260216152211_422065lp_RN4190.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRN4190",
+  "plateConfidence": 0.7857142686843872,
+  "plateCoordinates": [
+    1020,
+    126,
+    126,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRN4190",
+  "plateUnicode": "RRN4190",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771255331282,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "LDV",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.603778600692749,
+    "coordinates": [
+      680,
+      0,
+      800,
+      258
+    ],
+    "model": "G20/G50",
+    "type": "VAN"
+  }
+}

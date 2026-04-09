@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771340173766,
+  "carID": 109081,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 085618682",
+  "datetimezone": "20260217 145613629-0600",
+  "frame_timestamp": 1771340173766,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217143750_433699/20260217145613_887420lp_SZY299B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217143750_433699/20260217145613_887420.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217143750_433699/20260217145613_887420lp_SZY299B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZY299B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1041,
+    165,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZY299B",
+  "plateUnicode": "SZY299B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771340173766,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.3089749813079834,
+    "coordinates": [
+      748,
+      0,
+      696,
+      318
+    ],
+    "model": "Eclipse",
+    "type": "CAR"
+  }
+}

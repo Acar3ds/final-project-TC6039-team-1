@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771608173471,
+  "carID": 117740,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 112258301",
+  "datetimezone": "20260220 172253243-0600",
+  "frame_timestamp": 1771608173471,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220172253_587394lp_0SSX172B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220172253_587394.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220172253_587394lp_0SSX172B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSX172B",
+  "plateConfidence": 0.8191964030265808,
+  "plateCoordinates": [
+    1098,
+    171,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSX172B",
+  "plateUnicode": "SSX172B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771608173471,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.966970443725586,
+    "coordinates": [
+      764,
+      2,
+      792,
+      322
+    ],
+    "model": "Equinox",
+    "type": "SUV"
+  }
+}

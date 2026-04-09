@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771940271732,
+  "carID": 126302,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 073755815",
+  "datetimezone": "20260224 133750768-0600",
+  "frame_timestamp": 1771940271732,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224133751_54218lp_SDY190A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224133751_54218.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224133751_54218lp_SDY190A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDY190A",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1101,
+    144,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDY190A",
+  "plateUnicode": "SDY190A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771940271732,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.227334976196289,
+    "coordinates": [
+      732,
+      0,
+      812,
+      308
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

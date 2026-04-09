@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771341293005,
+  "carID": 109145,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 091457267",
+  "datetimezone": "20260217 151452221-0600",
+  "frame_timestamp": 1771341293005,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217151452_526354lp_SXK054B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217151452_526354.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217151452_526354lp_SXK054B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXK054B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    882,
+    105,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXK054B",
+  "plateUnicode": "SXK054B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771341293005,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.996705532073975,
+    "coordinates": [
+      552,
+      0,
+      780,
+      234
+    ],
+    "model": "K5/Optima",
+    "type": "CAR"
+  }
+}

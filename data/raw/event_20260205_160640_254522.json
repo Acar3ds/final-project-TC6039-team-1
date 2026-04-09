@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770307583178,
+  "carID": 80195,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 100627912",
+  "datetimezone": "20260205 160622859-0600",
+  "frame_timestamp": 1770307583178,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205160623_119781lp_UPD996H.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205160623_119781.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205160623_119781lp_UPD996H.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "UPD996H",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    879,
+    87,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "UPD996H",
+  "plateUnicode": "UPD996H",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770307583178,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9996508359909058,
+    "coordinates": [
+      528,
+      2,
+      820,
+      268
+    ],
+    "model": "XT4/XT5/XT6",
+    "type": "SUV"
+  }
+}

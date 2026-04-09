@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772231400118,
+  "carID": 136221,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 163004367",
+  "datetimezone": "20260227 222959314-0600",
+  "frame_timestamp": 1772231400118,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227214801_266373/20260227222959_585511lp_SZE847A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227214801_266373/20260227222959_585511.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227214801_266373/20260227222959_585511lp_SZE847A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZE847A",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1158,
+    186,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZE847A",
+  "plateUnicode": "SZE847A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772231400118,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.974900245666504,
+    "coordinates": [
+      768,
+      0,
+      908,
+      422
+    ],
+    "model": "SQ8/SQ8 Sportback e-tron",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772237907569,
+  "carID": 136528,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 181832032",
+  "datetimezone": "20260228 001826987-0600",
+  "frame_timestamp": 1772237907569,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228001827_216575lp_SVK220.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228001827_216575.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227234843_964483/20260228001827_216575lp_SVK220.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVK220B",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    990,
+    135,
+    141,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVK220B",
+  "plateUnicode": "SVK220B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772237907569,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9541587829589844,
+    "coordinates": [
+      692,
+      0,
+      756,
+      284
+    ],
+    "model": "Cavalier/Onix/Sonic",
+    "type": "CAR"
+  }
+}

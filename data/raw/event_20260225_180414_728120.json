@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772042633677,
+  "carID": 129759,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 120358598",
+  "datetimezone": "20260225 180353537-0600",
+  "frame_timestamp": 1772042633677,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225180353_809354lp_SEY974A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225180353_809354.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225180353_809354lp_SEY974A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEY974A",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1179,
+    333,
+    153,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    153,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEY974A",
+  "plateUnicode": "SEY974A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772042633677,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.282104015350342,
+    "coordinates": [
+      692,
+      0,
+      1004,
+      642
+    ],
+    "model": "A4/A5/A6/A7/A8/S5/S6/S7",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770245846296,
+  "carID": 78747,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 165731081",
+  "datetimezone": "20260204 225726031-0600",
+  "frame_timestamp": 1770245846296,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204225726_408324lp_0SED140B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204225726_408324.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204225726_408324lp_0SED140B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SED140B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    804,
+    87,
+    135,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SED140B",
+  "plateUnicode": "SED140B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770245846296,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.714367151260376,
+    "coordinates": [
+      580,
+      0,
+      804,
+      234
+    ],
+    "model": "Traverse",
+    "type": "SUV"
+  }
+}

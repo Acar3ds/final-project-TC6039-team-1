@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771018652655,
+  "carID": 100905,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 153737576",
+  "datetimezone": "20260213 213732524-0600",
+  "frame_timestamp": 1771018652655,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213213732_814989lp_SDH421A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213213732_814989.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213210230_152863/20260213213732_814989lp_SDH421A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDH421A",
+  "plateConfidence": 0.8258928656578064,
+  "plateCoordinates": [
+    1446,
+    219,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDH421A",
+  "plateUnicode": "SDH421A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771018652655,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9207420349121094,
+    "coordinates": [
+      984,
+      0,
+      932,
+      416
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

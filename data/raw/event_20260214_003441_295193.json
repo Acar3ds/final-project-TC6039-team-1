@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771029263198,
+  "carID": 101407,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 183426751",
+  "datetimezone": "20260214 003421691-0600",
+  "frame_timestamp": 1771029263198,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214003421_971851lp_PV2909A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214003421_971851.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214003421_971851lp_PV2909A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PV79U9A",
+  "plateConfidence": 0.5892857313156128,
+  "plateCoordinates": [
+    987,
+    159,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PV79U9A",
+  "plateUnicode": "PV79U9A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771029263198,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.972540855407715,
+    "coordinates": [
+      676,
+      0,
+      736,
+      330
+    ],
+    "model": "Citi Golf",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772212253822,
+  "carID": 135303,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 111058126",
+  "datetimezone": "20260227 171053071-0600",
+  "frame_timestamp": 1772212253822,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227171053_323565lp_RLE755C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227171053_323565.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227171053_323565lp_RLE755C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLE755C",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    963,
+    114,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLE755C",
+  "plateUnicode": "RLE755C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772212253822,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.96444845199585,
+    "coordinates": [
+      624,
+      0,
+      808,
+      320
+    ],
+    "model": "Seltos/Sonet",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771270221530,
+  "carID": 107201,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 133026452",
+  "datetimezone": "20260216 193021399-0600",
+  "frame_timestamp": 1771270221530,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216193021_685013lp_RTS375C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216193021_685013.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216193021_685013lp_RTS375C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTS375C",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    1044,
+    153,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTS375C",
+  "plateUnicode": "RTS375C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771270221530,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9776360988616943,
+    "coordinates": [
+      700,
+      0,
+      784,
+      278
+    ],
+    "model": "Focus/Focus RS/Focus ST",
+    "type": "CAR"
+  }
+}

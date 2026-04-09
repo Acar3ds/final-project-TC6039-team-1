@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771032193044,
+  "carID": 101534,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 192317208",
+  "datetimezone": "20260214 012312158-0600",
+  "frame_timestamp": 1771032193044,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214012312_455725lp_SDW7350.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214012312_455725.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214003601_409309/20260214012312_455725lp_SDW7350.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDW7350",
+  "plateConfidence": 0.6964285969734192,
+  "plateCoordinates": [
+    894,
+    147,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDW7350",
+  "plateUnicode": "SDW7350",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771032193044,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6233153343200684,
+    "coordinates": [
+      552,
+      0,
+      828,
+      386
+    ],
+    "model": "5008",
+    "type": "VAN"
+  }
+}

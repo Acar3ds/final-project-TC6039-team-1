@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770716354702,
+  "carID": 91123,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 033918716",
+  "datetimezone": "20260210 093913659-0600",
+  "frame_timestamp": 1770716354702,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210052523_41766/20260210093913_839870lp_PTH1B0.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210052523_41766/20260210093913_839870.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210052523_41766/20260210093913_839870lp_PTH1B0.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "P8B19",
+  "plateConfidence": 0.3984375,
+  "plateCoordinates": [
+    1452,
+    348,
+    150,
+    84
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    84
+  ],
+  "plateCountry": "ESP",
+  "plateText": "P8B19",
+  "plateUnicode": "P8B19",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770716354702,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.0756568908691406,
+    "coordinates": [
+      912,
+      0,
+      876,
+      560
+    ],
+    "model": "Qubo",
+    "type": "VAN"
+  }
+}

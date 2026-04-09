@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770236137658,
+  "carID": 78361,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 141542405",
+  "datetimezone": "20260204 201537338-0600",
+  "frame_timestamp": 1770236137658,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204201537_585958lp_TGL320B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204201537_585958.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204194224_529872/20260204201537_585958lp_TGL320B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGL320B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    795,
+    129,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGL320B",
+  "plateUnicode": "TGL320B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770236137658,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6209139823913574,
+    "coordinates": [
+      504,
+      0,
+      716,
+      300
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

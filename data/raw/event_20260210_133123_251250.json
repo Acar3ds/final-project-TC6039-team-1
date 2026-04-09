@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770730265504,
+  "carID": 91328,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 073110230",
+  "datetimezone": "20260210 133105178-0600",
+  "frame_timestamp": 1770730265504,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210133105_385156lp_STE2948.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210133105_385156.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210124745_36043/20260210133105_385156lp_STE2948.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STE2948",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1314,
+    207,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "NLD",
+  "plateText": "STE2948",
+  "plateUnicode": "STE2948",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770730265504,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9955129623413086,
+    "coordinates": [
+      980,
+      0,
+      780,
+      378
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770731266681,
+  "carID": 91374,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 074751567",
+  "datetimezone": "20260210 134746512-0600",
+  "frame_timestamp": 1770731266681,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134746_742185lp_TES974B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134746_742185.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134746_742185lp_TES974B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TES974B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    999,
+    150,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TES974B",
+  "plateUnicode": "TES974B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770731266681,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9995325803756714,
+    "coordinates": [
+      680,
+      2,
+      764,
+      310
+    ],
+    "model": "Swift",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770752244080,
+  "carID": 92435,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 133728840",
+  "datetimezone": "20260210 193723787-0600",
+  "frame_timestamp": 1770752244080,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193724_7927lp_RVU454C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193724_7927.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193724_7927lp_RVU454C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVU454C",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    948,
+    201,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVU454C",
+  "plateUnicode": "RVU454C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770752244080,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9993269443511963,
+    "coordinates": [
+      596,
+      0,
+      852,
+      312
+    ],
+    "model": "Range Rover/Range Rover Sport",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771988260763,
+  "carID": 128508,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 205744023",
+  "datetimezone": "20260225 025738968-0600",
+  "frame_timestamp": 1771988260763,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225021907_563359/20260225025739_194588lp_RXK323C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225021907_563359/20260225025739_194588.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225021907_563359/20260225025739_194588lp_RXK323C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXK323C",
+  "plateConfidence": 0.7756696343421936,
+  "plateCoordinates": [
+    981,
+    153,
+    126,
+    45
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    45
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXK323C",
+  "plateUnicode": "RXK323C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771988260763,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.803398132324219,
+    "coordinates": [
+      672,
+      0,
+      732,
+      300
+    ],
+    "model": "Tiggo  T11 /Tiggo 3",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771280051584,
+  "carID": 107658,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 161415890",
+  "datetimezone": "20260216 221410837-0600",
+  "frame_timestamp": 1771280051584,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216221411_63916lp_TBL329B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216221411_63916.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216215231_559062/20260216221411_63916lp_TBL329B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBL329B",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    813,
+    138,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBL329B",
+  "plateUnicode": "TBL329B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771280051584,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.6875581741333,
+    "coordinates": [
+      448,
+      2,
+      860,
+      348
+    ],
+    "model": "Grand Cherokee",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768907347548,
+  "carID": 121147,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 050907974",
+  "datetimezone": "20260120 110907548-0600",
+  "frame_timestamp": 1768907347548,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120092543_38197/20260120110907_900401lp_RBR857B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120092543_38197/20260120110907_900401.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120092543_38197/20260120110907_900401lp_RBR857B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RBR857B",
+  "plateConfidence": 0.3592633903026581,
+  "plateCoordinates": [
+    2096,
+    128,
+    128,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    128,
+    43
+  ],
+  "plateCountry": "USA",
+  "plateText": "RBR857B",
+  "plateUnicode": "RBR857B",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768907347548,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.699774980545044,
+    "coordinates": [
+      1912,
+      0,
+      484,
+      210
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

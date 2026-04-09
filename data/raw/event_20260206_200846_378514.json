@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770408508983,
+  "carID": 83483,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 140833906",
+  "datetimezone": "20260206 200828850-0600",
+  "frame_timestamp": 1770408508983,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206200829_69408lp_SYF653B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206200829_69408.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206200829_69408lp_SYF653B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYF653B",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    1473,
+    285,
+    144,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYF653B",
+  "plateUnicode": "SYF653B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770408508983,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.7107083797454834,
+    "coordinates": [
+      1064,
+      0,
+      840,
+      452
+    ],
+    "model": "Corsa",
+    "type": "CAR"
+  }
+}

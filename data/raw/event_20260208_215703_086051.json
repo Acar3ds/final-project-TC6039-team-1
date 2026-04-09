@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770587806881,
+  "carID": 87883,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 155650226",
+  "datetimezone": "20260208 215645174-0600",
+  "frame_timestamp": 1770587806881,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208215645_390895lp_RPS541C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208215645_390895.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208215645_390895lp_RPS541C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPS541C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    882,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPS541C",
+  "plateUnicode": "RPS541C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770587806881,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Buick",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.993396759033203,
+    "coordinates": [
+      564,
+      0,
+      772,
+      254
+    ],
+    "model": "Regal/Verano",
+    "type": "CAR"
+  }
+}

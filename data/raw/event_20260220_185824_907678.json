@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771613885130,
+  "carID": 118065,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 125809717",
+  "datetimezone": "20260220 185804663-0600",
+  "frame_timestamp": 1771613885130,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220185804_874467lp_RMB574B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220185804_874467.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220185804_874467lp_RMB574B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMB574B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    864,
+    93,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMB574B",
+  "plateUnicode": "RMB574B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771613885130,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9973134994506836,
+    "coordinates": [
+      548,
+      0,
+      748,
+      236
+    ],
+    "model": "3/5/3 MPS/Axela/Premacy",
+    "type": "CAR"
+  }
+}

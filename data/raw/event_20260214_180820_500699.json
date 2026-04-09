@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771092484344,
+  "carID": 102809,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 120805847",
+  "datetimezone": "20260214 180800790-0600",
+  "frame_timestamp": 1771092484344,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214180801_48343lp_V9844A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214180801_48343.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214180801_48343lp_V9844A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PV9844A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    888,
+    81,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PV9844A",
+  "plateUnicode": "PV9844A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771092484344,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 20.135421752929688,
+    "coordinates": [
+      420,
+      2,
+      1048,
+      256
+    ],
+    "model": "206",
+    "type": "CAR"
+  }
+}

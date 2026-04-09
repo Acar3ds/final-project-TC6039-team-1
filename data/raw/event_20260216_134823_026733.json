@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771249683193,
+  "carID": 106219,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 074808123",
+  "datetimezone": "20260216 134803062-0600",
+  "frame_timestamp": 1771249683193,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216134239_644835/20260216134803_288373lp_RA9414A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216134239_644835/20260216134803_288373.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216134239_644835/20260216134803_288373lp_RA9414A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RA9414A",
+  "plateConfidence": 0.7823660969734192,
+  "plateCoordinates": [
+    1515,
+    309,
+    156,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    156,
+    81
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RA9414A",
+  "plateUnicode": "RA9414A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771249683193,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.707435607910156,
+    "coordinates": [
+      1044,
+      0,
+      872,
+      560
+    ],
+    "model": "Silverado",
+    "type": "PICKUPTRUCK"
+  }
+}

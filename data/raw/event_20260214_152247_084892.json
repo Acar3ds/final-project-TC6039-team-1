@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771082547672,
+  "carID": 102440,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 092232567",
+  "datetimezone": "20260214 152227514-0600",
+  "frame_timestamp": 1771082547672,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214152227_764667lp_PZ2892B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214152227_764667.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214152227_764667lp_PZ2892B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PZ2892B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1515,
+    300,
+    138,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PZ2892B",
+  "plateUnicode": "PZ2892B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771082547672,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "NONE",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.624152660369873,
+    "coordinates": [
+      948,
+      0,
+      968,
+      1076
+    ],
+    "model": "None",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772036393804,
+  "carID": 129514,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 101958215",
+  "datetimezone": "20260225 161953162-0600",
+  "frame_timestamp": 1772036393804,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225161953_414871lp_SMF546A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225161953_414871.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225160941_729764/20260225161953_414871lp_SMF546A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMF546A",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1011,
+    93,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMF546A",
+  "plateUnicode": "SMF546A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772036393804,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.860310077667236,
+    "coordinates": [
+      600,
+      0,
+      816,
+      266
+    ],
+    "model": "Beat Premier",
+    "type": "CAR"
+  }
+}

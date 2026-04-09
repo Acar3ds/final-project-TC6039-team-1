@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771372859975,
+  "carID": 110520,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 180103674",
+  "datetimezone": "20260218 000058621-0600",
+  "frame_timestamp": 1771372859975,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260218000058_814214lp_XW336B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260218000058_814214.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260218000058_814214lp_XW336B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXN306B",
+  "plateConfidence": 0.7265625,
+  "plateCoordinates": [
+    1083,
+    198,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXN306B",
+  "plateUnicode": "RXN306B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771372859975,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.307731628417969,
+    "coordinates": [
+      752,
+      0,
+      796,
+      326
+    ],
+    "model": "Auris/Allex/Corolla/Corolla RunX/Corolla Spacio/Matrix",
+    "type": "CAR"
+  }
+}

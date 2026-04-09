@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770300584818,
+  "carID": 79830,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 080949743",
+  "datetimezone": "20260205 140944680-0600",
+  "frame_timestamp": 1770300584818,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205140944_953194lp_SJC801A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205140944_953194.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205140944_953194lp_SJC801A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJC801A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1113,
+    213,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJC801A",
+  "plateUnicode": "SJC801A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770300584818,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6053147315979004,
+    "coordinates": [
+      788,
+      0,
+      792,
+      384
+    ],
+    "model": "2008/2008 e",
+    "type": "CAR"
+  }
+}

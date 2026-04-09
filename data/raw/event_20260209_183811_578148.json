@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770662273822,
+  "carID": 89688,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 123758554",
+  "datetimezone": "20260209 183753507-0600",
+  "frame_timestamp": 1770662273822,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209183753_728582lp_SGU792B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209183753_728582.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209175154_797540/20260209183753_728582lp_SGU792B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGU792B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    996,
+    117,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGU792B",
+  "plateUnicode": "SGU792B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770662273822,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4892653226852417,
+    "coordinates": [
+      652,
+      0,
+      792,
+      314
+    ],
+    "model": "A1/A1 Citycarver",
+    "type": "CAR"
+  }
+}

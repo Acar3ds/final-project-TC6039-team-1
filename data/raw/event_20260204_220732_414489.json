@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "IRL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770242835470,
+  "carID": 78645,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 160720207",
+  "datetimezone": "20260204 220715155-0600",
+  "frame_timestamp": 1770242835470,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204220715_379810lp_GMZ480O.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204220715_379810.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204220715_379810lp_GMZ480O.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "GMZ480C",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    1197,
+    186,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "IRL",
+  "plateText": "GMZ480C",
+  "plateUnicode": "GMZ480C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770242835470,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8801034688949585,
+    "coordinates": [
+      836,
+      0,
+      844,
+      386
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

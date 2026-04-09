@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772150784808,
+  "carID": 133675,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 180629570",
+  "datetimezone": "20260227 000624514-0600",
+  "frame_timestamp": 1772150784808,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260227000624_796824lp_RZB736B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260227000624_796824.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260227000624_796824lp_RZB736B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZB736B",
+  "plateConfidence": 0.8783482313156128,
+  "plateCoordinates": [
+    825,
+    156,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "GRC",
+  "plateText": "RZB736B",
+  "plateUnicode": "RZB736B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772150784808,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.323392868041992,
+    "coordinates": [
+      528,
+      0,
+      732,
+      276
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

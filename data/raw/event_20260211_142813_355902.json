@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770820075148,
+  "carID": 94189,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 082800053",
+  "datetimezone": "20260211 142755002-0600",
+  "frame_timestamp": 1770820075148,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211142755_269047lp_RZV586A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211142755_269047.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211141423_545616/20260211142755_269047lp_RZV586A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZV586A",
+  "plateConfidence": 0.7667410969734192,
+  "plateCoordinates": [
+    1044,
+    114,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZV586A",
+  "plateUnicode": "RZV586A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770820075148,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.90545654296875,
+    "coordinates": [
+      732,
+      2,
+      752,
+      268
+    ],
+    "model": "Rio/Rio5",
+    "type": "CAR"
+  }
+}

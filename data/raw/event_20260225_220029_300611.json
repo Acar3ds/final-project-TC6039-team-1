@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772056809051,
+  "carID": 130484,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 160013257",
+  "datetimezone": "20260225 220008212-0600",
+  "frame_timestamp": 1772056809051,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225220008_493488lp_TFP080A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225220008_493488.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225220008_493488lp_TFP080A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFP080A",
+  "plateConfidence": 0.8247767686843872,
+  "plateCoordinates": [
+    1227,
+    219,
+    150,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    81
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFP080A",
+  "plateUnicode": "TFP080A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772056809051,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.618047714233398,
+    "coordinates": [
+      824,
+      2,
+      924,
+      370
+    ],
+    "model": "Econoline",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771102022038,
+  "carID": 103239,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 144706243",
+  "datetimezone": "20260214 204701190-0600",
+  "frame_timestamp": 1771102022038,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214204701_427449lp_RKS498C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214204701_427449.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214204701_427449lp_RKS498C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKS498C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1125,
+    291,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RKS498C",
+  "plateUnicode": "RKS498C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771102022038,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.996117115020752,
+    "coordinates": [
+      796,
+      0,
+      780,
+      434
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

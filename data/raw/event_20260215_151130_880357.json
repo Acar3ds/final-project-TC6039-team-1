@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771168272965,
+  "carID": 104625,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 091116271",
+  "datetimezone": "20260215 151111223-0600",
+  "frame_timestamp": 1771168272965,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215093052_553240/20260215151111_473269lp_RMT879B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215093052_553240/20260215151111_473269.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215093052_553240/20260215151111_473269lp_RMT879B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMT879B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1005,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMT879B",
+  "plateUnicode": "RMT879B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771168272965,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.365254878997803,
+    "coordinates": [
+      684,
+      0,
+      768,
+      278
+    ],
+    "model": "2008/2008 e",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771711003667,
+  "carID": 121061,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 155647763",
+  "datetimezone": "20260221 215642705-0600",
+  "frame_timestamp": 1771711003667,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221215642_957828lp_YKY881B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221215642_957828.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221215642_957828lp_YKY881B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "YKY881B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    897,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "YKY881B",
+  "plateUnicode": "YKY881B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771711003667,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.488283157348633,
+    "coordinates": [
+      576,
+      0,
+      772,
+      278
+    ],
+    "model": "Prius/Prius Plug-In",
+    "type": "CAR"
+  }
+}

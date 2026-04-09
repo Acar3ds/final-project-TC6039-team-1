@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771180555825,
+  "carID": 104891,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 123559947",
+  "datetimezone": "20260215 183554888-0600",
+  "frame_timestamp": 1771180555825,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215183555_242978lp_3RSD277C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215183555_242978.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215183555_242978lp_3RSD277C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSD277C",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    846,
+    105,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSD277C",
+  "plateUnicode": "RSD277C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771180555825,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.149077892303467,
+    "coordinates": [
+      512,
+      0,
+      808,
+      344
+    ],
+    "model": "ATS/CTS",
+    "type": "CAR"
+  }
+}

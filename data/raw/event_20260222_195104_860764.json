@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771789845048,
+  "carID": 122594,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 135049189",
+  "datetimezone": "20260222 195044134-0600",
+  "frame_timestamp": 1771789845048,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222183233_839955/20260222195044_384838lp_SSG861A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222183233_839955/20260222195044_384838.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222183233_839955/20260222195044_384838lp_SSG861A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSG861A",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    963,
+    117,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSG861A",
+  "plateUnicode": "SSG861A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771789845048,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.460710525512695,
+    "coordinates": [
+      636,
+      0,
+      768,
+      290
+    ],
+    "model": "Escudo/Vitara/Ignis",
+    "type": "CAR"
+  }
+}

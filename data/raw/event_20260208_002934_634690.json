@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770510557160,
+  "carID": 86498,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 182922067",
+  "datetimezone": "20260208 002917014-0600",
+  "frame_timestamp": 1770510557160,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208002344_719828/20260208002917_280952lp_RZW159B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208002344_719828/20260208002917_280952.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208002344_719828/20260208002917_280952lp_RZW159B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZW159B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1077,
+    183,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZW159B",
+  "plateUnicode": "RZW159B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770510557160,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.0776886940002441,
+    "coordinates": [
+      760,
+      0,
+      768,
+      290
+    ],
+    "model": "Focus/Focus RS/Focus ST",
+    "type": "CAR"
+  }
+}

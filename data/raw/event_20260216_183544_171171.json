@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771266928339,
+  "carID": 107021,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 123529304",
+  "datetimezone": "20260216 183524244-0600",
+  "frame_timestamp": 1771266928339,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216183524_476729lp_ELK652B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216183524_476729.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216175829_645741/20260216183524_476729lp_ELK652B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "ELK652B",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    864,
+    84,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "ELK652B",
+  "plateUnicode": "ELK652B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771266928339,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Skoda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.65367317199707,
+    "coordinates": [
+      528,
+      2,
+      776,
+      226
+    ],
+    "model": "Superb",
+    "type": "CAR"
+  }
+}

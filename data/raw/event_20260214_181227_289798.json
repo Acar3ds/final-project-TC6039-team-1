@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771092729099,
+  "carID": 102819,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 121212546",
+  "datetimezone": "20260214 181207486-0600",
+  "frame_timestamp": 1771092729099,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214181207_708542lp_RXB451C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214181207_708542.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214181207_708542lp_RXB451C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXB451C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    876,
+    81,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXB451C",
+  "plateUnicode": "RXB451C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771092729099,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.213464736938477,
+    "coordinates": [
+      588,
+      0,
+      712,
+      252
+    ],
+    "model": "Attrage/Mirage/Mirage G4/Space Star",
+    "type": "CAR"
+  }
+}

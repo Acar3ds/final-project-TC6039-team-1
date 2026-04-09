@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772147210167,
+  "carID": 133509,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 170655077",
+  "datetimezone": "20260226 230650023-0600",
+  "frame_timestamp": 1772147210167,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226230650_280266lp_RWA119A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226230650_280266.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226223511_397248/20260226230650_280266lp_RWA119A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWA119A",
+  "plateConfidence": 0.7912946343421936,
+  "plateCoordinates": [
+    1527,
+    390,
+    150,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWA119A",
+  "plateUnicode": "RWA119A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772147210167,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9824540615081787,
+    "coordinates": [
+      1196,
+      0,
+      720,
+      518
+    ],
+    "model": "Grace",
+    "type": "CAR"
+  }
+}

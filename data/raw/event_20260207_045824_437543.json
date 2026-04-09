@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770440287754,
+  "carID": 84758,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 225812133",
+  "datetimezone": "20260207 045807075-0600",
+  "frame_timestamp": 1770440287754,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207035343_430183/20260207045807_393368lp_0A724MLE.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207035343_430183/20260207045807_393368.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207035343_430183/20260207045807_393368lp_0A724MLE.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "0A724MLE",
+  "plateConfidence": 0.7109375,
+  "plateCoordinates": [
+    825,
+    87,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "0A724MLE",
+  "plateUnicode": "0A724MLE",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770440287754,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.1099138259887695,
+    "coordinates": [
+      532,
+      0,
+      724,
+      320
+    ],
+    "model": "Tiggo  T11 /Tiggo 3",
+    "type": "SUV"
+  }
+}

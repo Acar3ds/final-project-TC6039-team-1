@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771542088008,
+  "carID": 115838,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 170130962",
+  "datetimezone": "20260219 230125912-0600",
+  "frame_timestamp": 1771542088008,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219230126_151705lp_SAF271C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219230126_151705.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219225755_608762/20260219230126_151705lp_SAF271C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAF271C",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    873,
+    123,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAF271C",
+  "plateUnicode": "SAF271C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771542088008,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 18.343477249145508,
+    "coordinates": [
+      576,
+      0,
+      732,
+      282
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

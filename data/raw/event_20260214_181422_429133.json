@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771092842699,
+  "carID": 102827,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 121407605",
+  "datetimezone": "20260214 181402551-0600",
+  "frame_timestamp": 1771092842699,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214181402_836121lp_SXM156B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214181402_836121.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214171418_181963/20260214181402_836121lp_SXM156B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXM156B",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1434,
+    339,
+    150,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    78
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXM156B",
+  "plateUnicode": "SXM156B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771092842699,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8466163873672485,
+    "coordinates": [
+      912,
+      0,
+      1000,
+      486
+    ],
+    "model": "Civic",
+    "type": "CAR"
+  }
+}

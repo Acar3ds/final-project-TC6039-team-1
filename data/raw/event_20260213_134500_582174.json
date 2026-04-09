@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770990283355,
+  "carID": 99473,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 074446291",
+  "datetimezone": "20260213 134441243-0600",
+  "frame_timestamp": 1770990283355,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213134441_520580lp_RWS124C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213134441_520580.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213134441_520580lp_RWS124C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWS124C",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    972,
+    96,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RWS124C",
+  "plateUnicode": "RWS124C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770990283355,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.810029983520508,
+    "coordinates": [
+      636,
+      2,
+      800,
+      256
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

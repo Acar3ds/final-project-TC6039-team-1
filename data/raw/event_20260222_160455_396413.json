@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771776274752,
+  "carID": 122246,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 100439659",
+  "datetimezone": "20260222 160434606-0600",
+  "frame_timestamp": 1771776274752,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160434_889149lp_SRK971A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160434_889149.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222160434_889149lp_SRK971A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRK971A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    885,
+    159,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRK971A",
+  "plateUnicode": "SRK971A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771776274752,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.177830696105957,
+    "coordinates": [
+      544,
+      0,
+      828,
+      342
+    ],
+    "model": "5008",
+    "type": "SUV"
+  }
+}

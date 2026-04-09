@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771604705023,
+  "carID": 117558,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 102509039",
+  "datetimezone": "20260220 162503986-0600",
+  "frame_timestamp": 1771604705023,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220162504_242354lp_TDE214B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220162504_242354.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220162504_242354lp_TDE214B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDE214B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    993,
+    183,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDE214B",
+  "plateUnicode": "TDE214B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771604705023,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7934682369232178,
+    "coordinates": [
+      676,
+      0,
+      760,
+      342
+    ],
+    "model": "Express",
+    "type": "VAN"
+  }
+}

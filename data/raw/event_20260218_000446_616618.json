@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771373067026,
+  "carID": 110527,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 180431458",
+  "datetimezone": "20260218 000426406-0600",
+  "frame_timestamp": 1771373067026,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260218000426_714909lp_RZP190C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260218000426_714909.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217232232_47445/20260218000426_714909lp_RZP190C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZP190C",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1182,
+    153,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZP190C",
+  "plateUnicode": "RZP190C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771373067026,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.382622718811035,
+    "coordinates": [
+      864,
+      0,
+      756,
+      314
+    ],
+    "model": "Ertiga/Swift",
+    "type": "CAR"
+  }
+}

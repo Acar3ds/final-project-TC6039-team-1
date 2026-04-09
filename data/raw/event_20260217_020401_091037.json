@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "CHE"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771293822116,
+  "carID": 108198,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 200346080",
+  "datetimezone": "20260217 020341029-0600",
+  "frame_timestamp": 1771293822116,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217011059_693156/20260217020341_297032lp_SVU020U.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217011059_693156/20260217020341_297032.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217011059_693156/20260217020341_297032lp_SVU020U.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "NVUD1",
+  "plateConfidence": 0.5093749761581421,
+  "plateCoordinates": [
+    1200,
+    288,
+    147,
+    81
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    81
+  ],
+  "plateCountry": "CHE",
+  "plateText": "NVUD1",
+  "plateUnicode": "NVUD1",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771293822116,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5130691528320312,
+    "coordinates": [
+      864,
+      0,
+      808,
+      470
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

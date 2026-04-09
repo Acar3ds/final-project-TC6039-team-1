@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772241270841,
+  "carID": 136722,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 191433816",
+  "datetimezone": "20260228 011428737-0600",
+  "frame_timestamp": 1772241270841,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228003556_872333/20260228011429_15648lp_RVV105C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228003556_872333/20260228011429_15648.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260228003556_872333/20260228011429_15648lp_RVV105C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVV105C",
+  "plateConfidence": 0.8024553656578064,
+  "plateCoordinates": [
+    1263,
+    147,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVV105C",
+  "plateUnicode": "RVV105C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772241270841,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.89692497253418,
+    "coordinates": [
+      892,
+      0,
+      804,
+      354
+    ],
+    "model": "Avante/Elantra",
+    "type": "CAR"
+  }
+}

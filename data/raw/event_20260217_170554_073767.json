@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771347936166,
+  "carID": 109475,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 110539201",
+  "datetimezone": "20260217 170534148-0600",
+  "frame_timestamp": 1771347936166,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217170534_378952lp_KL368B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217170534_378952.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217170534_378952lp_KL368B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKL368B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    933,
+    123,
+    132,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKL368B",
+  "plateUnicode": "RKL368B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771347936166,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.742910385131836,
+    "coordinates": [
+      612,
+      0,
+      768,
+      236
+    ],
+    "model": "Town   Country/Voyager",
+    "type": "VAN"
+  }
+}

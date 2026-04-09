@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770936669173,
+  "carID": 98250,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 165113617",
+  "datetimezone": "20260212 225108571-0600",
+  "frame_timestamp": 1770936669173,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212225108_844540lp_YTE030B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212225108_844540.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212223856_456097/20260212225108_844540lp_YTE030B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "YTE030B",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1239,
+    144,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "YTE030B",
+  "plateUnicode": "YTE030B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770936669173,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8731956481933594,
+    "coordinates": [
+      836,
+      0,
+      900,
+      324
+    ],
+    "model": "GLE/GLE AMG",
+    "type": "SUV"
+  }
+}

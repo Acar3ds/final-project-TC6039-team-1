@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771389048181,
+  "carID": 111063,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 223052484",
+  "datetimezone": "20260218 043047428-0600",
+  "frame_timestamp": 1771389048181,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218035158_593288/20260218043047_670767lp_EVF694C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218035158_593288/20260218043047_670767.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218035158_593288/20260218043047_670767lp_EVF694C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EVF694C",
+  "plateConfidence": 0.8169642686843872,
+  "plateCoordinates": [
+    1284,
+    204,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "EVF694C",
+  "plateUnicode": "EVF694C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771389048181,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6251749992370605,
+    "coordinates": [
+      908,
+      0,
+      852,
+      348
+    ],
+    "model": "Acadia/Terrain",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772058806383,
+  "carID": 130551,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 163331306",
+  "datetimezone": "20260225 223326249-0600",
+  "frame_timestamp": 1772058806383,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225223326_574079lp_SUP670B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225223326_574079.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225214056_963426/20260225223326_574079lp_SUP670B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUP670B",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1053,
+    135,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUP670B",
+  "plateUnicode": "SUP670B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772058806383,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9938130378723145,
+    "coordinates": [
+      708,
+      0,
+      824,
+      330
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770645469678,
+  "carID": 88873,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 075754242",
+  "datetimezone": "20260209 135749180-0600",
+  "frame_timestamp": 1770645469678,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209135749_397561lp_RKT315C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209135749_397561.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209133422_812455/20260209135749_397561lp_RKT315C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKT315C",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1116,
+    195,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKT315C",
+  "plateUnicode": "RKT315C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770645469678,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.145355701446533,
+    "coordinates": [
+      768,
+      0,
+      824,
+      398
+    ],
+    "model": "Captiva",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771147939793,
+  "carID": 104528,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 033223199",
+  "datetimezone": "20260215 093218143-0600",
+  "frame_timestamp": 1771147939793,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215093052_553240/20260215093218_341558lp_CN6550.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215093052_553240/20260215093218_341558.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215093052_553240/20260215093218_341558lp_CN6550.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "HCN656U",
+  "plateConfidence": 0.5401785969734192,
+  "plateCoordinates": [
+    1275,
+    240,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "HCN656U",
+  "plateUnicode": "HCN656U",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771147939793,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6544911861419678,
+    "coordinates": [
+      940,
+      0,
+      832,
+      470
+    ],
+    "model": "208",
+    "type": "CAR"
+  }
+}

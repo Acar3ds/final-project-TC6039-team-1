@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771866251686,
+  "carID": 124401,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 110416605",
+  "datetimezone": "20260223 170411552-0600",
+  "frame_timestamp": 1771866251686,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223170411_795055lp_SEE400B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223170411_795055.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223170411_795055lp_SEE400B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEE400B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    882,
+    117,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEE400B",
+  "plateUnicode": "SEE400B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771866251686,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9193921089172363,
+    "coordinates": [
+      576,
+      0,
+      760,
+      282
+    ],
+    "model": "Auris/Corolla/Avensis",
+    "type": "CAR"
+  }
+}

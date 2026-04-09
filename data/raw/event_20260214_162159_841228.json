@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771086101041,
+  "carID": 102554,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 102145252",
+  "datetimezone": "20260214 162140195-0600",
+  "frame_timestamp": 1771086101041,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214162140_440200lp_RYR818A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214162140_440200.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214162140_440200lp_RYR818A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYR818A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1224,
+    159,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYR818A",
+  "plateUnicode": "RYR818A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771086101041,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.382702589035034,
+    "coordinates": [
+      888,
+      0,
+      756,
+      336
+    ],
+    "model": "i10",
+    "type": "CAR"
+  }
+}

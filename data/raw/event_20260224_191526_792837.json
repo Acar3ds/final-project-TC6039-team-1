@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771960506505,
+  "carID": 127341,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 131510901",
+  "datetimezone": "20260224 191505851-0600",
+  "frame_timestamp": 1771960506505,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224191506_113462lp_TCP775B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224191506_113462.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224191506_113462lp_TCP775B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCP775B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    999,
+    156,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCP775B",
+  "plateUnicode": "TCP775B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771960506505,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.505044460296631,
+    "coordinates": [
+      708,
+      0,
+      760,
+      278
+    ],
+    "model": "Golf",
+    "type": "CAR"
+  }
+}

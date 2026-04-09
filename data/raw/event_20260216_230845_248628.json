@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771283305902,
+  "carID": 107789,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 170830514",
+  "datetimezone": "20260216 230825463-0600",
+  "frame_timestamp": 1771283305902,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216225938_484875/20260216230825_747539lp_RWJ836C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216225938_484875/20260216230825_747539.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216225938_484875/20260216230825_747539lp_RWJ836C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWJ836C",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    1137,
+    165,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWJ836C",
+  "plateUnicode": "RWJ836C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771283305902,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9194602966308594,
+    "coordinates": [
+      788,
+      0,
+      812,
+      294
+    ],
+    "model": "Acadia",
+    "type": "SUV"
+  }
+}

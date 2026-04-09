@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771796027604,
+  "carID": 122763,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 153352199",
+  "datetimezone": "20260222 213347141-0600",
+  "frame_timestamp": 1771796027604,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222213347_384682lp_TEK159A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222213347_384682.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222213347_384682lp_TEK159A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEK159A",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    729,
+    108,
+    135,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    60
+  ],
+  "plateCountry": "GRC",
+  "plateText": "TEK159A",
+  "plateUnicode": "TEK159A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771796027604,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5503950119018555,
+    "coordinates": [
+      436,
+      0,
+      764,
+      278
+    ],
+    "model": "Equinox/Traverse",
+    "type": "SUV"
+  }
+}

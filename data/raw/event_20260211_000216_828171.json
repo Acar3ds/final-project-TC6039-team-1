@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770768118852,
+  "carID": 93119,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 180203628",
+  "datetimezone": "20260211 000158574-0600",
+  "frame_timestamp": 1770768118852,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211000158_831334lp_SBP513B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211000158_831334.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211000158_831334lp_SBP513B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBP513B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    963,
+    111,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBP513B",
+  "plateUnicode": "SBP513B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770768118852,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.858408808708191,
+    "coordinates": [
+      636,
+      2,
+      792,
+      240
+    ],
+    "model": "Accord/Accord  USA ",
+    "type": "CAR"
+  }
+}

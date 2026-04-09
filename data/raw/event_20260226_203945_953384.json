@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772138365694,
+  "carID": 133035,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 143929689",
+  "datetimezone": "20260226 203924637-0600",
+  "frame_timestamp": 1772138365694,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226203351_170299/20260226203924_886009lp_TDG589B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226203351_170299/20260226203924_886009.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226203351_170299/20260226203924_886009lp_TDG589B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDG589B",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    1020,
+    132,
+    129,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDG589B",
+  "plateUnicode": "TDG589B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772138365694,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "YELLOW",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.138660430908203,
+    "coordinates": [
+      692,
+      0,
+      772,
+      330
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

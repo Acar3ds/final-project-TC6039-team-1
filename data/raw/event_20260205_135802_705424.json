@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770299865673,
+  "carID": 79784,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 075750262",
+  "datetimezone": "20260205 135745217-0600",
+  "frame_timestamp": 1770299865673,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205135745_416996lp_SFB095B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205135745_416996.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205131250_573657/20260205135745_416996lp_SFB095B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFB095B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    804,
+    123,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFB095B",
+  "plateUnicode": "SFB095B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770299865673,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.2842893600463867,
+    "coordinates": [
+      504,
+      0,
+      724,
+      252
+    ],
+    "model": "Corsa",
+    "type": "CAR"
+  }
+}

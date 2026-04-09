@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770855719030,
+  "carID": 95863,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 182202988",
+  "datetimezone": "20260212 002157900-0600",
+  "frame_timestamp": 1770855719030,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211234820_168462/20260212002158_217678lp_STL546A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211234820_168462/20260212002158_217678.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211234820_168462/20260212002158_217678lp_STL546A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STL546A",
+  "plateConfidence": 0.8203125,
+  "plateCoordinates": [
+    1059,
+    225,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STL546A",
+  "plateUnicode": "STL546A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770855719030,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.985562324523926,
+    "coordinates": [
+      712,
+      0,
+      828,
+      380
+    ],
+    "model": "Equinox",
+    "type": "SUV"
+  }
+}

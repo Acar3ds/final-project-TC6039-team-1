@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770770867782,
+  "carID": 93221,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 184751706",
+  "datetimezone": "20260211 004746654-0600",
+  "frame_timestamp": 1770770867782,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211004746_944047lp_RZX414B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211004746_944047.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210235728_137523/20260211004746_944047lp_RZX414B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZX414B",
+  "plateConfidence": 0.8091517686843872,
+  "plateCoordinates": [
+    1104,
+    132,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZX414B",
+  "plateUnicode": "RZX414B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770770867782,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Infiniti",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.378080368041992,
+    "coordinates": [
+      788,
+      0,
+      736,
+      282
+    ],
+    "model": "G/G35/G37/Q40/M/Q60",
+    "type": "CAR"
+  }
+}

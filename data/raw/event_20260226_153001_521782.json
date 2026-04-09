@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772119780447,
+  "carID": 132176,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 092945371",
+  "datetimezone": "20260226 152940307-0600",
+  "frame_timestamp": 1772119780447,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226152940_593956lp_RVK617C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226152940_593956.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226152940_593956lp_RVK617C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVK617C",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    951,
+    165,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVK617C",
+  "plateUnicode": "RVK617C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772119780447,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.827845573425293,
+    "coordinates": [
+      612,
+      0,
+      816,
+      356
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GBR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772064266836,
+  "carID": 130800,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 180431253",
+  "datetimezone": "20260226 000426200-0600",
+  "frame_timestamp": 1772064266836,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226000426_460262lp_RNM329C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226000426_460262.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226000426_460262lp_RNM329C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNM329",
+  "plateConfidence": 0.8684895634651184,
+  "plateCoordinates": [
+    1212,
+    147,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "GBR",
+  "plateText": "RNM329",
+  "plateUnicode": "RNM329",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772064266836,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.711074113845825,
+    "coordinates": [
+      872,
+      0,
+      780,
+      320
+    ],
+    "model": "Passat",
+    "type": "CAR"
+  }
+}

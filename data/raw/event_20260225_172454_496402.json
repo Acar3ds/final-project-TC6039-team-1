@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772040273694,
+  "carID": 129683,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 112438432",
+  "datetimezone": "20260225 172433381-0600",
+  "frame_timestamp": 1772040273694,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225172433_631104lp_SVR028A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225172433_631104.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225172433_631104lp_SVR028A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVR028A",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    888,
+    96,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVR028A",
+  "plateUnicode": "SVR028A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772040273694,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5325088500976562,
+    "coordinates": [
+      584,
+      0,
+      744,
+      260
+    ],
+    "model": "Swift",
+    "type": "CAR"
+  }
+}

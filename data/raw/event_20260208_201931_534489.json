@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770581954233,
+  "carID": 87687,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 141918815",
+  "datetimezone": "20260208 201913759-0600",
+  "frame_timestamp": 1770581954233,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208201914_23267lp_SCU512C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208201914_23267.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208201914_23267lp_SCU512C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCU512C",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    825,
+    120,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCU512C",
+  "plateUnicode": "SCU512C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770581954233,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6745877265930176,
+    "coordinates": [
+      504,
+      0,
+      748,
+      282
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

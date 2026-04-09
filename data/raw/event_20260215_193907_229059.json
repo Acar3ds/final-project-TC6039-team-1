@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771184327432,
+  "carID": 104983,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 133852356",
+  "datetimezone": "20260215 193847292-0600",
+  "frame_timestamp": 1771184327432,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215193847_544149lp_TGY325B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215193847_544149.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215193847_544149lp_TGY325B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGY325B",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    948,
+    93,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGY325B",
+  "plateUnicode": "TGY325B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771184327432,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "McLaren",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 205.11058044433594,
+    "coordinates": [
+      628,
+      0,
+      756,
+      270
+    ],
+    "model": "540C/570GT/570S/600LT/650S/675LT/Speedtail/P1",
+    "type": "CAR"
+  }
+}

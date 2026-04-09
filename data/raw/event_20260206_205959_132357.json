@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770411582012,
+  "carID": 83643,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 145946474",
+  "datetimezone": "20260206 205941428-0600",
+  "frame_timestamp": 1770411582012,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206205941_695187lp_SXM400B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206205941_695187.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206201351_568531/20260206205941_695187lp_SXM400B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXM400B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1257,
+    222,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXM400B",
+  "plateUnicode": "SXM400B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770411582012,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.26288366317749,
+    "coordinates": [
+      912,
+      0,
+      788,
+      380
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

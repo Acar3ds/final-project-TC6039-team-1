@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770155980461,
+  "carID": 76246,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 155943683",
+  "datetimezone": "20260203 215938630-0600",
+  "frame_timestamp": 1770155980461,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203215938_861082lp_RTW719C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203215938_861082.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203215938_861082lp_RTW719C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTW719C",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    900,
+    90,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RTW719C",
+  "plateUnicode": "RTW719C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770155980461,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 16.767723083496094,
+    "coordinates": [
+      576,
+      0,
+      788,
+      236
+    ],
+    "model": "Armada/NP300/Navara/Pathfinder/Patrol/Titan",
+    "type": "SUV"
+  }
+}

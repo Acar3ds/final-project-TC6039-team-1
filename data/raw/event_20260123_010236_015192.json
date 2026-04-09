@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769130145824,
+  "carID": 1004,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 190226228",
+  "datetimezone": "20260123 010225824-0600",
+  "frame_timestamp": 1769130145824,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123010226_105502lp_STW7314.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123010226_105502.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123010226_105502lp_STW7314.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STW7314",
+  "plateConfidence": 0.5367187261581421,
+  "plateCoordinates": [
+    883,
+    356,
+    214,
+    112
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    214,
+    112
+  ],
+  "plateCountry": "USA",
+  "plateText": "STW7314",
+  "plateUnicode": "STW7314",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769130145824,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Pontiac",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.34641823172569275,
+    "coordinates": [
+      552,
+      0,
+      884,
+      602
+    ],
+    "model": "G6/Grand Prix",
+    "type": "CAR"
+  }
+}

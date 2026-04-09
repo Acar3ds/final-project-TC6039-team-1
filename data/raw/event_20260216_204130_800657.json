@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771274473101,
+  "carID": 107405,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 144115992",
+  "datetimezone": "20260216 204110941-0600",
+  "frame_timestamp": 1771274473101,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216195600_369558/20260216204111_189729lp_TAD192B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216195600_369558/20260216204111_189729.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216195600_369558/20260216204111_189729lp_TAD192B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAD192B",
+  "plateConfidence": 0.8113839030265808,
+  "plateCoordinates": [
+    897,
+    96,
+    126,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAD192B",
+  "plateUnicode": "TAD192B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771274473101,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.723878860473633,
+    "coordinates": [
+      600,
+      2,
+      728,
+      226
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

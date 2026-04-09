@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771348561648,
+  "carID": 109495,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 111605282",
+  "datetimezone": "20260217 171600230-0600",
+  "frame_timestamp": 1771348561648,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217171600_507481lp_RLV141C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217171600_507481.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217171600_507481lp_RLV141C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLV141C",
+  "plateConfidence": 0.8046875,
+  "plateCoordinates": [
+    1083,
+    135,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLV141C",
+  "plateUnicode": "RLV141C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771348561648,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.828033924102783,
+    "coordinates": [
+      736,
+      0,
+      828,
+      312
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

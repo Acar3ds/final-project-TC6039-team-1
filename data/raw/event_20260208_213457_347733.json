@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770586481258,
+  "carID": 87832,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 153444455",
+  "datetimezone": "20260208 213439404-0600",
+  "frame_timestamp": 1770586481258,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208213439_613336lp_TCJ952A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208213439_613336.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208213439_613336lp_TCJ952A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCJ952A",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1071,
+    111,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCJ952A",
+  "plateUnicode": "TCJ952A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770586481258,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.019300937652588,
+    "coordinates": [
+      748,
+      0,
+      800,
+      284
+    ],
+    "model": "Bolt EUV/Bolt EV",
+    "type": "CAR"
+  }
+}

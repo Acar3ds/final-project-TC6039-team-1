@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770403684918,
+  "carID": 83201,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 124808407",
+  "datetimezone": "20260206 184803353-0600",
+  "frame_timestamp": 1770403684918,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206184803_617791lp_H2239A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206184803_617791.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206183742_863646/20260206184803_617791lp_H2239A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "H2239A",
+  "plateConfidence": 0.8333333134651184,
+  "plateCoordinates": [
+    744,
+    153,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "H2239A",
+  "plateUnicode": "H2239A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770403684918,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.540643215179443,
+    "coordinates": [
+      412,
+      2,
+      796,
+      370
+    ],
+    "model": "Ute/Crewman",
+    "type": "PICKUPTRUCK"
+  }
+}

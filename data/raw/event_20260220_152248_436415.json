@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771600949395,
+  "carID": 117393,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 092232959",
+  "datetimezone": "20260220 152227904-0600",
+  "frame_timestamp": 1771600949395,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220145432_551207/20260220152228_187994lp_SSC144A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220145432_551207/20260220152228_187994.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220145432_551207/20260220152228_187994lp_SSC144A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSC144A",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1473,
+    210,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSC144A",
+  "plateUnicode": "SSC144A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771600949395,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MINI",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.391641616821289,
+    "coordinates": [
+      1016,
+      2,
+      888,
+      376
+    ],
+    "model": "One/Hatch/Clubman/Cabrio",
+    "type": "CAR"
+  }
+}

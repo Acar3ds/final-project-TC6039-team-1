@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771028415458,
+  "carID": 101373,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 182018715",
+  "datetimezone": "20260214 002013666-0600",
+  "frame_timestamp": 1771028415458,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002013_897350lp_RZV828A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002013_897350.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002013_897350lp_RZV828A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZV828A",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    855,
+    111,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZV828A",
+  "plateUnicode": "RZV828A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771028415458,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.251533508300781,
+    "coordinates": [
+      568,
+      0,
+      720,
+      228
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

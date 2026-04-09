@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770326398785,
+  "carID": 81067,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 152003574",
+  "datetimezone": "20260205 211958516-0600",
+  "frame_timestamp": 1770326398785,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205211958_753103lp_TGY459A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205211958_753103.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205211958_753103lp_TGY459A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGY459A",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1080,
+    168,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGY459A",
+  "plateUnicode": "TGY459A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770326398785,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.740664005279541,
+    "coordinates": [
+      772,
+      0,
+      756,
+      338
+    ],
+    "model": "Ertiga/Swift",
+    "type": "CAR"
+  }
+}

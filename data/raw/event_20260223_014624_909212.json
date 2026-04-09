@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771811163561,
+  "carID": 123209,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 194608141",
+  "datetimezone": "20260223 014603087-0600",
+  "frame_timestamp": 1771811163561,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223014603_313824lp_RYD491C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223014603_313824.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223013851_158421/20260223014603_313824lp_RYD491C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYD491C",
+  "plateConfidence": 0.8091517686843872,
+  "plateCoordinates": [
+    984,
+    162,
+    135,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    54
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RYD491C",
+  "plateUnicode": "RYD491C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771811163561,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.573698878288269,
+    "coordinates": [
+      636,
+      0,
+      804,
+      372
+    ],
+    "model": "5008",
+    "type": "VAN"
+  }
+}

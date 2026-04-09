@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770926456295,
+  "carID": 97769,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 140100284",
+  "datetimezone": "20260212 200055237-0600",
+  "frame_timestamp": 1770926456295,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212200055_472227lp_SVU702B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212200055_472227.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212200055_472227lp_SVU702B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVU702B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    933,
+    90,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVU702B",
+  "plateUnicode": "SVU702B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770926456295,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.821730613708496,
+    "coordinates": [
+      612,
+      0,
+      780,
+      230
+    ],
+    "model": "ix35/ix55/Tucson",
+    "type": "SUV"
+  }
+}

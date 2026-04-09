@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771716671809,
+  "carID": 121265,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 173114199",
+  "datetimezone": "20260221 233109154-0600",
+  "frame_timestamp": 1771716671809,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221233109_319830lp_PR2670B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221233109_319830.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221233109_319830lp_PR2670B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PR2670B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    849,
+    111,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PR2670B",
+  "plateUnicode": "PR2670B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771716671809,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.909616470336914,
+    "coordinates": [
+      472,
+      0,
+      892,
+      282
+    ],
+    "model": "F-150",
+    "type": "PICKUPTRUCK"
+  }
+}

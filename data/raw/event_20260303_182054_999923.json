@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772562034810,
+  "carID": 144838,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260303 122037120",
+  "datetimezone": "20260303 182032065-0600",
+  "frame_timestamp": 1772562034810,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303182032_311402lp_EF5999A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303182032_311402.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303171234_110987/20260303182032_311402lp_EF5999A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EF5999A",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1011,
+    96,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "EF5999A",
+  "plateUnicode": "EF5999A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772562034810,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 79.16824340820312,
+    "coordinates": [
+      628,
+      0,
+      876,
+      278
+    ],
+    "model": "2008 e",
+    "type": "SUV"
+  }
+}

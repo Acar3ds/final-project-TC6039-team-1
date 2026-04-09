@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770499203835,
+  "carID": 86039,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 152008443",
+  "datetimezone": "20260207 212003390-0600",
+  "frame_timestamp": 1770499203835,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207212003_636510lp_RLC707A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207212003_636510.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207212003_636510lp_RLC707A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLC707A",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    963,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLC707A",
+  "plateUnicode": "RLC707A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770499203835,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.405287265777588,
+    "coordinates": [
+      636,
+      0,
+      776,
+      246
+    ],
+    "model": "Altima",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772200466958,
+  "carID": 134628,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 075431525",
+  "datetimezone": "20260227 135426479-0600",
+  "frame_timestamp": 1772200466958,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227133615_495332/20260227135426_724821lp_RWW780.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227133615_495332/20260227135426_724821.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227133615_495332/20260227135426_724821lp_RWW780.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWW780C",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1005,
+    132,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWW780C",
+  "plateUnicode": "RWW780C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772200466958,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9999966621398926,
+    "coordinates": [
+      628,
+      0,
+      884,
+      326
+    ],
+    "model": "Pathfinder/Navara",
+    "type": "PICKUPTRUCK"
+  }
+}

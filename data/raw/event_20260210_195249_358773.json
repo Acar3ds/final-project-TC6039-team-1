@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770753151302,
+  "carID": 92487,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 135236032",
+  "datetimezone": "20260210 195230988-0600",
+  "frame_timestamp": 1770753151302,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210195231_248349lp_PW0264A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210195231_248349.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210195231_248349lp_PW0264A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PW0264A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1098,
+    132,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PW0264A",
+  "plateUnicode": "PW0264A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770753151302,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6339149475097656,
+    "coordinates": [
+      796,
+      2,
+      732,
+      306
+    ],
+    "model": "Pacifica/Voyager",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769129082283,
+  "carID": 975,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 184442575",
+  "datetimezone": "20260123 004442283-0600",
+  "frame_timestamp": 1769129082283,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123004442_462468lp_RPF815A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123004442_462468.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260123000109_287106/20260123004442_462468lp_RPF815A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPF815A",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    1022,
+    255,
+    206,
+    101
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    206,
+    101
+  ],
+  "plateCountry": "USA",
+  "plateText": "RPF815A",
+  "plateUnicode": "RPF815A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769129082283,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Pontiac",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.8551588654518127,
+    "coordinates": [
+      688,
+      0,
+      888,
+      584
+    ],
+    "model": "Solstice",
+    "type": "CAR"
+  }
+}

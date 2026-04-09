@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771869950007,
+  "carID": 124540,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 120554578",
+  "datetimezone": "20260223 180549527-0600",
+  "frame_timestamp": 1771869950007,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223180549_762705lp_RXZ500C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223180549_762705.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223180549_762705lp_RXZ500C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXZ500C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    996,
+    120,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXZ500C",
+  "plateUnicode": "RXZ500C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771869950007,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.799590110778809,
+    "coordinates": [
+      668,
+      2,
+      772,
+      250
+    ],
+    "model": "3 Series/3 Series GT/4 Series/5 Series GT/M3/M4",
+    "type": "CAR"
+  }
+}

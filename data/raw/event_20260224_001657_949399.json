@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771892199978,
+  "carID": 125567,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 181642325",
+  "datetimezone": "20260224 001637276-0600",
+  "frame_timestamp": 1771892199978,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224001314_628850/20260224001637_464898lp_PL6710A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224001314_628850/20260224001637_464898.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224001314_628850/20260224001637_464898lp_PL6710A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "L6710A",
+  "plateConfidence": 0.8541666865348816,
+  "plateCoordinates": [
+    1014,
+    126,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "L6710A",
+  "plateUnicode": "L6710A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771892199978,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 18.704925537109375,
+    "coordinates": [
+      660,
+      2,
+      832,
+      382
+    ],
+    "model": "Triton/L200",
+    "type": "PICKUPTRUCK"
+  }
+}

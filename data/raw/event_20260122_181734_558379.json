@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769105844238,
+  "carID": 312,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 121724559",
+  "datetimezone": "20260122 181724238-0600",
+  "frame_timestamp": 1769105844238,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122181600_795935/20260122181724_427734lp_RVZ399A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122181600_795935/20260122181724_427734.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122181600_795935/20260122181724_427734lp_RVZ399A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVZ399A",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    780,
+    405,
+    218,
+    108
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    218,
+    108
+  ],
+  "plateCountry": "USA",
+  "plateText": "RVZ399A",
+  "plateUnicode": "RVZ399A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769105844238,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6677939295768738,
+    "coordinates": [
+      400,
+      0,
+      1036,
+      614
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

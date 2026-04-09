@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770914932761,
+  "carID": 97284,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 104857523",
+  "datetimezone": "20260212 164852475-0600",
+  "frame_timestamp": 1770914932761,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212164852_789954lp_TDY453B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212164852_789954.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212164852_789954lp_TDY453B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDY453B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1011,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDY453B",
+  "plateUnicode": "TDY453B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770914932761,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.998863935470581,
+    "coordinates": [
+      656,
+      0,
+      836,
+      290
+    ],
+    "model": "RAV4",
+    "type": "SUV"
+  }
+}

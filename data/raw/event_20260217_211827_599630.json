@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771363087435,
+  "carID": 110117,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 151812379",
+  "datetimezone": "20260217 211807307-0600",
+  "frame_timestamp": 1771363087435,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217211807_541186lp_TBW916B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217211807_541186.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217211807_541186lp_TBW916B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TBW916B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1146,
+    174,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TBW916B",
+  "plateUnicode": "TBW916B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771363087435,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.3049722909927368,
+    "coordinates": [
+      812,
+      0,
+      784,
+      342
+    ],
+    "model": "Kicks",
+    "type": "SUV"
+  }
+}

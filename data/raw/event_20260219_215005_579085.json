@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771537785761,
+  "carID": 115671,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 154950340",
+  "datetimezone": "20260219 214945278-0600",
+  "frame_timestamp": 1771537785761,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219205413_620806/20260219214945_553891lp_TFX459B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219205413_620806/20260219214945_553891.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219205413_620806/20260219214945_553891lp_TFX459B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFX459B",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1008,
+    156,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFX459B",
+  "plateUnicode": "TFX459B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771537785761,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8556275367736816,
+    "coordinates": [
+      644,
+      0,
+      844,
+      330
+    ],
+    "model": "Harrier",
+    "type": "SUV"
+  }
+}

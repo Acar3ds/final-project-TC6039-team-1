@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770757867924,
+  "carID": 92725,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 151112673",
+  "datetimezone": "20260210 211107616-0600",
+  "frame_timestamp": 1770757867924,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210211107_846989lp_SRT763B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210211107_846989.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210203202_600061/20260210211107_846989lp_SRT763B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRT763B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1080,
+    129,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRT763B",
+  "plateUnicode": "SRT763B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770757867924,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Changan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6354931592941284,
+    "coordinates": [
+      744,
+      0,
+      804,
+      302
+    ],
+    "model": "CS55/CS75 Plus/UNI-T/UNI-K",
+    "type": "CAR"
+  }
+}

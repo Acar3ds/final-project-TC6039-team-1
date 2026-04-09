@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771966348225,
+  "carID": 127624,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 145233108",
+  "datetimezone": "20260224 205228064-0600",
+  "frame_timestamp": 1771966348225,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224205228_276070lp_SAT692A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224205228_276070.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224205228_276070lp_SAT692A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAT692A",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    996,
+    180,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAT692A",
+  "plateUnicode": "SAT692A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771966348225,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.959420680999756,
+    "coordinates": [
+      660,
+      0,
+      808,
+      374
+    ],
+    "model": "Renegade",
+    "type": "SUV"
+  }
+}

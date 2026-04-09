@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772030771858,
+  "carID": 129229,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 084616005",
+  "datetimezone": "20260225 144610958-0600",
+  "frame_timestamp": 1772030771858,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225144611_200993lp_SDX228C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225144611_200993.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225144611_200993lp_SDX228C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDX228C",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    984,
+    123,
+    132,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDX228C",
+  "plateUnicode": "SDX228C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772030771858,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.443984508514404,
+    "coordinates": [
+      648,
+      0,
+      792,
+      308
+    ],
+    "model": "Seltos/Sonet",
+    "type": "SUV"
+  }
+}

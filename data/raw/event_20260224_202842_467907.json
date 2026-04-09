@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771964902940,
+  "carID": 127550,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 142826230",
+  "datetimezone": "20260224 202821171-0600",
+  "frame_timestamp": 1771964902940,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224202821_515250lp_5PT3895B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224202821_515250.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224193527_75954/20260224202821_515250lp_5PT3895B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PT3895B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1119,
+    150,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PT3895B",
+  "plateUnicode": "PT3895B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771964902940,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hino",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.976632118225098,
+    "coordinates": [
+      804,
+      0,
+      768,
+      324
+    ],
+    "model": "195/195h/300 Series",
+    "type": "TRUCK"
+  }
+}

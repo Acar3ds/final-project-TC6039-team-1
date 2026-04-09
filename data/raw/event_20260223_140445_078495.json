@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771855464589,
+  "carID": 123849,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 080429334",
+  "datetimezone": "20260223 140424279-0600",
+  "frame_timestamp": 1771855464589,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223140424_567344lp_SNS852B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223140424_567344.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223133920_757353/20260223140424_567344lp_SNS852B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SNS852B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    999,
+    111,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SNS852B",
+  "plateUnicode": "SNS852B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771855464589,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.980008602142334,
+    "coordinates": [
+      672,
+      0,
+      800,
+      288
+    ],
+    "model": "Omoda C5",
+    "type": "SUV"
+  }
+}

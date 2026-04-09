@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770337673711,
+  "carID": 81543,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 182755910",
+  "datetimezone": "20260206 002750865-0600",
+  "frame_timestamp": 1770337673711,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002751_108665lp_TEH826B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002751_108665.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002751_108665lp_TEH826B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEH826B",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    1002,
+    96,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEH826B",
+  "plateUnicode": "TEH826B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770337673711,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.08103084564209,
+    "coordinates": [
+      660,
+      0,
+      824,
+      294
+    ],
+    "model": "Bipper/Expert",
+    "type": "VAN"
+  }
+}

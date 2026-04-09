@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771940379914,
+  "carID": 126312,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 073944841",
+  "datetimezone": "20260224 133939783-0600",
+  "frame_timestamp": 1771940379914,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224133940_17174lp_SEU284A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224133940_17174.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224133138_325646/20260224133940_17174lp_SEU284A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEU284A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1320,
+    258,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEU284A",
+  "plateUnicode": "SEU284A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771940379914,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.360931396484375,
+    "coordinates": [
+      912,
+      0,
+      828,
+      374
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

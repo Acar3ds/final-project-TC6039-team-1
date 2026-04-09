@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771857281177,
+  "carID": 123974,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 083445231",
+  "datetimezone": "20260223 143440180-0600",
+  "frame_timestamp": 1771857281177,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223143440_453640lp_RYH3250.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223143440_453640.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223143440_453640lp_RYH3250.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RYH3250",
+  "plateConfidence": 0.8013392686843872,
+  "plateCoordinates": [
+    1029,
+    99,
+    126,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RYH3250",
+  "plateUnicode": "RYH3250",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771857281177,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "NONE",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.608083963394165,
+    "coordinates": [
+      688,
+      0,
+      792,
+      284
+    ],
+    "model": "None",
+    "type": "TRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770428501733,
+  "carID": 84346,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 194144473",
+  "datetimezone": "20260207 014139420-0600",
+  "frame_timestamp": 1770428501733,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207010927_918451/20260207014139_649383lp_TFB727B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207010927_918451/20260207014139_649383.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207010927_918451/20260207014139_649383lp_TFB727B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFB727B",
+  "plateConfidence": 0.8158482313156128,
+  "plateCoordinates": [
+    1143,
+    117,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFB727B",
+  "plateUnicode": "TFB727B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770428501733,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.453961372375488,
+    "coordinates": [
+      832,
+      0,
+      748,
+      380
+    ],
+    "model": "Exeo/Ibiza",
+    "type": "CAR"
+  }
+}

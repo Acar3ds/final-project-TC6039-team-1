@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771851262207,
+  "carID": 123636,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 065426465",
+  "datetimezone": "20260223 125421413-0600",
+  "frame_timestamp": 1771851262207,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223125421_710823lp_SMR050A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223125421_710823.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223125255_250886/20260223125421_710823lp_SMR050A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMR050A",
+  "plateConfidence": 0.8191964030265808,
+  "plateCoordinates": [
+    858,
+    96,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMR050A",
+  "plateUnicode": "SMR050A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771851262207,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9968364238739014,
+    "coordinates": [
+      560,
+      0,
+      772,
+      266
+    ],
+    "model": "Soul",
+    "type": "CAR"
+  }
+}

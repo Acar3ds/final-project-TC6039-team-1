@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770148357354,
+  "carID": 75909,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 135241349",
+  "datetimezone": "20260203 195236304-0600",
+  "frame_timestamp": 1770148357354,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203190822_645231/20260203195236_573117lp_RMP361C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203190822_645231/20260203195236_573117.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203190822_645231/20260203195236_573117lp_RMP361C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMP361C",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    843,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMP361C",
+  "plateUnicode": "RMP361C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770148357354,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.992853164672852,
+    "coordinates": [
+      544,
+      0,
+      720,
+      284
+    ],
+    "model": "Tiida/Versa",
+    "type": "CAR"
+  }
+}

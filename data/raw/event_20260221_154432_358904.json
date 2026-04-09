@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771688652585,
+  "carID": 120122,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 094416472",
+  "datetimezone": "20260221 154411416-0600",
+  "frame_timestamp": 1771688652585,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221154411_749848lp_STU166B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221154411_749848.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221154411_749848lp_STU166B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STU166B",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    1002,
+    138,
+    135,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STU166B",
+  "plateUnicode": "STU166B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771688652585,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.667134761810303,
+    "coordinates": [
+      660,
+      0,
+      816,
+      296
+    ],
+    "model": "Volt",
+    "type": "CAR"
+  }
+}

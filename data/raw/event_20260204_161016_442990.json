@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770221400701,
+  "carID": 77795,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 101004249",
+  "datetimezone": "20260204 160959195-0600",
+  "frame_timestamp": 1770221400701,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160959_484340lp_SAW761C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160959_484340.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204152608_991746/20260204160959_484340lp_SAW761C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAW761C",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    918,
+    99,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAW761C",
+  "plateUnicode": "SAW761C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770221400701,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.938774108886719,
+    "coordinates": [
+      560,
+      0,
+      860,
+      348
+    ],
+    "model": "Grand Cherokee",
+    "type": "SUV"
+  }
+}

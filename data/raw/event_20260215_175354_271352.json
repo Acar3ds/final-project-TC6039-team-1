@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771178014612,
+  "carID": 104841,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 115339535",
+  "datetimezone": "20260215 175334482-0600",
+  "frame_timestamp": 1771178014612,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215175334_686728lp_RPR165.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215175334_686728.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215175334_686728lp_RPR165.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPR165A",
+  "plateConfidence": 0.7734375,
+  "plateCoordinates": [
+    930,
+    147,
+    126,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    51
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPR165A",
+  "plateUnicode": "RPR165A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771178014612,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.92747962474823,
+    "coordinates": [
+      588,
+      2,
+      776,
+      340
+    ],
+    "model": "Mirage/Mirage G4/Space Star",
+    "type": "CAR"
+  }
+}

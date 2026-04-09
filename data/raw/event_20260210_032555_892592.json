@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770693940328,
+  "carID": 90980,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 212542746",
+  "datetimezone": "20260210 032537686-0600",
+  "frame_timestamp": 1770693940328,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210025530_43929/20260210032537_908524lp_TGR575B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210025530_43929/20260210032537_908524.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210025530_43929/20260210032537_908524lp_TGR575B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGR575B",
+  "plateConfidence": 0.828125,
+  "plateCoordinates": [
+    1011,
+    99,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGR575B",
+  "plateUnicode": "TGR575B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770693940328,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.2614741325378418,
+    "coordinates": [
+      684,
+      0,
+      792,
+      336
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

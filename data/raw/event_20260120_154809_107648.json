@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768924078670,
+  "carID": 123671,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 094759529",
+  "datetimezone": "20260120 154758670-0600",
+  "frame_timestamp": 1768924078670,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120154308_51/20260120154759_452126lp_SCG295A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120154308_51/20260120154759_452126.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120154308_51/20260120154759_452126lp_SCG295A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCG295A",
+  "plateConfidence": 0.7790178656578064,
+  "plateCoordinates": [
+    1316,
+    21,
+    128,
+    36
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    128,
+    36
+  ],
+  "plateCountry": "USA",
+  "plateText": "SCG295A",
+  "plateUnicode": "SCG295A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768924078670,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.842567503452301,
+    "coordinates": [
+      1128,
+      0,
+      504,
+      132
+    ],
+    "model": "F-150 Lightning",
+    "type": "PICKUPTRUCK"
+  }
+}

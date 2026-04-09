@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770956157318,
+  "carID": 99054,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 221600201",
+  "datetimezone": "20260213 041555146-0600",
+  "frame_timestamp": 1770956157318,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213032918_397212/20260213041555_425445lp_RRW626A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213032918_397212/20260213041555_425445.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213032918_397212/20260213041555_425445lp_RRW626A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRW626A",
+  "plateConfidence": 0.6584821343421936,
+  "plateCoordinates": [
+    1146,
+    192,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRW626A",
+  "plateUnicode": "RRW626A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770956157318,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4857349395751953,
+    "coordinates": [
+      820,
+      0,
+      768,
+      356
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

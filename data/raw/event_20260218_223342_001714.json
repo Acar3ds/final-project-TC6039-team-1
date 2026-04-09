@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771454001836,
+  "carID": 113034,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 163326895",
+  "datetimezone": "20260218 223321836-0600",
+  "frame_timestamp": 1771454001836,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218223322_124198lp_TGZ027A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218223322_124198.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218214751_660638/20260218223322_124198lp_TGZ027A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGZ027A",
+  "plateConfidence": 0.7600446343421936,
+  "plateCoordinates": [
+    897,
+    846,
+    201,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    201,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGZ027A",
+  "plateUnicode": "TGZ027A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771454001836,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 549.6986083984375,
+    "coordinates": [
+      576,
+      246,
+      1252,
+      830
+    ],
+    "model": "Alphard/Vellfire",
+    "type": "VAN"
+  }
+}

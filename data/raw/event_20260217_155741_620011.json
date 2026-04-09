@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771343841561,
+  "carID": 109290,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 095726401",
+  "datetimezone": "20260217 155721357-0600",
+  "frame_timestamp": 1771343841561,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217155721_686410lp_3RN5475B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217155721_686410.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217155721_686410lp_3RN5475B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RN5475B",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    996,
+    207,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RN5475B",
+  "plateUnicode": "RN5475B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771343841561,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9999743700027466,
+    "coordinates": [
+      640,
+      0,
+      840,
+      440
+    ],
+    "model": "Triton/L200",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772024370868,
+  "carID": 128835,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 065934522",
+  "datetimezone": "20260225 125929472-0600",
+  "frame_timestamp": 1772024370868,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225111053_912392/20260225125929_752421lp_TGN753A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225111053_912392/20260225125929_752421.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225111053_912392/20260225125929_752421lp_TGN753A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGN753A",
+  "plateConfidence": 0.7879464030265808,
+  "plateCoordinates": [
+    873,
+    132,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "TGN753A",
+  "plateUnicode": "TGN753A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772024370868,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9259721636772156,
+    "coordinates": [
+      564,
+      0,
+      752,
+      282
+    ],
+    "model": "Grand Vitara",
+    "type": "SUV"
+  }
+}

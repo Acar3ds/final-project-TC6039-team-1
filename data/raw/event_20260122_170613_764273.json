@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769101563423,
+  "carID": 203,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 110603759",
+  "datetimezone": "20260122 170603423-0600",
+  "frame_timestamp": 1769101563423,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122170224_551337/20260122170603_628762lp_HPW576C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122170224_551337/20260122170603_628762.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122170224_551337/20260122170603_628762lp_HPW576C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "HPW576C",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    917,
+    391,
+    203,
+    87
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    203,
+    87
+  ],
+  "plateCountry": "USA",
+  "plateText": "HPW576C",
+  "plateUnicode": "HPW576C",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769101563423,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7699087858200073,
+    "coordinates": [
+      532,
+      0,
+      980,
+      560
+    ],
+    "model": "Focus/Focus RS/Focus ST",
+    "type": "CAR"
+  }
+}

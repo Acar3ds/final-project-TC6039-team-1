@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772565516858,
+  "carID": 145017,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260303 131840932",
+  "datetimezone": "20260303 191835883-0600",
+  "frame_timestamp": 1772565516858,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303191836_185515lp_FDR472D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303191836_185515.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303191836_185515lp_FDR472D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FDR472D",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    1170,
+    150,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FDR472D",
+  "plateUnicode": "FDR472D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772565516858,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.584122896194458,
+    "coordinates": [
+      804,
+      0,
+      804,
+      356
+    ],
+    "model": "Caravelle/California/Multivan/Transporter",
+    "type": "VAN"
+  }
+}

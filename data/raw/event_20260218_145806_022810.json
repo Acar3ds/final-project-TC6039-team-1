@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771426665772,
+  "carID": 111718,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 085750697",
+  "datetimezone": "20260218 145745644-0600",
+  "frame_timestamp": 1771426665772,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218143111_917048/20260218145745_951247lp_RPK523B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218143111_917048/20260218145745_951247.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218143111_917048/20260218145745_951247lp_RPK523B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPK523B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1026,
+    135,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPK523B",
+  "plateUnicode": "RPK523B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771426665772,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6672512292861938,
+    "coordinates": [
+      708,
+      0,
+      776,
+      282
+    ],
+    "model": "Jetta/Polo/Polo GTI",
+    "type": "CAR"
+  }
+}

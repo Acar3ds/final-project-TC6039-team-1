@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770653092727,
+  "carID": 89309,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 100457604",
+  "datetimezone": "20260209 160452545-0600",
+  "frame_timestamp": 1770653092727,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209160452_799321lp_SBB384C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209160452_799321.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209152942_719462/20260209160452_799321lp_SBB384C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBB384C",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1029,
+    249,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBB384C",
+  "plateUnicode": "SBB384C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770653092727,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9849766492843628,
+    "coordinates": [
+      664,
+      0,
+      816,
+      392
+    ],
+    "model": "Camaro",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771275858859,
+  "carID": 107480,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 150422998",
+  "datetimezone": "20260216 210417941-0600",
+  "frame_timestamp": 1771275858859,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216205642_447172/20260216210418_171355lp_RRP696C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216205642_447172/20260216210418_171355.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216205642_447172/20260216210418_171355lp_RRP696C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRP696C",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    951,
+    177,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RRP696C",
+  "plateUnicode": "RRP696C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771275858859,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.988627433776855,
+    "coordinates": [
+      612,
+      0,
+      804,
+      284
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

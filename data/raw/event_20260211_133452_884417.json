@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770816874625,
+  "carID": 93965,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 073439537",
+  "datetimezone": "20260211 133434489-0600",
+  "frame_timestamp": 1770816874625,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211125249_270022/20260211133434_771150lp_RXG843C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211125249_270022/20260211133434_771150.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211125249_270022/20260211133434_771150lp_RXG843C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXG843C",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    1128,
+    186,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RXG843C",
+  "plateUnicode": "RXG843C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770816874625,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.380403995513916,
+    "coordinates": [
+      776,
+      0,
+      808,
+      338
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

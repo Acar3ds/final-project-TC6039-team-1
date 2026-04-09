@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772212969835,
+  "carID": 135329,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 112254577",
+  "datetimezone": "20260227 172249528-0600",
+  "frame_timestamp": 1772212969835,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227172249_774634lp_RZY484B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227172249_774634.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227163150_821611/20260227172249_774634lp_RZY484B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZY484B",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    966,
+    144,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZY484B",
+  "plateUnicode": "RZY484B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772212969835,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0366828441619873,
+    "coordinates": [
+      660,
+      0,
+      752,
+      354
+    ],
+    "model": "Civic/Civic Ferio/Civic Type R",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770586544496,
+  "carID": 87833,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 153548965",
+  "datetimezone": "20260208 213543917-0600",
+  "frame_timestamp": 1770586544496,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208213544_168547lp_SYB164B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208213544_168547.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208213544_168547lp_SYB164B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYB164B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    900,
+    90,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYB164B",
+  "plateUnicode": "SYB164B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770586544496,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7714499235153198,
+    "coordinates": [
+      616,
+      2,
+      676,
+      214
+    ],
+    "model": "Lafesta",
+    "type": "VAN"
+  }
+}

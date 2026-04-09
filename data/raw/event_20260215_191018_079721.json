@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771182598435,
+  "carID": 104942,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 131003188",
+  "datetimezone": "20260215 190958140-0600",
+  "frame_timestamp": 1771182598435,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215190958_360597lp_BFG705A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215190958_360597.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215190958_360597lp_BFG705A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "BFG705A",
+  "plateConfidence": 0.8549107313156128,
+  "plateCoordinates": [
+    1041,
+    108,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "BFG705A",
+  "plateUnicode": "BFG705A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771182598435,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9572643041610718,
+    "coordinates": [
+      700,
+      0,
+      804,
+      312
+    ],
+    "model": "Bronco Sport",
+    "type": "SUV"
+  }
+}

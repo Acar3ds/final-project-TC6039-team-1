@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771613070142,
+  "carID": 118015,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 124434884",
+  "datetimezone": "20260220 184429831-0600",
+  "frame_timestamp": 1771613070142,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220184430_60310lp_FZC081D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220184430_60310.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220182734_275209/20260220184430_60310lp_FZC081D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FZC081D",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    1002,
+    171,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FZC081D",
+  "plateUnicode": "FZC081D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771613070142,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9312639236450195,
+    "coordinates": [
+      504,
+      0,
+      960,
+      356
+    ],
+    "model": "Nivus/Taos/Taigo",
+    "type": "SUV"
+  }
+}

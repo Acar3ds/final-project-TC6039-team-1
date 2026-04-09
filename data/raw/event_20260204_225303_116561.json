@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770245566325,
+  "carID": 78737,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 165250910",
+  "datetimezone": "20260204 225245855-0600",
+  "frame_timestamp": 1770245566325,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204225246_119880lp_SEM186A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204225246_119880.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204215700_165036/20260204225246_119880lp_SEM186A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEM186A",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1023,
+    168,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEM186A",
+  "plateUnicode": "SEM186A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770245566325,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.359255075454712,
+    "coordinates": [
+      732,
+      0,
+      716,
+      294
+    ],
+    "model": "Corsa",
+    "type": "CAR"
+  }
+}

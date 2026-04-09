@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770148567009,
+  "carID": 75925,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 135611384",
+  "datetimezone": "20260203 195606323-0600",
+  "frame_timestamp": 1770148567009,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203195559_87411/20260203195606_566917lp_SPH765B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203195559_87411/20260203195606_566917.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203195559_87411/20260203195606_566917lp_SPH765B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPH765B",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    831,
+    144,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SPH765B",
+  "plateUnicode": "SPH765B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770148567009,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.38191556930542,
+    "coordinates": [
+      528,
+      0,
+      756,
+      332
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771356316673,
+  "carID": 109815,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 132521584",
+  "datetimezone": "20260217 192516526-0600",
+  "frame_timestamp": 1771356316673,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217192516_759436lp_SBW169C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217192516_759436.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217192516_759436lp_SBW169C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBW169C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    810,
+    96,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBW169C",
+  "plateUnicode": "SBW169C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771356316673,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9677832126617432,
+    "coordinates": [
+      432,
+      0,
+      864,
+      290
+    ],
+    "model": "Highlander",
+    "type": "SUV"
+  }
+}

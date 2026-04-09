@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771856878042,
+  "carID": 123946,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 082802470",
+  "datetimezone": "20260223 142757417-0600",
+  "frame_timestamp": 1771856878042,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142757_698571lp_TFG080A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142757_698571.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223141426_987221/20260223142757_698571lp_TFG080A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFG080A",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1179,
+    165,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFG080A",
+  "plateUnicode": "TFG080A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771856878042,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.608531951904297,
+    "coordinates": [
+      868,
+      0,
+      752,
+      314
+    ],
+    "model": "2",
+    "type": "CAR"
+  }
+}

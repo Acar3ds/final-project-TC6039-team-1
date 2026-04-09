@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771706913612,
+  "carID": 120875,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 144838191",
+  "datetimezone": "20260221 204833132-0600",
+  "frame_timestamp": 1771706913612,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221204833_420511lp_RXP602C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221204833_420511.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221204833_420511lp_RXP602C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXP602C",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    1173,
+    171,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXP602C",
+  "plateUnicode": "RXP602C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771706913612,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.441939115524292,
+    "coordinates": [
+      792,
+      0,
+      864,
+      360
+    ],
+    "model": "Canyon",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "MKD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770324798667,
+  "carID": 80992,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 145321684",
+  "datetimezone": "20260205 205316628-0600",
+  "frame_timestamp": 1770324798667,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205205316_871221lp_SXR133A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205205316_871221.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205205316_871221lp_SXR133A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXR133A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    930,
+    96,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "MKD",
+  "plateText": "SXR133A",
+  "plateUnicode": "SXR133A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770324798667,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.437338829040527,
+    "coordinates": [
+      604,
+      0,
+      784,
+      258
+    ],
+    "model": "Murano/Rogue",
+    "type": "SUV"
+  }
+}

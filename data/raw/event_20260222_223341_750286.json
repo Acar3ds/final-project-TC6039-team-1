@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771799601647,
+  "carID": 122866,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 163326234",
+  "datetimezone": "20260222 223321189-0600",
+  "frame_timestamp": 1771799601647,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222213723_785837/20260222223321_474550lp_SPK043A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222213723_785837/20260222223321_474550.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222213723_785837/20260222223321_474550lp_SPK043A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPK043A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1047,
+    105,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SPK043A",
+  "plateUnicode": "SPK043A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771799601647,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9335641860961914,
+    "coordinates": [
+      720,
+      0,
+      796,
+      300
+    ],
+    "model": "Creta",
+    "type": "SUV"
+  }
+}

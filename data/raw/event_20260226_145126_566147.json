@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772117465549,
+  "carID": 132004,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 085110099",
+  "datetimezone": "20260226 145105044-0600",
+  "frame_timestamp": 1772117465549,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145105_319902lp_VFW204D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145105_319902.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145105_319902lp_VFW204D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "VFW204D",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1254,
+    150,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "VFW204D",
+  "plateUnicode": "VFW204D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772117465549,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.4410767555236816,
+    "coordinates": [
+      876,
+      0,
+      832,
+      336
+    ],
+    "model": "Creta",
+    "type": "SUV"
+  }
+}

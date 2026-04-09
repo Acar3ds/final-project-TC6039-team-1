@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770399903164,
+  "carID": 83011,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 114508214",
+  "datetimezone": "20260206 174503164-0600",
+  "frame_timestamp": 1770399903164,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206173303_448939/20260206174503_411500lp_TEL215A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206173303_448939/20260206174503_411500.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206173303_448939/20260206174503_411500lp_TEL215A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEL215A",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    735,
+    846,
+    195,
+    84
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    195,
+    84
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEL215A",
+  "plateUnicode": "TEL215A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770399903164,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.777677536010742,
+    "coordinates": [
+      464,
+      338,
+      1296,
+      738
+    ],
+    "model": "5 Series/M5",
+    "type": "CAR"
+  }
+}

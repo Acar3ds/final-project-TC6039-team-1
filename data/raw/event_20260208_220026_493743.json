@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770588009024,
+  "carID": 87890,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 160013787",
+  "datetimezone": "20260208 220008727-0600",
+  "frame_timestamp": 1770588009024,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208220009_37993lp_SDN673C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208220009_37993.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208220009_37993lp_SDN673C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDN673C",
+  "plateConfidence": 0.8794642686843872,
+  "plateCoordinates": [
+    1293,
+    225,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDN673C",
+  "plateUnicode": "SDN673C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770588009024,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9982978105545044,
+    "coordinates": [
+      948,
+      0,
+      780,
+      380
+    ],
+    "model": "Fiesta/Fiesta ST",
+    "type": "CAR"
+  }
+}

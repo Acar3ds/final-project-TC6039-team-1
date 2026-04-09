@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771598182203,
+  "carID": 117183,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 083626391",
+  "datetimezone": "20260220 143621331-0600",
+  "frame_timestamp": 1771598182203,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143621_616544lp_SDP875C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143621_616544.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220142424_662181/20260220143621_616544lp_SDP875C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SDP875C",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1197,
+    222,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SDP875C",
+  "plateUnicode": "SDP875C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771598182203,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.637672185897827,
+    "coordinates": [
+      828,
+      0,
+      820,
+      378
+    ],
+    "model": "Express",
+    "type": "VAN"
+  }
+}

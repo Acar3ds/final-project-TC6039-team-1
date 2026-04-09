@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770228235324,
+  "carID": 78015,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 120359957",
+  "datetimezone": "20260204 180354903-0600",
+  "frame_timestamp": 1770228235324,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204180355_139698lp_RTY521A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204180355_139698.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204180355_139698lp_RTY521A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTY521A",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    978,
+    228,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "ITA",
+  "plateText": "RTY521A",
+  "plateUnicode": "RTY521A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770228235324,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.090449094772339,
+    "coordinates": [
+      660,
+      0,
+      768,
+      344
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

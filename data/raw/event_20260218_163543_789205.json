@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771432524689,
+  "carID": 111999,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 103528632",
+  "datetimezone": "20260218 163523581-0600",
+  "frame_timestamp": 1771432524689,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218154620_688407/20260218163523_844959lp_RK2776A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218154620_688407/20260218163523_844959.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218154620_688407/20260218163523_844959lp_RK2776A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RK2776A",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    1089,
+    123,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RK2776A",
+  "plateUnicode": "RK2776A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771432524689,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "NONE",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.398933172225952,
+    "coordinates": [
+      700,
+      0,
+      1000,
+      396
+    ],
+    "model": "None",
+    "type": "BUS"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772564491168,
+  "carID": 144970,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260303 130136073",
+  "datetimezone": "20260303 190131018-0600",
+  "frame_timestamp": 1772564491168,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303190131_285452lp_RXL952C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303190131_285452.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303190131_285452lp_RXL952C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXL952C",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    828,
+    129,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXL952C",
+  "plateUnicode": "RXL952C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772564491168,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5940346717834473,
+    "coordinates": [
+      376,
+      0,
+      892,
+      338
+    ],
+    "model": "Crossover/SX4",
+    "type": "CAR"
+  }
+}

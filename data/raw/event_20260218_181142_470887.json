@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771438282750,
+  "carID": 112271,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 121127313",
+  "datetimezone": "20260218 181122263-0600",
+  "frame_timestamp": 1771438282750,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218181122_498621lp_RTG332A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218181122_498621.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218181122_498621lp_RTG332A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTG332A",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1200,
+    135,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTG332A",
+  "plateUnicode": "RTG332A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771438282750,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8082365989685059,
+    "coordinates": [
+      768,
+      0,
+      876,
+      330
+    ],
+    "model": "Crossover/SX4",
+    "type": "SUV"
+  }
+}

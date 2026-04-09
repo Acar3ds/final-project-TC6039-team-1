@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771729267848,
+  "carID": 121735,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 210112283",
+  "datetimezone": "20260222 030107235-0600",
+  "frame_timestamp": 1771729267848,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222025221_594855/20260222030107_481738lp_RZS944D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222025221_594855/20260222030107_481738.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222025221_594855/20260222030107_481738lp_RZS944D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZS944A",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    1134,
+    132,
+    126,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    54
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZS944A",
+  "plateUnicode": "RZS944A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771729267848,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7787464261054993,
+    "coordinates": [
+      828,
+      0,
+      740,
+      312
+    ],
+    "model": "Bolt EUV/Bolt EV",
+    "type": "CAR"
+  }
+}

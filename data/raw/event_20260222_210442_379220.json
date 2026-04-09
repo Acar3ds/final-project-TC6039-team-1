@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771794262583,
+  "carID": 122706,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 150426864",
+  "datetimezone": "20260222 210421805-0600",
+  "frame_timestamp": 1771794262583,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222210422_40013lp_SKJ818A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222210422_40013.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222200103_119867/20260222210422_40013lp_SKJ818A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKJ818A",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1011,
+    129,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKJ818A",
+  "plateUnicode": "SKJ818A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771794262583,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0998787879943848,
+    "coordinates": [
+      720,
+      0,
+      712,
+      272
+    ],
+    "model": "S-10",
+    "type": "SUV"
+  }
+}

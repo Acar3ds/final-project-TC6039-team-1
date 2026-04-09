@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772148987187,
+  "carID": 133583,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 173630680",
+  "datetimezone": "20260226 233625629-0600",
+  "frame_timestamp": 1772148987187,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260226233625_893966lp_FET291C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260226233625_893966.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226232753_60590/20260226233625_893966lp_FET291C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FET291C",
+  "plateConfidence": 0.8247767686843872,
+  "plateCoordinates": [
+    936,
+    99,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FET291C",
+  "plateUnicode": "FET291C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772148987187,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.6659770011901855,
+    "coordinates": [
+      624,
+      0,
+      756,
+      278
+    ],
+    "model": "Equinox/Traverse",
+    "type": "SUV"
+  }
+}

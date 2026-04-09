@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770921157603,
+  "carID": 97511,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 123242227",
+  "datetimezone": "20260212 183237176-0600",
+  "frame_timestamp": 1770921157603,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212183237_418391lp_TAS273B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212183237_418391.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212183237_418391lp_TAS273B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAS273B",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    960,
+    117,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAS273B",
+  "plateUnicode": "TAS273B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770921157603,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.5607447624206543,
+    "coordinates": [
+      636,
+      0,
+      780,
+      258
+    ],
+    "model": "Freed/Odyssey",
+    "type": "VAN"
+  }
+}

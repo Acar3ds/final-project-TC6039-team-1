@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771862228202,
+  "carID": 124267,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 095712959",
+  "datetimezone": "20260223 155707904-0600",
+  "frame_timestamp": 1771862228202,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223155708_160202lp_SRT736A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223155708_160202.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223155708_160202lp_SRT736A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRT736A",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    981,
+    183,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRT736A",
+  "plateUnicode": "SRT736A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771862228202,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.999971866607666,
+    "coordinates": [
+      636,
+      0,
+      820,
+      380
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

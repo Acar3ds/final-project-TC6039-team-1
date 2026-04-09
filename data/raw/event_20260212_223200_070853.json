@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770935501710,
+  "carID": 98198,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 163146278",
+  "datetimezone": "20260212 223141226-0600",
+  "frame_timestamp": 1770935501710,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212223141_456807lp_RK17502.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212223141_456807.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212223141_456807lp_RK17502.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RK17502",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    849,
+    153,
+    141,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    63
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RK17502",
+  "plateUnicode": "RK17502",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770935501710,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.115952730178833,
+    "coordinates": [
+      504,
+      0,
+      828,
+      350
+    ],
+    "model": "Fortuner/Hilux/SW4",
+    "type": "PICKUPTRUCK"
+  }
+}

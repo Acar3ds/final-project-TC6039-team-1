@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770415321808,
+  "carID": 83812,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 160204665",
+  "datetimezone": "20260206 220159607-0600",
+  "frame_timestamp": 1770415321808,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206220159_869200lp_RL3135A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206220159_869200.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206220159_869200lp_RL3135A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RL3135A",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    876,
+    135,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RL3135A",
+  "plateUnicode": "RL3135A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770415321808,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.022392272949219,
+    "coordinates": [
+      560,
+      2,
+      800,
+      364
+    ],
+    "model": "Ranger",
+    "type": "PICKUPTRUCK"
+  }
+}

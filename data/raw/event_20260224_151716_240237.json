@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771946215578,
+  "carID": 126701,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 091700482",
+  "datetimezone": "20260224 151655434-0600",
+  "frame_timestamp": 1771946215578,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224151655_677001lp_SEJ401A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224151655_677001.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224144435_524224/20260224151655_677001lp_SEJ401A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEJ401A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1056,
+    180,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEJ401A",
+  "plateUnicode": "SEJ401A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771946215578,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9685051441192627,
+    "coordinates": [
+      752,
+      0,
+      736,
+      326
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

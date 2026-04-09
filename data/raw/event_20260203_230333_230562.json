@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770159796923,
+  "carID": 76399,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 170321075",
+  "datetimezone": "20260203 230316030-0600",
+  "frame_timestamp": 1770159796923,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203230316_275244lp_TGJ453B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203230316_275244.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203230316_275244lp_TGJ453B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGJ453B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1197,
+    183,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGJ453B",
+  "plateUnicode": "TGJ453B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770159796923,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.327232360839844,
+    "coordinates": [
+      832,
+      0,
+      792,
+      338
+    ],
+    "model": "Fit",
+    "type": "CAR"
+  }
+}

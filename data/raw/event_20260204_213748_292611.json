@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770241051656,
+  "carID": 78568,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 153735791",
+  "datetimezone": "20260204 213730739-0600",
+  "frame_timestamp": 1770241051656,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204213730_985562lp_T1030B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204213730_985562.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204213730_985562lp_T1030B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "T1030B",
+  "plateConfidence": 0.83203125,
+  "plateCoordinates": [
+    975,
+    141,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "T1030B",
+  "plateUnicode": "T1030B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770241051656,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ram",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9346656799316406,
+    "coordinates": [
+      600,
+      0,
+      900,
+      288
+    ],
+    "model": "Chassis Cab/3500/2500/1500",
+    "type": "PICKUPTRUCK"
+  }
+}

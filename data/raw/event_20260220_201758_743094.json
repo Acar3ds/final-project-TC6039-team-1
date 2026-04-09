@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771618658634,
+  "carID": 118369,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 141743385",
+  "datetimezone": "20260220 201738337-0600",
+  "frame_timestamp": 1771618658634,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220201738_605959lp_SXE148B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220201738_605959.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220201738_605959lp_SXE148B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXE148B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1254,
+    225,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXE148B",
+  "plateUnicode": "SXE148B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771618658634,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.1235103607177734,
+    "coordinates": [
+      840,
+      0,
+      864,
+      380
+    ],
+    "model": "C-Class/C-Class AMG/E-Class/E-Class AMG",
+    "type": "CAR"
+  }
+}

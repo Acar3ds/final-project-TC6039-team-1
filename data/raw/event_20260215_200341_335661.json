@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771185802119,
+  "carID": 105023,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 140326556",
+  "datetimezone": "20260215 200321492-0600",
+  "frame_timestamp": 1771185802119,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215200321_761939lp_SKU486A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215200321_761939.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215200321_761939lp_SKU486A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKU486A",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1017,
+    123,
+    126,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKU486A",
+  "plateUnicode": "SKU486A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771185802119,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.876430034637451,
+    "coordinates": [
+      704,
+      2,
+      744,
+      274
+    ],
+    "model": "Rio/Rio5",
+    "type": "CAR"
+  }
+}

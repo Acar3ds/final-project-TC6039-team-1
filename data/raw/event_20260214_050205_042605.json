@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771045307980,
+  "carID": 102028,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 230150655",
+  "datetimezone": "20260214 050145590-0600",
+  "frame_timestamp": 1771045307980,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214041746_812038/20260214050145_823312lp_SFU810B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214041746_812038/20260214050145_823312.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214041746_812038/20260214050145_823312lp_SFU810B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFU810B",
+  "plateConfidence": 0.8080357313156128,
+  "plateCoordinates": [
+    888,
+    78,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFU810B",
+  "plateUnicode": "SFU810B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771045307980,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.283076763153076,
+    "coordinates": [
+      584,
+      0,
+      732,
+      338
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

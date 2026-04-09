@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770165579066,
+  "carID": 76613,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 183942780",
+  "datetimezone": "20260204 003937731-0600",
+  "frame_timestamp": 1770165579066,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204001313_67770/20260204003937_948515lp_AX207C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204001313_67770/20260204003937_948515.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204001313_67770/20260204003937_948515lp_AX207C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "AXU71",
+  "plateConfidence": 0.65625,
+  "plateCoordinates": [
+    1065,
+    129,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "AXU71",
+  "plateUnicode": "AXU71",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770165579066,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.716874361038208,
+    "coordinates": [
+      724,
+      0,
+      808,
+      278
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

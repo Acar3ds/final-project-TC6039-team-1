@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771139827034,
+  "carID": 104478,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 011709675",
+  "datetimezone": "20260215 071704622-0600",
+  "frame_timestamp": 1771139827034,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215071704_878313lp_SSN585A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215071704_878313.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215054355_594915/20260215071704_878313lp_SSN585A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSN585A",
+  "plateConfidence": 0.6908482313156128,
+  "plateCoordinates": [
+    1212,
+    153,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSN585A",
+  "plateUnicode": "SSN585A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771139827034,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.920891761779785,
+    "coordinates": [
+      912,
+      0,
+      792,
+      360
+    ],
+    "model": "Genesis Coupe",
+    "type": "CAR"
+  }
+}

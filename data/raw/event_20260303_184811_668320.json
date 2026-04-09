@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772563669560,
+  "carID": 144919,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260303 124753838",
+  "datetimezone": "20260303 184748789-0600",
+  "frame_timestamp": 1772563669560,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303184748_977250lp_PK9178A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303184748_977250.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303184748_977250lp_PK9178A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PK9178A",
+  "plateConfidence": 0.8314732313156128,
+  "plateCoordinates": [
+    870,
+    84,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PK9178A",
+  "plateUnicode": "PK9178A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772563669560,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.50459623336792,
+    "coordinates": [
+      500,
+      0,
+      876,
+      266
+    ],
+    "model": "RAM/Durango/Dakota",
+    "type": "PICKUPTRUCK"
+  }
+}

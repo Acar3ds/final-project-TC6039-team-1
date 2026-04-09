@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771687832675,
+  "carID": 120096,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 093037417",
+  "datetimezone": "20260221 153032359-0600",
+  "frame_timestamp": 1771687832675,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221153032_612440lp_RMC939A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221153032_612440.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221144424_750715/20260221153032_612440lp_RMC939A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMC939A",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1044,
+    102,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMC939A",
+  "plateUnicode": "RMC939A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771687832675,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Citroen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.047297954559326,
+    "coordinates": [
+      744,
+      0,
+      732,
+      282
+    ],
+    "model": "C3",
+    "type": "CAR"
+  }
+}

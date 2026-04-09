@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772135140440,
+  "carID": 132836,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 134545348",
+  "datetimezone": "20260226 194540284-0600",
+  "frame_timestamp": 1772135140440,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226194540_593803lp_MCY724A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226194540_593803.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226193852_618338/20260226194540_593803lp_MCY724A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "MCY724A",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    882,
+    141,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "MCY724A",
+  "plateUnicode": "MCY724A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772135140440,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Acura",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.814772129058838,
+    "coordinates": [
+      368,
+      2,
+      972,
+      298
+    ],
+    "model": "RLX/TLX/TSX",
+    "type": "CAR"
+  }
+}

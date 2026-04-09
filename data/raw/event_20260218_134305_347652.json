@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771422166034,
+  "carID": 111415,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260218 074250276",
+  "datetimezone": "20260218 134245217-0600",
+  "frame_timestamp": 1771422166034,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218130745_403016/20260218134245_460698lp_RKP720B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218130745_403016/20260218134245_460698.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218130745_403016/20260218134245_460698lp_RKP720B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKP720B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    840,
+    126,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RKP720B",
+  "plateUnicode": "RKP720B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771422166034,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.182306289672852,
+    "coordinates": [
+      524,
+      0,
+      768,
+      296
+    ],
+    "model": "Rush",
+    "type": "SUV"
+  }
+}

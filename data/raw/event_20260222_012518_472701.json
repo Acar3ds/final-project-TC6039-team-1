@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771723499485,
+  "carID": 121500,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 192502877",
+  "datetimezone": "20260222 012457821-0600",
+  "frame_timestamp": 1771723499485,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222012458_59670lp_TGZ452A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222012458_59670.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222010032_12626/20260222012458_59670lp_TGZ452A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGZ452A",
+  "plateConfidence": 0.7008928656578064,
+  "plateCoordinates": [
+    966,
+    144,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "TGZ452A",
+  "plateUnicode": "TGZ452A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771723499485,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.338139533996582,
+    "coordinates": [
+      668,
+      0,
+      736,
+      308
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

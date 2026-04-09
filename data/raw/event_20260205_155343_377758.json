@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770306808316,
+  "carID": 80164,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 095330808",
+  "datetimezone": "20260205 155325744-0600",
+  "frame_timestamp": 1770306808316,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205155325_956973lp_SXW309A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205155325_956973.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205155325_956973lp_SXW309A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXW309A",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    858,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXW309A",
+  "plateUnicode": "SXW309A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770306808316,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.195104598999023,
+    "coordinates": [
+      552,
+      0,
+      740,
+      252
+    ],
+    "model": "Passat CC/Phaeton",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771710159774,
+  "carID": 121023,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 154244658",
+  "datetimezone": "20260221 214239612-0600",
+  "frame_timestamp": 1771710159774,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221214239_950437lp_RVR120B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221214239_950437.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221213550_726709/20260221214239_950437lp_RVR120B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVR120B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1101,
+    183,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVR120B",
+  "plateUnicode": "RVR120B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771710159774,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9999210834503174,
+    "coordinates": [
+      768,
+      0,
+      800,
+      306
+    ],
+    "model": "Camry Solara",
+    "type": "CAR"
+  }
+}

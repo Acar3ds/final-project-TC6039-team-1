@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771004601774,
+  "carID": 100228,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 114325980",
+  "datetimezone": "20260213 174320928-0600",
+  "frame_timestamp": 1771004601774,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213174321_170520lp_45S179.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213174321_170520.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213174321_170520lp_45S179.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "45S179",
+  "plateConfidence": 0.8463541865348816,
+  "plateCoordinates": [
+    1041,
+    102,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "45S179",
+  "plateUnicode": "45S179",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771004601774,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0267558097839355,
+    "coordinates": [
+      712,
+      0,
+      768,
+      308
+    ],
+    "model": "Discovery Sport/Discovery",
+    "type": "SUV"
+  }
+}

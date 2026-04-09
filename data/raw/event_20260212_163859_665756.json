@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770914320413,
+  "carID": 97262,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 103845334",
+  "datetimezone": "20260212 163840288-0600",
+  "frame_timestamp": 1770914320413,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212163840_519019lp_SAG650C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212163840_519019.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212163840_519019lp_SAG650C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAG650C",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1110,
+    153,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAG650C",
+  "plateUnicode": "SAG650C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770914320413,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.346007823944092,
+    "coordinates": [
+      800,
+      0,
+      728,
+      314
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

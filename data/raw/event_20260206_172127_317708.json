@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770398471411,
+  "carID": 82940,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 112114709",
+  "datetimezone": "20260206 172109655-0600",
+  "frame_timestamp": 1770398471411,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206172109_893500lp_SEL781C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206172109_893500.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206172109_893500lp_SEL781C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEL781C",
+  "plateConfidence": 0.8337053656578064,
+  "plateCoordinates": [
+    1020,
+    120,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEL781C",
+  "plateUnicode": "SEL781C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770398471411,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.389216899871826,
+    "coordinates": [
+      652,
+      0,
+      792,
+      488
+    ],
+    "model": "Hiace",
+    "type": "VAN"
+  }
+}

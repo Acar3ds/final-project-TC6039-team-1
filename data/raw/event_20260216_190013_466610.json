@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771268394236,
+  "carID": 107103,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 125958562",
+  "datetimezone": "20260216 185953512-0600",
+  "frame_timestamp": 1771268394236,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216185953_811712lp_SWB170A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216185953_811712.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216185813_101020/20260216185953_811712lp_SWB170A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWB170A",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1143,
+    138,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWB170A",
+  "plateUnicode": "SWB170A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771268394236,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.210644245147705,
+    "coordinates": [
+      768,
+      0,
+      864,
+      300
+    ],
+    "model": "Odyssey",
+    "type": "VAN"
+  }
+}

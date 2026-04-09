@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772117475913,
+  "carID": 132008,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 085120803",
+  "datetimezone": "20260226 145115750-0600",
+  "frame_timestamp": 1772117475913,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145116_32349lp_RLY603C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145116_32349.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226144933_420050/20260226145116_32349lp_RLY603C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLY603C",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1074,
+    252,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLY603C",
+  "plateUnicode": "RLY603C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772117475913,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5077269077301025,
+    "coordinates": [
+      716,
+      0,
+      804,
+      398
+    ],
+    "model": "3/5/3 MPS/Axela/Premacy",
+    "type": "CAR"
+  }
+}

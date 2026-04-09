@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771803910329,
+  "carID": 123001,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 174514400",
+  "datetimezone": "20260222 234509346-0600",
+  "frame_timestamp": 1771803910329,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222234509_568632lp_A339MKS.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222234509_568632.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222231008_688995/20260222234509_568632lp_A339MKS.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A339MKS",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    930,
+    138,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "A339MKS",
+  "plateUnicode": "A339MKS",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771803910329,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.98927116394043,
+    "coordinates": [
+      632,
+      0,
+      740,
+      290
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

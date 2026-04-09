@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770387768050,
+  "carID": 82435,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 082252997",
+  "datetimezone": "20260206 142247910-0600",
+  "frame_timestamp": 1770387768050,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206142248_72135lp_SEF458B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206142248_72135.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206142248_72135lp_SEF458B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEF458B",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1038,
+    126,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEF458B",
+  "plateUnicode": "SEF458B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770387768050,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5787206888198853,
+    "coordinates": [
+      708,
+      0,
+      792,
+      296
+    ],
+    "model": "RAV4/Vanguard",
+    "type": "SUV"
+  }
+}

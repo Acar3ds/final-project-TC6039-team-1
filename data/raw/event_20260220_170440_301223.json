@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771607060853,
+  "carID": 117664,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 110424947",
+  "datetimezone": "20260220 170419892-0600",
+  "frame_timestamp": 1771607060853,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220170420_153335lp_0PT2086B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220170420_153335.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220163155_692605/20260220170420_153335lp_0PT2086B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "3PT2086B",
+  "plateConfidence": 0.7841796875,
+  "plateCoordinates": [
+    954,
+    213,
+    150,
+    78
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    78
+  ],
+  "plateCountry": "ESP",
+  "plateText": "3PT2086B",
+  "plateUnicode": "3PT2086B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771607060853,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9229257106781006,
+    "coordinates": [
+      580,
+      0,
+      884,
+      590
+    ],
+    "model": "Acadia/Terrain",
+    "type": "SUV"
+  }
+}

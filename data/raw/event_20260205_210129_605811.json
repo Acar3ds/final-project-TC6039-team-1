@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770325272805,
+  "carID": 81010,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 150117372",
+  "datetimezone": "20260205 210112319-0600",
+  "frame_timestamp": 1770325272805,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205210112_532565lp_SVM865B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205210112_532565.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205210112_532565lp_SVM865B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVM865B",
+  "plateConfidence": 0.8738839030265808,
+  "plateCoordinates": [
+    876,
+    120,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVM865B",
+  "plateUnicode": "SVM865B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770325272805,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.1115031242370605,
+    "coordinates": [
+      592,
+      0,
+      696,
+      300
+    ],
+    "model": "Kwid",
+    "type": "CAR"
+  }
+}

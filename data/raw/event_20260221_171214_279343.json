@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771693914536,
+  "carID": 120348,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 111158806",
+  "datetimezone": "20260221 171153752-0600",
+  "frame_timestamp": 1771693914536,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221171154_18397lp_RTL470A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221171154_18397.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221171154_18397lp_RTL470A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTL470A",
+  "plateConfidence": 0.8180803656578064,
+  "plateCoordinates": [
+    1017,
+    105,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTL470A",
+  "plateUnicode": "RTL470A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771693914536,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.567178249359131,
+    "coordinates": [
+      712,
+      0,
+      740,
+      258
+    ],
+    "model": "911 GT3/911 GT6/911 R",
+    "type": "CAR"
+  }
+}

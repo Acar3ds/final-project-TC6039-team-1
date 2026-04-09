@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771714361628,
+  "carID": 121187,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 165245191",
+  "datetimezone": "20260221 225240145-0600",
+  "frame_timestamp": 1771714361628,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221225240_417880lp_SSC925B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221225240_417880.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221225240_417880lp_SSC925B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSC925B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1038,
+    189,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSC925B",
+  "plateUnicode": "SSC925B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771714361628,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.577218055725098,
+    "coordinates": [
+      748,
+      0,
+      708,
+      318
+    ],
+    "model": "Corsa",
+    "type": "CAR"
+  }
+}

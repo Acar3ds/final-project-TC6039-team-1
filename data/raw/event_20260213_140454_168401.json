@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770991475981,
+  "carID": 99539,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 080439827",
+  "datetimezone": "20260213 140434778-0600",
+  "frame_timestamp": 1770991475981,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213140435_104973lp_0SKS670B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213140435_104973.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213140435_104973lp_0SKS670B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKS670B",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    1386,
+    264,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKS670B",
+  "plateUnicode": "SKS670B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770991475981,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.229081153869629,
+    "coordinates": [
+      928,
+      2,
+      912,
+      388
+    ],
+    "model": "C-Class/C-Class AMG/E-Class/E-Class AMG",
+    "type": "CAR"
+  }
+}

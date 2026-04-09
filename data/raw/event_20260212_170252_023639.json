@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770915752695,
+  "carID": 97314,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 110237638",
+  "datetimezone": "20260212 170232574-0600",
+  "frame_timestamp": 1770915752695,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212170232_810534lp_SKG991B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212170232_810534.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212170232_810534lp_SKG991B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SKG991B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1095,
+    174,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SKG991B",
+  "plateUnicode": "SKG991B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770915752695,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9998550415039062,
+    "coordinates": [
+      756,
+      0,
+      816,
+      372
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

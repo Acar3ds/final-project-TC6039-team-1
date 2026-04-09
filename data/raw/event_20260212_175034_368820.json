@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770918616112,
+  "carID": 97407,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 115021038",
+  "datetimezone": "20260212 175015984-0600",
+  "frame_timestamp": 1770918616112,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212175016_223523lp_SJT856A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212175016_223523.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212174821_578650/20260212175016_223523lp_SJT856A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJT856A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1206,
+    405,
+    150,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJT856A",
+  "plateUnicode": "SJT856A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770918616112,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.999568462371826,
+    "coordinates": [
+      856,
+      0,
+      828,
+      530
+    ],
+    "model": "Z4/Z4 M",
+    "type": "CAR"
+  }
+}

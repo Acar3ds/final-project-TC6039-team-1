@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771336962020,
+  "carID": 108863,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 080246735",
+  "datetimezone": "20260217 140241682-0600",
+  "frame_timestamp": 1771336962020,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217135939_894647/20260217140241_898436lp_RR738A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217135939_894647/20260217140241_898436.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217135939_894647/20260217140241_898436lp_RR738A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RR738A",
+  "plateConfidence": 0.86328125,
+  "plateCoordinates": [
+    1017,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RR738A",
+  "plateUnicode": "RR738A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771336962020,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2522637844085693,
+    "coordinates": [
+      708,
+      0,
+      724,
+      252
+    ],
+    "model": "Jetta/Polo/Polo GTI",
+    "type": "CAR"
+  }
+}

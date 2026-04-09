@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770325560970,
+  "carID": 81023,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 150605716",
+  "datetimezone": "20260205 210600670-0600",
+  "frame_timestamp": 1770325560970,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205210600_915163lp_RUT181B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205210600_915163.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205203932_359032/20260205210600_915163lp_RUT181B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUT181B",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1014,
+    111,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUT181B",
+  "plateUnicode": "RUT181B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770325560970,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.723845958709717,
+    "coordinates": [
+      696,
+      0,
+      768,
+      258
+    ],
+    "model": "A4/A5/A6/A7/A8/S5/S6/S7",
+    "type": "CAR"
+  }
+}

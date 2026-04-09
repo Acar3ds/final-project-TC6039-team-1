@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770301169769,
+  "carID": 79858,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 081933697",
+  "datetimezone": "20260205 141928649-0600",
+  "frame_timestamp": 1770301169769,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205141928_896328lp_RKF997C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205141928_896328.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205141928_896328lp_RKF997C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RKF997C",
+  "plateConfidence": 0.8169642686843872,
+  "plateCoordinates": [
+    1200,
+    141,
+    132,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    60
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RKF997C",
+  "plateUnicode": "RKF997C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770301169769,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6912589073181152,
+    "coordinates": [
+      864,
+      0,
+      768,
+      312
+    ],
+    "model": "Sedici",
+    "type": "CAR"
+  }
+}

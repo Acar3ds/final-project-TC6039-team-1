@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770229446442,
+  "carID": 78062,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 122409117",
+  "datetimezone": "20260204 182404069-0600",
+  "frame_timestamp": 1770229446442,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204182404_258893lp_PZ0668A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204182404_258893.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204182404_258893lp_PZ0668A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PZ0668A",
+  "plateConfidence": 0.8716517686843872,
+  "plateCoordinates": [
+    843,
+    93,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PZ0668A",
+  "plateUnicode": "PZ0668A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770229446442,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peterbilt",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.271781921386719,
+    "coordinates": [
+      524,
+      0,
+      792,
+      326
+    ],
+    "model": "379",
+    "type": "TRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770836293030,
+  "carID": 94985,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260211 125817291",
+  "datetimezone": "20260211 185812236-0600",
+  "frame_timestamp": 1770836293030,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211184938_951555/20260211185812_433479lp_PZ8682A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211184938_951555/20260211185812_433479.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211184938_951555/20260211185812_433479lp_PZ8682A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PZ8682A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1551,
+    234,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "ESP",
+  "plateText": "PZ8682A",
+  "plateUnicode": "PZ8682A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770836293030,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.444186210632324,
+    "coordinates": [
+      1016,
+      0,
+      900,
+      486
+    ],
+    "model": "Frontier",
+    "type": "PICKUPTRUCK"
+  }
+}

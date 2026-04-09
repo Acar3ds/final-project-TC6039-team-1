@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770306265645,
+  "carID": 80146,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 094430417",
+  "datetimezone": "20260205 154425364-0600",
+  "frame_timestamp": 1770306265645,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205154425_619059lp_SYG771A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205154425_619059.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205154425_619059lp_SYG771A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYG771A",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    834,
+    138,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYG771A",
+  "plateUnicode": "SYG771A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770306265645,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.866270065307617,
+    "coordinates": [
+      492,
+      0,
+      832,
+      320
+    ],
+    "model": "3008",
+    "type": "SUV"
+  }
+}

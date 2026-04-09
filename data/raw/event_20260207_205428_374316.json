@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770497651481,
+  "carID": 85974,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260207 145415688",
+  "datetimezone": "20260207 205410625-0600",
+  "frame_timestamp": 1770497651481,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207205410_845191lp_SBD419C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207205410_845191.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207203014_691568/20260207205410_845191lp_SBD419C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBD419C",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    912,
+    105,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBD419C",
+  "plateUnicode": "SBD419C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770497651481,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.086556434631348,
+    "coordinates": [
+      588,
+      2,
+      764,
+      250
+    ],
+    "model": "Prius/Prius Plug-In",
+    "type": "CAR"
+  }
+}

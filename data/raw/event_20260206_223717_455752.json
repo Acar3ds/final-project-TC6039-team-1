@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770417420572,
+  "carID": 83896,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 163705174",
+  "datetimezone": "20260206 223700122-0600",
+  "frame_timestamp": 1770417420572,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206221143_681733/20260206223700_362375lp_TCK800.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206221143_681733/20260206223700_362375.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206221143_681733/20260206223700_362375lp_TCK800.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCK800",
+  "plateConfidence": 0.7890625,
+  "plateCoordinates": [
+    1047,
+    174,
+    117,
+    48
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    117,
+    48
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCK800",
+  "plateUnicode": "TCK800",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770417420572,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.1961593627929688,
+    "coordinates": [
+      728,
+      0,
+      764,
+      296
+    ],
+    "model": "Baleno",
+    "type": "CAR"
+  }
+}

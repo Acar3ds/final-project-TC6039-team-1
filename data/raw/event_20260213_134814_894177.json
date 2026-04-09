@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770990475861,
+  "carID": 99486,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 074800625",
+  "datetimezone": "20260213 134755575-0600",
+  "frame_timestamp": 1770990475861,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213134755_837351lp_RUM779B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213134755_837351.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213132755_145640/20260213134755_837351lp_RUM779B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUM779B",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    1089,
+    237,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUM779B",
+  "plateUnicode": "RUM779B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770990475861,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.3979952335357666,
+    "coordinates": [
+      768,
+      0,
+      772,
+      374
+    ],
+    "model": "Odyssey",
+    "type": "VAN"
+  }
+}

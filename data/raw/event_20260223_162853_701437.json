@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771864113622,
+  "carID": 124324,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 102837788",
+  "datetimezone": "20260223 162832733-0600",
+  "frame_timestamp": 1771864113622,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223162832_967782lp_RXP332C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223162832_967782.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223152933_709766/20260223162832_967782lp_RXP332C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXP332C",
+  "plateConfidence": 0.8727678656578064,
+  "plateCoordinates": [
+    1074,
+    132,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXP332C",
+  "plateUnicode": "RXP332C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771864113622,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.999612808227539,
+    "coordinates": [
+      740,
+      0,
+      768,
+      320
+    ],
+    "model": "Raize",
+    "type": "SUV"
+  }
+}

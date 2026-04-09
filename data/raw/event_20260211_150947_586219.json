@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770822571009,
+  "carID": 94349,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 090934188",
+  "datetimezone": "20260211 150929140-0600",
+  "frame_timestamp": 1770822571009,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211144929_906259/20260211150929_376393lp_TDK813A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211144929_906259/20260211150929_376393.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211144929_906259/20260211150929_376393lp_TDK813A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDK813A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1344,
+    225,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDK813A",
+  "plateUnicode": "TDK813A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770822571009,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6303374767303467,
+    "coordinates": [
+      984,
+      0,
+      824,
+      368
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

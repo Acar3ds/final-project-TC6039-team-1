@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GBR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771621057003,
+  "carID": 118488,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 145742054",
+  "datetimezone": "20260220 205737003-0600",
+  "frame_timestamp": 1771621057003,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220205737_173626lp_CIN0.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220205737_173626.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220205737_173626lp_CIN0.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "CIN0",
+  "plateConfidence": 0.49609375,
+  "plateCoordinates": [
+    609,
+    249,
+    63,
+    45
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    63,
+    45
+  ],
+  "plateCountry": "GBR",
+  "plateText": "CIN0",
+  "plateUnicode": "CIN0",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771621057003,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 373.9131774902344,
+    "coordinates": [
+      396,
+      0,
+      1220,
+      372
+    ],
+    "model": "Traverse",
+    "type": "SUV"
+  }
+}

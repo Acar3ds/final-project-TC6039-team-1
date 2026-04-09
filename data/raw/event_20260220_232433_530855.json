@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771629853454,
+  "carID": 118896,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 172417924",
+  "datetimezone": "20260220 232412873-0600",
+  "frame_timestamp": 1771629853454,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220232413_69420lp_48S939.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220232413_69420.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220225428_87041/20260220232413_69420lp_48S939.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "48S939",
+  "plateConfidence": 0.8541666865348816,
+  "plateCoordinates": [
+    999,
+    132,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "48S939",
+  "plateUnicode": "48S939",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771629853454,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "McLaren",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2512636184692383,
+    "coordinates": [
+      692,
+      2,
+      756,
+      298
+    ],
+    "model": "Artura/Elva/GT",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771528055442,
+  "carID": 115208,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 130737180",
+  "datetimezone": "20260219 190732136-0600",
+  "frame_timestamp": 1771528055442,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190732_374093lp_SXW738.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190732_374093.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219185125_212055/20260219190732_374093lp_SXW738.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXW738A",
+  "plateConfidence": 0.8671875,
+  "plateCoordinates": [
+    1068,
+    123,
+    135,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXW738A",
+  "plateUnicode": "SXW738A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771528055442,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 38.44685363769531,
+    "coordinates": [
+      736,
+      2,
+      756,
+      304
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

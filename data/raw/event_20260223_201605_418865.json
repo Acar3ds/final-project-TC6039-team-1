@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771877744471,
+  "carID": 124910,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 141549332",
+  "datetimezone": "20260223 201544278-0600",
+  "frame_timestamp": 1771877744471,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223201544_471663lp_SAN074A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223201544_471663.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223200438_426285/20260223201544_471663lp_SAN074A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAN074A",
+  "plateConfidence": 0.8091517686843872,
+  "plateCoordinates": [
+    1056,
+    180,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAN074A",
+  "plateUnicode": "SAN074A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771877744471,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9998492002487183,
+    "coordinates": [
+      760,
+      0,
+      720,
+      350
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

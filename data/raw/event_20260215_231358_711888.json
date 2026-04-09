@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771197221197,
+  "carID": 105327,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 171344084",
+  "datetimezone": "20260215 231339024-0600",
+  "frame_timestamp": 1771197221197,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215231339_282884lp_P5192A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215231339_282884.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215223331_336220/20260215231339_282884lp_P5192A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "P5192A",
+  "plateConfidence": 0.8307291865348816,
+  "plateCoordinates": [
+    1179,
+    183,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ESP",
+  "plateText": "P5192A",
+  "plateUnicode": "P5192A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771197221197,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ram",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.907934188842773,
+    "coordinates": [
+      776,
+      0,
+      928,
+      326
+    ],
+    "model": "Chassis Cab/3500/2500/1500",
+    "type": "PICKUPTRUCK"
+  }
+}

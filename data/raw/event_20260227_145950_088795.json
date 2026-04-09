@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GBR"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772204368864,
+  "carID": 134882,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 085933603",
+  "datetimezone": "20260227 145928543-0600",
+  "frame_timestamp": 1772204368864,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227145928_793852lp_RWN449.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227145928_793852.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227145612_306576/20260227145928_793852lp_RWN449.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWN449",
+  "plateConfidence": 0.8776041865348816,
+  "plateCoordinates": [
+    1029,
+    150,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "GBR",
+  "plateText": "RWN449",
+  "plateUnicode": "RWN449",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772204368864,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.275020122528076,
+    "coordinates": [
+      700,
+      0,
+      784,
+      288
+    ],
+    "model": "1 Series/2 Series/M2",
+    "type": "CAR"
+  }
+}

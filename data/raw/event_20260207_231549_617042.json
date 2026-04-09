@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770506132144,
+  "carID": 86319,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 171536926",
+  "datetimezone": "20260207 231531879-0600",
+  "frame_timestamp": 1770506132144,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207231532_110539lp_RWY255B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207231532_110539.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207222925_847101/20260207231532_110539lp_RWY255B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWY255B",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    987,
+    132,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWY255B",
+  "plateUnicode": "RWY255B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770506132144,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Fiat",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6538610458374023,
+    "coordinates": [
+      664,
+      0,
+      780,
+      272
+    ],
+    "model": "Tipo",
+    "type": "CAR"
+  }
+}

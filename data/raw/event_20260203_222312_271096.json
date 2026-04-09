@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770157375811,
+  "carID": 76322,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 162300506",
+  "datetimezone": "20260203 222255456-0600",
+  "frame_timestamp": 1770157375811,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203222255_683062lp_P4697A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203222255_683062.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203215546_398316/20260203222255_683062lp_P4697A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "P4697A",
+  "plateConfidence": 0.8736979365348816,
+  "plateCoordinates": [
+    993,
+    150,
+    135,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    54
+  ],
+  "plateCountry": "ESP",
+  "plateText": "P4697A",
+  "plateUnicode": "P4697A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770157375811,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9954668283462524,
+    "coordinates": [
+      612,
+      0,
+      888,
+      254
+    ],
+    "model": "Avalanche/Suburban/Tahoe",
+    "type": "SUV"
+  }
+}

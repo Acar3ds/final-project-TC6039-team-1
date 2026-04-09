@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771618981863,
+  "carID": 118386,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 142306765",
+  "datetimezone": "20260220 202301724-0600",
+  "frame_timestamp": 1771618981863,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202301_968340lp_SFX426B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202301_968340.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220195600_195968/20260220202301_968340lp_SFX426B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFX426B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    912,
+    117,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFX426B",
+  "plateUnicode": "SFX426B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771618981863,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Cadillac",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.999455451965332,
+    "coordinates": [
+      576,
+      0,
+      836,
+      336
+    ],
+    "model": "SRX",
+    "type": "SUV"
+  }
+}

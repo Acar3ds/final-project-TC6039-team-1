@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "PRT"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771001131695,
+  "carID": 100076,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 104536441",
+  "datetimezone": "20260213 164531390-0600",
+  "frame_timestamp": 1771001131695,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213164531_601770lp_STM3216.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213164531_601770.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213164531_601770lp_STM3216.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STM3216",
+  "plateConfidence": 0.8236607313156128,
+  "plateCoordinates": [
+    888,
+    141,
+    132,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    54
+  ],
+  "plateCountry": "PRT",
+  "plateText": "STM3216",
+  "plateUnicode": "STM3216",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771001131695,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9902875423431396,
+    "coordinates": [
+      616,
+      0,
+      672,
+      306
+    ],
+    "model": "Atos",
+    "type": "CAR"
+  }
+}

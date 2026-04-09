@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771264007370,
+  "carID": 106907,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 114650780",
+  "datetimezone": "20260216 174645711-0600",
+  "frame_timestamp": 1771264007370,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216174645_971106lp_RZF325B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216174645_971106.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216164859_409935/20260216174645_971106lp_RZF325B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZF325B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1050,
+    102,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RZF325B",
+  "plateUnicode": "RZF325B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771264007370,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 21.765663146972656,
+    "coordinates": [
+      696,
+      0,
+      772,
+      356
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

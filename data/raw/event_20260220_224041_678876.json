@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "DEU"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771627221129,
+  "carID": 118763,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 164026030",
+  "datetimezone": "20260220 224020977-0600",
+  "frame_timestamp": 1771627221129,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220224021_282837lp_RVA658A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220224021_282837.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220220345_850877/20260220224021_282837lp_RVA658A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVA658A",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    993,
+    138,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "DEU",
+  "plateText": "RVA658A",
+  "plateUnicode": "RVA658A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771627221129,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.7344555854797363,
+    "coordinates": [
+      688,
+      0,
+      748,
+      254
+    ],
+    "model": "EQE SUV/EQE SUV AMG/EQS SUV",
+    "type": "SUV"
+  }
+}

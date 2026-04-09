@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771357651820,
+  "carID": 109872,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 134736079",
+  "datetimezone": "20260217 194731030-0600",
+  "frame_timestamp": 1771357651820,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217194731_304139lp_SFY027A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217194731_304139.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217190454_463176/20260217194731_304139lp_SFY027A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SFY027A",
+  "plateConfidence": 0.8258928656578064,
+  "plateCoordinates": [
+    885,
+    105,
+    123,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    123,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SFY027A",
+  "plateUnicode": "SFY027A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771357651820,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8195968866348267,
+    "coordinates": [
+      564,
+      0,
+      744,
+      258
+    ],
+    "model": "Cerato/Forte/K3",
+    "type": "CAR"
+  }
+}

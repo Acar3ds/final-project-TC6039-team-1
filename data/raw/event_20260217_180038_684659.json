@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771351220921,
+  "carID": 109590,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 120023878",
+  "datetimezone": "20260217 180018827-0600",
+  "frame_timestamp": 1771351220921,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217180019_93445lp_RXJ8330.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217180019_93445.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217165727_850677/20260217180019_93445lp_RXJ8330.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXJ8330",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    867,
+    90,
+    129,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    60
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXJ8330",
+  "plateUnicode": "RXJ8330",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771351220921,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Isuzu",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.610818862915039,
+    "coordinates": [
+      496,
+      0,
+      848,
+      266
+    ],
+    "model": "Elf",
+    "type": "TRUCK"
+  }
+}

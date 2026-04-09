@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771333167275,
+  "carID": 108669,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 065931871",
+  "datetimezone": "20260217 125926813-0600",
+  "frame_timestamp": 1771333167275,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217114423_952277/20260217125927_84593lp_RLG507C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217114423_952277/20260217125927_84593.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217114423_952277/20260217125927_84593lp_RLG507C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLG507C",
+  "plateConfidence": 0.7901785969734192,
+  "plateCoordinates": [
+    1092,
+    177,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLG507C",
+  "plateUnicode": "RLG507C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771333167275,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0561513900756836,
+    "coordinates": [
+      796,
+      0,
+      732,
+      348
+    ],
+    "model": "Passo",
+    "type": "CAR"
+  }
+}

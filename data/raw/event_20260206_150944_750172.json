@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770390567965,
+  "carID": 82614,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 090932532",
+  "datetimezone": "20260206 150927485-0600",
+  "frame_timestamp": 1770390567965,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206150927_702617lp_RLP113C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206150927_702617.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206143204_852388/20260206150927_702617lp_RLP113C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLP113C",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1035,
+    135,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLP113C",
+  "plateUnicode": "RLP113C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770390567965,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.999330043792725,
+    "coordinates": [
+      704,
+      0,
+      800,
+      282
+    ],
+    "model": "Equinox/Traverse",
+    "type": "SUV"
+  }
+}

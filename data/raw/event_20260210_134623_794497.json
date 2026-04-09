@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770731166430,
+  "carID": 91366,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 074610861",
+  "datetimezone": "20260210 134605811-0600",
+  "frame_timestamp": 1770731166430,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134606_42630lp_DPH188F.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134606_42630.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210134606_42630lp_DPH188F.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "DPH188F",
+  "plateConfidence": 0.8292410969734192,
+  "plateCoordinates": [
+    918,
+    126,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "DPH188F",
+  "plateUnicode": "DPH188F",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770731166430,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.542863368988037,
+    "coordinates": [
+      588,
+      0,
+      784,
+      278
+    ],
+    "model": "Malibu",
+    "type": "CAR"
+  }
+}

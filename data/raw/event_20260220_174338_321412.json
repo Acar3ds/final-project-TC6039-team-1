@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771609398988,
+  "carID": 117811,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 114322929",
+  "datetimezone": "20260220 174317881-0600",
+  "frame_timestamp": 1771609398988,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220173301_686549/20260220174318_116933lp_TEW714A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220173301_686549/20260220174318_116933.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220173301_686549/20260220174318_116933lp_TEW714A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEW714A",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    1029,
+    105,
+    132,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    54
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEW714A",
+  "plateUnicode": "TEW714A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771609398988,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8732004165649414,
+    "coordinates": [
+      312,
+      42,
+      1236,
+      1034
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

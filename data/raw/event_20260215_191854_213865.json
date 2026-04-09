@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771183114872,
+  "carID": 104957,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260215 131839453",
+  "datetimezone": "20260215 191834397-0600",
+  "frame_timestamp": 1771183114872,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215191834_620336lp_RXS537C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215191834_620336.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215191834_620336lp_RXS537C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXS537C",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1173,
+    168,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXS537C",
+  "plateUnicode": "RXS537C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771183114872,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.2194886207580566,
+    "coordinates": [
+      832,
+      0,
+      740,
+      338
+    ],
+    "model": "Aveo/Sonic",
+    "type": "CAR"
+  }
+}

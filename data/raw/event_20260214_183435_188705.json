@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771094059256,
+  "carID": 102878,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 123420674",
+  "datetimezone": "20260214 183415619-0600",
+  "frame_timestamp": 1771094059256,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214183415_837641lp_SXP718A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214183415_837641.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214182724_361846/20260214183415_837641lp_SXP718A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXP718A",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1068,
+    114,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXP718A",
+  "plateUnicode": "SXP718A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771094059256,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7690088748931885,
+    "coordinates": [
+      712,
+      0,
+      792,
+      302
+    ],
+    "model": "Rogue",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770415327498,
+  "carID": 83815,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 160211308",
+  "datetimezone": "20260206 220206251-0600",
+  "frame_timestamp": 1770415327498,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206220206_534043lp_TFZ230B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206220206_534043.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206211451_582359/20260206220206_534043lp_TFZ230B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFZ230B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    972,
+    105,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFZ230B",
+  "plateUnicode": "TFZ230B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770415327498,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.759102821350098,
+    "coordinates": [
+      600,
+      2,
+      868,
+      244
+    ],
+    "model": "Expedition",
+    "type": "SUV"
+  }
+}

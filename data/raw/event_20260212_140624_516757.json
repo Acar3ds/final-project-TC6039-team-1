@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770905165567,
+  "carID": 96763,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 080610313",
+  "datetimezone": "20260212 140605257-0600",
+  "frame_timestamp": 1770905165567,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212134431_668313/20260212140605_544891lp_SGX310B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212134431_668313/20260212140605_544891.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212134431_668313/20260212140605_544891lp_SGX310B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGX310B",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    975,
+    141,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGX310B",
+  "plateUnicode": "SGX310B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770905165567,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.0882620811462402,
+    "coordinates": [
+      644,
+      0,
+      792,
+      314
+    ],
+    "model": "3",
+    "type": "CAR"
+  }
+}

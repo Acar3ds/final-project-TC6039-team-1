@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771706694490,
+  "carID": 120867,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 144457946",
+  "datetimezone": "20260221 204452891-0600",
+  "frame_timestamp": 1771706694490,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221204453_109731lp_SWW885A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221204453_109731.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221203745_134932/20260221204453_109731lp_SWW885A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWW885A",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1017,
+    105,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWW885A",
+  "plateUnicode": "SWW885A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771706694490,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.985132217407227,
+    "coordinates": [
+      684,
+      0,
+      756,
+      278
+    ],
+    "model": "Raize",
+    "type": "SUV"
+  }
+}

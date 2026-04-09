@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770337632427,
+  "carID": 81537,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 182715753",
+  "datetimezone": "20260206 002710697-0600",
+  "frame_timestamp": 1770337632427,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002710_916558lp_RVV082C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002710_916558.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002710_916558lp_RVV082C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVV082C",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    900,
+    93,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVV082C",
+  "plateUnicode": "RVV082C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770337632427,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.99441909790039,
+    "coordinates": [
+      624,
+      0,
+      724,
+      240
+    ],
+    "model": "Vios",
+    "type": "CAR"
+  }
+}

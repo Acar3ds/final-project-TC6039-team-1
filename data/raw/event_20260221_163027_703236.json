@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771691408444,
+  "carID": 120239,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260221 103012236",
+  "datetimezone": "20260221 163007184-0600",
+  "frame_timestamp": 1771691408444,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221163007_444712lp_RD4345B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221163007_444712.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221155322_25457/20260221163007_444712lp_RD4345B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RD4345B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    978,
+    87,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RD4345B",
+  "plateUnicode": "RD4345B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771691408444,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Land Rover",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 181.03697204589844,
+    "coordinates": [
+      644,
+      0,
+      796,
+      332
+    ],
+    "model": "Range Rover",
+    "type": "SUV"
+  }
+}

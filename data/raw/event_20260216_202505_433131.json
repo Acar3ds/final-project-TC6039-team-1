@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771273486995,
+  "carID": 107350,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 142450371",
+  "datetimezone": "20260216 202445271-0600",
+  "frame_timestamp": 1771273486995,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216195600_369558/20260216202445_534439lp_RXZ717B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216195600_369558/20260216202445_534439.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216195600_369558/20260216202445_534439lp_RXZ717B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXZ717B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    933,
+    96,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXZ717B",
+  "plateUnicode": "RXZ717B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771273486995,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 8.722188949584961,
+    "coordinates": [
+      640,
+      0,
+      696,
+      248
+    ],
+    "model": "Corsa/Vita",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771341958010,
+  "carID": 109187,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 092602726",
+  "datetimezone": "20260217 152557679-0600",
+  "frame_timestamp": 1771341958010,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152557_943536lp_SWN307B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152557_943536.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217150739_629325/20260217152557_943536lp_SWN307B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWN307B",
+  "plateConfidence": 0.8526785969734192,
+  "plateCoordinates": [
+    1041,
+    153,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWN307B",
+  "plateUnicode": "SWN307B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771341958010,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.156563758850098,
+    "coordinates": [
+      696,
+      0,
+      816,
+      350
+    ],
+    "model": "Tiggo 5x/Tiggo 7/Tiggo 7 Pro/Tiggo 8 Pro",
+    "type": "SUV"
+  }
+}

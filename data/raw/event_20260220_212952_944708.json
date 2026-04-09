@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771622973019,
+  "carID": 118578,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 152937791",
+  "datetimezone": "20260220 212932733-0600",
+  "frame_timestamp": 1771622973019,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220212933_1396lp_RTU513B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220212933_1396.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220205737_173626/20260220212933_1396lp_RTU513B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTU513B",
+  "plateConfidence": 0.828125,
+  "plateCoordinates": [
+    1320,
+    252,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTU513B",
+  "plateUnicode": "RTU513B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771622973019,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.999884128570557,
+    "coordinates": [
+      972,
+      0,
+      796,
+      398
+    ],
+    "model": "March/Micra",
+    "type": "CAR"
+  }
+}

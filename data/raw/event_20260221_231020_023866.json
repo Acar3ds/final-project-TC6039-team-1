@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771715403224,
+  "carID": 121220,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 171004403",
+  "datetimezone": "20260221 230959335-0600",
+  "frame_timestamp": 1771715403224,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230959_604502lp_SGW438B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230959_604502.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221224358_240247/20260221230959_604502lp_SGW438B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGW438B",
+  "plateConfidence": 0.8705357313156128,
+  "plateCoordinates": [
+    1011,
+    96,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SGW438B",
+  "plateUnicode": "SGW438B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771715403224,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hino",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 47.97181701660156,
+    "coordinates": [
+      664,
+      0,
+      812,
+      276
+    ],
+    "model": "Ranger",
+    "type": "TRUCK"
+  }
+}

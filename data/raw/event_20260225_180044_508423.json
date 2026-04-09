@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772042423519,
+  "carID": 129749,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 120028425",
+  "datetimezone": "20260225 180023371-0600",
+  "frame_timestamp": 1772042423519,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225180023_630064lp_PX8034B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225180023_630064.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225180023_630064lp_PX8034B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PX8034B",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    1041,
+    108,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PX8034B",
+  "plateUnicode": "PX8034B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772042423519,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.690646171569824,
+    "coordinates": [
+      580,
+      0,
+      960,
+      494
+    ],
+    "model": "Amarok",
+    "type": "PICKUPTRUCK"
+  }
+}

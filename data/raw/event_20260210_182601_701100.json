@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770747945394,
+  "carID": 92216,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 122548602",
+  "datetimezone": "20260210 182543545-0600",
+  "frame_timestamp": 1770747945394,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210182543_768452lp_STK984B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210182543_768452.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210174329_178957/20260210182543_768452lp_STK984B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STK984B",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    987,
+    132,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STK984B",
+  "plateUnicode": "STK984B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770747945394,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ford",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.781435012817383,
+    "coordinates": [
+      596,
+      0,
+      888,
+      342
+    ],
+    "model": "Explorer",
+    "type": "SUV"
+  }
+}

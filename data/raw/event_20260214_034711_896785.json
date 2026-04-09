@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771040812755,
+  "carID": 101906,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 214657343",
+  "datetimezone": "20260214 034652288-0600",
+  "frame_timestamp": 1771040812755,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214034652_603558lp_SYT406A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214034652_603558.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214034652_603558lp_SYT406A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYT406A",
+  "plateConfidence": 0.7756696343421936,
+  "plateCoordinates": [
+    1032,
+    141,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "SYT406A",
+  "plateUnicode": "SYT406A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771040812755,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7001979947090149,
+    "coordinates": [
+      716,
+      2,
+      828,
+      394
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

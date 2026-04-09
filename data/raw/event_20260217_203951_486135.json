@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771360771462,
+  "carID": 110017,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260217 143936363",
+  "datetimezone": "20260217 203931317-0600",
+  "frame_timestamp": 1771360771462,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217203931_583201lp_SAM711C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217203931_583201.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217200629_775941/20260217203931_583201lp_SAM711C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAM711C",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    1020,
+    132,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "SAM711C",
+  "plateUnicode": "SAM711C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771360771462,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.460416555404663,
+    "coordinates": [
+      664,
+      0,
+      840,
+      326
+    ],
+    "model": "Murano/Rogue",
+    "type": "SUV"
+  }
+}

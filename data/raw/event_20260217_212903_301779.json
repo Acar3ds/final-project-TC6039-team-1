@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771363723385,
+  "carID": 110140,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 152848289",
+  "datetimezone": "20260217 212843241-0600",
+  "frame_timestamp": 1771363723385,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217211818_344190/20260217212843_486959lp_RLJ225B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217211818_344190/20260217212843_486959.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217211818_344190/20260217212843_486959lp_RLJ225B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLJ225B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    951,
+    144,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLJ225B",
+  "plateUnicode": "RLJ225B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771363723385,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7776378393173218,
+    "coordinates": [
+      596,
+      2,
+      832,
+      286
+    ],
+    "model": "Sienna",
+    "type": "VAN"
+  }
+}

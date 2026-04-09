@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772122800663,
+  "carID": 132297,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 102005254",
+  "datetimezone": "20260226 162000205-0600",
+  "frame_timestamp": 1772122800663,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226162000_435429lp_SBD750C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226162000_435429.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226162000_435429lp_SBD750C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBD750C",
+  "plateConfidence": 0.8772321343421936,
+  "plateCoordinates": [
+    984,
+    156,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBD750C",
+  "plateUnicode": "SBD750C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772122800663,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hummer",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.916698932647705,
+    "coordinates": [
+      632,
+      0,
+      780,
+      338
+    ],
+    "model": "H3/H2",
+    "type": "PICKUPTRUCK"
+  }
+}

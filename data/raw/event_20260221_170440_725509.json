@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771693460667,
+  "carID": 120329,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 110425247",
+  "datetimezone": "20260221 170420188-0600",
+  "frame_timestamp": 1771693460667,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221170420_536514lp_4PV9575B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221170420_536514.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221170420_536514lp_4PV9575B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "V9575B",
+  "plateConfidence": 0.7877604365348816,
+  "plateCoordinates": [
+    1152,
+    177,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "ESP",
+  "plateText": "V9575B",
+  "plateUnicode": "V9575B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771693460667,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.2553369998931885,
+    "coordinates": [
+      832,
+      0,
+      744,
+      360
+    ],
+    "model": "Nivus/Taos/Taigo",
+    "type": "SUV"
+  }
+}

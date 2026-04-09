@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771248078690,
+  "carID": 106132,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260216 072122994",
+  "datetimezone": "20260216 132117940-0600",
+  "frame_timestamp": 1771248078690,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216125249_971410/20260216132118_219398lp_RXT817A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216125249_971410/20260216132118_219398.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216125249_971410/20260216132118_219398lp_RXT817A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXT817A",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    966,
+    102,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXT817A",
+  "plateUnicode": "RXT817A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771248078690,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.3082191944122314,
+    "coordinates": [
+      648,
+      2,
+      760,
+      262
+    ],
+    "model": "Aqua/Prius/Prius Plug-In",
+    "type": "CAR"
+  }
+}

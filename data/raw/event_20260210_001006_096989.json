@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770682188479,
+  "carID": 90571,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260209 180953078",
+  "datetimezone": "20260210 000948023-0600",
+  "frame_timestamp": 1770682188479,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210000948_264024lp_SSJ555B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210000948_264024.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209234325_121001/20260210000948_264024lp_SSJ555B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SSJ555B",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    870,
+    132,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SSJ555B",
+  "plateUnicode": "SSJ555B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770682188479,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9645270109176636,
+    "coordinates": [
+      580,
+      0,
+      732,
+      278
+    ],
+    "model": "Ignis",
+    "type": "CAR"
+  }
+}

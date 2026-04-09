@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771085389136,
+  "carID": 102530,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 100951911",
+  "datetimezone": "20260214 160946851-0600",
+  "frame_timestamp": 1771085389136,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214160947_134709lp_SWH719A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214160947_134709.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214145430_491630/20260214160947_134709lp_SWH719A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWH719A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    843,
+    114,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWH719A",
+  "plateUnicode": "SWH719A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771085389136,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 18.918432235717773,
+    "coordinates": [
+      512,
+      0,
+      788,
+      308
+    ],
+    "model": "HR-V",
+    "type": "SUV"
+  }
+}

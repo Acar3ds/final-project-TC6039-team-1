@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771181064873,
+  "carID": 104902,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 124428528",
+  "datetimezone": "20260215 184423474-0600",
+  "frame_timestamp": 1771181064873,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215184423_684527lp_TCU889A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215184423_684527.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215173940_106867/20260215184423_684527lp_TCU889A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCU889A",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1089,
+    207,
+    129,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    51
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCU889A",
+  "plateUnicode": "TCU889A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771181064873,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.9988203048706055,
+    "coordinates": [
+      732,
+      0,
+      832,
+      302
+    ],
+    "model": "Malibu",
+    "type": "CAR"
+  }
+}

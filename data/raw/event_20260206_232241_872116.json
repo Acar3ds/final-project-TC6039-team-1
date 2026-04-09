@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770420145379,
+  "carID": 83994,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 172229378",
+  "datetimezone": "20260206 232224322-0600",
+  "frame_timestamp": 1770420145379,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206232224_573810lp_T2164A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206232224_573810.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206231533_80512/20260206232224_573810lp_T2164A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "T2164A",
+  "plateConfidence": 0.8567708134651184,
+  "plateCoordinates": [
+    1020,
+    123,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "ESP",
+  "plateText": "T2164A",
+  "plateUnicode": "T2164A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770420145379,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.557967185974121,
+    "coordinates": [
+      668,
+      0,
+      852,
+      324
+    ],
+    "model": "Tacoma",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "BEL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771876349881,
+  "carID": 124833,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 135234061",
+  "datetimezone": "20260223 195229010-0600",
+  "frame_timestamp": 1771876349881,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223190959_54300/20260223195229_247998lp_K03BLA.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223190959_54300/20260223195229_247998.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223190959_54300/20260223195229_247998lp_K03BLA.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "K03BLA",
+  "plateConfidence": 0.8072916865348816,
+  "plateCoordinates": [
+    1059,
+    108,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "BEL",
+  "plateText": "K03BLA",
+  "plateUnicode": "K03BLA",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771876349881,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.173527717590332,
+    "coordinates": [
+      748,
+      0,
+      740,
+      290
+    ],
+    "model": "Cruze",
+    "type": "CAR"
+  }
+}

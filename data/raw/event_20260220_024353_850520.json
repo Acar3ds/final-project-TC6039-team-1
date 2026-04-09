@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771555417108,
+  "carID": 116397,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260219 204337454",
+  "datetimezone": "20260220 024332400-0600",
+  "frame_timestamp": 1771555417108,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220024332_619623lp_SMC924B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220024332_619623.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220015324_920424/20260220024332_619623lp_SMC924B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMC924B",
+  "plateConfidence": 0.8448660969734192,
+  "plateCoordinates": [
+    795,
+    99,
+    132,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    51
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMC924B",
+  "plateUnicode": "SMC924B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771555417108,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.288131237030029,
+    "coordinates": [
+      476,
+      0,
+      756,
+      350
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

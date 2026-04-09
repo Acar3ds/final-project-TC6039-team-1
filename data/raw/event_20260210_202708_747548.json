@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770755210962,
+  "carID": 92588,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 142655707",
+  "datetimezone": "20260210 202650656-0600",
+  "frame_timestamp": 1770755210962,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210202650_875949lp_STT807B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210202650_875949.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210193908_33676/20260210202650_875949lp_STT807B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STT807B",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1038,
+    135,
+    144,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STT807B",
+  "plateUnicode": "STT807B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770755210962,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Buick",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.997583270072937,
+    "coordinates": [
+      708,
+      0,
+      788,
+      308
+    ],
+    "model": "Enclave/Encore/Envision",
+    "type": "SUV"
+  }
+}

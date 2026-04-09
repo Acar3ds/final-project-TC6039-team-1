@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771770365121,
+  "carID": 122163,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 082610015",
+  "datetimezone": "20260222 142604971-0600",
+  "frame_timestamp": 1771770365121,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222142605_227878lp_RVC103C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222142605_227878.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222142605_227878lp_RVC103C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVC103C",
+  "plateConfidence": 0.8504464030265808,
+  "plateCoordinates": [
+    1152,
+    192,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVC103C",
+  "plateUnicode": "RVC103C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771770365121,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Maserati",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.423137664794922,
+    "coordinates": [
+      816,
+      0,
+      808,
+      312
+    ],
+    "model": "GranCabrio/GranTurismo",
+    "type": "CAR"
+  }
+}

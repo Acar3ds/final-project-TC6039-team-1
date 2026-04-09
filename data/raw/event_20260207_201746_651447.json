@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770495449115,
+  "carID": 85880,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 141733828",
+  "datetimezone": "20260207 201728774-0600",
+  "frame_timestamp": 1770495449115,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207201729_80675lp_RNF315C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207201729_80675.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207193537_326415/20260207201729_80675lp_RNF315C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNF315C",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    963,
+    168,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNF315C",
+  "plateUnicode": "RNF315C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770495449115,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8915538787841797,
+    "coordinates": [
+      624,
+      0,
+      804,
+      374
+    ],
+    "model": "Trax",
+    "type": "SUV"
+  }
+}

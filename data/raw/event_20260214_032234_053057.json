@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771039337348,
+  "carID": 101855,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 212219580",
+  "datetimezone": "20260214 032214526-0600",
+  "frame_timestamp": 1771039337348,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214032214_834245lp_RWV136C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214032214_834245.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214031652_971030/20260214032214_834245lp_RWV136C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWV136C",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    1014,
+    117,
+    138,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWV136C",
+  "plateUnicode": "RWV136C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771039337348,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2343592643737793,
+    "coordinates": [
+      704,
+      0,
+      908,
+      366
+    ],
+    "model": "Malibu",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770300466973,
+  "carID": 79820,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260205 080750004",
+  "datetimezone": "20260205 140744948-0600",
+  "frame_timestamp": 1770300466973,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205140745_202019lp_RTN902C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205140745_202019.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205135940_253805/20260205140745_202019lp_RTN902C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTN902C",
+  "plateConfidence": 0.8649553656578064,
+  "plateCoordinates": [
+    837,
+    114,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTN902C",
+  "plateUnicode": "RTN902C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770300466973,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.424901962280273,
+    "coordinates": [
+      528,
+      2,
+      756,
+      286
+    ],
+    "model": "Sienta",
+    "type": "VAN"
+  }
+}

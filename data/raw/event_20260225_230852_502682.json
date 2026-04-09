@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772060915903,
+  "carID": 130645,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 170836583",
+  "datetimezone": "20260225 230831537-0600",
+  "frame_timestamp": 1772060915903,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225225941_901892/20260225230831_822884lp_RVA858C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225225941_901892/20260225230831_822884.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225225941_901892/20260225230831_822884lp_RVA858C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVA858C",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    693,
+    138,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVA858C",
+  "plateUnicode": "RVA858C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772060915903,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 14.878484725952148,
+    "coordinates": [
+      372,
+      2,
+      812,
+      280
+    ],
+    "model": "Equinox",
+    "type": "SUV"
+  }
+}

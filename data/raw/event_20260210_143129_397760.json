@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770733871439,
+  "carID": 91545,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 083116333",
+  "datetimezone": "20260210 143111279-0600",
+  "frame_timestamp": 1770733871439,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210141938_318466/20260210143111_519344lp_TDJ153B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210141938_318466/20260210143111_519344.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210141938_318466/20260210143111_519344lp_TDJ153B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TDJ153B",
+  "plateConfidence": 0.8080357313156128,
+  "plateCoordinates": [
+    1275,
+    312,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TDJ153B",
+  "plateUnicode": "TDJ153B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770733871439,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.853136658668518,
+    "coordinates": [
+      928,
+      0,
+      804,
+      450
+    ],
+    "model": "Grace",
+    "type": "CAR"
+  }
+}

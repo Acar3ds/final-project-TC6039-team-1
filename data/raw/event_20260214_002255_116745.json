@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771028557837,
+  "carID": 101380,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 182240481",
+  "datetimezone": "20260214 002235439-0600",
+  "frame_timestamp": 1771028557837,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002235_656666lp_TCF764B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002235_656666.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213234654_15063/20260214002235_656666lp_TCF764B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCF764B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1143,
+    141,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCF764B",
+  "plateUnicode": "TCF764B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771028557837,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mercedes-Benz",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.143455505371094,
+    "coordinates": [
+      780,
+      2,
+      840,
+      288
+    ],
+    "model": "GLC/GLC AMG/GLC Coupe/GLC Coupe AMG",
+    "type": "SUV"
+  }
+}

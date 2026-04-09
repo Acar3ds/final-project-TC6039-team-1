@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772202571392,
+  "carID": 134748,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260227 082935945",
+  "datetimezone": "20260227 142930891-0600",
+  "frame_timestamp": 1772202571392,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227141927_285182/20260227142931_137378lp_RXM944C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227141927_285182/20260227142931_137378.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227141927_285182/20260227142931_137378lp_RXM944C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXM944C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1353,
+    297,
+    147,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXM944C",
+  "plateUnicode": "RXM944C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772202571392,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.488527774810791,
+    "coordinates": [
+      988,
+      0,
+      808,
+      432
+    ],
+    "model": "Lacetti/Nubira/Optra/Sail/Viva",
+    "type": "CAR"
+  }
+}

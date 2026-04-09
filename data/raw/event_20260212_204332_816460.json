@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770928994515,
+  "carID": 97885,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 144319262",
+  "datetimezone": "20260212 204314207-0600",
+  "frame_timestamp": 1770928994515,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212204314_463494lp_SCJ221B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212204314_463494.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212204303_869003/20260212204314_463494lp_SCJ221B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCJ221B",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1062,
+    123,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCJ221B",
+  "plateUnicode": "SCJ221B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770928994515,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.6916048526763916,
+    "coordinates": [
+      720,
+      2,
+      780,
+      274
+    ],
+    "model": "Fluence",
+    "type": "CAR"
+  }
+}

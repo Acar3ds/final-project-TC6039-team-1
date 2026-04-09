@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771102665752,
+  "carID": 103260,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 145750078",
+  "datetimezone": "20260214 205745020-0600",
+  "frame_timestamp": 1771102665752,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214205745_347909lp_FBP067D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214205745_347909.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214202104_69871/20260214205745_347909lp_FBP067D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FBP067D",
+  "plateConfidence": 0.8426339030265808,
+  "plateCoordinates": [
+    891,
+    153,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FBP067D",
+  "plateUnicode": "FBP067D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771102665752,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.770374298095703,
+    "coordinates": [
+      540,
+      0,
+      804,
+      264
+    ],
+    "model": "Maxima",
+    "type": "CAR"
+  }
+}

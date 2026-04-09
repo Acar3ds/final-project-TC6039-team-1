@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770307911727,
+  "carID": 80218,
+  "carMoveDirection": "in",
+  "carState": "lost",
+  "carVerticalDirection": "up",
+  "channel": "1",
+  "datetime": "20260205 101153064",
+  "datetimezone": "20260205 161148013-0600",
+  "frame_timestamp": 1770307911727,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205161148_234675lp_RF8237B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205161148_234675.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205152759_296608/20260205161148_234675lp_RF8237B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RF8237B",
+  "plateConfidence": 0.8303571343421936,
+  "plateCoordinates": [
+    711,
+    111,
+    132,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    57
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RF8237B",
+  "plateUnicode": "RF8237B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770307911727,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Lincoln",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.067523956298828,
+    "coordinates": [
+      348,
+      2,
+      848,
+      286
+    ],
+    "model": "Aviator/Corsair/MKC/Nautilus",
+    "type": "SUV"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770915284439,
+  "carID": 97298,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 105449345",
+  "datetimezone": "20260212 165444288-0600",
+  "frame_timestamp": 1770915284439,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212165444_518846lp_RZ912B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212165444_518846.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212163154_389035/20260212165444_518846lp_RZ912B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZ912B",
+  "plateConfidence": 0.8541666865348816,
+  "plateCoordinates": [
+    975,
+    153,
+    135,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    60
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RZ912B",
+  "plateUnicode": "RZ912B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770915284439,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.999995470046997,
+    "coordinates": [
+      612,
+      2,
+      840,
+      340
+    ],
+    "model": "Santa Cruz/Tucson",
+    "type": "PICKUPTRUCK"
+  }
+}

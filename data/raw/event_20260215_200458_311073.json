@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771185880023,
+  "carID": 105025,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260215 140443449",
+  "datetimezone": "20260215 200438390-0600",
+  "frame_timestamp": 1771185880023,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215200438_640871lp_RTS652C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215200438_640871.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260215192331_232032/20260215200438_640871lp_RTS652C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTS652C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    1092,
+    159,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTS652C",
+  "plateUnicode": "RTS652C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771185880023,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.446734428405762,
+    "coordinates": [
+      784,
+      0,
+      744,
+      330
+    ],
+    "model": "i10",
+    "type": "CAR"
+  }
+}

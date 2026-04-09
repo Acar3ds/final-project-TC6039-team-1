@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772203361582,
+  "carID": 134800,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260227 084245690",
+  "datetimezone": "20260227 144240635-0600",
+  "frame_timestamp": 1772203361582,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227141927_285182/20260227144240_929537lp_SRY857A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227141927_285182/20260227144240_929537.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260227141927_285182/20260227144240_929537lp_SRY857A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SRY857A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    819,
+    87,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SRY857A",
+  "plateUnicode": "SRY857A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772203361582,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.202602386474609,
+    "coordinates": [
+      540,
+      2,
+      692,
+      262
+    ],
+    "model": "Beat Premier",
+    "type": "CAR"
+  }
+}

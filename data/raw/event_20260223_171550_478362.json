@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771866932691,
+  "carID": 124431,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 111534647",
+  "datetimezone": "20260223 171529596-0600",
+  "frame_timestamp": 1771866932691,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223171529_857378lp_TCV692B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223171529_857378.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223171529_857378lp_TCV692B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCV692B",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    906,
+    108,
+    126,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCV692B",
+  "plateUnicode": "TCV692B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771866932691,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.063268661499023,
+    "coordinates": [
+      588,
+      2,
+      768,
+      298
+    ],
+    "model": "Ioniq 5",
+    "type": "CAR"
+  }
+}

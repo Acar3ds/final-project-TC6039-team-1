@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772123101822,
+  "carID": 132309,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260226 102506555",
+  "datetimezone": "20260226 162501497-0600",
+  "frame_timestamp": 1772123101822,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226162501_672087/20260226162501_672087lp_SPB573B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226162501_672087/20260226162501_672087.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226162501_672087/20260226162501_672087lp_SPB573B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SPB573B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    1062,
+    186,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SPB573B",
+  "plateUnicode": "SPB573B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772123101822,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.6436238288879395,
+    "coordinates": [
+      724,
+      0,
+      804,
+      326
+    ],
+    "model": "Avenger",
+    "type": "CAR"
+  }
+}

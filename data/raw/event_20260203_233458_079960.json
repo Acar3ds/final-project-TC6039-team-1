@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770161682015,
+  "carID": 76463,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260203 173445860",
+  "datetimezone": "20260203 233440811-0600",
+  "frame_timestamp": 1770161682015,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203233441_52583lp_SJR187A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203233441_52583.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260203225949_538870/20260203233441_52583lp_SJR187A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJR187A",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    1131,
+    201,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SJR187A",
+  "plateUnicode": "SJR187A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770161682015,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volvo",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 11.242034912109375,
+    "coordinates": [
+      808,
+      2,
+      792,
+      340
+    ],
+    "model": "S40/S60/S80",
+    "type": "CAR"
+  }
+}

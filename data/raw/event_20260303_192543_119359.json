@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772565920530,
+  "carID": 145038,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260303 132525427",
+  "datetimezone": "20260303 192520383-0600",
+  "frame_timestamp": 1772565920530,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303192520_650334/20260303192520_650334lp_SCH580C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303192520_650334/20260303192520_650334.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303192520_650334/20260303192520_650334lp_SCH580C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCH580C",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    954,
+    129,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCH580C",
+  "plateUnicode": "SCH580C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772565920530,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9626519680023193,
+    "coordinates": [
+      620,
+      0,
+      764,
+      252
+    ],
+    "model": "Sail",
+    "type": "CAR"
+  }
+}

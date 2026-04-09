@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771437207262,
+  "carID": 112222,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260218 115332173",
+  "datetimezone": "20260218 175327124-0600",
+  "frame_timestamp": 1771437207262,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218175327_356779lp_STT216A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218175327_356779.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218175142_969863/20260218175327_356779lp_STT216A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STT216A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    981,
+    165,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "STT216A",
+  "plateUnicode": "STT216A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771437207262,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MG",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.990938663482666,
+    "coordinates": [
+      604,
+      2,
+      856,
+      346
+    ],
+    "model": "RX5/RX8",
+    "type": "SUV"
+  }
+}

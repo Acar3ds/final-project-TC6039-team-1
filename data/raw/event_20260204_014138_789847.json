@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770169286401,
+  "carID": 76747,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260203 194126729",
+  "datetimezone": "20260204 014121669-0600",
+  "frame_timestamp": 1770169286401,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204011609_877971/20260204014121_915055lp_SHM243A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204011609_877971/20260204014121_915055.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204011609_877971/20260204014121_915055lp_SHM243A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHM243A",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    1128,
+    120,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHM243A",
+  "plateUnicode": "SHM243A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770169286401,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 10.286490440368652,
+    "coordinates": [
+      828,
+      0,
+      788,
+      336
+    ],
+    "model": "308",
+    "type": "CAR"
+  }
+}

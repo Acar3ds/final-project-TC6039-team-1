@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770397371572,
+  "carID": 82918,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 110255135",
+  "datetimezone": "20260206 170250080-0600",
+  "frame_timestamp": 1770397371572,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206170250_331617lp_RVM330B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206170250_331617.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206170250_331617lp_RVM330B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVM330B",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1047,
+    102,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVM330B",
+  "plateUnicode": "RVM330B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770397371572,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.8660173416137695,
+    "coordinates": [
+      732,
+      0,
+      756,
+      362
+    ],
+    "model": "MPV",
+    "type": "VAN"
+  }
+}

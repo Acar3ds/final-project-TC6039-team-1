@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770813868069,
+  "carID": 93849,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 064432166",
+  "datetimezone": "20260211 124427100-0600",
+  "frame_timestamp": 1770813868069,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211052748_594178/20260211124427_318656lp_RWS958C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211052748_594178/20260211124427_318656.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211052748_594178/20260211124427_318656lp_RWS958C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWS950C",
+  "plateConfidence": 0.7678571343421936,
+  "plateCoordinates": [
+    1068,
+    144,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RWS950C",
+  "plateUnicode": "RWS950C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770813868069,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.796506404876709,
+    "coordinates": [
+      700,
+      0,
+      864,
+      398
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

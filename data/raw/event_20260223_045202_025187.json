@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "BEL"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771822300113,
+  "carID": 123466,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260222 225145034",
+  "datetimezone": "20260223 045139981-0600",
+  "frame_timestamp": 1771822300113,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223045140_266223lp_STN965.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223045140_266223.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223024854_777489/20260223045140_266223lp_STN965.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "STN965",
+  "plateConfidence": 0.8489583134651184,
+  "plateCoordinates": [
+    1050,
+    111,
+    117,
+    45
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    117,
+    45
+  ],
+  "plateCountry": "BEL",
+  "plateText": "STN965",
+  "plateUnicode": "STN965",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771822300113,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chery",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4516170024871826,
+    "coordinates": [
+      728,
+      0,
+      744,
+      296
+    ],
+    "model": "Tiggo  T11 /Tiggo 3",
+    "type": "SUV"
+  }
+}

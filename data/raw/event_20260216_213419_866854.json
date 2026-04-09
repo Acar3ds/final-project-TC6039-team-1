@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771277641257,
+  "carID": 107553,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 153405131",
+  "datetimezone": "20260216 213400082-0600",
+  "frame_timestamp": 1771277641257,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216205642_447172/20260216213400_306151lp_SZC545A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216205642_447172/20260216213400_306151.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216205642_447172/20260216213400_306151lp_SZC545A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SZC545A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    921,
+    102,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SZC545A",
+  "plateUnicode": "SZC545A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771277641257,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.108863830566406,
+    "coordinates": [
+      632,
+      0,
+      716,
+      276
+    ],
+    "model": "HB20/i20/ix20",
+    "type": "CAR"
+  }
+}

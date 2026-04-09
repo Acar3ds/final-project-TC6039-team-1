@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769105593593,
+  "carID": 306,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 121313895",
+  "datetimezone": "20260122 181313593-0600",
+  "frame_timestamp": 1769105593593,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122181313_783455lp_SJX941A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122181313_783455.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122171231_338213/20260122181313_783455lp_SJX941A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SJX941A",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    850,
+    486,
+    214,
+    108
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    214,
+    108
+  ],
+  "plateCountry": "USA",
+  "plateText": "SJX941A",
+  "plateUnicode": "SJX941A",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769105593593,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "NONE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.999997615814209,
+    "coordinates": [
+      428,
+      0,
+      1052,
+      644
+    ],
+    "model": "Equinox/Traverse",
+    "type": "SUV"
+  }
+}

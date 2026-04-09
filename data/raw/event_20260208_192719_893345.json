@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770578822007,
+  "carID": 87598,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 132706922",
+  "datetimezone": "20260208 192701865-0600",
+  "frame_timestamp": 1770578822007,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208192702_122063lp_TCS510A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208192702_122063.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208185153_746142/20260208192702_122063lp_TCS510A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCS510A",
+  "plateConfidence": 0.8337053656578064,
+  "plateCoordinates": [
+    957,
+    171,
+    129,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCS510A",
+  "plateUnicode": "TCS510A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770578822007,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.3846265077590942,
+    "coordinates": [
+      628,
+      2,
+      768,
+      298
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

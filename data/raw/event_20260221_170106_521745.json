@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771693246517,
+  "carID": 120319,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260221 110051135",
+  "datetimezone": "20260221 170046069-0600",
+  "frame_timestamp": 1771693246517,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221170046_303636lp_TCB434B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221170046_303636.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260221164538_375575/20260221170046_303636lp_TCB434B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TCB434B",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    894,
+    132,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TCB434B",
+  "plateUnicode": "TCB434B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771693246517,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9996337890625,
+    "coordinates": [
+      564,
+      0,
+      800,
+      290
+    ],
+    "model": "Cherokee",
+    "type": "SUV"
+  }
+}

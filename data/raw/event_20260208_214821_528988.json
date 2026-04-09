@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770587283619,
+  "carID": 87859,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260208 154808510",
+  "datetimezone": "20260208 214803455-0600",
+  "frame_timestamp": 1770587283619,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208214803_677544lp_SAZ1780.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208214803_677544.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208213358_641305/20260208214803_677544lp_SAZ1780.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAZ1780",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    1014,
+    96,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "GRC",
+  "plateText": "SAZ1780",
+  "plateUnicode": "SAZ1780",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770587283619,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Changan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.8680964708328247,
+    "coordinates": [
+      672,
+      0,
+      812,
+      284
+    ],
+    "model": "CS55/CS75 Plus/UNI-T/UNI-K",
+    "type": "CAR"
+  }
+}

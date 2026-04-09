@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770238455795,
+  "carID": 78467,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 145420705",
+  "datetimezone": "20260204 205415651-0600",
+  "frame_timestamp": 1770238455795,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204205415_857387lp_FU3305D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204205415_857387.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204205415_857387lp_FU3305D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "FU3305D",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1014,
+    138,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "FU3305D",
+  "plateUnicode": "FU3305D",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770238455795,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ram",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9994231462478638,
+    "coordinates": [
+      688,
+      0,
+      768,
+      294
+    ],
+    "model": "ProMaster/ProMaster City",
+    "type": "VAN"
+  }
+}

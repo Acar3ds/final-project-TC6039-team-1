@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772120431814,
+  "carID": 132205,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260226 094035942",
+  "datetimezone": "20260226 154030891-0600",
+  "frame_timestamp": 1772120431814,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226154031_168101lp_SCM501A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226154031_168101.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226152224_607903/20260226154031_168101lp_SCM501A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCM501A",
+  "plateConfidence": 0.8415178656578064,
+  "plateCoordinates": [
+    915,
+    87,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCM501A",
+  "plateUnicode": "SCM501A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772120431814,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8306305408477783,
+    "coordinates": [
+      588,
+      0,
+      792,
+      296
+    ],
+    "model": "Oroch/Duster",
+    "type": "PICKUPTRUCK"
+  }
+}

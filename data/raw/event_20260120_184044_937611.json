@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768934434115,
+  "carID": 125282,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 124035085",
+  "datetimezone": "20260120 184034115-0600",
+  "frame_timestamp": 1768934434115,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120183624_48363/20260120184035_3377lp_RZW106C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120183624_48363/20260120184035_3377.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120183624_48363/20260120184035_3377lp_RZW106C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RZW106C",
+  "plateConfidence": 0.7868303656578064,
+  "plateCoordinates": [
+    1976,
+    7,
+    128,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    128,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "RZW106C",
+  "plateUnicode": "RZW106C",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768934434115,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.6594682931900024,
+    "coordinates": [
+      1752,
+      0,
+      492,
+      108
+    ],
+    "model": "Insignia/Insignia OPC",
+    "type": "CAR"
+  }
+}

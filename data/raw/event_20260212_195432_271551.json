@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770926054368,
+  "carID": 97747,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260212 135418734",
+  "datetimezone": "20260212 195413685-0600",
+  "frame_timestamp": 1770926054368,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212195413_933095lp_SUL401B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212195413_933095.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212194415_835559/20260212195413_933095lp_SUL401B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUL401B",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    894,
+    117,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUL401B",
+  "plateUnicode": "SUL401B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770926054368,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.2816591262817383,
+    "coordinates": [
+      580,
+      0,
+      756,
+      248
+    ],
+    "model": "Equinox/Traverse",
+    "type": "SUV"
+  }
+}

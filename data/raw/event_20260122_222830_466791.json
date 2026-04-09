@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1769120900110,
+  "carID": 762,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260122 162820493",
+  "datetimezone": "20260122 222820110-0600",
+  "frame_timestamp": 1769120900110,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122215456_902426/20260122222820_340881lp_SAB130C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122215456_902426/20260122222820_340881.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260122215456_902426/20260122222820_340881lp_SAB130C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAB130C",
+  "plateConfidence": 0.8147321343421936,
+  "plateCoordinates": [
+    792,
+    435,
+    221,
+    104
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    221,
+    104
+  ],
+  "plateCountry": "USA",
+  "plateText": "SAB130C",
+  "plateUnicode": "SAB130C",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1769120900110,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.7799685597419739,
+    "coordinates": [
+      432,
+      0,
+      924,
+      602
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

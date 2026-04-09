@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770351470884,
+  "carID": 81963,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 221753415",
+  "datetimezone": "20260206 041748353-0600",
+  "frame_timestamp": 1770351470884,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206033802_997349/20260206041748_624776lp_SEW113A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206033802_997349/20260206041748_624776.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206033802_997349/20260206041748_624776lp_SEW113A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEW113A",
+  "plateConfidence": 0.8046875,
+  "plateCoordinates": [
+    969,
+    126,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEW113A",
+  "plateUnicode": "SEW113A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770351470884,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.807706832885742,
+    "coordinates": [
+      648,
+      0,
+      792,
+      440
+    ],
+    "model": "Tracker",
+    "type": "SUV"
+  }
+}

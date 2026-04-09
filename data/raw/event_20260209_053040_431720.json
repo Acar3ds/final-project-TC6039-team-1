@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770615026176,
+  "carID": 88547,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 233027534",
+  "datetimezone": "20260209 053022495-0600",
+  "frame_timestamp": 1770615026176,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209045729_485470/20260209053022_726617lp_RMX885C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209045729_485470/20260209053022_726617.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209045729_485470/20260209053022_726617lp_RMX885C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMX885C",
+  "plateConfidence": 0.8493303656578064,
+  "plateCoordinates": [
+    1032,
+    126,
+    126,
+    54
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    54
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMX885C",
+  "plateUnicode": "RMX885C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770615026176,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.617832660675049,
+    "coordinates": [
+      720,
+      0,
+      848,
+      350
+    ],
+    "model": "A1/A4 allroad/S1",
+    "type": "CAR"
+  }
+}

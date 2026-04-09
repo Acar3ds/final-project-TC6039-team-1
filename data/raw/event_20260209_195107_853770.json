@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "NLD"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770666650269,
+  "carID": 89898,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 135054845",
+  "datetimezone": "20260209 195049800-0600",
+  "frame_timestamp": 1770666650269,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209195050_29729lp_RVZ127A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209195050_29729.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209194222_873071/20260209195050_29729lp_RVZ127A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVZ127A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1203,
+    201,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "NLD",
+  "plateText": "RVZ127A",
+  "plateUnicode": "RVZ127A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770666650269,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MINI",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.9192962646484375,
+    "coordinates": [
+      856,
+      0,
+      788,
+      366
+    ],
+    "model": "One/Hatch/Clubman/Cabrio",
+    "type": "CAR"
+  }
+}

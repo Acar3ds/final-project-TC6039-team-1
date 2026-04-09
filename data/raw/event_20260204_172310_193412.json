@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770225773206,
+  "carID": 77941,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 112257954",
+  "datetimezone": "20260204 172252907-0600",
+  "frame_timestamp": 1770225773206,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204172253_131976lp_SCC056B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204172253_131976.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204161819_283782/20260204172253_131976lp_SCC056B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCC056B",
+  "plateConfidence": 0.8616071343421936,
+  "plateCoordinates": [
+    1146,
+    120,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCC056B",
+  "plateUnicode": "SCC056B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770225773206,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "KIA",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9978805780410767,
+    "coordinates": [
+      724,
+      0,
+      860,
+      306
+    ],
+    "model": "Seltos/Sonet",
+    "type": "SUV"
+  }
+}

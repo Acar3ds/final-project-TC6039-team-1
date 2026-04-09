@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771603183439,
+  "carID": 117509,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260220 095947007",
+  "datetimezone": "20260220 155941955-0600",
+  "frame_timestamp": 1771603183439,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220155942_233421lp_RG0507A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220155942_233421.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220152744_47236/20260220155942_233421lp_RG0507A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RG0507A",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    909,
+    132,
+    132,
+    60
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    60
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RG0507A",
+  "plateUnicode": "RG0507A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771603183439,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.364029407501221,
+    "coordinates": [
+      576,
+      0,
+      836,
+      228
+    ],
+    "model": "Esquire",
+    "type": "VAN"
+  }
+}

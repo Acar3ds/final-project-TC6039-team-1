@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770255748796,
+  "carID": 79165,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 194231574",
+  "datetimezone": "20260205 014226519-0600",
+  "frame_timestamp": 1770255748796,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205010552_17422/20260205014226_689280lp_MUL08.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205010552_17422/20260205014226_689280.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205010552_17422/20260205014226_689280lp_MUL08.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "MUL08",
+  "plateConfidence": 0.4390625059604645,
+  "plateCoordinates": [
+    1164,
+    861,
+    120,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "MUL08",
+  "plateUnicode": "MUL08",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770255748796,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "BEIGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5444761514663696,
+    "coordinates": [
+      16,
+      42,
+      1896,
+      1034
+    ],
+    "model": "RS3",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771339366922,
+  "carID": 109020,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 084251211",
+  "datetimezone": "20260217 144246160-0600",
+  "frame_timestamp": 1771339366922,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217143750_433699/20260217144246_426096lp_SEX506B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217143750_433699/20260217144246_426096.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217143750_433699/20260217144246_426096lp_SEX506B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEX506B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    1158,
+    171,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEX506B",
+  "plateUnicode": "SEX506B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771339366922,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.394869565963745,
+    "coordinates": [
+      820,
+      2,
+      792,
+      348
+    ],
+    "model": "Aygo/Yaris/Vitz",
+    "type": "CAR"
+  }
+}

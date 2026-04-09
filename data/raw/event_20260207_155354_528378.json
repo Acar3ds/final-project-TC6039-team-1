@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770479620198,
+  "carID": 85152,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 095341863",
+  "datetimezone": "20260207 155336783-0600",
+  "frame_timestamp": 1770479620198,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207152819_706000/20260207155337_9241lp_SMG648A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207152819_706000/20260207155337_9241.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207152819_706000/20260207155337_9241lp_SMG648A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SMG648A",
+  "plateConfidence": 0.8482142686843872,
+  "plateCoordinates": [
+    1068,
+    144,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SMG648A",
+  "plateUnicode": "SMG648A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770479620198,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Opel",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.1701873540878296,
+    "coordinates": [
+      728,
+      0,
+      796,
+      314
+    ],
+    "model": "Corsa/Corsa-e",
+    "type": "CAR"
+  }
+}

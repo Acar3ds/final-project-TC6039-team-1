@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770565788349,
+  "carID": 87286,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260208 094952443",
+  "datetimezone": "20260208 154947391-0600",
+  "frame_timestamp": 1770565788349,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208154947_647492lp_TAK741B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208154947_647492.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260208154420_641727/20260208154947_647492lp_TAK741B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TAK741B",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    1032,
+    147,
+    126,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TAK741B",
+  "plateUnicode": "TAK741B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770565788349,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5306034088134766,
+    "coordinates": [
+      720,
+      0,
+      740,
+      320
+    ],
+    "model": "i10",
+    "type": "CAR"
+  }
+}

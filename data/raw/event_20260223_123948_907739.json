@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771850368075,
+  "carID": 123600,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260223 063932967",
+  "datetimezone": "20260223 123927910-0600",
+  "frame_timestamp": 1771850368075,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223050332_217952/20260223123928_97809lp_A32917R.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223050332_217952/20260223123928_97809.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223050332_217952/20260223123928_97809lp_A32917R.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A32917R",
+  "plateConfidence": 0.8191964030265808,
+  "plateCoordinates": [
+    909,
+    153,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "ESP",
+  "plateText": "A32917R",
+  "plateUnicode": "A32917R",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771850368075,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "GREEN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9695485830307007,
+    "coordinates": [
+      416,
+      0,
+      1160,
+      246
+    ],
+    "model": "Magnum",
+    "type": "CAR"
+  }
+}

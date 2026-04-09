@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771517193215,
+  "carID": 114741,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 100637967",
+  "datetimezone": "20260219 160632913-0600",
+  "frame_timestamp": 1771517193215,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219154222_19253/20260219160633_174935lp_RXP406C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219154222_19253/20260219160633_174935.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219154222_19253/20260219160633_174935lp_RXP406C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RXP406C",
+  "plateConfidence": 0.8638392686843872,
+  "plateCoordinates": [
+    975,
+    120,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RXP406C",
+  "plateUnicode": "RXP406C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771517193215,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chrysler",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.943720817565918,
+    "coordinates": [
+      620,
+      0,
+      836,
+      296
+    ],
+    "model": "Town   Country/Voyager",
+    "type": "VAN"
+  }
+}

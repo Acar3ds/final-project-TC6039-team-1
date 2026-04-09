@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772040490830,
+  "carID": 129689,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 112815744",
+  "datetimezone": "20260225 172810671-0600",
+  "frame_timestamp": 1772040490830,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225172810_950922lp_TGG815A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225172810_950922.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225171934_150224/20260225172810_950922lp_TGG815A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGG815A",
+  "plateConfidence": 0.8214285969734192,
+  "plateCoordinates": [
+    1224,
+    252,
+    144,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGG815A",
+  "plateUnicode": "TGG815A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772040490830,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9965386390686035,
+    "coordinates": [
+      844,
+      0,
+      840,
+      386
+    ],
+    "model": "Camry Solara",
+    "type": "CAR"
+  }
+}

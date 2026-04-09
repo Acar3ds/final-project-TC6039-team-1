@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771346520369,
+  "carID": 109394,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 104205251",
+  "datetimezone": "20260217 164200198-0600",
+  "frame_timestamp": 1771346520369,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217164200_443359lp_SHR185A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217164200_443359.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217155715_982225/20260217164200_443359lp_SHR185A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SHR185A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    753,
+    117,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SHR185A",
+  "plateUnicode": "SHR185A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771346520369,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.7963413000106812,
+    "coordinates": [
+      384,
+      0,
+      864,
+      312
+    ],
+    "model": "Sienna",
+    "type": "VAN"
+  }
+}

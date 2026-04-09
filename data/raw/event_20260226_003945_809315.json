@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772066365049,
+  "carID": 130905,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 183929630",
+  "datetimezone": "20260226 003924581-0600",
+  "frame_timestamp": 1772066365049,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226003924_827423lp_SCD508A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226003924_827423.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226003924_827423lp_SCD508A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCD508A",
+  "plateConfidence": 0.8627232313156128,
+  "plateCoordinates": [
+    993,
+    123,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCD508A",
+  "plateUnicode": "SCD508A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772066365049,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "BMW",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.158746242523193,
+    "coordinates": [
+      664,
+      2,
+      768,
+      268
+    ],
+    "model": "1 Series/2 Series/M2",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772066469188,
+  "carID": 130909,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 184113945",
+  "datetimezone": "20260226 004108892-0600",
+  "frame_timestamp": 1772066469188,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226004109_66091lp_RUG042C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226004109_66091.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260226000236_79497/20260226004109_66091lp_RUG042C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUG042C",
+  "plateConfidence": 0.8359375,
+  "plateCoordinates": [
+    930,
+    138,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUG042C",
+  "plateUnicode": "RUG042C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772066469188,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.8532357215881348,
+    "coordinates": [
+      624,
+      0,
+      756,
+      312
+    ],
+    "model": "Malibu",
+    "type": "CAR"
+  }
+}

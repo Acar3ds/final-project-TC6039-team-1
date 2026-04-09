@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770387502165,
+  "carID": 82427,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 081824234",
+  "datetimezone": "20260206 141819174-0600",
+  "frame_timestamp": 1770387502165,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206141819_366868lp_RUG224C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206141819_366868.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206135746_35519/20260206141819_366868lp_RUG224C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUG224C",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    939,
+    96,
+    132,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUG224C",
+  "plateUnicode": "RUG224C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770387502165,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "ORANGE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 29.35885238647461,
+    "coordinates": [
+      672,
+      0,
+      656,
+      248
+    ],
+    "model": "Spark",
+    "type": "CAR"
+  }
+}

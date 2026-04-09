@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768926763911,
+  "carID": 124079,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 103244848",
+  "datetimezone": "20260120 163243911-0600",
+  "frame_timestamp": 1768926763911,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120162613_856779/20260120163244_754150lp_A591MKZ.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120162613_856779/20260120163244_754150.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120162613_856779/20260120163244_754150lp_A591MKZ.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "A591MKZ",
+  "plateConfidence": 0.7477678656578064,
+  "plateCoordinates": [
+    1171,
+    14,
+    135,
+    43
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    43
+  ],
+  "plateCountry": "USA",
+  "plateText": "A591MKZ",
+  "plateUnicode": "A591MKZ",
+  "recognitionZone": 1,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768926763911,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.686577558517456,
+    "coordinates": [
+      1012,
+      0,
+      444,
+      120
+    ],
+    "model": "911 GT3/911 GT6/911 R",
+    "type": "CAR"
+  }
+}

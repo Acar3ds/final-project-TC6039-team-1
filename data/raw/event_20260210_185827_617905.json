@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770749889383,
+  "carID": 92310,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 125814291",
+  "datetimezone": "20260210 185809241-0600",
+  "frame_timestamp": 1770749889383,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210185809_468295lp_SWC091B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210185809_468295.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210185809_468295lp_SWC091B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SWC091B",
+  "plateConfidence": 0.859375,
+  "plateCoordinates": [
+    1116,
+    135,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SWC091B",
+  "plateUnicode": "SWC091B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770749889383,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.4825358390808105,
+    "coordinates": [
+      768,
+      0,
+      812,
+      294
+    ],
+    "model": "Rogue",
+    "type": "SUV"
+  }
+}

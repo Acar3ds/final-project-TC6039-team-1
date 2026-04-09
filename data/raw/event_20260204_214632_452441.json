@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770241575592,
+  "carID": 78588,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 154620193",
+  "datetimezone": "20260204 214615138-0600",
+  "frame_timestamp": 1770241575592,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204214615_375481lp_SUN358A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204214615_375481.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204204702_359810/20260204214615_375481lp_SUN358A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SUN358A",
+  "plateConfidence": 0.8805803656578064,
+  "plateCoordinates": [
+    1110,
+    141,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SUN358A",
+  "plateUnicode": "SUN358A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770241575592,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Volkswagen",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.266895771026611,
+    "coordinates": [
+      720,
+      0,
+      888,
+      344
+    ],
+    "model": "Atlas/Atlas Cross Sport",
+    "type": "SUV"
+  }
+}

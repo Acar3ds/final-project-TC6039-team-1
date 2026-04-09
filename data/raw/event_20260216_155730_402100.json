@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771257431994,
+  "carID": 106664,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260216 095715545",
+  "datetimezone": "20260216 155710486-0600",
+  "frame_timestamp": 1771257431994,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216155710_662142lp_LH701.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216155710_662142.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260216153704_144655/20260216155710_662142lp_LH701.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLH701A",
+  "plateConfidence": 0.7723214030265808,
+  "plateCoordinates": [
+    1056,
+    579,
+    156,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    156,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLH701A",
+  "plateUnicode": "RLH701A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771257431994,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.1031646728515625,
+    "coordinates": [
+      652,
+      0,
+      972,
+      782
+    ],
+    "model": "Acadia/Terrain",
+    "type": "SUV"
+  }
+}

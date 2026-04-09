@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771004293436,
+  "carID": 100216,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 113817010",
+  "datetimezone": "20260213 173811965-0600",
+  "frame_timestamp": 1771004293436,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213173812_212125lp_RWM218C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213173812_212125.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213165848_513032/20260213173812_212125lp_RWM218C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RWM218C",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    996,
+    180,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RWM218C",
+  "plateUnicode": "RWM218C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771004293436,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Honda",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 15.571768760681152,
+    "coordinates": [
+      672,
+      0,
+      756,
+      314
+    ],
+    "model": "Civic/Civic Ferio/Civic Type R",
+    "type": "CAR"
+  }
+}

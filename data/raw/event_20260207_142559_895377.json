@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770474343422,
+  "carID": 85013,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260207 082547213",
+  "datetimezone": "20260207 142542163-0600",
+  "frame_timestamp": 1770474343422,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207134114_422901/20260207142542_396780lp_SXY673B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207134114_422901/20260207142542_396780.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260207134114_422901/20260207142542_396780lp_SXY673B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SXY673B",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1122,
+    135,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SXY673B",
+  "plateUnicode": "SXY673B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770474343422,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.743628025054932,
+    "coordinates": [
+      828,
+      0,
+      708,
+      308
+    ],
+    "model": "HB20/i20/ix20",
+    "type": "CAR"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771947980551,
+  "carID": 126777,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 094625450",
+  "datetimezone": "20260224 154620401-0600",
+  "frame_timestamp": 1771947980551,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224154620_671263lp_TGJ106A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224154620_671263.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224152020_251393/20260224154620_671263lp_TGJ106A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TGJ106A",
+  "plateConfidence": 0.8247767686843872,
+  "plateCoordinates": [
+    978,
+    228,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TGJ106A",
+  "plateUnicode": "TGJ106A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771947980551,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.503493309020996,
+    "coordinates": [
+      624,
+      0,
+      848,
+      416
+    ],
+    "model": "X-Trail/Xterra",
+    "type": "SUV"
+  }
+}

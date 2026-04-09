@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "USA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1768922028534,
+  "carID": 123303,
+  "carMoveDirection": "unknown",
+  "carState": "new",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260120 091349309",
+  "datetimezone": "20260120 151348534-0600",
+  "frame_timestamp": 1768922028534,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120150640_802130/20260120151349_218790lp_EL1827D.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120150640_802130/20260120151349_218790.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260120150640_802130/20260120151349_218790lp_EL1827D.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "EL1827D",
+  "plateConfidence": 0.7287946343421936,
+  "plateCoordinates": [
+    2133,
+    85,
+    120,
+    51
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    120,
+    51
+  ],
+  "plateCountry": "USA",
+  "plateText": "EL1827D",
+  "plateUnicode": "EL1827D",
+  "recognitionZone": 2,
+  "sensorProviderID": "SMX1",
+  "timeDetection": 1768922028534,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "GMC",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 0.9496427774429321,
+    "coordinates": [
+      1932,
+      0,
+      504,
+      210
+    ],
+    "model": "Yukon",
+    "type": "SUV"
+  }
+}

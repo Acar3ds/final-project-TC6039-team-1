@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770230782340,
+  "carID": 78119,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260204 124625839",
+  "datetimezone": "20260204 184620791-0600",
+  "frame_timestamp": 1770230782340,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204184620_957647lp_RA03068.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204184620_957647.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204174642_771114/20260204184620_957647lp_RA03068.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RA0306B",
+  "plateConfidence": 0.7042410969734192,
+  "plateCoordinates": [
+    741,
+    186,
+    141,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RA0306B",
+  "plateUnicode": "RA0306B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770230782340,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 7.866008758544922,
+    "coordinates": [
+      348,
+      0,
+      948,
+      374
+    ],
+    "model": "RAM/Durango/Dakota",
+    "type": "PICKUPTRUCK"
+  }
+}

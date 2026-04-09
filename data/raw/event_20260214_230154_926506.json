@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771110095496,
+  "carID": 103563,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 170140405",
+  "datetimezone": "20260214 230135348-0600",
+  "frame_timestamp": 1771110095496,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214230135_641898lp_TFX205A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214230135_641898.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214220859_537958/20260214230135_641898lp_TFX205A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TFX205A",
+  "plateConfidence": 0.8404017686843872,
+  "plateCoordinates": [
+    1017,
+    147,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TFX205A",
+  "plateUnicode": "TFX205A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771110095496,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 2.9046833515167236,
+    "coordinates": [
+      644,
+      0,
+      888,
+      336
+    ],
+    "model": "Sienna",
+    "type": "VAN"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "DEU"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771975242099,
+  "carID": 128020,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 172046786",
+  "datetimezone": "20260224 232041728-0600",
+  "frame_timestamp": 1771975242099,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224232041_965195lp_SCF929B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224232041_965195.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224225059_171150/20260224232041_965195lp_SCF929B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCF929B",
+  "plateConfidence": 0.8348214030265808,
+  "plateCoordinates": [
+    951,
+    108,
+    141,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    75
+  ],
+  "plateCountry": "DEU",
+  "plateText": "SCF929B",
+  "plateUnicode": "SCF929B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771975242099,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Suzuki",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.778783917427063,
+    "coordinates": [
+      648,
+      2,
+      740,
+      274
+    ],
+    "model": "Ertiga/Swift",
+    "type": "CAR"
+  }
+}

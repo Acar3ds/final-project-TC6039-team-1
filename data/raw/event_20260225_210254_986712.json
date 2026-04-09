@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772053354151,
+  "carID": 130316,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 150239070",
+  "datetimezone": "20260225 210234006-0600",
+  "frame_timestamp": 1772053354151,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225203010_402452/20260225210234_280618lp_RTN921C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225203010_402452/20260225210234_280618.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225203010_402452/20260225210234_280618lp_RTN921C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTN921C",
+  "plateConfidence": 0.8370535969734192,
+  "plateCoordinates": [
+    984,
+    186,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTN921C",
+  "plateUnicode": "RTN921C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772053354151,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mitsubishi",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9567123651504517,
+    "coordinates": [
+      676,
+      0,
+      752,
+      336
+    ],
+    "model": "Attrage",
+    "type": "CAR"
+  }
+}

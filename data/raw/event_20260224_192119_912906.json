@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771960863507,
+  "carID": 127356,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 132104078",
+  "datetimezone": "20260224 192059020-0600",
+  "frame_timestamp": 1771960863507,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224192059_266270lp_SLT874A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224192059_266270.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224183742_288456/20260224192059_266270lp_SLT874A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLT874A",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    1032,
+    114,
+    135,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLT874A",
+  "plateUnicode": "SLT874A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771960863507,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Porsche",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 36.87821960449219,
+    "coordinates": [
+      716,
+      0,
+      736,
+      260
+    ],
+    "model": "911 GT2/911 GT3/911 GT4",
+    "type": "CAR"
+  }
+}

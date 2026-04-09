@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771097018314,
+  "carID": 103017,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260214 132342789",
+  "datetimezone": "20260214 192337737-0600",
+  "frame_timestamp": 1771097018314,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214192337_979805lp_TEJ871A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214192337_979805.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214192200_124984/20260214192337_979805lp_TEJ871A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "TEJ871A",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    993,
+    147,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "TEJ871A",
+  "plateUnicode": "TEJ871A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771097018314,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9988181591033936,
+    "coordinates": [
+      672,
+      0,
+      756,
+      308
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

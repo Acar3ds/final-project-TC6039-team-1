@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770752334870,
+  "carID": 92439,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260210 133859414",
+  "datetimezone": "20260210 193854363-0600",
+  "frame_timestamp": 1770752334870,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193854_629199lp_SJ798B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193854_629199.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210184258_631269/20260210193854_629199lp_SJ798B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RSJ798B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    900,
+    288,
+    150,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RSJ798B",
+  "plateUnicode": "RSJ798B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770752334870,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.469858169555664,
+    "coordinates": [
+      560,
+      0,
+      820,
+      440
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

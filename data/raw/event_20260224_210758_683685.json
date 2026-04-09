@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771967257700,
+  "carID": 127676,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260224 150742606",
+  "datetimezone": "20260224 210737554-0600",
+  "frame_timestamp": 1771967257700,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224210737_881772lp_SED990C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224210737_881772.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224203926_714946/20260224210737_881772lp_SED990C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SED990C",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    1071,
+    216,
+    141,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SED990C",
+  "plateUnicode": "SED990C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771967257700,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Holden",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.7462401390075684,
+    "coordinates": [
+      748,
+      0,
+      784,
+      332
+    ],
+    "model": "Commodore VF/Senator  VE /Senator  VF ",
+    "type": "CAR"
+  }
+}

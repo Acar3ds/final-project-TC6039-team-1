@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770214199877,
+  "carID": 77402,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260204 081002317",
+  "datetimezone": "20260204 140957266-0600",
+  "frame_timestamp": 1770214199877,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204140957_486272lp_RTK132A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204140957_486272.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260204133428_331058/20260204140957_486272lp_RTK132A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTK132A",
+  "plateConfidence": 0.8392857313156128,
+  "plateCoordinates": [
+    1173,
+    204,
+    132,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTK132A",
+  "plateUnicode": "RTK132A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770214199877,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 35.80294418334961,
+    "coordinates": [
+      912,
+      0,
+      980,
+      366
+    ],
+    "model": "Accent/Solaris",
+    "type": "CAR"
+  }
+}

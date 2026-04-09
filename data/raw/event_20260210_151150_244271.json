@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770736295282,
+  "carID": 91717,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 091137172",
+  "datetimezone": "20260210 151132125-0600",
+  "frame_timestamp": 1770736295282,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210151132_354321lp_WA5710C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210151132_354321.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210145621_84264/20260210151132_354321lp_WA5710C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "WA5710C",
+  "plateConfidence": 0.8381696343421936,
+  "plateCoordinates": [
+    1098,
+    171,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "WA5710C",
+  "plateUnicode": "WA5710C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770736295282,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Ram",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 17.35965919494629,
+    "coordinates": [
+      700,
+      0,
+      908,
+      312
+    ],
+    "model": "Chassis Cab/3500/2500/1500",
+    "type": "PICKUPTRUCK"
+  }
+}

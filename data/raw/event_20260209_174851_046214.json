@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770659313899,
+  "carID": 89556,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260209 114837959",
+  "datetimezone": "20260209 174832899-0600",
+  "frame_timestamp": 1770659313899,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209163521_658853/20260209174833_86246lp_PU1072A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209163521_658853/20260209174833_86246.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260209163521_658853/20260209174833_86246lp_PU1072A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "PU1072A",
+  "plateConfidence": 0.7991071343421936,
+  "plateCoordinates": [
+    1080,
+    225,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "PU1072A",
+  "plateUnicode": "PU1072A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770659313899,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "BLUE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.9837775230407715,
+    "coordinates": [
+      732,
+      0,
+      800,
+      440
+    ],
+    "model": "Montana",
+    "type": "SUV"
+  }
+}

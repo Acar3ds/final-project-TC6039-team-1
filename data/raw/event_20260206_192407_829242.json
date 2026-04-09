@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770405830508,
+  "carID": 83346,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 132355400",
+  "datetimezone": "20260206 192350342-0600",
+  "frame_timestamp": 1770405830508,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192350_646357lp_SAJ850C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192350_646357.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192350_646357lp_SAJ850C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SAJ850C",
+  "plateConfidence": 0.8694196343421936,
+  "plateCoordinates": [
+    1149,
+    327,
+    150,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    150,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SAJ850C",
+  "plateUnicode": "SAJ850C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770405830508,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.88120698928833,
+    "coordinates": [
+      792,
+      0,
+      812,
+      482
+    ],
+    "model": "Versa",
+    "type": "CAR"
+  }
+}

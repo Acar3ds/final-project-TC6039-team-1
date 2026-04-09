@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772028565214,
+  "carID": 129075,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260225 080929900",
+  "datetimezone": "20260225 140924844-0600",
+  "frame_timestamp": 1772028565214,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225140925_85910lp_RMF548C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225140925_85910.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225135618_552797/20260225140925_85910lp_RMF548C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RMF548C",
+  "plateConfidence": 0.8604910969734192,
+  "plateCoordinates": [
+    1071,
+    159,
+    138,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RMF548C",
+  "plateUnicode": "RMF548C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772028565214,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Haval",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.5924060344696045,
+    "coordinates": [
+      720,
+      0,
+      796,
+      344
+    ],
+    "model": "F7/F7x/Jolion",
+    "type": "SUV"
+  }
+}

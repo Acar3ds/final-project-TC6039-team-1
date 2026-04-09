@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ESP"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770933926190,
+  "carID": 98143,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 160530768",
+  "datetimezone": "20260212 220525718-0600",
+  "frame_timestamp": 1770933926190,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212220525_998560lp_RD4701B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212220525_998560.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212213411_561789/20260212220525_998560lp_RD4701B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RD4701B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1005,
+    153,
+    135,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    63
+  ],
+  "plateCountry": "ESP",
+  "plateText": "RD4701B",
+  "plateUnicode": "RD4701B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770933926190,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9977941513061523,
+    "coordinates": [
+      704,
+      0,
+      724,
+      266
+    ],
+    "model": "Montana",
+    "type": "SUV"
+  }
+}

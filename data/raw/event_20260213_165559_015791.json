@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771001739977,
+  "carID": 100102,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 105544576",
+  "datetimezone": "20260213 165539522-0600",
+  "frame_timestamp": 1771001739977,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213165539_781225lp_SEA807B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213165539_781225.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213160050_505499/20260213165539_781225lp_SEA807B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEA807B",
+  "plateConfidence": 0.8537946343421936,
+  "plateCoordinates": [
+    975,
+    99,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SEA807B",
+  "plateUnicode": "SEA807B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771001739977,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.227161407470703,
+    "coordinates": [
+      660,
+      0,
+      788,
+      282
+    ],
+    "model": "Cherokee",
+    "type": "SUV"
+  }
+}

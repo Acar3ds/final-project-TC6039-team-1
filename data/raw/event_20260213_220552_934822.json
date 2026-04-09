@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771020334629,
+  "carID": 101001,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 160538578",
+  "datetimezone": "20260213 220533524-0600",
+  "frame_timestamp": 1771020334629,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213220533_778035lp_SEC769B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213220533_778035.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213215136_53058/20260213220533_778035lp_SEC769B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SEC769B",
+  "plateConfidence": 0.8761160969734192,
+  "plateCoordinates": [
+    1389,
+    216,
+    144,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    144,
+    72
+  ],
+  "plateCountry": "ITA",
+  "plateText": "SEC769B",
+  "plateUnicode": "SEC769B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771020334629,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Chevrolet",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.997739791870117,
+    "coordinates": [
+      972,
+      0,
+      868,
+      404
+    ],
+    "model": "Trax",
+    "type": "SUV"
+  }
+}

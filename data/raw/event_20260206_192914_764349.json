@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770406138336,
+  "carID": 83369,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260206 132902190",
+  "datetimezone": "20260206 192857145-0600",
+  "frame_timestamp": 1770406138336,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192857_395192lp_RPM150C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192857_395192.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206192156_459214/20260206192857_395192lp_RPM150C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RPM150C",
+  "plateConfidence": 0.84375,
+  "plateCoordinates": [
+    1074,
+    132,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RPM150C",
+  "plateUnicode": "RPM150C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770406138336,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Renault",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.989539384841919,
+    "coordinates": [
+      768,
+      0,
+      712,
+      296
+    ],
+    "model": "Espace/Grand Scenic",
+    "type": "VAN"
+  }
+}

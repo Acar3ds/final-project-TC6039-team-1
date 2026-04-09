@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771955098675,
+  "carID": 127074,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260224 114502718",
+  "datetimezone": "20260224 174457669-0600",
+  "frame_timestamp": 1771955098675,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224174457_982730lp_0RG3423A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224174457_982730.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260224172756_191414/20260224174457_982730lp_0RG3423A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "3RG3423A",
+  "plateConfidence": 0.7802734375,
+  "plateCoordinates": [
+    1113,
+    144,
+    135,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "3RG3423A",
+  "plateUnicode": "3RG3423A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771955098675,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Hyundai",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 5.698570251464844,
+    "coordinates": [
+      768,
+      0,
+      788,
+      300
+    ],
+    "model": "H-100/Porter",
+    "type": "VAN"
+  }
+}

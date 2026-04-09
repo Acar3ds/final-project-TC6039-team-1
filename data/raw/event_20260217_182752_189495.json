@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771352852734,
+  "carID": 109656,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 122737155",
+  "datetimezone": "20260217 182732110-0600",
+  "frame_timestamp": 1771352852734,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217182732_330783lp_SBX374B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217182732_330783.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260217180811_289561/20260217182732_330783lp_SBX374B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SBX374B",
+  "plateConfidence": 0.8325892686843872,
+  "plateCoordinates": [
+    993,
+    96,
+    132,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SBX374B",
+  "plateUnicode": "SBX374B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771352852734,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2020466327667236,
+    "coordinates": [
+      624,
+      0,
+      768,
+      302
+    ],
+    "model": "Tundra/Tacoma",
+    "type": "PICKUPTRUCK"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771089158347,
+  "carID": 102675,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260214 111242354",
+  "datetimezone": "20260214 171237299-0600",
+  "frame_timestamp": 1771089158347,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214171237_543092lp_SCE372A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214171237_543092.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260214160951_323361/20260214171237_543092lp_SCE372A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SCE372A",
+  "plateConfidence": 0.8270089030265808,
+  "plateCoordinates": [
+    984,
+    99,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SCE372A",
+  "plateUnicode": "SCE372A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771089158347,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.5502991676330566,
+    "coordinates": [
+      664,
+      0,
+      768,
+      270
+    ],
+    "model": "Prius",
+    "type": "CAR"
+  }
+}

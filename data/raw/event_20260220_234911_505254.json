@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771631332116,
+  "carID": 118973,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260220 174855953",
+  "datetimezone": "20260220 234850896-0600",
+  "frame_timestamp": 1771631332116,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260220234851_131578lp_RTT330C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260220234851_131578.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260220234700_838076/20260220234851_131578lp_RTT330C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RTT330C",
+  "plateConfidence": 0.8459821343421936,
+  "plateCoordinates": [
+    1158,
+    183,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RTT330C",
+  "plateUnicode": "RTT330C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771631332116,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Isuzu",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.0967559814453125,
+    "coordinates": [
+      780,
+      0,
+      864,
+      360
+    ],
+    "model": "Elf",
+    "type": "TRUCK"
+  }
+}

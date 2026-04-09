@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771007353736,
+  "carID": 100331,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260213 122918464",
+  "datetimezone": "20260213 182913416-0600",
+  "frame_timestamp": 1771007353736,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213182913_727524lp_RNU099C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213182913_727524.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213181024_202545/20260213182913_727524lp_RNU099C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RNU099C",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    1023,
+    117,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RNU099C",
+  "plateUnicode": "RNU099C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771007353736,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Dodge",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.9972400665283203,
+    "coordinates": [
+      672,
+      0,
+      808,
+      296
+    ],
+    "model": "Journey",
+    "type": "SUV"
+  }
+}

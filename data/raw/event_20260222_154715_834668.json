@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771775216020,
+  "carID": 122225,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260222 094700255",
+  "datetimezone": "20260222 154655198-0600",
+  "frame_timestamp": 1771775216020,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222154655_486400lp_RLX157C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222154655_486400.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260222141104_685538/20260222154655_486400lp_RLX157C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RLX157C",
+  "plateConfidence": 0.8225446343421936,
+  "plateCoordinates": [
+    1143,
+    129,
+    132,
+    63
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    132,
+    63
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RLX157C",
+  "plateUnicode": "RLX157C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771775216020,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Peugeot",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.997371673583984,
+    "coordinates": [
+      780,
+      0,
+      804,
+      296
+    ],
+    "model": "2008",
+    "type": "CAR"
+  }
+}

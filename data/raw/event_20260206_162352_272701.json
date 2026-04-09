@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770395015056,
+  "carID": 82813,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260206 102339966",
+  "datetimezone": "20260206 162334905-0600",
+  "frame_timestamp": 1770395015056,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206162335_128462lp_RRV488B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206162335_128462.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260206162109_80312/20260206162335_128462lp_RRV488B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRV488B",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1095,
+    234,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRV488B",
+  "plateUnicode": "RRV488B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770395015056,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9990301132202148,
+    "coordinates": [
+      776,
+      0,
+      768,
+      378
+    ],
+    "model": "Belta/Yaris/Vios",
+    "type": "CAR"
+  }
+}

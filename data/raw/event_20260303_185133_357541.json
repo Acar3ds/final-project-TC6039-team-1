@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772563870772,
+  "carID": 144933,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260303 125115482",
+  "datetimezone": "20260303 185110433-0600",
+  "frame_timestamp": 1772563870772,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303185110_657046lp_RVP622B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303185110_657046.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260303183350_830337/20260303185110_657046lp_RVP622B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RVP622B",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1029,
+    105,
+    138,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    66
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RVP622B",
+  "plateUnicode": "RVP622B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772563870772,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Mazda",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.933330535888672,
+    "coordinates": [
+      676,
+      0,
+      816,
+      272
+    ],
+    "model": "CX-3/CX-30/CX-5/CX-50/CX-60/CX-8/CX-9/CX-90",
+    "type": "SUV"
+  }
+}

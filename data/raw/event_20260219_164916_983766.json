@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771519736772,
+  "carID": 114842,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260219 104901663",
+  "datetimezone": "20260219 164856612-0600",
+  "frame_timestamp": 1771519736772,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219164856_867691lp_SVH306A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219164856_867691.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260219164213_337988/20260219164856_867691lp_SVH306A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVH306A",
+  "plateConfidence": 0.8660714030265808,
+  "plateCoordinates": [
+    996,
+    129,
+    126,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    126,
+    57
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVH306A",
+  "plateUnicode": "SVH306A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771519736772,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "BLACK",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.9416601657867432,
+    "coordinates": [
+      680,
+      0,
+      740,
+      302
+    ],
+    "model": "Camry",
+    "type": "CAR"
+  }
+}

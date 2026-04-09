@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770994570151,
+  "carID": 99770,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260213 085614458",
+  "datetimezone": "20260213 145609403-0600",
+  "frame_timestamp": 1770994570151,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213145609_714765lp_SVL764B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213145609_714765.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260213143941_686453/20260213145609_714765lp_SVL764B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SVL764B",
+  "plateConfidence": 0.8683035969734192,
+  "plateCoordinates": [
+    1032,
+    249,
+    147,
+    75
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    147,
+    75
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SVL764B",
+  "plateUnicode": "SVL764B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770994570151,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "MINI",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 12.885838508605957,
+    "coordinates": [
+      696,
+      0,
+      800,
+      378
+    ],
+    "model": "One/Hatch/Clubman/Cabrio",
+    "type": "CAR"
+  }
+}

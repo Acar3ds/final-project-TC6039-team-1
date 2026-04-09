@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770941289881,
+  "carID": 98458,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260212 180813086",
+  "datetimezone": "20260213 000808026-0600",
+  "frame_timestamp": 1770941289881,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213000808_255809lp_SLB461A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213000808_255809.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260212233443_942270/20260213000808_255809lp_SLB461A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SLB461A",
+  "plateConfidence": 0.8515625,
+  "plateCoordinates": [
+    1038,
+    177,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SLB461A",
+  "plateUnicode": "SLB461A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770941289881,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "GRAY",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 13.176900863647461,
+    "coordinates": [
+      724,
+      0,
+      732,
+      306
+    ],
+    "model": "Sentra",
+    "type": "CAR"
+  }
+}

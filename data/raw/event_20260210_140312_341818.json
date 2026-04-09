@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770732174178,
+  "carID": 91437,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260210 080259106",
+  "datetimezone": "20260210 140254044-0600",
+  "frame_timestamp": 1770732174178,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210140254_282919lp_SYK754A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210140254_282919.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260210134606_42630/20260210140254_282919lp_SYK754A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SYK754A",
+  "plateConfidence": 0.8560267686843872,
+  "plateCoordinates": [
+    1113,
+    174,
+    141,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    141,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "SYK754A",
+  "plateUnicode": "SYK754A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770732174178,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Jeep",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.8604702949523926,
+    "coordinates": [
+      768,
+      2,
+      804,
+      370
+    ],
+    "model": "Patriot",
+    "type": "SUV"
+  }
+}

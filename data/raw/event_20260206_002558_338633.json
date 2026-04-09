@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "GRC"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770337541974,
+  "carID": 81534,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260205 182546103",
+  "datetimezone": "20260206 002541046-0600",
+  "frame_timestamp": 1770337541974,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002541_246691lp_M3S311.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002541_246691.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260205234710_645413/20260206002541_246691lp_M3S311.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "M3S311",
+  "plateConfidence": 0.7747395634651184,
+  "plateCoordinates": [
+    1098,
+    141,
+    129,
+    66
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    129,
+    66
+  ],
+  "plateCountry": "GRC",
+  "plateText": "M3S311",
+  "plateUnicode": "M3S311",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770337541974,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 3.2122740745544434,
+    "coordinates": [
+      780,
+      0,
+      756,
+      296
+    ],
+    "model": "Estima/Previa",
+    "type": "VAN"
+  }
+}

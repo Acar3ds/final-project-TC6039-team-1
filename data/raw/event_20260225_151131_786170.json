@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1772032273246,
+  "carID": 129330,
+  "carMoveDirection": "unknown",
+  "carState": "lost",
+  "carVerticalDirection": "unknown",
+  "channel": "1",
+  "datetime": "20260225 091115467",
+  "datetimezone": "20260225 151110413-0600",
+  "frame_timestamp": 1772032273246,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225151110_642178lp_RRP836C.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225151110_642178.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260225143246_60567/20260225151110_642178lp_RRP836C.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RRP836C",
+  "plateConfidence": 0.8582589030265808,
+  "plateCoordinates": [
+    870,
+    90,
+    138,
+    72
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    72
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RRP836C",
+  "plateUnicode": "RRP836C",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1772032273246,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Audi",
+    "color": "WHITE",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 9.246013641357422,
+    "coordinates": [
+      536,
+      0,
+      800,
+      278
+    ],
+    "model": "Q5/Q5 e-tron/Q5 Sportback/Q7/SQ5/SQ5 Sportback/SQ7/SQ8/SQ8 e-tron/SQ8 Sportback e-tron",
+    "type": "SUV"
+  }
+}

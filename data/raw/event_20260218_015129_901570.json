@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "ITA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771379469803,
+  "carID": 110784,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260217 195114584",
+  "datetimezone": "20260218 015109527-0600",
+  "frame_timestamp": 1771379469803,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218012314_216224/20260218015109_793342lp_SGM389A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218012314_216224/20260218015109_793342.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260218012314_216224/20260218015109_793342lp_SGM389A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "SGM389A",
+  "plateConfidence": 0.78125,
+  "plateCoordinates": [
+    999,
+    126,
+    135,
+    57
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    57
+  ],
+  "plateCountry": "ITA",
+  "plateText": "SGM389A",
+  "plateUnicode": "SGM389A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771379469803,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Nissan",
+    "color": "BROWN",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 1.6688084602355957,
+    "coordinates": [
+      696,
+      0,
+      740,
+      314
+    ],
+    "model": "350Z/370Z/Fairlady Z",
+    "type": "CAR"
+  }
+}

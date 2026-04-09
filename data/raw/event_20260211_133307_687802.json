@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1770816770013,
+  "carID": 93958,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260211 073254310",
+  "datetimezone": "20260211 133249249-0600",
+  "frame_timestamp": 1770816770013,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211125249_270022/20260211133249_513649lp_RJ5280A.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211125249_270022/20260211133249_513649.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260211125249_270022/20260211133249_513649lp_RJ5280A.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RJ5280A",
+  "plateConfidence": 0.8470982313156128,
+  "plateCoordinates": [
+    1398,
+    198,
+    138,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    138,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RJ5280A",
+  "plateUnicode": "RJ5280A",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1770816770013,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "SEAT",
+    "color": "RED",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 4.787224292755127,
+    "coordinates": [
+      948,
+      0,
+      872,
+      360
+    ],
+    "model": "Alhambra",
+    "type": "VAN"
+  }
+}

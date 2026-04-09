@@ -1,0 +1,65 @@
+{
+  "ISO3166": {
+    "Alpha3": "FRA"
+  },
+  "camera_info": {
+    "cameraModel": "PNO-A9311RLP",
+    "macAddress": "E43022C0D676",
+    "serialNumber": "ZVCW6V4Y90003GF"
+  },
+  "capture_timestamp": 1771868800126,
+  "carID": 124498,
+  "carMoveDirection": "out",
+  "carState": "lost",
+  "carVerticalDirection": "down",
+  "channel": "1",
+  "datetime": "20260223 114643865",
+  "datetimezone": "20260223 174638813-0600",
+  "frame_timestamp": 1771868800126,
+  "geotag": {
+    "lat": 0.0,
+    "lon": 0.0
+  },
+  "imageType": "plate",
+  "imagesURI": [
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223174639_93490lp_RUM977B.png",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223174639_93490.jpeg",
+    "/home/setup/opensdk/html/WisenetRoadAI/images/images/20260223165355_874708/20260223174639_93490lp_RUM977B.jpeg"
+  ],
+  "packetCounter": 0,
+  "plateASCII": "RUM977B",
+  "plateConfidence": 0.8571428656578064,
+  "plateCoordinates": [
+    969,
+    120,
+    135,
+    69
+  ],
+  "plateCoordinatesRelative": [
+    0,
+    0,
+    135,
+    69
+  ],
+  "plateCountry": "FRA",
+  "plateText": "RUM977B",
+  "plateUnicode": "RUM977B",
+  "recognitionZone": 1,
+  "sensorProviderID": "",
+  "timeDetection": 1771868800126,
+  "timeProcessing": 0,
+  "vehicle_info": {
+    "brand": "Toyota",
+    "color": "SILVER",
+    "confidenceColor": 0.0,
+    "confidenceMMR": 6.019132137298584,
+    "coordinates": [
+      616,
+      0,
+      780,
+      258
+    ],
+    "model": "Avensis/Corolla",
+    "type": "CAR"
+  }
+}
