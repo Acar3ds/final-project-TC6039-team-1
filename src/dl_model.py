@@ -237,5 +237,5 @@ def pipeline_execution(df):
 
     return history, actual_traffic_volumes, predicted_traffic_volumes
 
-if __name__ == '__main__'
+if __name__ == '__main__':
     pipeline_execution()

@@ -141,7 +141,6 @@ def predict(model, new_features):
     design_matrix = _build_design_matrix(new_features, model["degree"])
     return design_matrix @ model["coeffs"]
 
-
 # ── Cross-validation ─────────────────────────────────────────────
 
 def cross_validate(model_degree, features, target, k=5):
@@ -307,7 +306,7 @@ def plot_residuals(model, save_path=None):
     plt.tight_layout()
 
     if save_path:
-        fig.savefig(save_path, dpi=150, bbox_inches="tight")
+        fig.savefig(save_path+"residual_plot.png", dpi=150, bbox_inches="tight")
         print(f"Figure saved to {save_path}")
 
     plt.show()
@@ -400,7 +399,7 @@ def compare_models(features, target, k=5, save_path=None):
     plt.tight_layout()
 
     if save_path:
-        fig.savefig(save_path, dpi=150, bbox_inches="tight")
+        fig.savefig(save_path+"compare_models_plot.png", dpi=150, bbox_inches="tight")
         print(f"\nFigure saved to {save_path}")
 
     plt.show()

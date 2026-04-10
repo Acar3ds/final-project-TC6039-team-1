@@ -266,16 +266,6 @@ def eda_summary(df: pd.DataFrame, iqr_multiplier: float = 1.5) -> dict:
     return summary
 
 
-def load_data():
-    """
-    Carga los datos procesados desde data/processed/df.csv y devuelve un DataFrame.
-    """
-    csv_path = Path("data/processed/df.csv")
-    if not csv_path.exists():
-        raise FileNotFoundError(f"No se encontró el archivo {csv_path}")
-    df = pd.read_csv(csv_path)
-    return df
-
 if __name__ == "__main__":
     # When executed directly: load data, clean it (which writes the CSV),
     # and print a short summary.
@@ -287,7 +277,7 @@ if __name__ == "__main__":
         print(f"Loaded {len(df)} rows; cleaned {len(cleaned)} rows and wrote to disk.")
         summary = eda_summary(cleaned)
         # Save figures and statistics to the analysis directory
-        analysis_dir = Path("data/analysis")
+        analysis_dir = Path("report/figures")
         analysis_dir.mkdir(parents=True, exist_ok=True)
         
         # Save descriptive statistics to JSON

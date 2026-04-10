@@ -25,7 +25,7 @@ def _setup():
             pass
 
     os.makedirs("data/processed", exist_ok=True)
-    os.makedirs("reports/figures", exist_ok=True)
+    os.makedirs("report/figures", exist_ok=True)
 
     if Path("df.csv").exists() and not Path("data/processed/df.csv").exists():
         import shutil
@@ -58,7 +58,7 @@ warnings.filterwarnings("ignore")
 # Constants
 # ─────────────────────────────────────────────────────────────────────────────
 
-FIGURES_DIR  = Path("reports/figures")
+FIGURES_DIR  = Path("report/figures")
 RANDOM_STATE = 42
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -858,7 +858,7 @@ def pipeline_execution(df):
     y          = df_hourly["vehicles_per_hour"].values.astype(float)
     timestamps = pd.DatetimeIndex(df_hourly["datetime"])
 
-    print(f"[C4] Loaded {len(y)} hourly samples from {csv_path}")
+    print(f"[C4] Loaded {len(y)} hourly samples from cleaned Dataframe data.")
 
     # ── Chronological 80/20 split ─────────────────────────────────────────────
     split   = int(0.8 * len(X))

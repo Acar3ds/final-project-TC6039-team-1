@@ -15,7 +15,7 @@ from pathlib import Path
 from scipy.optimize import minimize
 
 # C2 interface: fit_regression(features, target, degree) → dict
-from regression import fit_regression
+from .regression import fit_regression
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Internal helpers
@@ -304,7 +304,7 @@ def optimize_parameters(
     max_iterations: int = 100_000,
     tolerance: float = 1e-7,
     sensitivity_param_index: int = 1,
-    plot_save_path: "str | None" = "reports/figures/convergence_curve.png",
+    plot_save_path: "str | None" = "report/figures/convergence_curve.png",
     show_plots: bool = False,
     pre_normalized: bool = False,
 ) -> "tuple[np.ndarray, list[float], dict]":
@@ -410,7 +410,7 @@ def optimize_parameters(
         optimal_params = theta_gd
         print(f"[C3] ✓ Gradient Descent selected  → RMSE = {rmse_gd:.4f} [vehicles/hour]")
 
-    rmse_after      = min(rmse_gd, rmse_bfgs)
+    rmse_after = min(rmse_gd, rmse_bfgs)
 
     # ── Step 4 — Convergence curve plot ──────────────────────────────────────
     print("[C3] Plotting convergence curve ...")
