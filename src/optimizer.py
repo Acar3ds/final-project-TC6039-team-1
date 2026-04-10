@@ -12,7 +12,7 @@ import matplotlib
 matplotlib.use("Agg")           
 import matplotlib.pyplot as plt
 from pathlib import Path
-from scipy.optimize import minimize, linprog
+from scipy.optimize import minimize
 
 # C2 interface: fit_regression(features, target, degree) → dict
 from regression import fit_regression
