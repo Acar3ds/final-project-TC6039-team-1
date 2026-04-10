@@ -1,2 +1,8 @@
-# final-project-TC6039-team-1
-Project repository that consists in a modular implementation of a software scripts that develop a generalized traffic flow model by weekdays, where Deep Learning architectures will outperform traditional Regression and Machine Learning models.
+# C3 — Optimization Module
+This module implements the **optimization step (C3)** of the computational pipeline.  
+It refines the regression model obtained in C2 by minimizing the **Root Mean Squared Error (RMSE)**.
+
+The optimization is performed using:
+- Gradient Descent (custom implementation)
+- BFGS (scipy) for comparison
+
