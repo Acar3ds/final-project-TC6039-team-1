@@ -101,5 +101,6 @@ class TestEdgeCase(unittest.TestCase):
             self.assertGreater(len(history), 0)
     
     
-    if __name__ == "__main__":
-        unittest.main()
+if __name__ == "__main__":
+    unittest.main()
+
