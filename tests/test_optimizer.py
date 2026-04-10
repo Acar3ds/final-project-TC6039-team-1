@@ -19,9 +19,9 @@ def _make_synthetic_traffic(seed=42):
     rng = np.random.default_rng(seed)
     hours = np.arange(24, dtype=float)
     y = (
-    30
-    + 80 * np.exp(-0.5 * ((hours - 8) / 2) ** 2)
-    + rng.normal(0, 3, 24)
+        30
+        + 80 * np.exp(-0.5 * ((hours - 8) / 2) ** 2)
+        + rng.normal(0, 3, 24)
     )
     X = hours.reshape(-1, 1)
     mu, sigma = X.mean(), X.std()
@@ -34,6 +34,8 @@ def _make_synthetic_traffic(seed=42):
 class TestNormalCase(unittest.TestCase):
 
     def test_peak_hour_trend(self):
+        print("\nRunning NORMAL case (peak hour trend)")
+
         X, y = _make_peak_segment()
         model = fit_regression(X, y, degree=1)
 
@@ -69,6 +71,8 @@ class TestEdgeCase(unittest.TestCase):
         return np.abs(y - y.mean()) <= n_sigma * y.std()
 
     def test_outlier_handling(self):
+        print("\nRunning EDGE case (outlier handling)")
+
         X, y = _make_synthetic_traffic()
 
         # Inject outlier
@@ -99,8 +103,7 @@ class TestEdgeCase(unittest.TestCase):
 
             self.assertFalse(np.any(np.isnan(optimal)))
             self.assertGreater(len(history), 0)
-    
-    
+
+
 if __name__ == "__main__":
     unittest.main()
-
