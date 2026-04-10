@@ -1,10 +1,11 @@
 import json
 import csv
+import pandas as pd
 from datetime import datetime, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-def load_data(raw_data_dir="data/raw/", output_file="data/processed/df.csv"):
+def normalize_data(raw_data_dir="data/raw/", output_file="data/processed/df.csv"):
     """
     Read JSON files from raw_data_dir, convert Unix epoch timestamps to
     Monterrey local time, and write date/time plus day type columns.
@@ -61,5 +62,15 @@ def load_data(raw_data_dir="data/raw/", output_file="data/processed/df.csv"):
     else:
         print("No data found to write")
 
+def load_data():
+    """
+    Carga los datos procesados desde data/processed/df.csv y devuelve un DataFrame.
+    """
+    csv_path = Path("data/processed/df.csv")
+    if not csv_path.exists():
+        raise FileNotFoundError(f"No se encontró el archivo {csv_path}")
+    df = pd.read_csv(csv_path)
+    return df
+
 if __name__ == "__main__":
-    load_data()
+    normalize_data()

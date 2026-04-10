@@ -726,18 +726,12 @@ def _generate_synthetic_data(n_days: int = 10):
     print(f"[C4] Generated {len(y)} synthetic hourly samples ({n_days} weekdays).")
     return X, y, feature_names, timestamps
 
-
-# ─────────────────────────────────────────────────────────────────────────────
-# Entry point
-# ─────────────────────────────────────────────────────────────────────────────
-
-if __name__ == "__main__":
-
+def demo_execution():
     GITHUB_URL = (
         "https://raw.githubusercontent.com/Acar3ds/final-project-TC6039-team-1"
         "/refs/heads/C1-Data-Loader/data/processed/df.csv"
     )
-    CSV_PATH = Path("data/processed/df.csv")
+    CSV_PATH = Path("../data/processed/df.csv")
 
     X, y, feature_names, timestamps = None, None, None, None
 
@@ -822,3 +816,86 @@ if __name__ == "__main__":
     print(f"       RMSE     = {best_row['RMSE_test']:.4f} vehicles/hour")
     print(f"       R²       = {best_row['R2_test']:.4f}")
     print("\n[C4] Module complete.")
+
+    return metrics_table
+
+def pipeline_execution(df):
+    df = df[df["day_type"] == "weekday"].copy()
+
+    if df.empty:
+        raise ValueError("[C4] No weekday data found in the CSV.")
+
+    df_hourly = df.groupby(["date", "hour", "weekday_number"]).size().reset_index(
+        name="vehicles_per_hour"
+    )
+
+    df_hourly["date"]       = pd.to_datetime(df_hourly["date"])
+    df_hourly["datetime"]   = df_hourly["date"] + pd.to_timedelta(df_hourly["hour"], unit="h")
+    df_hourly["is_weekday"] = 1.0
+
+    month = df_hourly["date"].dt.month
+    df_hourly["month_sin"] = np.sin(2 * np.pi * month / 12)
+    df_hourly["month_cos"] = np.cos(2 * np.pi * month / 12)
+
+    h = df_hourly["hour"]
+    df_hourly["hour_sin"]    = np.sin(2 * np.pi * h / 24)
+    df_hourly["hour_cos"]    = np.cos(2 * np.pi * h / 24)
+    df_hourly["hour_sin2"]   = np.sin(4 * np.pi * h / 24)
+    df_hourly["hour_cos2"]   = np.cos(4 * np.pi * h / 24)
+
+    wd = df_hourly["weekday_number"]
+    df_hourly["weekday_sin"] = np.sin(2 * np.pi * (wd - 1) / 5)
+    df_hourly["weekday_cos"] = np.cos(2 * np.pi * (wd - 1) / 5)
+
+    feature_names = [
+        "hour_sin", "hour_cos",
+        "hour_sin2", "hour_cos2",
+        "weekday_sin", "weekday_cos",
+        "month_sin", "month_cos",
+    ]
+
+    X          = df_hourly[feature_names].values.astype(float)
+    y          = df_hourly["vehicles_per_hour"].values.astype(float)
+    timestamps = pd.DatetimeIndex(df_hourly["datetime"])
+
+    print(f"[C4] Loaded {len(y)} hourly samples from {csv_path}")
+
+    # ── Chronological 80/20 split ─────────────────────────────────────────────
+    split   = int(0.8 * len(X))
+    X_train, X_test = X[:split],  X[split:]
+    y_train, y_test = y[:split],  y[split:]
+    ts_test         = timestamps[split:]
+
+    print(f"[C4] Train size : {len(X_train)} hourly samples")
+    print(f"[C4] Test size  : {len(X_test)}  hourly samples\n")
+
+    metrics_table = train_models(
+        X_train=X_train, X_test=X_test,
+        y_train=y_train, y_test=y_test,
+        feature_names=feature_names,
+        timestamps_test=ts_test,
+        save_figures=True, show_figures=True,
+    )
+
+    print("\n" + "=" * 60)
+    print("C4 — FINAL METRICS SUMMARY")
+    print("=" * 60)
+    print(metrics_table.to_string(index=False))
+    print("=" * 60)
+
+    best_row = metrics_table.loc[metrics_table["RMSE_test"].idxmin()]
+    print(f"\n[C4] Best model : {best_row['Model']}")
+    print(f"       RMSE     = {best_row['RMSE_test']:.4f} vehicles/hour")
+    print(f"       R²       = {best_row['R2_test']:.4f}")
+    print("\n[C4] Module complete.")
+
+    return metrics_table
+    
+    
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Entry point
+# ─────────────────────────────────────────────────────────────────────────────
+
+if __name__ == "__main__":
+    demo_execution()
