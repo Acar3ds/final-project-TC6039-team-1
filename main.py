@@ -8,8 +8,7 @@ figures_path = r"../report/figures/"
 print("\n--- Running Data Loader (data_loader.py) ---\n")
 
 if hasattr(data_loader, 'load_data') and hasattr(data_loader, 'clean_data'):
-    #df = data_loader.load_data()
-    df = data_loader.load_df_csv()
+    df = data_loader.load_data()
     df = data_loader.clean_data(df)
     print(df.head())
 

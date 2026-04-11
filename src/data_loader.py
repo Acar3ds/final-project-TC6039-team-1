@@ -1,9 +1,3 @@
-def load_df_csv(path: str = "data/processed/df.csv") -> pd.DataFrame:
-    """
-    Carga el archivo CSV procesado df.csv y retorna un DataFrame.
-    Uso temporal para pruebas rápidas.
-    """
-    return pd.read_csv(path)
 import json
 from datetime import datetime, timezone
 from pathlib import Path
