@@ -1,3 +1,9 @@
+def load_df_csv(path: str = "data/processed/df.csv") -> pd.DataFrame:
+    """
+    Carga el archivo CSV procesado df.csv y retorna un DataFrame.
+    Uso temporal para pruebas rápidas.
+    """
+    return pd.read_csv(path)
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -19,6 +25,7 @@ def load_data(raw_data_dir: str = "data/raw/") -> pd.DataFrame:
     datetime and return a pandas DataFrame with columns:
       ['counter', 'date', 'hour', 'minute', 'day_type', 'weekday_number']
     """
+
     monterrey_tz = ZoneInfo("America/Mexico_City")
 
     # Collect all data

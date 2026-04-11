@@ -4,7 +4,7 @@ import unittest
 import numpy as np
 
 from optimizer import optimize_parameters, _build_design_matrix, _rmse_objective
-from regression import fit_regression
+from src.regression import fit_regression
 
 def _make_peak_segment(seed=42):
     rng   = np.random.default_rng(seed)

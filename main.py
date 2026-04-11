@@ -4,11 +4,12 @@ import pandas as pd
 
 from src import data_loader, regression, optimizer, ml_models, dl_model, viz
 
-figures_path = r"report/figures"
+figures_path = r"../report/figures/"
 print("\n--- Running Data Loader (data_loader.py) ---\n")
 
 if hasattr(data_loader, 'load_data') and hasattr(data_loader, 'clean_data'):
-    df = data_loader.load_data()
+    #df = data_loader.load_data()
+    df = data_loader.load_df_csv()
     df = data_loader.clean_data(df)
     print(df.head())
 

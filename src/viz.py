@@ -1,6 +1,6 @@
 # Importar funciones de módulos externos (ajustar según nombres reales de funciones)
 from pathlib import Path
-from . import data_loader, regression, optimizer, ml_models, dl_model
+from src import data_loader, regression, optimizer, ml_models, dl_model
 import numpy as np
 import matplotlib.pyplot as plt
 import json
@@ -29,7 +29,6 @@ def generate_report(data, _type=None):
         return
 
     if _type == 'dl_model':
-        # Aquí puedes agregar la lógica para el reporte de deep learning si es necesario
         return
 
     print("Tipo de reporte no reconocido. Usa uno de: data_loader, regression, optimizer, ml_models, dl_model.")

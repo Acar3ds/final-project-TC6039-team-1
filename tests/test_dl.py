@@ -2,7 +2,7 @@ import pytest
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader, TensorDataset
-from dl_model import TrafficPredictionMLP, train_deep_learning_model
+from src.dl_model import TrafficPredictionMLP, train_deep_learning_model
 
 # ── Fixtures (Datos de Prueba Simulados) ───────────────────────────
 

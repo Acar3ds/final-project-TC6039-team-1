@@ -15,7 +15,7 @@ from pathlib import Path
 from scipy.optimize import minimize
 
 # C2 interface: fit_regression(features, target, degree) → dict
-from .regression import fit_regression
+from src.regression import fit_regression
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Internal helpers
