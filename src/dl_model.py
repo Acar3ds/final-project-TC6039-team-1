@@ -168,11 +168,11 @@ def plot_actual_vs_predicted(actual_values: np.ndarray, predicted_values: np.nda
 # ==============================================================================
 # EJECUCIÓN DEL PIPELINE C5
 # ==============================================================================
-if __name__ == '__main__':
+def pipeline_execution(df):
     print("Cargando y preparando el set de datos...")
 
     # 1. Cargar datos
-    dataframe = pd.read_csv('/content/drive/MyDrive/DCI/df.csv')
+    dataframe = df.copy()
 
     # Agrupar vehículos por fecha, hora y tipo de día para saber cuántos pasaron por hora
     traffic_summary = dataframe.groupby(['date', 'hour', 'weekday_number']).size().reset_index(name='traffic_volume')
@@ -234,3 +234,8 @@ if __name__ == '__main__':
     plot_actual_vs_predicted(actual_traffic_volumes, predicted_traffic_volumes)
 
     print("Ejecución del módulo C5 completada exitosamente.")
+
+    return history, actual_traffic_volumes, predicted_traffic_volumes
+
+if __name__ == '__main__':
+    pipeline_execution()

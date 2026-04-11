@@ -277,7 +277,7 @@ if __name__ == "__main__":
         print(f"Loaded {len(df)} rows; cleaned {len(cleaned)} rows and wrote to disk.")
         summary = eda_summary(cleaned)
         # Save figures and statistics to the analysis directory
-        analysis_dir = Path("data/analysis")
+        analysis_dir = Path("report/figures")
         analysis_dir.mkdir(parents=True, exist_ok=True)
         
         # Save descriptive statistics to JSON
