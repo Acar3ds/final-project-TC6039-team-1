@@ -1,6 +1,9 @@
 # Importar funciones de módulos externos (ajustar según nombres reales de funciones)
 from pathlib import Path
 from . import data_loader, regression, optimizer, ml_models, dl_model
+import numpy as np
+import matplotlib.pyplot as plt
+import json
 
 def generate_report(data, _type=None):
     """
@@ -59,7 +62,7 @@ def plot_eda_summary(summary):
             except Exception:
                 print(f"Could not save plot {name}")
 
-def plot_learning_curves(metrics_history: Dict[str, List[float]]) -> None:
+def plot_learning_curves(metrics_history: dict[str, list[float]]) -> None:
     """ Genera las gráficas de pérdida (Loss) y métrica (MAE) vs Época. """
     assert isinstance(metrics_history, dict), "PRECONDICIÓN: El historial debe ser un diccionario."
 
